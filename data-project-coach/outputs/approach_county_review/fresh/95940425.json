@@ -1,0 +1,52 @@
+{
+  "school_id": "95940425",
+  "school_name": "Elevverket",
+  "registered_url": "http://www.elevverket.se",
+  "pages": [
+    {
+      "requested_url": "https://www.elevverket.se/",
+      "source_url": "https://www.elevverket.se/",
+      "page_title": "Elevverket",
+      "accessed_at": "2026-10-21T17:44:31.717945+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "95940425_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.elevverket.se/",
+          "robots_url": "https://www.elevverket.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:44:30.796103+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.elevverket.se/om-oss/",
+      "source_url": "https://www.elevverket.se/om-oss/",
+      "page_title": "Om oss :: Elevverket",
+      "accessed_at": "2026-10-21T17:44:32.623509+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "95940425_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.elevverket.se/om-oss/",
+          "robots_url": "https://www.elevverket.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:44:30.796103+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

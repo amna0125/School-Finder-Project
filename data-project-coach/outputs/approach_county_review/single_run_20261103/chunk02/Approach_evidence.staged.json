@@ -1,0 +1,312 @@
+[
+  {
+    "evidence_id": "ae_sr_47204443_01",
+    "school_id": "47204443",
+    "source_url": "https://www.sodertalje.se/molnboskolan",
+    "page_title": "Mölnboskolan - Södertälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Mölnboskolan använder gärna skogen och naturen i undervisningen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "States nature used in teaching (not proximity alone); frequency unspecified ('gärna')."
+  },
+  {
+    "evidence_id": "ae_sr_47204443_02",
+    "school_id": "47204443",
+    "source_url": "https://www.sodertalje.se/molnboskolan",
+    "page_title": "Mölnboskolan - Södertälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Mölnboskolan arbetar med språkutvecklande arbetssätt och samarbete i undervisningen för att varje elev skall utvecklas till sin fulla potential.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Stated school-wide language-developing and cooperative working methods."
+  },
+  {
+    "evidence_id": "ae_sr_47243834_01",
+    "school_id": "47243834",
+    "source_url": "https://www.nacka.se/valfard-skola/eklidensskola/",
+    "page_title": "Eklidens skola | Nacka kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Eleverna i NMK har extra mycket undervisning i musik. Med utgångspunkt i den svenska körtraditionen, utvecklas våra elever både inom klassisk och modern musik.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Music profile classes with extra music teaching; optional track."
+  },
+  {
+    "evidence_id": "ae_sr_47243834_02",
+    "school_id": "47243834",
+    "source_url": "https://www.nacka.se/valfard-skola/eklidensskola/organisation/profilklasser/idrottsklass/",
+    "page_title": "Idrottsklasser | Nacka kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Idrottsklassernas inriktning passar dig som, förutom att ha mer skolidrott än vanligt, vill prova på så många idrotter som möjligt.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Sport profile classes with an additional weekly session; optional track."
+  },
+  {
+    "evidence_id": "ae_sr_47273038_01",
+    "school_id": "47273038",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/klastorpsskolan",
+    "page_title": "Klastorpsskolan, F–3 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Alla elever får undervisning i NTA – ett program inom naturvetenskap, teknik och matematik. Eleverna lär sig redan från förskoleklass ett naturvetenskapligt arbetssätt.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "NTA for all pupils plus stated practical and exploratory teaching; supports inquiry-based science."
+  },
+  {
+    "evidence_id": "ae_sr_47273038_02",
+    "school_id": "47273038",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/klastorpsskolan",
+    "page_title": "Klastorpsskolan, F–3 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Våra elever utvecklar sina matematiska kunskaper med hjälp av schack både i skolan och på fritids.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Chess used as a mathematics teaching method."
+  },
+  {
+    "evidence_id": "ae_sr_47462120_01",
+    "school_id": "47462120",
+    "source_url": "https://dibber.se/skola/international-school-sollentuna/",
+    "page_title": "Dibber International | Tvåspråkig grundskola i Sollentuna",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Eleverna undervisas på både svenska och engelska, där upp till 50 % av undervisningen sker på engelska.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit bilingual instruction."
+  },
+  {
+    "evidence_id": "ae_sr_47462120_02",
+    "school_id": "47462120",
+    "source_url": "https://dibber.se/skola/international-school-sollentuna/",
+    "page_title": "Dibber International | Tvåspråkig grundskola i Sollentuna",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi följer den svenska läroplanen LGR 22 med ramverk för IB (International Baccalaureate).",
+    "evidence_type": "School webpage",
+    "interpretation_note": "IB framework alongside Swedish curriculum."
+  },
+  {
+    "evidence_id": "ae_sr_47640376_01",
+    "school_id": "47640376",
+    "source_url": "https://dalaroskola.haninge.se/var-skola/",
+    "page_title": "Vår skola - Dalarö skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Med havet och naturen inpå knuten präglas både undervisning och fritidsverksamhet av naturupplevelser.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "States teaching shaped by nature experiences."
+  },
+  {
+    "evidence_id": "ae_sr_47640376_02",
+    "school_id": "47640376",
+    "source_url": "https://dalaroskola.haninge.se/var-skola/om-skolan/vision-och-vardegrund/",
+    "page_title": "Vision och värdegrund - Dalarö skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi arbetar offensivt med individuella handlingsplaner i klassrummet och stöd i skolans eget lärcenter.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Concrete support structure (individual plans, learning centre)."
+  },
+  {
+    "evidence_id": "ae_sr_47705565_01",
+    "school_id": "47705565",
+    "source_url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/munkmoraskolan.4.2d09c46d1850f82301f90dc.html",
+    "page_title": "Munkmoraskolan - Värmdö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi är stolta över vår certifiering som Generation Pep-skola som vi fått för vårt målmedvetna arbete inom ökad rörelse och näringsrik kost.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Movement/nutrition health emphasis; certification is school's claim."
+  },
+  {
+    "evidence_id": "ae_sr_47705565_02",
+    "school_id": "47705565",
+    "source_url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/munkmoraskolan.4.2d09c46d1850f82301f90dc.html",
+    "page_title": "Munkmoraskolan - Värmdö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Munkmoraskolan är en Grön Flagg-certifierad skola och vi arbetar med olika teman inom hållbarhet varje termin.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Recurring environmental/sustainability themes each term."
+  },
+  {
+    "evidence_id": "ae_sr_47969716_01",
+    "school_id": "47969716",
+    "source_url": "https://sshl.se/svenska-utbildningar/grundskola/",
+    "page_title": "Grundskolan åk 9 - SSHL",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På SSHL erbjuder vi IB Middle Years Programme MYP 4-5",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Registered 'int gr' unit corresponds to IB MYP 4 (year 9 equivalent) taught in English."
+  },
+  {
+    "evidence_id": "ae_sr_47979659_01",
+    "school_id": "47979659",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/backluraskolan",
+    "page_title": "Backluraskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi jobbar aktivt med att skapa möjligheter för ökad rörelse hos eleverna och erbjuder ditt barn styrda rastaktiviteter som leds av pedagoger.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Concrete movement emphasis with staff-led recess activities."
+  },
+  {
+    "evidence_id": "ae_sr_47979659_02",
+    "school_id": "47979659",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/backluraskolan",
+    "page_title": "Backluraskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På Backluraskolan arbetar vi med en gemensam lektionsstruktur. Vi arbetar systematiskt med att synliggöra lärandet för eleverna genom formativ återkoppling.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Common lesson structure and formative feedback; common practice, not coded separately."
+  },
+  {
+    "evidence_id": "ae_sr_47986219_01",
+    "school_id": "47986219",
+    "source_url": "https://futuraskolan.se/",
+    "page_title": "Futuraskolan – International schools and pre-schools in Stockholm",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Our lessons are carried out in a bilingual manner, utilising both English and Swedish.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Provider-wide statement covering Futuraskolan International units; Rådan-specific applicability not confirmed on a unit page."
+  },
+  {
+    "evidence_id": "ae_sr_48184058_01",
+    "school_id": "48184058",
+    "source_url": "https://www.aktiviaskolan.se/",
+    "page_title": "Hem - Aktiviaskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Aktiviaskolan är en liten resursskola för årskurserna 6-9 i centrala Vallentuna.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit resource school for pupils needing special support; small groups and structured teaching described."
+  },
+  {
+    "evidence_id": "ae_sr_48312263_01",
+    "school_id": "48312263",
+    "source_url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/hanvikens-skola.html",
+    "page_title": "Hanvikens skola - Tyresö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "En del av våra elever har utbildats till trivselledare och ansvarar för rastaktiviteter för alla elever.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named Trivselledare programme."
+  },
+  {
+    "evidence_id": "ae_sr_48312263_02",
+    "school_id": "48312263",
+    "source_url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/hanvikens-skola.html",
+    "page_title": "Hanvikens skola - Tyresö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Våra pedagoger flyttar ofta ut delar av sina undervisning för att få variation och stimulans för eleverna.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Teaching often moved outdoors next to forest."
+  },
+  {
+    "evidence_id": "ae_sr_48328583_01",
+    "school_id": "48328583",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/arstaskolan",
+    "page_title": "Årstaskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi har kompishundar på skolan, som ett ytterligare verktyg inom elevhälsan.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Concrete pupil-health practice (school dogs for attachment/absence)."
+  },
+  {
+    "evidence_id": "ae_sr_48328583_02",
+    "school_id": "48328583",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/arstaskolan",
+    "page_title": "Årstaskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi har en gemensam grundstruktur för undervisningen som vi kallar för Årstalektionen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named common lesson structure focused on accessibility."
+  },
+  {
+    "evidence_id": "ae_sr_48363218_01",
+    "school_id": "48363218",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+    "page_title": "Solhemsängens skola, F–4 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "I vår lässatsning tränar eleverna läsförståelse och läsflyt.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Stated reading drive with concrete year-1 target."
+  },
+  {
+    "evidence_id": "ae_sr_48363218_02",
+    "school_id": "48363218",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+    "page_title": "Solhemsängens skola, F–4 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Genom samarbetet med Kulturskolans orkesterskola får yngre elever uttrycka sig genom musik.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Recurring orchestra-school collaboration for younger pupils."
+  },
+  {
+    "evidence_id": "ae_sr_48760074_01",
+    "school_id": "48760074",
+    "source_url": "https://vittra.se/frosunda/",
+    "page_title": "Vittra Frösunda | Skola i Solna",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Genom verklighetsnära arbetssätt blir undervisningen både rolig och meningsfull.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Isolated provider-style statement; no concrete project description for this unit."
+  },
+  {
+    "evidence_id": "ae_sr_48791751_01",
+    "school_id": "48791751",
+    "source_url": "https://magelungen.com/",
+    "page_title": "Magelungen - Hopp och förändring",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Skola för elever i omfattande behov av särskilt stöd med eller utan behandling.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Provider describes its resource schools; all Magelungen grundskolor are resource schools, so applies to the registered unit."
+  },
+  {
+    "evidence_id": "ae_sr_49021135_01",
+    "school_id": "49021135",
+    "source_url": "https://www.sodervikskolan.se/",
+    "page_title": "Södervikskolan – En trygg och helt vanlig skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vårt förhållningssätt till, och arbete med värdegrund, baseras på Dan Olweus forskning om mobbning och framgångsrikt antimobbningsarbete.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named anti-bullying model underlying values work."
+  },
+  {
+    "evidence_id": "ae_sr_49741755_01",
+    "school_id": "49741755",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/lugnets-skola",
+    "page_title": "Lugnets skola, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Lugnets skola använder Nackareservatet, ett av landets mest populära friluftsområden, som en viktig del av undervisningen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit outdoor/nature-based teaching statement, supported by friluftsliv and outdoor-teaching description."
+  },
+  {
+    "evidence_id": "ae_sr_49762104_01",
+    "school_id": "49762104",
+    "source_url": "https://www.sodertalje.se/viksbergskolan",
+    "page_title": "Viksbergskolan - Södertälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Viksbergskolan är certifierad som en Generation Pep-skola.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Daily movement prioritised; certification is school's claim."
+  },
+  {
+    "evidence_id": "ae_sr_49762104_02",
+    "school_id": "49762104",
+    "source_url": "https://www.sodertalje.se/viksbergskolan",
+    "page_title": "Viksbergskolan - Södertälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Utomhusmiljön har flera pedagogiska inslag i form av uteklassrum på skolgården och i skogen odlingsplats, vilket förstärker och ger ytterligare förutsättningar för elevernas lärande.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Outdoor classrooms and growing plot for learning."
+  },
+  {
+    "evidence_id": "ae_sr_49762104_03",
+    "school_id": "49762104",
+    "source_url": "https://www.sodertalje.se/viksbergskolan",
+    "page_title": "Viksbergskolan - Södertälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Viksbergskolan har fokus på förutsägbar, begriplig, relationell och tillgänglig lärarledd undervisning.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Stated accessible-teaching focus; with split recess structure."
+  },
+  {
+    "evidence_id": "ae_sr_49862579_01",
+    "school_id": "49862579",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/fagersjoskolan",
+    "page_title": "Fagersjöskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Fagersjöskolan har ett samarbete med Kulturskolans orkesterverksamhet El Sistema.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named El Sistema partnership giving pupils instrumental music."
+  }
+]

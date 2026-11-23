@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 4,
+  "scoped_no_clear_schools": 1,
+  "requires_review_schools": 5,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 11,
+  "new_code_rows": 5,
+  "database_evidence_total": 171,
+  "database_codes_total": 129,
+  "first_load_flow": "purring-ant",
+  "replay_flow": "deft-jackalope",
+  "replay_inserted_rows": 0,
+  "tests": "22 existing tests passed"
+}

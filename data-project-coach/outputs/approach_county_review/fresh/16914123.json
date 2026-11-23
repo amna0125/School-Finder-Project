@@ -1,0 +1,32 @@
+{
+  "school_id": "16914123",
+  "school_name": "Tavestaskolan",
+  "registered_url": "http://sodertalje.se/tavestaskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.sodertalje.se/tavestaskolan",
+      "source_url": "https://www.sodertalje.se/tavestaskolan",
+      "page_title": "Tavestaskolan - Södertälje kommun",
+      "accessed_at": "2026-10-21T17:28:40.863837+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16914123_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sodertalje.se/tavestaskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:46.699567+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

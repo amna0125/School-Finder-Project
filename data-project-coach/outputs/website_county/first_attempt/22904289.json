@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "22904289",
+  "school_name": "Vilans skola",
+  "registered_url": "http://www.vilan.nacka.se",
+  "attempted_at": "2026-10-21T09:15:36.289679+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.vilan.nacka.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

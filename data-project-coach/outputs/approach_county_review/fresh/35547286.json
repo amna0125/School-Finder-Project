@@ -1,0 +1,50 @@
+{
+  "school_id": "35547286",
+  "school_name": "Föreningen för Carlssons Skola",
+  "registered_url": "http://www.carlssonsskola.se",
+  "pages": [
+    {
+      "requested_url": "https://www.carlssonsskola.se/",
+      "source_url": "https://www.carlssonsskola.se/",
+      "page_title": "Carlssons Skola",
+      "accessed_at": "2026-10-21T17:32:23.125519+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "35547286_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.carlssonsskola.se/",
+          "robots_url": "https://www.carlssonsskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:32:22.223832+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.carlssonsskola.se/om/Pedagogik",
+      "source_url": "https://www.carlssonsskola.se/om/Pedagogik",
+      "page_title": "Carlssons Skola",
+      "accessed_at": "2026-10-21T17:32:24.062025+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "35547286_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.carlssonsskola.se/om/Pedagogik",
+          "robots_url": "https://www.carlssonsskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:32:22.223832+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

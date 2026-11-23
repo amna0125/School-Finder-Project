@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "10230535",
+  "school_name": "Innovitaskolan Vällingby Park",
+  "registered_url": "https://innovitaskolan.se/vallingby-park/",
+  "attempted_at": "2026-10-21T09:15:14.481660+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://innovitaskolan.se/vallingby-park/",
+      "retrieved_at": "2026-10-21T09:15:20.392762+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/vallingby-park/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10230535_0.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/vallingby-park/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:15:20.417526+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/vallingby-park/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10230535_1.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/vallingby-park/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:20.435448+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/vallingby-park/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10230535_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Genom lek, bild och musik kan barnens fantasi och uttrycksförmåga komma fram på olika sätt. De uppmuntras till att testa själva med pedagogernas stöttning, för genom att testa utvecklas vi.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "3dbf45e1c01ad911d58e4668ee195a7a06eaea04afcab86391a29900bb7732af",
+      "school_unit_code": "10230535",
+      "school_name": "Innovitaskolan Vällingby Park",
+      "source_url": "https://innovitaskolan.se/vallingby-park/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:15:20.417526+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,42 @@
+[
+{"sid":"76557608","o":"R","note":"Lindeskolan F–6: excursions to nearby parks and woods and outdoor teaching.","ev":[
+ {"p":0,"q":"Vi gör utflykter till parker och skogar i närheten och har även undervisning utomhus.","i":"Outdoor teaching mentioned.","c":[["Outdoor, nature, or place-based learning","Outdoor teaching and excursions","S"]],"cn":"Frequency not stated."}]},
+{"sid":"76952966","o":"N","note":"Skanskvarn F–9: reading comprehension and language in all subjects, annual book projects; generic municipal emphasis."},
+{"sid":"77002828","o":"R","note":"Skebo (~50 pupils): strong emphasis on maths and reading/writing development.","ev":[
+ {"p":0,"q":"Vi vill ge dem en god grund för fortsatt utbildning och lägger därför stor vikt vid matematik, läs- och skrivutveckling.","i":"Basic-skills emphasis.","c":[["Other stated profile","Maths and literacy emphasis","S"]],"cn":"Consistent with other reading-emphasis codes."}]},
+{"sid":"77314942","o":"R","note":"Norra Ängby F–6: from year 4 pupils can choose a deepening subject (art, music or maths) with 60 extra minutes per week; special teaching group.","ev":[
+ {"p":0,"q":"Till årskurs 4 kan våra elever söka ett fördjupningsämne i bild, musik eller matematik.","i":"Optional deepening in arts or maths.","c":[["Arts and creative learning","Optional art/music deepening from year 4","S"],["Other stated profile","Optional maths deepening from year 4","S"]],"cn":"Optional, 60 min/week extra."}]},
+{"sid":"77370320","o":"R","note":"Ytterby F–5 (Täby): hosts Täby music classes; language-developing teaching.","ev":[
+ {"p":0,"q":"Här finns även Täby musikklasser.","i":"Music classes located at the school.","c":[["Arts and creative learning","Täby music classes","E"]],"cn":"Music classes may be a municipal programme hosted here."}]},
+{"sid":"77624936","o":"R","note":"Runby: outdoor life, health and sport in focus (single-line landing page).","ev":[
+ {"p":0,"q":"Friluftsliv, hälsa och idrott är i fokus i vår skola.","i":"Outdoor life and health focus.","c":[["Outdoor, nature, or place-based learning","Outdoor life focus","S"],["Support, inclusion, or wellbeing emphasis","Health and sport focus","S"]],"cn":"Thin page; no detail."}]},
+{"sid":"77656740","o":"N","note":"Rosholmen Education Academy: multicultural school, small groups, emphasis on Swedish and maths; generic."},
+{"sid":"77763178","o":"N","note":"Kvarnskolan 7–9: thin municipal page."},
+{"sid":"78491090","o":"N","note":"Tingvallaskolan: landing page has only navigation text."},
+{"sid":"78508835","o":"R","note":"Sverigefinska skolan i Stockholm F–9: bilingual Finnish–Swedish teaching across subjects with extended timetable.","ev":[
+ {"p":0,"q":"Undervisningen sker på både finska och svenska.","i":"Bilingual Finnish–Swedish.","c":[["Language, international, or intercultural profile","Bilingual Finnish–Swedish","E"]],"cn":"School claim."}]},
+{"sid":"78801570","o":"U","why":"provider-level source only","note":"Raoul Wallenbergskolan Jungfrusund: only RWS group pages collected ('Klättringen mot toppen'); no unit page.","ev":[
+ {"p":0,"q":"Genom det gemensamma arbetssättet ”Klättringen mot toppen” skapas trygghet, kontinuitet och hög måluppfyllelse.","i":"Group-wide working model; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"78808043","o":"N","note":"Ösbyskolan: homepage mostly parent testimonials; no approach stated in scope."},
+{"sid":"78918091","o":"N","note":"Kyrkskolan (Täby) F–6: generic Täby text."},
+{"sid":"79004521","o":"B","why":"source inaccessible","note":"Registered Nynäshamn URL returns HTTP 404."},
+{"sid":"79012683","o":"R","note":"Annerstaskolan F–9: language- and knowledge-developing approach throughout all subjects.","ev":[
+ {"p":1,"q":"Språk- och kunskapsutvecklande arbetssätt genomsyrar undervisningen i alla ämnen och hjälper oss att möta elevernas olika erfarenheter och behov.","i":"Language-developing approach.","c":[["Other stated profile","Language- and knowledge-developing approach","S"]],"cn":"Common municipal approach, stated as pervasive."}]},
+{"sid":"79034924","o":"B","why":"no registered website","note":"No registered website in directory. No inference from school name."},
+{"sid":"79093755","o":"U","why":"provider-level source only","note":"IES Järfälla: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"79466321","o":"N","note":"Hölö F–9: attendance work and elevhälsa; generic."},
+{"sid":"79626756","o":"N","note":"Hästhagen F–9: year teams and facilities; generic."},
+{"sid":"79708334","o":"U","why":"provider-level source only","note":"Viktor Rydbergs skolor foundation homepage only; a student quote mentions a music profile at VRS Sundbyberg but no unit page was collected.","ev":[
+ {"p":0,"q":"Tim Musikprofil, VRS Sundbyberg","i":"Label on a student quote suggests a music profile; not a unit description.","t":"Provider webpage"}]},
+{"sid":"79969356","o":"R","note":"Europaskolan: IB World School running PYP and MYP with the Swedish curriculum; bilingual Swedish/English instruction.","ev":[
+ {"p":1,"q":"we became an authorised IB world school, and run the PYP and MYP curricula in conjunction with the Swedish National curriculum","i":"IB inquiry-based programmes.","c":[["Project- or inquiry-based learning","IB PYP/MYP","E"]],"cn":"Authorisation not independently checked."},
+ {"p":0,"q":"Bilingual Instruction (Swedish & English)","i":"Bilingual/international profile.","c":[["Language, international, or intercultural profile","Bilingual Swedish/English; IB","E"]],"cn":"Heading on homepage."}]},
+{"sid":"80274643","o":"N","note":"Skepptuna: landing page has only navigation text."},
+{"sid":"80378022","o":"R","note":"Botkyrka Friskola F–9: football profile; recurring camp schools.","ev":[
+ {"p":0,"q":"För elever med ett stort fotbollsintresse finns vår fotbollsprofil, där fotboll blir en del av skolveckan samtidigt som skolarbetet står i centrum.","i":"Sport profile.","c":[["Other stated profile","Football profile","E"]],"cn":"School claim."}]},
+{"sid":"80509560","o":"R","note":"Engelska Språkskolan (Upplands Väsby): bilingual Swedish–English pedagogy.","ev":[
+ {"p":0,"q":"Vi tillämpar en pedagogik som leder till tvåspråkighet i svenska och engelska.","i":"Bilingual Swedish–English profile.","c":[["Language, international, or intercultural profile","Bilingual Swedish–English","E"]],"cn":"Foundation page covering both Språkskolan units; this line is specific to Engelska Språkskolan."}]},
+{"sid":"80561156","o":"R","note":"Skuru-Duvnäs resursskola 1–9 (Nacka): resource school.","ev":[
+ {"p":0,"q":"Med anpassade lärmiljöer, hög personaltäthet och specialiserad kompetens skapar vi trygghet, utveckling och lärande varje dag.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"Municipal page."}]}
+]

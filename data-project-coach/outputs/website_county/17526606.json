@@ -1,0 +1,46 @@
+{
+  "school_unit_code": "17526606",
+  "school_name": "Fryshuset Grundskola Akalla",
+  "registered_url": "http://www.fryshuset.se",
+  "attempted_at": "2026-10-21T09:20:19.384110+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://fryshuset.se/",
+      "retrieved_at": "2026-10-21T09:20:29.101655+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.fryshuset.se",
+          "robots_url": "https://fryshuset.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:21.640443+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.fryshuset.se/",
+          "robots_url": "https://fryshuset.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:24.029795+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://fryshuset.se/",
+          "robots_url": "https://fryshuset.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:25.680485+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "17526606_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

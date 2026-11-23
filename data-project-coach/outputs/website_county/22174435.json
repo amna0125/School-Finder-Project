@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "22174435",
+  "school_name": "Björnbodaskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjornbodaskolan",
+  "attempted_at": "2026-10-21T09:15:34.348298+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjornbodaskolan",
+      "retrieved_at": "2026-10-21T09:15:39.104349+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjornbodaskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "22174435_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Varje klass har sina egna lokaler under de fyra år som eleverna går hos oss. Vi har också fler lokaler som används när fritids öppnar och stänger. I Björnborgen finns musiksal och skapanderum.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "2adae71e938c5db659c399f67e36464bf055e408c7ae0542fd0f57307d7e7749",
+      "school_unit_code": "22174435",
+      "school_name": "Björnbodaskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjornbodaskolan",
+      "retrieved_at": "2026-10-21T09:15:39.104349+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

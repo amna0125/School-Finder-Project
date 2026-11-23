@@ -1,0 +1,72 @@
+{
+  "school_id": "23886554",
+  "school_name": "I Ur och Skur Mårtensbergsskolan",
+  "registered_url": "http://www.iurochskur.se",
+  "pages": [
+    {
+      "requested_url": "https://iurochskur.friluftsframjandet.se/",
+      "source_url": "https://iurochskur.friluftsframjandet.se/",
+      "page_title": "Start - I Ur och Skur",
+      "accessed_at": "2026-10-21T17:30:12.274766+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "23886554_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://iurochskur.friluftsframjandet.se/",
+          "robots_url": "https://iurochskur.friluftsframjandet.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:11.273973+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://iurochskur.friluftsframjandet.se/om-oss/",
+      "source_url": "https://iurochskur.friluftsframjandet.se/om-oss/",
+      "page_title": "Om oss - I Ur och Skur",
+      "accessed_at": "2026-10-21T17:30:13.061064+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "23886554_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://iurochskur.friluftsframjandet.se/om-oss/",
+          "robots_url": "https://iurochskur.friluftsframjandet.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:11.273973+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://iurochskur.friluftsframjandet.se/om-oss/vilka-vi-ar/",
+      "source_url": "https://iurochskur.friluftsframjandet.se/om-oss/vilka-vi-ar/",
+      "page_title": "Vår organisation - I Ur och Skur",
+      "accessed_at": "2026-10-21T17:30:13.935378+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "23886554_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://iurochskur.friluftsframjandet.se/om-oss/vilka-vi-ar/",
+          "robots_url": "https://iurochskur.friluftsframjandet.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:11.273973+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

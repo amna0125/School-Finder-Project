@@ -1,0 +1,101 @@
+[
+  {
+    "code_id": "ac_b21_35933721_01",
+    "school_id": "35933721",
+    "category": "Other stated profile",
+    "subcategory": "Movement and health",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_35933721_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit movement profile; pedagogy page states health/movement permeates school. Not evidence of effects on learning. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b21_35933721_02",
+    "school_id": "35933721",
+    "category": "Arts and creative learning",
+    "subcategory": "ArtLab; visual arts and craft integration",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_35933721_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. ArtLab is an explicit ongoing subject-integrated arts/technology teaching approach, not an isolated event or ordinary subject list. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b21_35933721_03",
+    "school_id": "35933721",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor learning across subjects",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_35933721_03",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit outdoor learning across multiple subjects; no inferred implementation or effectiveness. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b21_36021631_01",
+    "school_id": "36021631",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_36021631_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. School-specific Montessori statement, not inferred from name or preschool homepage. Promotional quality clause not endorsed. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b21_36185466_01",
+    "school_id": "36185466",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Subject-integrated projects",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_36185466_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. School-specific project statement, not provider footer. Practical outdoor learning explicitly part of projects; separate outdoor code uses same short evidence. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b21_36185466_02",
+    "school_id": "36185466",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor practical learning; I Ur och Skur",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_36185466_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Unit body explicitly places practical learning outdoors; not inferred solely from provider brand. Public self-description, not verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b21_36232577_01",
+    "school_id": "36232577",
+    "category": "Other stated profile",
+    "subcategory": "Mathematics, language development and movement",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_36232577_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit combined school priorities. Movement corroborated by separate school section of Puls för lärande; preschool and F-class outdoor descriptions not transferred. Language development alone is not international/intercultural profile. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b21_36276828_01",
+    "school_id": "36276828",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "International focus; IMYC alongside Swedish curriculum",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_36276828_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Official ID directory confirms Kottla7–9, Lidingö, despite DB name Futuraskolan AB. Campus page states Swedish national curriculum plus IMYC. Separate International School of Stockholm curriculum/permit not transferred; no rankings used. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b21_36281817_01",
+    "school_id": "36281817",
+    "category": "Arts and creative learning",
+    "subcategory": "Aesthetic integration; drama, music and visual expression",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b21_36281817_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Teaching section describes practical/aesthetic integration with theory, multiple expression modes and annual whole-school theatre. Explicit sustained aesthetic orientation, not isolated activity. Causal benefits not endorsed. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

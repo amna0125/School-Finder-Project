@@ -1,0 +1,66 @@
+{
+  "school_unit_code": "14472068",
+  "school_name": "Kristna skolan",
+  "registered_url": "http://www.kristnaskolan.se",
+  "attempted_at": "2026-10-21T09:20:08.573681+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kristnaskolan.se/",
+      "retrieved_at": "2026-10-21T09:20:13.365140+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.kristnaskolan.se",
+          "robots_url": "https://www.kristnaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:10.200835+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.kristnaskolan.se/",
+          "robots_url": "https://www.kristnaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.726626+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "14472068_0.txt"
+    },
+    {
+      "source_url": "https://www.kristnaskolan.se/profil/",
+      "retrieved_at": "2026-10-21T09:20:13.386321+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kristnaskolan.se/profil/",
+          "robots_url": "https://www.kristnaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.726626+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "14472068_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Skolan har undervisning i piano, gitarr, trummor, dans, körsång och måleri.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "4f28856e48a30d8955d705bfcd51ccfd4a05611cea5f2e83dcba87e6e1cd9351",
+      "school_unit_code": "14472068",
+      "school_name": "Kristna skolan",
+      "source_url": "https://www.kristnaskolan.se/",
+      "retrieved_at": "2026-10-21T09:20:13.365140+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

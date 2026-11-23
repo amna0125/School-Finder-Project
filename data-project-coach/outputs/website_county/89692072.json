@@ -1,0 +1,93 @@
+{
+  "school_unit_code": "89692072",
+  "school_name": "Freinetskolan Hugin",
+  "registered_url": "http://www.freinetskolanhugin.se",
+  "attempted_at": "2026-10-21T09:17:23.693819+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.freinetskolanhugin.se/",
+      "retrieved_at": "2026-10-21T09:17:35.240860+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.freinetskolanhugin.se",
+          "robots_url": "http://www.freinetskolanhugin.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:26.481319+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.freinetskolanhugin.se/",
+          "robots_url": "https://www.freinetskolanhugin.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:29.800267+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89692072_0.txt"
+    },
+    {
+      "source_url": "https://www.freinetskolanhugin.se/var-pedagogik/var-pedagogik/",
+      "retrieved_at": "2026-10-21T09:17:35.254942+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.freinetskolanhugin.se/var-pedagogik/var-pedagogik/",
+          "robots_url": "https://www.freinetskolanhugin.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:29.800267+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89692072_1.txt"
+    },
+    {
+      "source_url": "https://www.freinetskolanhugin.se/var-pedagogik/freinetpedagogik/",
+      "retrieved_at": "2026-10-21T09:17:35.271803+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.freinetskolanhugin.se/var-pedagogik/freinetpedagogik/",
+          "robots_url": "https://www.freinetskolanhugin.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:29.800267+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89692072_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "a exempelvis genom Draknästet, ett projekt i åk 7 där barnen tar ansvar för att skapa en idé till en produkt samt marknadsföra den, och i åk 6 som har ett årligt projekt i form av teater eller film.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1a61460d4f96e0379206743e721c17b5adaaf5ca052e35ec361d989addb855b1",
+      "school_unit_code": "89692072",
+      "school_name": "Freinetskolan Hugin",
+      "source_url": "https://www.freinetskolanhugin.se/var-pedagogik/freinetpedagogik/",
+      "retrieved_at": "2026-10-21T09:17:35.271803+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "other_named_pedagogy",
+      "supporting_excerpt": "Skolan är en arbetsplats, sa Célestin Freinet. Han var fransk byskollärare och verkade från 30-talet i Frankrike med revolutionerande tankar om skolan. Tankarna från den pedagogik han byggde upp efter andra världskriget lever kvar, om än i moderniserad form.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ac7c6d9cd78a35c0fe6799ebb05c601047c92d3b4372d751760f5baccef4acef",
+      "school_unit_code": "89692072",
+      "school_name": "Freinetskolan Hugin",
+      "source_url": "https://www.freinetskolanhugin.se/var-pedagogik/freinetpedagogik/",
+      "retrieved_at": "2026-10-21T09:17:35.271803+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

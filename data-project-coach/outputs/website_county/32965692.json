@@ -1,0 +1,97 @@
+{
+  "school_unit_code": "32965692",
+  "school_name": "Noblaskolan Saltsjö-Boo",
+  "registered_url": "https://noblaskolan.se/saltsjo-boo/",
+  "attempted_at": "2026-10-21T09:15:53.285078+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://noblaskolan.se/saltsjo-boo/",
+      "retrieved_at": "2026-10-21T09:15:55.607923+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/saltsjo-boo/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "32965692_0.txt"
+    },
+    {
+      "source_url": "https://noblaskolan.se/saltsjo-boo/sprakprofil/",
+      "retrieved_at": "2026-10-21T09:15:55.625481+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/saltsjo-boo/sprakprofil/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "32965692_1.txt"
+    },
+    {
+      "source_url": "https://noblaskolan.se/saltsjo-boo/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:55.642395+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/saltsjo-boo/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "32965692_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "En förskola och skola med höga ambitioner och språkprofil i Nacka",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a5b5495488234a6c8de66cdba248a300332f50fbb757c9e9040b092cb3aa5e4e",
+      "school_unit_code": "32965692",
+      "school_name": "Noblaskolan Saltsjö-Boo",
+      "source_url": "https://noblaskolan.se/saltsjo-boo/",
+      "retrieved_at": "2026-10-21T09:15:55.607923+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Noblaskolan Saltsjö-Boo i Nacka | Språkprofil i förskolan och grundskolan",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "e9269c5e8cd20306d6cd3369fd8a326684df93bc50eeb095b9cf56d0b72da35b",
+      "school_unit_code": "32965692",
+      "school_name": "Noblaskolan Saltsjö-Boo",
+      "source_url": "https://noblaskolan.se/saltsjo-boo/sprakprofil/",
+      "retrieved_at": "2026-10-21T09:15:55.625481+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "När det är dags för praktiska och estetiska ämnen får de ta sig mot huvudbyggnaderna på den “stora” skoldelen. Där undervisas de bland annat i bild och slöjd i den kreativa byggnaden Diamanten. Våra elever erbjuds Spanska, Franska och Tyska som språkval. Språken är sammankopplade med skolans språkprofil och det täta samarbetet med Erasmus+ och alla utbyten som vi under de senaste åren byggt upp mellan länder inom EU.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "fc1102d7078640d5351f868956a74fea3903e3e5a8330a08a72cf0d4e9d2ab99",
+      "school_unit_code": "32965692",
+      "school_name": "Noblaskolan Saltsjö-Boo",
+      "source_url": "https://noblaskolan.se/saltsjo-boo/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:55.642395+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

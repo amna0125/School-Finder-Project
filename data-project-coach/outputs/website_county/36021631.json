@@ -1,0 +1,66 @@
+{
+  "school_unit_code": "36021631",
+  "school_name": "Montessoriskolan Växthuset",
+  "registered_url": "http://www.ahavaxthuset.se",
+  "attempted_at": "2026-10-21T09:21:12.776284+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.ahavaxthuset.se/",
+      "retrieved_at": "2026-10-21T09:21:17.940221+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.ahavaxthuset.se",
+          "robots_url": "https://www.ahavaxthuset.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:14.381319+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.ahavaxthuset.se/",
+          "robots_url": "https://www.ahavaxthuset.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:15.955764+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "36021631_0.txt"
+    },
+    {
+      "source_url": "https://www.ahavaxthuset.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:21:17.963117+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.ahavaxthuset.se/om-oss/",
+          "robots_url": "https://www.ahavaxthuset.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:15.955764+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "36021631_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "montessori",
+      "supporting_excerpt": " Anna Berggren och Agneta Tunander startade skolan 2002 med cirka 50 barn och idag har vi omkring 140 elever i skolans årskurs F-6 och 55 barn i förskolan. Sedan 2017 tillhör även Montessoriförskolan Rosa Tornet i Viksjö oss med sina 35 barn, men under bolagsnamnet Toddlarna AB",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5e9f616cb483d7226ca9b57cf9c1d66bc960d1e994dd4599b7be676e153551a2",
+      "school_unit_code": "36021631",
+      "school_name": "Montessoriskolan Växthuset",
+      "source_url": "https://www.ahavaxthuset.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:21:17.963117+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

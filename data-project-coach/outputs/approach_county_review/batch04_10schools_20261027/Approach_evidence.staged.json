@@ -1,0 +1,92 @@
+[
+  {
+    "evidence_id": "ae_b04_14121892_01",
+    "school_id": "14121892",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bredangsskolan",
+    "page_title": "Bredängsskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Vi har ett mångårigt musiksamarbete med kulturskolan El Sistema, där alla barn får lära sig att spela ett instrument.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Ordinary Bredängsskolan F–9 page, stored grades 1–9; preschool class identified separately by website. Sustained music partnership, not ordinary subject list. Page says all children but does not specify delivery years/frequency: do not invent them. Separately linked adapted unit excluded. Malformed robots response retained; no affirmative blanket collection/reuse permission."
+  },
+  {
+    "evidence_id": "ae_b04_14472068_01",
+    "school_id": "14472068",
+    "source_url": "https://www.kristnaskolan.se/profil/verksamhetside/",
+    "page_title": "Verksamhetsidé | Kristna Skolan",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Skolans kristna profil utgör en central del av vår verksamhet. Det går en rak linje mellan skolans värdegrundsarbete, vår vision och vår kristna profil.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Hammarbyhöjden F–9 school matched to registered school website and homepage locality/year range. Profile page describes Kristendomskunskap in years 1–9 plus Chapel/prayer; this is a neutral account of school wording, not a legal assessment, judgement of implementation or inference about pupil beliefs. Generic creativity and kulturskola offering do not establish integrated arts pedagogy."
+  },
+  {
+    "evidence_id": "ae_b04_14845171_01",
+    "school_id": "14845171",
+    "source_url": "https://wemind.se/skola/eviaskolan-haninge/",
+    "page_title": "Eviaskolan med behandling Haninge | Eviagruppen",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Eviaskolan arbetar med det evidensbaserade arbetssättet skolövergripande positivt beteendestöd (PBS) för att öka ordning och studiero i skolan, såväl som minska problemskapande beteenden och öka de akademiska resultaten hos eleverna.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Exact unit match: fresh official 14845171 address Klockargatan 17 Västerhaninge and grades 6–9 match school page. PBS and resource/individualised teaching directly described. Evidensbaserade and claimed intended results are school wording, not project verification or causal conclusions. Exclude HVB treatment-home page and other Eviaskolan campuses."
+  },
+  {
+    "evidence_id": "ae_b04_14872951_01",
+    "school_id": "14872951",
+    "source_url": "https://magelungen.com/enheter/sodertalje-grundskola/",
+    "page_title": "Södertälje Resursskola - Magelungen",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Elever i resursskolan följer samma läroplan som den ordinarie skolan men i mindre undervisningsgrupper med hög personaltäthet samt i anpassade lärmiljöer.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Unit-specific Södertälje page address Hertig Carls väg 22 matches fresh official ID 14872951, resource-school flag and stored grades 4–9. Website does not state delivery years in this passage; 4–9 comes from official record. High staffing/smaller groups self-reported, not numerical official ratio or class size. Separate social-service treatment-school option not assumed for every pupil."
+  },
+  {
+    "evidence_id": "ae_b04_15049834_01",
+    "school_id": "15049834",
+    "source_url": "https://www.sundbyberg.se/lillaalbyskola",
+    "page_title": "Lilla Alby skola | Sundbybergs stad",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Vi satsar även på ökad rörelse - Puls Sprint Go - under skoldagen eftersom vi värnar om elevernas hälsa för både knopp och kropp.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Lilla Alby F–6 municipal school page, stored grades 1–6; named movement initiative stated under Pedagogik. Context also describes cross-age buddy system and scheduled values lessons. Do not infer activity duration, health effects or universal frequency. Nearby parks and occasional theme weeks insufficient for outdoor/project code."
+  },
+  {
+    "evidence_id": "ae_b04_15171331_01",
+    "school_id": "15171331",
+    "source_url": "https://nordicinternational.se/essingen/",
+    "page_title": "Grundskola i Stockholm | Nordic International Essingen",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Skolan präglas av en internationell miljö där engelska är en naturlig del av möten i vardagen och där respekt, ansvar och samhörighet stärks bland annat genom vårt House-system.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Essingen-specific page explicitly applies House-system to this school, grades 4–9; about page address Segelbåtsvägen 11b. Linked provider Houses page explains mixed-year membership and regular meetings; provider detail is context, not sole unit evidence. Code only concrete community/wellbeing emphasis. International milieu/inspired pedagogy is too broad for a firm language category; page explicitly says teaching in Swedish. No bilingual/international-curriculum claim."
+  },
+  {
+    "evidence_id": "ae_b04_15171331_02",
+    "school_id": "15171331",
+    "source_url": "https://nordicinternational.se/vart-koncept/houses/",
+    "page_title": "Houses - Nordic International School",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Ett house utgörs av en blandad grupp elever från alla årskurser i skolan och skapar en gemenskap för eleverna under hela deras tid på skolan.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Provider-level contextual explanation of the House-system explicitly named on Essingen page. Supports interpretation of ac_b04_15171331_01, no duplicate code. Do not independently attach provider detail to other unreviewed units."
+  },
+  {
+    "evidence_id": "ae_b04_14440920_01",
+    "school_id": "14440920",
+    "source_url": "https://www.huddinge.se/visattraskolan/om-skolan",
+    "page_title": "Om Visättraskolan | Huddinge kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Undervisningen präglas av tydlighet, kvalitet och ett språk- och kunskapsutvecklande arbetssätt som hjälper eleverna att utveckla förståelse, nyfikenhet och lust att lära.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Requires review: F–6 school section says language/knowledge-developing approach but lacks concrete methodological detail for a distinctive category. Not language/international profile. Separate municipality-wide statutory/generic sections excluded. No firm code; no inference of absence."
+  },
+  {
+    "evidence_id": "ae_b04_15080815_01",
+    "school_id": "15080815",
+    "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/viksjo/fjallenskolan.4.36ac70f31639ecd947f2f49.html",
+    "page_title": "Fjällenskolan - Järfälla kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "På Fjällenskolan har vi stadieanpassad resursskoleverksamhet för hela åldersspannet F-9.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Requires review: official 15080815 matches Ekollongränd 1 and F–9/grades 1–9 but specialSupportSchool=false. Shared page also labels Järfälla resursskola and integrated groups. Do not generalise resource provision to whole ordinary unit or silently reassign an ID. No firm code until exact subgroup/unit applicability is resolved. Website body ~600 pupils and metadata >700 conflict; do not import counts."
+  }
+]

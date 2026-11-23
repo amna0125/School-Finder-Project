@@ -1,0 +1,72 @@
+{
+  "school_id": "73926940",
+  "school_name": "Deltaskolan",
+  "registered_url": "http://www.deltaskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.deltaskolan.se/",
+      "source_url": "https://www.deltaskolan.se/",
+      "page_title": "En skola för livet och framtiden - Deltaskolan",
+      "accessed_at": "2026-10-21T17:40:33.243372+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73926940_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.deltaskolan.se/",
+          "robots_url": "https://www.deltaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:31.653326+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.deltaskolan.se/hem/om-skolan/",
+      "source_url": "https://www.deltaskolan.se/hem/om-skolan/",
+      "page_title": "Om skolan - Deltaskolan",
+      "accessed_at": "2026-10-21T17:40:34.816369+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73926940_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.deltaskolan.se/hem/om-skolan/",
+          "robots_url": "https://www.deltaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:31.653326+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.deltaskolan.se/hem/om-skolan/pedagogiken/",
+      "source_url": "https://www.deltaskolan.se/hem/om-skolan/pedagogiken/",
+      "page_title": "Pedagogiken - Deltaskolan",
+      "accessed_at": "2026-10-21T17:40:36.257753+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73926940_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.deltaskolan.se/hem/om-skolan/pedagogiken/",
+          "robots_url": "https://www.deltaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:31.653326+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

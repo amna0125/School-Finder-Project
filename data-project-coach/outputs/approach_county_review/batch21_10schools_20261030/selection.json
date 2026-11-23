@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "35890890",
+    "official_directory_name": "Västerholms friskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vasterholm.se",
+    "note": ""
+  },
+  {
+    "school_id": "35933721",
+    "official_directory_name": "Rudboda skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.lidingo.se/rudbodaskola",
+    "note": ""
+  },
+  {
+    "school_id": "36021631",
+    "official_directory_name": "Montessoriskolan Växthuset",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.ahavaxthuset.se",
+    "note": ""
+  },
+  {
+    "school_id": "36031993",
+    "official_directory_name": "Vällingbyskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan",
+    "note": ""
+  },
+  {
+    "school_id": "36185466",
+    "official_directory_name": "I Ur och Skur Utsikten skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://iurochskur.friluftsframjandet.se/i-ur-och-skur-forskola--skola/i-ur-och-skurs-verksamheter/i-ur-och-skur-utsikten-skola/",
+    "note": ""
+  },
+  {
+    "school_id": "36232577",
+    "official_directory_name": "Bromma Enskilda Skola ek.fören.",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.brommaenskilda.se",
+    "note": ""
+  },
+  {
+    "school_id": "36262199",
+    "official_directory_name": "Nytorpsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://salem.se/forskolaochskola/grundskola/nytorpsskolan.4.335d63281936795eddcd07c.html",
+    "note": ""
+  },
+  {
+    "school_id": "36276828",
+    "official_directory_name": "Futuraskolan International Kottla",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.futuraskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "36281817",
+    "official_directory_name": "Höglandsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "36350546",
+    "official_directory_name": "Tunaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.botkyrka.se/tunaskolan",
+    "note": ""
+  }
+]

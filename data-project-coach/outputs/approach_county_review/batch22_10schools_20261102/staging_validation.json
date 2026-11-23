@@ -1,0 +1,9 @@
+{
+  "status": "PASSED",
+  "schools": 10,
+  "evidence": 11,
+  "codes": 8,
+  "exact_own_source_quotes": 11,
+  "official_ids_valid": true,
+  "selection_matches_ledger": true
+}

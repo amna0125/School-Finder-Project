@@ -1,0 +1,52 @@
+{
+  "school_id": "67788311",
+  "school_name": "Noblaskolan Sundbyberg",
+  "registered_url": "https://noblaskolan.se/sundbyberg/",
+  "pages": [
+    {
+      "requested_url": "https://noblaskolan.se/sundbyberg/",
+      "source_url": "https://noblaskolan.se/sundbyberg/",
+      "page_title": "En skola i Sundbyberg med höga ambitioner | Noblaskolan",
+      "accessed_at": "2026-10-21T17:39:26.669124+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "67788311_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/sundbyberg/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:39:25.937311+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://noblaskolan.se/sundbyberg/om/grundskola/",
+      "source_url": "https://noblaskolan.se/sundbyberg/om/grundskola/",
+      "page_title": "Grundskola med förskoleklass-åk 9 | Noblaskolan Sundbyberg",
+      "accessed_at": "2026-10-21T17:39:27.452513+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "67788311_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/sundbyberg/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:39:25.937311+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

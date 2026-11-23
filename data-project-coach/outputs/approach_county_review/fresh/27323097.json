@@ -1,0 +1,52 @@
+{
+  "school_id": "27323097",
+  "school_name": "Noblaskolan Solna",
+  "registered_url": "https://noblaskolan.se/solna/",
+  "pages": [
+    {
+      "requested_url": "https://noblaskolan.se/solna/",
+      "source_url": "https://noblaskolan.se/solna/",
+      "page_title": "En skola i Solna med höga ambitioner | Noblaskolan Solna",
+      "accessed_at": "2026-10-21T17:31:26.149427+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27323097_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/solna/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:04.209006+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://noblaskolan.se/solna/om/grundskola/",
+      "source_url": "https://noblaskolan.se/solna/om/grundskola/",
+      "page_title": "Grundskola i Solna med förskoleklass-åk 9 | Noblaskolan Solna",
+      "accessed_at": "2026-10-21T17:31:27.033772+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27323097_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/solna/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:04.209006+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

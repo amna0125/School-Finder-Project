@@ -1,0 +1,30 @@
+{
+  "school_unit_code": "45986032",
+  "school_name": "Vega skola",
+  "registered_url": "https://vegaskola.haninge.se/",
+  "attempted_at": "2026-10-21T09:16:17.210978+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://vegaskola.haninge.se/",
+      "retrieved_at": "2026-10-21T09:16:19.014955+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vegaskola.haninge.se/",
+          "robots_url": "https://vegaskola.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:18.092920+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "45986032_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

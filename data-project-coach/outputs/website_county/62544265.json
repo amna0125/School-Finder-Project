@@ -1,0 +1,66 @@
+{
+  "school_unit_code": "62544265",
+  "school_name": "Fria Maria Barnskola",
+  "registered_url": "http://www.friamaria.com",
+  "attempted_at": "2026-10-21T09:22:28.407378+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.friamaria.com/",
+      "retrieved_at": "2026-10-21T09:22:36.971807+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.friamaria.com",
+          "robots_url": "https://www.friamaria.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:30.186954+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.friamaria.com/",
+          "robots_url": "https://www.friamaria.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:31.813901+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62544265_0.txt"
+    },
+    {
+      "source_url": "https://www.friamaria.com/om-oss",
+      "retrieved_at": "2026-10-21T09:22:37.004923+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.friamaria.com/om-oss",
+          "robots_url": "https://www.friamaria.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:31.813901+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62544265_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Genom ämnesövergripande, estetiska och tematiska arbetssätt skapar vi sammanhang som gör kunskapen meningsfull. Det ger eleverna möjlighet att se helheter, utveckla sin kreativitet och fördjupa sitt lärande.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "59b977c147e80f0ee8f1ae5409681dcb23a74cb038c01000bc8e3bd63829fef3",
+      "school_unit_code": "62544265",
+      "school_name": "Fria Maria Barnskola",
+      "source_url": "https://www.friamaria.com/om-oss",
+      "retrieved_at": "2026-10-21T09:22:37.004923+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "school_unit_code": "33565539",
+    "name": "Gustav Vasaskolan",
+    "municipality_code": "0115",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.skolor.vallentuna.se/gustavvasa/"
+  },
+  {
+    "school_unit_code": "33624606",
+    "name": "Måsöskolan",
+    "municipality_code": "0136",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://haninge.se/forskola-och-skola/grundskola/"
+  },
+  {
+    "school_unit_code": "33733966",
+    "name": "International School of Kungsholmen",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://www.internationalschoolofkungsholmen.com/"
+  },
+  {
+    "school_unit_code": "33794207",
+    "name": "Sandvikskolan",
+    "municipality_code": "0123",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.jarfalla.se"
+  },
+  {
+    "school_unit_code": "33922950",
+    "name": "Smedslättsskolan",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/smedslattsskolan"
+  },
+  {
+    "school_unit_code": "33951941",
+    "name": "Råsunda centralskola",
+    "municipality_code": "0184",
+    "grades_json": "[\"7\", \"8\", \"9\"]",
+    "website": "www.solna.se"
+  },
+  {
+    "school_unit_code": "34125463",
+    "name": "Nytorpsskolan",
+    "municipality_code": "0160",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://nytida.se/skola/vara-skolor/nytorpsskolan/"
+  },
+  {
+    "school_unit_code": "34135484",
+    "name": "Montessori Mondial Nacka",
+    "municipality_code": "0182",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://montessorimondial.se/nacka/"
+  },
+  {
+    "school_unit_code": "34148887",
+    "name": "Blombackaskolan",
+    "municipality_code": "0181",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.sodertalje.se/blombackaskolan"
+  },
+  {
+    "school_unit_code": "34225123",
+    "name": "Furuborgskolan",
+    "municipality_code": "0140",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.nykvarn.se"
+  }
+]

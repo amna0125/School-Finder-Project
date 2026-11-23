@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "19657993",
+  "school_name": "Fryshuset Grundskola Hammarby Sjöstad",
+  "registered_url": "http://www.fryshuset.se/",
+  "attempted_at": "2026-10-21T09:15:30.660258+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.fryshuset.se/",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

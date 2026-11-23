@@ -1,0 +1,23 @@
+{
+  "selected_schools": 20,
+  "school_review_complete": 0,
+  "initial_triage_records": 20,
+  "staged_evidence": 8,
+  "staged_codes": 8,
+  "staged_claims_reviewed": 7,
+  "staged_claims_requires_review": 1,
+  "exact_quotes_match_saved_text": true,
+  "school_ids_match_official_directory": true,
+  "evidence_code_links_same_school": true,
+  "live_counts": {
+    "schools": 762,
+    "statistics": 45868,
+    "survey_observations": 84610,
+    "source_coverage": 3048,
+    "Approach_evidence": 4,
+    "Approach_codes": 4
+  },
+  "quick_check": "ok",
+  "database_modified": false,
+  "fresh_web_requests_this_batch": 0
+}

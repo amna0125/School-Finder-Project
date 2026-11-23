@@ -1,0 +1,72 @@
+{
+  "school_id": "58294981",
+  "school_name": "Rösjöskolan",
+  "registered_url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+      "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+      "page_title": "Rösjöskolan",
+      "accessed_at": "2026-10-21T17:38:26.779586+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58294981_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:25.959945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/",
+      "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/",
+      "page_title": "Välkommen till Rösjöskolan!",
+      "accessed_at": "2026-10-21T17:38:27.559637+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58294981_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:25.959945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/anpassadgrundskola/",
+      "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/anpassadgrundskola/",
+      "page_title": "Anpassad grundskola",
+      "accessed_at": "2026-10-21T17:38:28.342393+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58294981_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/anpassadgrundskola/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:25.959945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

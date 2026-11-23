@@ -1,0 +1,31 @@
+{
+  "school_id": "61980418",
+  "school_name": "I Ur och Skur skolan Skarpnäck",
+  "registered_url": "http://www.iurochskur.com",
+  "pages": [
+    {
+      "requested_url": "https://www.iurochskur.com/",
+      "source_url": "https://www.iurochskur.com/",
+      "page_title": "I Ur och Skur skola och förskolor i Skarpnäck",
+      "accessed_at": "2026-10-21T17:38:43.894331+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "61980418_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.iurochskur.com/",
+          "robots_url": "https://www.iurochskur.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:38:43.108736+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

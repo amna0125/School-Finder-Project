@@ -1,0 +1,62 @@
+[
+  {
+    "school_unit_code": "23498302",
+    "school_name": "Stockholms Montessoriskola Anne Frank",
+    "source_url": "https://www.stockholmsmontessoriskola.se/",
+    "retrieved_at": "2026-10-21T08:54:46.239081+00:00",
+    "scope_status": "unit_scope_needs_review",
+    "collection_scope": "registered_landing_page_only",
+    "method_version": "website_candidates_v1",
+    "robots_url": "http://www.stockholmsmontessoriskola.se/robots.txt",
+    "permission_status": "robots_not_found_terms_not_reviewed",
+    "category": "montessori",
+    "supporting_excerpt": "Stockholms Montessoriskola",
+    "review_status": "candidate_needs_review",
+    "claim_type": "school_website_self_description_not_verified_practice"
+  },
+  {
+    "school_unit_code": "98760751",
+    "school_name": "Kristofferskolan",
+    "source_url": "https://kristofferskolan.se",
+    "retrieved_at": "2026-10-21T08:54:50.636809+00:00",
+    "scope_status": "unit_scope_needs_review",
+    "collection_scope": "registered_landing_page_only",
+    "method_version": "website_candidates_v1",
+    "robots_url": "https://kristofferskolan.se/robots.txt",
+    "permission_status": "robots_allows_target_terms_not_reviewed",
+    "category": "creative_arts",
+    "supporting_excerpt": "Konstnärliga",
+    "review_status": "candidate_needs_review",
+    "claim_type": "school_website_self_description_not_verified_practice"
+  },
+  {
+    "school_unit_code": "98760751",
+    "school_name": "Kristofferskolan",
+    "source_url": "https://kristofferskolan.se",
+    "retrieved_at": "2026-10-21T08:54:50.636809+00:00",
+    "scope_status": "unit_scope_needs_review",
+    "collection_scope": "registered_landing_page_only",
+    "method_version": "website_candidates_v1",
+    "robots_url": "https://kristofferskolan.se/robots.txt",
+    "permission_status": "robots_allows_target_terms_not_reviewed",
+    "category": "music",
+    "supporting_excerpt": "Musik",
+    "review_status": "candidate_needs_review",
+    "claim_type": "school_website_self_description_not_verified_practice"
+  },
+  {
+    "school_unit_code": "98760751",
+    "school_name": "Kristofferskolan",
+    "source_url": "https://kristofferskolan.se",
+    "retrieved_at": "2026-10-21T08:54:50.636809+00:00",
+    "scope_status": "unit_scope_needs_review",
+    "collection_scope": "registered_landing_page_only",
+    "method_version": "website_candidates_v1",
+    "robots_url": "https://kristofferskolan.se/robots.txt",
+    "permission_status": "robots_allows_target_terms_not_reviewed",
+    "category": "waldorf",
+    "supporting_excerpt": "Om Waldorfskolan",
+    "review_status": "candidate_needs_review",
+    "claim_type": "school_website_self_description_not_verified_practice"
+  }
+]

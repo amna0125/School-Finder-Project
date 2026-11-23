@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "36513280",
+    "official_database_name": "Futuraskolan AB",
+    "municipality_code": "0186",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.futuraskolan.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:32.180000"
+  },
+  {
+    "school_id": "36520624",
+    "official_database_name": "Nybohovsskolan",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/nybohovsskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:30.550000"
+  },
+  {
+    "school_id": "36628382",
+    "official_database_name": "Iljansbodaskolan",
+    "municipality_code": "0123",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.jarfalla.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:46.020000"
+  },
+  {
+    "school_id": "37112288",
+    "official_database_name": "Kulturama Grundsk. Sundbyberg",
+    "municipality_code": "0183",
+    "grades_json": "[\"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.kulturama.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:14.530000"
+  },
+  {
+    "school_id": "37147254",
+    "official_database_name": "Kumla skola",
+    "municipality_code": "0138",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.tyreso.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:29.630000"
+  },
+  {
+    "school_id": "37328635",
+    "official_database_name": "Montessori Mondial Lidingö",
+    "municipality_code": "0186",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://montessorimondial.se/lidingo/",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:02:07.410000"
+  },
+  {
+    "school_id": "37416253",
+    "official_database_name": "Rinkebyskolan",
+    "municipality_code": "0180",
+    "grades_json": "[\"7\", \"8\", \"9\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/rinkebyskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:13.170000"
+  },
+  {
+    "school_id": "37472911",
+    "official_database_name": "Stenmoskolan",
+    "municipality_code": "0126",
+    "grades_json": "[\"1\", \"2\", \"3\"]",
+    "website": "https://www.huddinge.se/stenmoskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:15.650000"
+  },
+  {
+    "school_id": "37556682",
+    "official_database_name": "Kista International School",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.kistaschool.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:12.470000"
+  },
+  {
+    "school_id": "37796564",
+    "official_database_name": "Akalla grundskola F-9",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/akalla-grundskola",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:13.400000"
+  }
+]

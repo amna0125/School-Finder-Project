@@ -1,0 +1,17 @@
+{
+  "school_id": "80561156",
+  "school_name": "Ektorps skola",
+  "registered_url": "nacka.se/valfard-skola/skuru-duvnasresursskola",
+  "pages": [],
+  "errors": [
+    {
+      "url": "nacka.se/valfard-skola/skuru-duvnasresursskola",
+      "error": "Unsafe URL",
+      "attempted_at": "2026-10-21T17:41:28.122488+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

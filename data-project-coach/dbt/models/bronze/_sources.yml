@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Tables loaded by the dlt pipeline (Prefect flow) into .state/schools.duckdb, plus the manual review tables."
+    database: raw
+    schema: main
+    tables:
+      - name: schools
+        description: "One row per school unit from Skolverket's school unit register (dlt load)."
+      - name: statistics
+        description: "Skolverket planned-education statistics, one row per school, metric and school year. raw_value keeps the source's own symbols."
+      - name: survey_observations
+        description: "Skolinspektionen school survey answers (VT26), one row per school, respondent group, question and answer share."
+      - name: Approach_codes
+        description: "Reviewed teaching-approach codes, one per school and category, each tied to one quoted piece of evidence."
+      - name: Approach_evidence
+        description: "Short verbatim quotes from schools' own public websites, with URL and date accessed."
+      - name: School_setting
+        description: "Setting features per school: green space from map data, plus stated features quoted from school websites."
+
+  - name: register
+    description: "Full school unit register responses saved on 2026-11-04 (JSON lines). Used for coordinates, address, grades and organiser."
+    meta:
+      external_location: "read_json('{{ env_var('DBT_REGISTER_FILE', '../outputs/approach_county_review/setting_20261104/register.jsonl') }}', format='newline_delimited', maximum_object_size=10000000)"
+    tables:
+      - name: register_responses

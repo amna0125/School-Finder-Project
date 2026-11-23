@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "16348406",
+  "school_name": "Matteusskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan",
+  "attempted_at": "2026-10-21T09:15:26.425289+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan",
+      "retrieved_at": "2026-10-21T09:15:29.246017+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "16348406_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Skolan har rymliga klassrum och salar för de praktisk-estetiska ämnena. Här finns också två idrottssalar som används flitigt både under skoldagen och på fritidshemmet.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "def5fff97b843c877e1b9381febb5f67d3eb8bc2ce2cc1853151055cc34b1703",
+      "school_unit_code": "16348406",
+      "school_name": "Matteusskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan",
+      "retrieved_at": "2026-10-21T09:15:29.246017+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

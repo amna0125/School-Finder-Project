@@ -1,0 +1,93 @@
+{
+  "school_unit_code": "98239828",
+  "school_name": "Ekebyholmsskolan AB",
+  "registered_url": "http://www.ekebyholm.se",
+  "attempted_at": "2026-10-21T09:23:58.974205+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.ekebyholm.se/",
+      "retrieved_at": "2026-10-21T09:24:07.597981+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.ekebyholm.se",
+          "robots_url": "https://www.ekebyholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:24:03.112212+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.ekebyholm.se/",
+          "robots_url": "https://www.ekebyholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:24:05.096561+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98239828_0.txt"
+    },
+    {
+      "source_url": "https://www.ekebyholm.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:24:07.614201+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.ekebyholm.se/om-oss/",
+          "robots_url": "https://www.ekebyholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:24:05.096561+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98239828_1.txt"
+    },
+    {
+      "source_url": "https://www.ekebyholm.se/om-oss/var-historia/",
+      "retrieved_at": "2026-10-21T09:24:07.630707+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.ekebyholm.se/om-oss/var-historia/",
+          "robots_url": "https://www.ekebyholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:24:05.096561+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98239828_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "je elev. Eller den fantastiskt vackra miljön. Eller den varma, omsorgsfulla atmosfären och personalens uppriktiga engagemang. Eller att vi så tydligt satsar på hälsa, idrott, musik, internationalisering och spännande resor. Eller …",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c7c23df28f3750e74c779a5b74c56b8437e232ed85a5840501b53643cc9c15fe",
+      "school_unit_code": "98239828",
+      "school_name": "Ekebyholmsskolan AB",
+      "source_url": "https://www.ekebyholm.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:24:07.614201+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "a omgivningarna och jordbruket. På somrarna kunde man bedriva badsanatorium, d.v.s. det vi idag skulle kalla för spa. Numera fylls sommarveckorna av kursverksamhet med bland annat musik.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "695f5e2787161d1828a7b4816d85a6409238661fc48eaea26342ad0e1ab6ca37",
+      "school_unit_code": "98239828",
+      "school_name": "Ekebyholmsskolan AB",
+      "source_url": "https://www.ekebyholm.se/om-oss/var-historia/",
+      "retrieved_at": "2026-10-21T09:24:07.630707+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

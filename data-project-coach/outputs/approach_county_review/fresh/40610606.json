@@ -1,0 +1,52 @@
+{
+  "school_id": "40610606",
+  "school_name": "Lycée Francais Saint Louis, gr",
+  "registered_url": "http://www.lfsl.net",
+  "pages": [
+    {
+      "requested_url": "https://www.lfsl.net/",
+      "source_url": "https://www.lfsl.net/",
+      "page_title": "Home (fr) – Lycée Français Saint Louis de Stockholm",
+      "accessed_at": "2026-10-21T17:33:27.159855+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "40610606_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.lfsl.net/",
+          "robots_url": "https://www.lfsl.net/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:33:26.093709+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.lfsl.net/cursus-scolaire/projets-et-voyages-pedagogiques/",
+      "source_url": "https://www.lfsl.net/cursus-scolaire/projets-et-voyages-pedagogiques/",
+      "page_title": "Projets et voyages pédagogiques – Lycée Français Saint Louis de Stockholm",
+      "accessed_at": "2026-10-21T17:33:28.437776+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "40610606_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.lfsl.net/cursus-scolaire/projets-et-voyages-pedagogiques/",
+          "robots_url": "https://www.lfsl.net/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:33:26.093709+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

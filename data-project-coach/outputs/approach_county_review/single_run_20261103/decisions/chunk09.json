@@ -1,0 +1,45 @@
+[
+{"sid":"68812584","o":"R","note":"Askeby F–6: shared idea of using aesthetic subjects (art, music, drama) to develop language and learning; MVP in middle years.","ev":[
+ {"p":0,"q":"Vår gemensamma idé är att arbeta med estetiska ämnen som bild, musik och drama.","i":"Arts-integrated approach as school-wide idea.","c":[["Arts and creative learning","Aesthetic subjects for language and learning","E"]],"cn":"School claim; classes split into smaller groups in aesthetic subjects."}]},
+{"sid":"68893390","o":"R","note":"Ulvsunda F–3: regular outdoor pedagogy in local woods; Trivselledare.","ev":[
+ {"p":0,"q":"Vi har anpassade lokaler med rörelserum och musikrum och använder regelbundet närmiljön i vår utomhuspedagogik.","i":"Regular outdoor teaching in local environment.","c":[["Outdoor, nature, or place-based learning","Regular outdoor pedagogy","E"]],"cn":"Outdoor lessons in nearby woods also stated."},
+ {"p":0,"q":"För att skapa trygga raster använder vi oss av konceptet trivselledare.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent for named programmes."}]},
+{"sid":"68939834","o":"R","note":"Hillelskolan F–6: Jewish profile with Hebrew and Jewish studies as profile subjects.","ev":[
+ {"p":2,"q":"Hillelskolans profilämnen är hebreiska och judiska studier.","i":"Jewish/Hebrew profile subjects.","c":[["Other stated profile","Jewish profile","E"],["Language, international, or intercultural profile","Hebrew as profile subject","S"]],"cn":"School claim."}]},
+{"sid":"69004747","o":"B","why":"school-specific source not found","note":"Registered URL is Fryshuset organisation homepage; no Husby school page collected."},
+{"sid":"69043808","o":"R","note":"Byle F–6: outdoor pedagogy recurring in all subjects and years; daily planned recess activities.","ev":[
+ {"p":0,"q":"Även utepedagogik är en återkommande del i undervisningen i alla ämnen och årskurser.","i":"Outdoor pedagogy across subjects.","c":[["Outdoor, nature, or place-based learning","Recurring outdoor pedagogy, all subjects","E"]],"cn":"School claim."}]},
+{"sid":"69088221","o":"N","note":"Skolhagen 7–9: relationships, safety and student influence; generic."},
+{"sid":"69195602","o":"R","note":"Silverdalsskolan: hosts Sollentuna's municipal special teaching group; school closes 2027.","ev":[
+ {"p":1,"q":"Vi är en så kallad kommungemensam särskild undervisningsgrupp som tar emot elever från de kommunala skolorna i Sollentuna.","i":"Special support group on site.","c":[["Support, inclusion, or wellbeing emphasis","Municipal special teaching group","S"]],"cn":"Group is part of the school, not the whole school's profile. School closing 2027."}]},
+{"sid":"69266159","o":"N","note":"Hjulsta F–9: structure, homework help, collaboration projects; generic."},
+{"sid":"69329486","o":"N","note":"Källängen 4–9: competitions and periodic intensive reading; generic."},
+{"sid":"69895255","o":"R","note":"Mariaskolan F–9: local area actively used for outdoor lessons and excursions.","ev":[
+ {"p":0,"q":"Närområdet används aktivt för utomhuslektioner och utflykter som te x orientering och skridskoåkning.","i":"Outdoor lessons in local area.","c":[["Outdoor, nature, or place-based learning","Local area used for outdoor lessons","S"]],"cn":"Examples are mainly PE activities."}]},
+{"sid":"69909271","o":"B","why":"school-specific source not found","note":"Registered URL is Vaxholm municipality homepage; no school page found."},
+{"sid":"70089804","o":"R","note":"Loviselund F–6: intercultural school; Bornholmsmodellen; preparatory class.","ev":[
+ {"p":0,"q":"Vi stärker ditt barns medvetenhet om språket genom att arbeta enligt Bornholmsmodellen.","i":"Named early-literacy method.","c":[["Other stated profile","Bornholmsmodellen","E"]],"cn":"Per precedent."},
+ {"p":0,"q":"Vi är en interkulturell skola och vill vara den bästa skolan för just ditt barn.","i":"Self-described intercultural school.","c":[["Language, international, or intercultural profile","Intercultural school","S"]],"cn":"No detail on practice."}]},
+{"sid":"70182130","o":"R","note":"Drottningdal (rural, ~100 pupils): pedagogy taken out into the local environment.","ev":[
+ {"p":1,"q":"Här har vi nära till naturen, stora grönområden och idrottsplaner där vi inspireras till att ta ut pedagogiken i närmiljön.","i":"Outdoor/local-environment teaching.","c":[["Outdoor, nature, or place-based learning","Pedagogy in local environment","S"]],"cn":"'Inspired to' hedge."}]},
+{"sid":"70201551","o":"B","why":"source inaccessible","note":"Registered Sollentuna URL returns a 404 page."},
+{"sid":"70329261","o":"N","note":"Hägerstensåsen F–6: health month each term; otherwise generic."},
+{"sid":"70398560","o":"R","note":"Kämpetorp F–9: Stockholm's MVP violence-prevention programme in 7–9.","ev":[
+ {"p":0,"q":"I årskurs 7–9 arbetar vi med Stockholms stads program Mentorer i våldspreventivt arbete (MVP).","i":"Named prevention programme.","c":[["Support, inclusion, or wellbeing emphasis","MVP violence prevention (7–9)","S"]],"cn":"City-wide programme; upper years only."}]},
+{"sid":"70481988","o":"B","why":"school-specific source not found","note":"Registered URL is Värmdö municipality homepage; no school page found."},
+{"sid":"70592143","o":"N","note":"Sjövik F–9: art in building and staff action learning; nothing distinctive for pupils' learning approach."},
+{"sid":"70803136","o":"R","note":"Kyrkskolan F–6 (Värmdö): archipelago orientation with outdoor life, sailing and outdoor pedagogy integrated into teaching.","ev":[
+ {"p":1,"q":"Här är friluftsliv, segling och utepedagogik en integrerad del av undervisningen och skolan har tillgång till egen brygga och båtar.","i":"Archipelago/outdoor profile.","c":[["Outdoor, nature, or place-based learning","Archipelago profile; sailing; outdoor pedagogy","E"]],"cn":"School claim."}]},
+{"sid":"71078874","o":"N","note":"Fornudden F–9: modern facilities, sustainability in sorting projects, municipal tolerance project; generic."},
+{"sid":"71363923","o":"R","note":"Djurgårdsskolan F–3: Skansen as outdoor classroom; daily creative work in own art studio; GRIT emphasis.","ev":[
+ {"p":0,"q":"Skansen - vårt fantastiska uteklassrum.","i":"Named outdoor classroom.","c":[["Outdoor, nature, or place-based learning","Skansen as outdoor classroom","S"]],"cn":"Frequency not stated."},
+ {"p":1,"q":"Vi har en egen bildateljé där barnen varje dag får möjlighet till skapande verksamhet.","i":"Daily creative work.","c":[["Arts and creative learning","Daily art studio work","S"]],"cn":"School claim."}]},
+{"sid":"71375812","o":"R","note":"Vallentuna Internationella Montessoriskola: Montessori pedagogy with international profile and extended English.","ev":[
+ {"p":0,"q":"Skolan är baserad på Maria Montessoris värderingar och pedagogik, samtidigt som vi använder oss av nutidens verktyg och förhållningssätt.","i":"Montessori.","c":[["Alternative pedagogy","Montessori","E"]],"cn":"School claim."},
+ {"p":1,"q":"Genom skolans val får eleverna utökad undervisning i engelska och möjlighet att utveckla både språk och interkulturell förståelse.","i":"International profile with extended English.","c":[["Language, international, or intercultural profile","Extended English; international profile","E"]],"cn":"Via school's choice time."}]},
+{"sid":"71638763","o":"R","note":"Norskolan F–3: IBIS inclusive behaviour support; Livsviktiga snack.","ev":[
+ {"p":0,"q":"IBIS står för inkluderande beteendestöd i skolan och utvecklar vårt förebyggande arbete med trygghet och studiero.","i":"Named programme.","c":[["Support, inclusion, or wellbeing emphasis","IBIS","E"]],"cn":"Per precedent."}]},
+{"sid":"71669600","o":"R","note":"Vittra Luma Park F–3: outdoor teaching with frequent excursions; Friluftsfrämjandet-certified (Skogsmulle).","ev":[
+ {"p":0,"q":"Hos oss får barnen och eleverna utforska naturen och uppleva undervisning utomhus.","i":"Outdoor teaching with frequent excursions.","c":[["Outdoor, nature, or place-based learning","Outdoor teaching; Skogsmulle certification","E"]],"cn":"Certification shared with preschool."}]},
+{"sid":"71677992","o":"N","note":"Rönninge F–9: mobile-free school, basic skills emphasis; generic."}
+]

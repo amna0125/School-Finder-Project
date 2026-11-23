@@ -1,0 +1,72 @@
+{
+  "school_id": "29371242",
+  "school_name": "Campus Manilla Utbildning AB",
+  "registered_url": "http://www.campusmanilla.se",
+  "pages": [
+    {
+      "requested_url": "https://campusmanilla.se/",
+      "source_url": "https://campusmanilla.se/",
+      "page_title": "Start - Campus Manilla",
+      "accessed_at": "2026-10-21T17:31:42.158182+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29371242_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://campusmanilla.se/",
+          "robots_url": "https://campusmanilla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:41.165203+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://campusmanilla.se/grundskola/",
+      "source_url": "https://campusmanilla.se/grundskola/",
+      "page_title": "Grundskola - Campus Manilla",
+      "accessed_at": "2026-10-21T17:31:43.051319+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29371242_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://campusmanilla.se/grundskola/",
+          "robots_url": "https://campusmanilla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:41.165203+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://campusmanilla.se/grundskola/om-skolan/",
+      "source_url": "https://campusmanilla.se/grundskola/om-skolan/",
+      "page_title": "Om skolan - Campus Manilla",
+      "accessed_at": "2026-10-21T17:31:43.966993+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29371242_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://campusmanilla.se/grundskola/om-skolan/",
+          "robots_url": "https://campusmanilla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:41.165203+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

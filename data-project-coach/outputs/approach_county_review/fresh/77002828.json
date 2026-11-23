@@ -1,0 +1,72 @@
+{
+  "school_id": "77002828",
+  "school_name": "Skebo skola",
+  "registered_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/",
+  "pages": [
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/",
+      "page_title": "Skebo skola - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:40:55.578731+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "77002828_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/var-skola/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/var-skola/",
+      "page_title": "Om Skebo skola - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:40:57.047157+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "77002828_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/var-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/skebo-fritidshem/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/skebo-fritidshem/",
+      "page_title": "Skebo fritidshem - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:40:58.203276+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "77002828_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/skebo-fritidshem/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

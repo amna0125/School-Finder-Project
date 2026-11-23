@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "87425546",
+  "school_name": "Kunskapsskolan Nacka",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/nacka",
+  "attempted_at": "2026-10-21T09:17:19.232353+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/nacka",
+      "retrieved_at": "2026-10-21T09:17:24.606840+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/nacka",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "87425546_0.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/kontakta-oss",
+      "retrieved_at": "2026-10-21T09:17:24.637044+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "87425546_1.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:17:24.805468+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "87425546_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1ab1b2af678ab0cf5dff27e9ddf15de23f5ff267644d6f093aac638f0655d694",
+      "school_unit_code": "87425546",
+      "school_name": "Kunskapsskolan Nacka",
+      "source_url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:17:24.805468+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Musik skapad av elever i åttan spelades upp av Västerås symfoniorkester",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "3d5517010fc4be99cbd9bc5ef79127a44e8199ac281d4f537ae3dcb3450175dc",
+      "school_unit_code": "87425546",
+      "school_name": "Kunskapsskolan Nacka",
+      "source_url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:17:24.805468+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

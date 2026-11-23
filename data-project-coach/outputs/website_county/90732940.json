@@ -1,0 +1,59 @@
+{
+  "school_unit_code": "90732940",
+  "school_name": "Internationella Engelska Skolan Bromma",
+  "registered_url": "http://www.engelska.se",
+  "attempted_at": "2026-10-21T09:23:45.357231+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://engelska.se/",
+      "retrieved_at": "2026-10-21T09:23:47.825564+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.engelska.se",
+          "robots_url": "https://engelska.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.343326+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.engelska.se/",
+          "robots_url": "https://engelska.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.533162+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://engelska.se/",
+          "robots_url": "https://engelska.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:06.326596+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "90732940_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Internationella Engelska Skolan is a bilingual Swedish school with an international profile, where every student is given the possibility to meet high academic expectations and where teaching takes place in a safe and calm environment.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d1a02f6f5fc748f88f653b4e9d0e5f273cbb21b45467ebc2aaf065b9f855b3d8",
+      "school_unit_code": "90732940",
+      "school_name": "Internationella Engelska Skolan Bromma",
+      "source_url": "https://engelska.se/",
+      "retrieved_at": "2026-10-21T09:23:47.825564+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

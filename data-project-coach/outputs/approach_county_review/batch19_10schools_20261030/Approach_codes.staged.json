@@ -1,0 +1,46 @@
+[
+  {
+    "code_id": "ac_b19_33733966_01",
+    "school_id": "33733966",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "English-language international curriculum",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b19_33733966_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. International English-language curriculum across stated school provision; PYP ages5–12 and MYP13–16. IB authorization is school self-description, not independently checked. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b19_33733966_02",
+    "school_id": "33733966",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "PYP inquiry; exhibition in PYP6",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b19_33733966_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. PYP-only inquiry approach: page also describes five-week transdisciplinary units each PYP grade, concepts and inquiry skills. Exhibition specifically PYP6, not all grades/MYP. Ages5–12 on homepage include provision outside official1–9; do not automatically extend. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b19_34125463_01",
+    "school_id": "34125463",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school; autism and ADHD support",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b19_34125463_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit resource-school1–9 support setting with predictable structured day, adapted pace and individual/group instruction. Provider also mentions adapted-school admissions; do not transfer populations or claim verified effectiveness. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b19_34135484_01",
+    "school_id": "34135484",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b19_34135484_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit named Montessori pedagogy; analytical school scope official1–9, exclude preschool. Research/results language not verified or causal evidence. Guessed detail URL404, not evidence. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

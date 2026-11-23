@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "67743631",
+  "school_name": "Internationella Engelska Skolan Norrtälje",
+  "registered_url": "https://engelska.se/our-schools/norrtalje/",
+  "attempted_at": "2026-10-21T09:16:46.892507+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://engelska.se/our-schools/norrtalje/",
+      "retrieved_at": "2026-10-21T09:16:48.730591+00:00",
+      "robots_checks": [
+        {
+          "url": "https://engelska.se/our-schools/norrtalje/",
+          "robots_url": "https://engelska.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:47.769644+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67743631_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Internationella Engelska Skolan Norrtälje is a bilingual school that gives every student the possibility to meet high academic expectations and aspirations, and to navigate an international environment, whatever their background.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0d8239601749eaa3a4a88d19794527f66d425f3ac42c4544f45d31048ece3c39",
+      "school_unit_code": "67743631",
+      "school_name": "Internationella Engelska Skolan Norrtälje",
+      "source_url": "https://engelska.se/our-schools/norrtalje/",
+      "retrieved_at": "2026-10-21T09:16:48.730591+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

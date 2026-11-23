@@ -1,0 +1,10 @@
+{
+  "schema_valid": true,
+  "selected_schools": 10,
+  "evidence": 10,
+  "codes": 4,
+  "quote_checks": 10,
+  "source_files": 30,
+  "database_loaded": false,
+  "county_checkpointed": false
+}

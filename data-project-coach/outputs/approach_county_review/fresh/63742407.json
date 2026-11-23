@@ -1,0 +1,32 @@
+{
+  "school_id": "63742407",
+  "school_name": "Rosendalsskolan",
+  "registered_url": "http://www.vallentuna.se",
+  "pages": [
+    {
+      "requested_url": "https://www.vallentuna.se/",
+      "source_url": "https://www.vallentuna.se/",
+      "page_title": "Vallentuna kommun",
+      "accessed_at": "2026-10-21T17:38:57.391098+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "63742407_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentuna.se/",
+          "robots_url": "https://www.vallentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.562193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

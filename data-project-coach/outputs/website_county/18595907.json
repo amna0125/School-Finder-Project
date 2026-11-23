@@ -1,0 +1,76 @@
+{
+  "school_unit_code": "18595907",
+  "school_name": "Edsbergsskolan",
+  "registered_url": "http://www.sollentuna.se/sv/uweb/edsbergsskolan/",
+  "attempted_at": "2026-10-21T09:20:21.202605+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.sollentuna.se/uweb/edsbergsskolan/",
+      "retrieved_at": "2026-10-21T09:20:25.198929+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sollentuna.se/sv/uweb/edsbergsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:15.809232+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sollentuna.se/sv/uweb/edsbergsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sollentuna.se/uweb/edsbergsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "18595907_0.txt"
+    },
+    {
+      "source_url": "https://www.sollentuna.se/uweb/edsbergsskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:20:25.228067+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/edsbergsskolan/om-oss/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "18595907_1.txt"
+    },
+    {
+      "source_url": "https://www.sollentuna.se/uweb/edsbergsskolan/om-oss/anpassade-grundskolan/",
+      "retrieved_at": "2026-10-21T09:20:25.245166+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/edsbergsskolan/om-oss/anpassade-grundskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "18595907_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

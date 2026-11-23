@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "71669600",
+  "school_name": "Vittra Luma Park",
+  "registered_url": "http://www.vittra.se/luma-park",
+  "attempted_at": "2026-10-21T09:22:53.226093+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vittra.se/luma-park/",
+      "retrieved_at": "2026-10-21T09:23:00.059549+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vittra.se/luma-park",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.345093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vittra.se/luma-park",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:03.914768+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vittra.se/luma-park/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "71669600_0.txt"
+    },
+    {
+      "source_url": "https://vittra.se/luma-park/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:23:00.104576+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/luma-park/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "71669600_1.txt"
+    },
+    {
+      "source_url": "https://vittra.se/luma-park/artikel/lokal/anneli-wisen-berattar-om-vittras-pedagogik",
+      "retrieved_at": "2026-10-21T09:23:00.123066+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/luma-park/artikel/lokal/anneli-wisen-berattar-om-vittras-pedagogik",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "71669600_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "FN-dagen skapar stolthet hos Vittra Rösjötorps elever Vittra Rösjötorp International i Sollentuna är en tvåspråkig förskola och skola med både engelska och svenska. Här går barn och elever som inte har svenska som förstaspråk tillsammans med de som valt Vittra Rösjötorp för möjligheten att tidigt lära sig engelska. FN-dagen som i år firas torsdagen den...",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "df7796a2cb18702dfaf3cacb90b490538e87d38294d20486a04480de31e6ea82",
+      "school_unit_code": "71669600",
+      "school_name": "Vittra Luma Park",
+      "source_url": "https://vittra.se/luma-park/",
+      "retrieved_at": "2026-10-21T09:23:00.059549+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

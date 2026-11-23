@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "81266343",
+  "school_name": "Kunskapsskolan Tyresö",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/tyreso",
+  "attempted_at": "2026-10-21T09:17:11.085195+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/tyreso",
+      "retrieved_at": "2026-10-21T09:17:17.197733+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/tyreso",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81266343_0.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/kontakta-oss",
+      "retrieved_at": "2026-10-21T09:17:17.220956+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81266343_1.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:17:17.401561+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81266343_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "029d62cd4b3212c76986a76e22c6375ee4ceba93fad10dc1b6f54c8d748329d4",
+      "school_unit_code": "81266343",
+      "school_name": "Kunskapsskolan Tyresö",
+      "source_url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:17:17.401561+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Musik skapad av elever i åttan spelades upp av Västerås symfoniorkester",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "4b5454bf9d344b9f9377c10e10880c80ac259190db3714a1ba612ae7954598ec",
+      "school_unit_code": "81266343",
+      "school_name": "Kunskapsskolan Tyresö",
+      "source_url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:17:17.401561+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

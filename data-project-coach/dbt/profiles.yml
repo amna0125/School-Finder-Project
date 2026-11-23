@@ -1,0 +1,14 @@
+# Run dbt from this folder with:  dbt build --profiles-dir .
+# The pipeline database (written by dlt/Prefect) is attached read-only, so dbt never changes it.
+school_finder:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('DBT_WAREHOUSE', '../.state/warehouse.duckdb') }}"
+      threads: 4
+      attach:
+        - path: "{{ env_var('DBT_RAW_DB', '../.state/schools.duckdb') }}"
+          alias: raw
+          read_only: true
+      external_root: "{{ env_var('DBT_EXPORT_DIR', '../web/public/data') }}"

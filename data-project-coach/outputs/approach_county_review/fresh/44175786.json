@@ -1,0 +1,52 @@
+{
+  "school_id": "44175786",
+  "school_name": "Boo Gårds skola",
+  "registered_url": "http://www.boogard.nacka.se",
+  "pages": [
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/boo-gard/",
+      "source_url": "https://www.nacka.se/valfard-skola/boo-gard/",
+      "page_title": "Boo Gårds skola | Nacka kommun",
+      "accessed_at": "2026-10-21T17:35:08.290151+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "44175786_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/boo-gard/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/boo-gard/mal-och-kvalitet/pedagoghunden-bosse/",
+      "source_url": "https://www.nacka.se/valfard-skola/boo-gard/mal-och-kvalitet/pedagoghunden-bosse/",
+      "page_title": "Pedagoghunden - Bosse | Nacka kommun",
+      "accessed_at": "2026-10-21T17:35:09.137773+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "44175786_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/boo-gard/mal-och-kvalitet/pedagoghunden-bosse/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

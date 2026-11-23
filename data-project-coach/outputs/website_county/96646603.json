@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "96646603",
+  "school_name": "Lommarskolan",
+  "registered_url": "www.norrtalje.se",
+  "attempted_at": "2026-10-21T09:17:34.974193+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "www.norrtalje.se",
+      "error": "Unsafe URL"
+    }
+  ]
+}

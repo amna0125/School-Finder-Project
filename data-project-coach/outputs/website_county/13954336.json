@@ -1,0 +1,113 @@
+{
+  "school_unit_code": "13954336",
+  "school_name": "Martinskolan Söders Waldorfskola",
+  "registered_url": "http://www.martinskolan.se",
+  "attempted_at": "2026-10-21T09:20:05.035090+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://martinskolan.se/",
+      "retrieved_at": "2026-10-21T09:20:14.307991+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.martinskolan.se",
+          "robots_url": "https://martinskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:07.438788+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.martinskolan.se/",
+          "robots_url": "https://martinskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:09.762621+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://martinskolan.se/",
+          "robots_url": "https://martinskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.370845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "13954336_0.txt"
+    },
+    {
+      "source_url": "https://martinskolan.se/grundskola",
+      "retrieved_at": "2026-10-21T09:20:14.341493+00:00",
+      "robots_checks": [
+        {
+          "url": "https://martinskolan.se/grundskola",
+          "robots_url": "https://martinskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.370845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "13954336_1.txt"
+    },
+    {
+      "source_url": "https://martinskolan.se/om-oss",
+      "retrieved_at": "2026-10-21T09:20:14.360844+00:00",
+      "robots_checks": [
+        {
+          "url": "https://martinskolan.se/om-oss",
+          "robots_url": "https://martinskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.370845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "13954336_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Eleverna läser såväl teoretiska som estetiska ämnen genom alla skolår. Vi lägger stor vikt vid att eleverna kan delta i normal klassundervisning, är studiemotiverade och uppskattar en bred utbildning där olika förmågor tas i anspråk. Ämnen som musik, hantverk och bild har stor betydelse.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "242b727446047404ce32510f77971103e787468ac6b84afad01cbe2345433690",
+      "school_unit_code": "13954336",
+      "school_name": "Martinskolan Söders Waldorfskola",
+      "source_url": "https://martinskolan.se/grundskola",
+      "retrieved_at": "2026-10-21T09:20:14.341493+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "kolår. Vi lägger stor vikt vid att eleverna kan delta i normal klassundervisning, är studiemotiverade och uppskattar en bred utbildning där olika förmågor tas i anspråk. Ämnen som musik, hantverk och bild har stor betydelse.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "536d02b787faef3839884da3b1f0e1a47f46e9b3075c7147c598e89456d47926",
+      "school_unit_code": "13954336",
+      "school_name": "Martinskolan Söders Waldorfskola",
+      "source_url": "https://martinskolan.se/grundskola",
+      "retrieved_at": "2026-10-21T09:20:14.341493+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "waldorf",
+      "supporting_excerpt": "Martinskolans grundskola har idag cirka 320 elever i årskurserna F-9. Skolan har en waldorfpedagogisk inriktning med starkt fokus på en bred bildning utifrån waldorfskolans kompletterande läroplan ”En väg till frihet”.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "06fa7105a847d4630fc2d583aa6ea734bf2cdf7c1f05d83a6a25b6db673eb044",
+      "school_unit_code": "13954336",
+      "school_name": "Martinskolan Söders Waldorfskola",
+      "source_url": "https://martinskolan.se/grundskola",
+      "retrieved_at": "2026-10-21T09:20:14.341493+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

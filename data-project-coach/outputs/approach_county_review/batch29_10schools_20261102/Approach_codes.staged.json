@@ -1,0 +1,46 @@
+[
+  {
+    "code_id": "ac_b29_43632318_01",
+    "school_id": "43632318",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Structured, accessible teaching and multi-teacher support",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b29_43632318_01",
+    "coder_note": "Assistant contextual review, not human review or independently verified practice. F–9 teaching structure; three-teacher component lower/middle years only. Supplemental evidence ae_b29_43632318_02.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b29_44002887_01",
+    "school_id": "44002887",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Wellbeing teaching",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b29_44002887_01",
+    "coder_note": "Assistant contextual review, not human review or independently verified practice. Applies to school F–6 as described; no frequency or independently verified outcomes claimed.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b29_44373961_01",
+    "school_id": "44373961",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf/Steiner",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b29_44373961_01",
+    "coder_note": "Assistant contextual review, not human review or independently verified practice. Current F–9 self-description and linked pedagogy. No claim of fidelity/effectiveness.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b29_44373961_02",
+    "school_id": "44373961",
+    "category": "Arts and creative learning",
+    "subcategory": "Arts integration",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b29_44373961_02",
+    "coder_note": "Assistant contextual review, not human review or independently verified practice. Linked current F–9 Waldorf school page establishes unit applicability. Quotation is school wording, not verified teaching practice.",
+    "review_status": "Reviewed"
+  }
+]

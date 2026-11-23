@@ -1,0 +1,61 @@
+{
+  "school_unit_code": "85796724",
+  "school_name": "Källskolan",
+  "registered_url": "http://www.kallskolan.se",
+  "attempted_at": "2026-10-21T09:23:32.783316+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://kallskolan.se/",
+      "retrieved_at": "2026-10-21T09:23:36.478729+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.kallskolan.se",
+          "robots_url": "https://kallskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:36.670939+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.kallskolan.se/",
+          "robots_url": "https://kallskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:38.988082+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://kallskolan.se/",
+          "robots_url": "https://kallskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:40.678212+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "85796724_0.txt"
+    },
+    {
+      "source_url": "https://kallskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:23:36.499294+00:00",
+      "robots_checks": [
+        {
+          "url": "https://kallskolan.se/om-oss/",
+          "robots_url": "https://kallskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:40.678212+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "85796724_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,1 @@
+{"robots_url": "https://www.nacka.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:20:12.739570+00:00", "state": "parsed", "crawl_delay": 0, "body": "User-agent: *\r\nAllow: /\r\ndisallow: /personer/\r\n\r\nSitemap: https://www.nacka.se/sitemap.xml"}

@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "school_outcomes": 10,
+  "evidence": 6,
+  "codes": 2,
+  "quote_matches": 6,
+  "hashed_sources": 26,
+  "batch27_overlap": 0,
+  "database_loaded": false,
+  "county_checkpointed": false
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "code_id": "ac_b04_14121892_01",
+    "school_id": "14121892",
+    "category": "Arts and creative learning",
+    "subcategory": "El Sistema instrumental-music partnership",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b04_14121892_01",
+    "coder_note": "Assistant contextual review; codebook v1; coding date 2026-10-27. Ordinary Bredängsskolan F–9 page, stored grades 1–9; preschool class identified separately by website. Sustained music partnership, not ordinary subject list. Page says all children but does not specify delivery years/frequency: do not invent them. Separately linked adapted unit excluded. Malformed robots response retained; no affirmative blanket collection/reuse permission. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b04_14472068_01",
+    "school_id": "14472068",
+    "category": "Other stated profile",
+    "subcategory": "Christian profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b04_14472068_01",
+    "coder_note": "Assistant contextual review; codebook v1; coding date 2026-10-27. Hammarbyhöjden F–9 school matched to registered school website and homepage locality/year range. Profile page describes Kristendomskunskap in years 1–9 plus Chapel/prayer; this is a neutral account of school wording, not a legal assessment, judgement of implementation or inference about pupil beliefs. Generic creativity and kulturskola offering do not establish integrated arts pedagogy. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b04_14845171_01",
+    "school_id": "14845171",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource teaching and schoolwide PBS",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b04_14845171_01",
+    "coder_note": "Assistant contextual review; codebook v1; coding date 2026-10-27. Exact unit match: fresh official 14845171 address Klockargatan 17 Västerhaninge and grades 6–9 match school page. PBS and resource/individualised teaching directly described. Evidensbaserade and claimed intended results are school wording, not project verification or causal conclusions. Exclude HVB treatment-home page and other Eviaskolan campuses. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b04_14872951_01",
+    "school_id": "14872951",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource teaching in adapted learning environments",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b04_14872951_01",
+    "coder_note": "Assistant contextual review; codebook v1; coding date 2026-10-27. Unit-specific Södertälje page address Hertig Carls väg 22 matches fresh official ID 14872951, resource-school flag and stored grades 4–9. Website does not state delivery years in this passage; 4–9 comes from official record. High staffing/smaller groups self-reported, not numerical official ratio or class size. Separate social-service treatment-school option not assumed for every pupil. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b04_15049834_01",
+    "school_id": "15049834",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Puls Sprint Go movement emphasis",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b04_15049834_01",
+    "coder_note": "Assistant contextual review; codebook v1; coding date 2026-10-27. Lilla Alby F–6 municipal school page, stored grades 1–6; named movement initiative stated under Pedagogik. Context also describes cross-age buddy system and scheduled values lessons. Do not infer activity duration, health effects or universal frequency. Nearby parks and occasional theme weeks insufficient for outdoor/project code. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b04_15171331_01",
+    "school_id": "15171331",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "House-system community and belonging",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b04_15171331_01",
+    "coder_note": "Assistant contextual review; codebook v1; coding date 2026-10-27. Essingen-specific page explicitly applies House-system to this school, grades 4–9; about page address Segelbåtsvägen 11b. Linked provider Houses page explains mixed-year membership and regular meetings; provider detail is context, not sole unit evidence. Code only concrete community/wellbeing emphasis. International milieu/inspired pedagogy is too broad for a firm language category; page explicitly says teaching in Swedish. No bilingual/international-curriculum claim. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

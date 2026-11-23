@@ -1,0 +1,32 @@
+{
+  "school_id": "93320132",
+  "school_name": "S:ta Gertruds skola",
+  "registered_url": "http://www.sigtuna.se/stagertrudsskola",
+  "pages": [
+    {
+      "requested_url": "https://www.sigtuna.se/stagertrudsskola",
+      "source_url": "https://www.sigtuna.se/stagertrudsskola",
+      "page_title": "S:ta Gertruds skola - Sigtuna kommun",
+      "accessed_at": "2026-10-21T17:44:02.717872+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "93320132_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sigtuna.se/stagertrudsskola",
+          "robots_url": "https://www.sigtuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:22.390077+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

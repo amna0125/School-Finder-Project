@@ -1,0 +1,52 @@
+{
+  "school_id": "73893187",
+  "school_name": "Maria Elementarskola",
+  "registered_url": "http://www.mariaelementar.se",
+  "pages": [
+    {
+      "requested_url": "https://www.mariaelementarskola.se/",
+      "source_url": "https://www.mariaelementarskola.se/",
+      "page_title": "Maria Elementarskola | undervisning | Kvarngatan 18, 118 47 Stockholm, Sverige",
+      "accessed_at": "2026-10-21T17:40:31.508355+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73893187_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mariaelementarskola.se/",
+          "robots_url": "https://www.mariaelementarskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:30.622517+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.mariaelementarskola.se/pedagogisk-resurs-till-skola-och-fritids",
+      "source_url": "https://www.mariaelementarskola.se/pedagogisk-resurs-till-skola-och-fritids",
+      "page_title": "Spontanansökan till skola och fritids | Maria Elementarskola",
+      "accessed_at": "2026-10-21T17:40:32.522889+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73893187_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mariaelementarskola.se/pedagogisk-resurs-till-skola-och-fritids",
+          "robots_url": "https://www.mariaelementarskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:30.622517+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

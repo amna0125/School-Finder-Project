@@ -1,0 +1,142 @@
+[
+  {
+    "evidence_id": "ae_sr_83584296_01",
+    "school_id": "83584296",
+    "source_url": "https://engelska.se/sv/",
+    "page_title": "Internationella Engelska Skolan – En trygg skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Network-level bilingual profile; unit not confirmed."
+  },
+  {
+    "evidence_id": "ae_sr_83735665_01",
+    "school_id": "83735665",
+    "source_url": "https://siaskolan.se/fokus-pa-undervisningskvalitet/",
+    "page_title": "Fokus på undervisningskvalitet – Stockholm International Academy",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Läsning är hjärtat i elevernas inlärning.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Group-level reading emphasis; not unit-specific."
+  },
+  {
+    "evidence_id": "ae_sr_83810698_01",
+    "school_id": "83810698",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/elinsborgsskolan",
+    "page_title": "Elinsborgsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vår skola ligger nära Järvafältet, och vi har ett uppskattat samarbete med Eggeby gårds naturskola.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Nature-school collaboration for practical nature learning."
+  },
+  {
+    "evidence_id": "ae_sr_83810698_02",
+    "school_id": "83810698",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/elinsborgsskolan",
+    "page_title": "Elinsborgsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Ett språkutvecklande arbetssätt genomsyrar alla våra ämnen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Language-developing approach."
+  },
+  {
+    "evidence_id": "ae_sr_83828066_01",
+    "school_id": "83828066",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nya-elementar",
+    "page_title": "Nya Elementar, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi använder också grönområdena nära skolan i undervisningen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Local nature used in teaching."
+  },
+  {
+    "evidence_id": "ae_sr_84230778_01",
+    "school_id": "84230778",
+    "source_url": "https://www.svalnas.se/",
+    "page_title": "Svalnäs ​Skola & Behandling - Start",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Dagbehandling med praktik",
+    "evidence_type": "School webpage",
+    "interpretation_note": "School combined with treatment."
+  },
+  {
+    "evidence_id": "ae_sr_84584068_01",
+    "school_id": "84584068",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/frotuna-skola/var-skola/",
+    "page_title": "Om Frötuna skola - Barn & skola | Norrtälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "All Äventyrsundervisning sker utomhus.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Outdoor adventure teaching in subjects for F–2."
+  },
+  {
+    "evidence_id": "ae_sr_84585645_01",
+    "school_id": "84585645",
+    "source_url": "https://hagaskolan.se/",
+    "page_title": "Hagaskolan – Waldorfskolan i Norrort",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Hagaskolan är en waldorfskola med cirka 150 elever från förskoleklass till årskurs 9.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Waldorf."
+  },
+  {
+    "evidence_id": "ae_sr_84585645_02",
+    "school_id": "84585645",
+    "source_url": "https://hagaskolan.se/",
+    "page_title": "Hagaskolan – Waldorfskolan i Norrort",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Med en friluftsdag i månaden samt dagliga fysiska aktiviteter stimuleras eleverna i linje med vad modern forskning stipulerar",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Regular outdoor days."
+  },
+  {
+    "evidence_id": "ae_sr_84704913_01",
+    "school_id": "84704913",
+    "source_url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/krusboda-skola.html",
+    "page_title": "Krusboda skola - Tyresö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi använder oss av närliggande skogsområden vid olika pedagogiska aktiviteter.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Local woods used in teaching."
+  },
+  {
+    "evidence_id": "ae_sr_85200474_01",
+    "school_id": "85200474",
+    "source_url": "https://magelungen.com/",
+    "page_title": "Magelungen - Hopp och förändring",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Skola för elever i omfattande behov av särskilt stöd med eller utan behandling.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "All Magelungen grundskolor are resource schools; applies to registered unit."
+  },
+  {
+    "evidence_id": "ae_sr_85777315_01",
+    "school_id": "85777315",
+    "source_url": "https://www.mikaelskolan.se/",
+    "page_title": "Grundskola Sollentuna | Mikaelskolan | Stockholms Län",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Mikaelskolan är en fristående grundskola med kristen profil.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Confessional profile."
+  },
+  {
+    "evidence_id": "ae_sr_85796724_01",
+    "school_id": "85796724",
+    "source_url": "https://kallskolan.se/om-oss/",
+    "page_title": "Om oss – Källskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Källskolan är en fristående skola med kristen profil i Kungsängen nordväst om Stockholm.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Confessional profile."
+  },
+  {
+    "evidence_id": "ae_sr_86086213_01",
+    "school_id": "86086213",
+    "source_url": "https://sofiaangen.se/grundskolan-ak-8-9/",
+    "page_title": "Grundskolan åk 8-9 - Sofiaängen",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Sofiaängen är en resursskola som välkomnar elever med omfattande behov av särskilt stöd, där undervisningen sker i mindre grupper för att säkerställa att varje elev får optimalt stöd.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Resource school."
+  }
+]

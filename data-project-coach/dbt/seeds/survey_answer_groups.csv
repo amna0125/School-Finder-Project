@@ -1,0 +1,12 @@
+measure,answer_group
+ratioCorrespondsFully,pos
+ratioCorrespondsWell,pos
+ratioAlways,pos
+ratioOften,pos
+ratioSometimes,mid
+ratioDoNotKnow,mid
+ratioCorrespondsPoorly,neg
+ratioCorrespondsNotAtAll,neg
+ratioSeldom,neg
+ratioNever,neg
+ratioNoAnswer,no_answer

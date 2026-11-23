@@ -1,0 +1,72 @@
+{
+  "school_id": "67809355",
+  "school_name": "Innovitaskolan Norrtälje",
+  "registered_url": "https://innovitaskolan.se/norrtalje/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/norrtalje/",
+      "source_url": "https://innovitaskolan.se/norrtalje/",
+      "page_title": "Innovitaskolan Norrtälje | Förskola–årskurs 6",
+      "accessed_at": "2026-10-21T17:39:26.441087+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "67809355_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/norrtalje/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/norrtalje/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/norrtalje/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Norrtälje | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:39:27.657730+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "67809355_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/norrtalje/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/norrtalje/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/norrtalje/om/grundskola/",
+      "page_title": "Vår grundskola | Innovitaskolan Norrtälje | Om skolan",
+      "accessed_at": "2026-10-21T17:39:28.829711+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "67809355_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/norrtalje/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

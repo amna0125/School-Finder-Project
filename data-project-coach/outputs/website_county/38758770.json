@@ -1,0 +1,55 @@
+{
+  "school_unit_code": "38758770",
+  "school_name": "Farsta grundskola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser",
+  "attempted_at": "2026-10-21T09:16:01.886341+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser",
+      "retrieved_at": "2026-10-21T09:16:04.936135+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "38758770_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vi har smyckat en gångtunnel i Farsta med elever och lärares konst",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "37f2f3c17ff61d6813bad05d0b05fcacb5120906790c08d494a6fd0c9ec3a4c7",
+      "school_unit_code": "38758770",
+      "school_name": "Farsta grundskola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser",
+      "retrieved_at": "2026-10-21T09:16:04.936135+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Farsta grundskola med Adolf Fredriks musikklasser, F–9 - Stockholms stad",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ab112bdd6c8aab393569d3056c47c6de91a8ab5d5b0385780084c26b90806b19",
+      "school_unit_code": "38758770",
+      "school_name": "Farsta grundskola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser",
+      "retrieved_at": "2026-10-21T09:16:04.936135+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "code_id": "ac_b20_34540901_01",
+    "school_id": "34540901",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Estonian language and culture",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b20_34540901_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Estonian language/culture emphasis, corroborated by homepage statement that Estonian language and culture permeate much teaching. Swedish curriculum and principal instructional language; not assumed English bilingual. Website F–9 vs official1–9; no current teacher-percentage comparison. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b20_35008423_01",
+    "school_id": "35008423",
+    "category": "Arts and creative learning",
+    "subcategory": "Dance profile; optional track",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b20_35008423_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Named dance profile, weekly dance in addition to ordinary PE, jazz/modern/streetdance. Applies to students choosing profile, not all students; official7–9. Page undated; copyright2012 does not establish publication/update date. Current website statement only. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b20_35008423_02",
+    "school_id": "35008423",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Må Bra fitness/wellbeing profile; optional track",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b20_35008423_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Named optional wellbeing/fitness profile with continuing fitness and strength training. Do not endorse intelligence, learning or stress-reduction effects; no special-support inference. Undated page; profile choice not whole-school compulsory approach. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b20_35129114_01",
+    "school_id": "35129114",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Swedish–English bilingual education",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b20_35129114_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Own Årsta source matches official4–9. Swedish national curriculum; page states up to half education delivered through English. Not all subjects/all teaching in English; no effectiveness inference or generic calm-school support code. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b20_35784391_01",
+    "school_id": "35784391",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school; individualized special support",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b20_35784391_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit resource-school support emphasis, official7–9 matches. Page describes individualized methodology, gradual induction and personal mentoring. Preserve duplicated till in exact source quotation. No diagnosis inferred for individuals and no wellbeing-effectiveness endorsement. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

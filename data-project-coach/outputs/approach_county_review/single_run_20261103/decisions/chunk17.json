@@ -1,0 +1,49 @@
+[
+{"sid":"92689250","o":"R","note":"Montessori Mondial Mälarhöjden F–5: Montessori pedagogy adapted to research; individual weekly planning with mentor.","ev":[
+ {"p":0,"q":"På Montessori Mondial Mälarhöjden anpassar vi beprövad montessoripedagogik efter den senaste forskningen och arbetar utifrån en vetenskaplig grund.","i":"Montessori pedagogy.","c":[["Alternative pedagogy","Montessori","E"]],"cn":"School claim."}]},
+{"sid":"92750123","o":"R","note":"Enskilda gymnasiet (grundskola 7–9): traditional, ordered teacher-led school; several literary works each term; drama on timetable.","ev":[
+ {"p":1,"q":"I vår strävan att utveckla hela människan och träna elevens kreativa sida har vi förutom bild, musik och slöjd även drama på schemat.","i":"Drama as an added timetabled subject.","c":[["Arts and creative learning","Drama on timetable","S"]],"cn":"Single added subject."},
+ {"p":1,"q":"Varje termin läser våra elever flera skönlitterära verk.","i":"Reading emphasis.","c":[["Other stated profile","Literary reading each term","S"]],"cn":"Per reading-emphasis precedent."}]},
+{"sid":"93301103","o":"R","note":"Aspdammskolan: resource school (shared site with Skolgrunden, Cedergrenska) for pupils needing special support; small groups.","ev":[
+ {"p":0,"q":"Aspdammskolan och Skolgrunden är två resursskolor med spetskompetens inom specialpedagogik som främst vänder sig till högstadieelever, årskurs 6 – 9, i behov av särskilt stöd.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"Per resource-school precedent; site shared by two units."}]},
+{"sid":"93320132","o":"B","why":"substantive page not reached","note":"Sigtuna landing page lists only navigation (incl. 'Arbetssätt och kvalitetsarbete' link not collected)."},
+{"sid":"93412255","o":"U","why":"isolated / generic claim","note":"Gubbängsskolan F–9: recurring themes with cross-class collaboration, framed as safety work; thin.","ev":[
+ {"p":0,"q":"Under läsåret har vi återkommande teman med samarbeten mellan elever i alla klasser.","i":"Recurring cross-class themes; unclear if teaching approach.","cn":"Not coded."}]},
+{"sid":"93844270","o":"B","why":"school-specific source not found","note":"Registered URL is Nykvarn municipal homepage; no Turingeskolan page collected."},
+{"sid":"93968806","o":"R","note":"Grönkullaskolan F–9 (Sundbyberg): Bornholm-inspired preschool class; language development prioritised.","ev":[
+ {"p":0,"q":"Våra lärare i förskoleklassen arbetar Bornholmsinspirerat, en metod med rim, ramsor med mera.","i":"Named early literacy method.","c":[["Other stated profile","Bornholmsmodellen (förskoleklass)","E"]],"cn":"Per Bornholm precedent."},
+ {"p":0,"q":"Vi arbetar med elevernas språkutveckling eftersom den är viktig för självförtroendet, för alla skolans ämnen och för framtiden.","i":"Language development stated as school-wide priority.","c":[["Other stated profile","Language-developing priority","S"]],"cn":"Per language-developing precedent."}]},
+{"sid":"94113162","o":"B","why":"school-specific source not found","note":"Registered URL is Österåker municipal homepage; no school page found."},
+{"sid":"94279206","o":"U","why":"unit scope unclear","note":"Collected page is Sjötorpsskolan F–6 (host school), which mentions a municipal resource school on site; unit's own page not found.","ev":[
+ {"p":0,"q":"På skolan finns också en kommunövergripande resursskola.","i":"Resource school exists on site; page is the host school's.","cn":"Not coded: unit scope."}]},
+{"sid":"94301041","o":"R","note":"Innovitaskolan Myrängen F–3: thematic, age-integrated, whole-day learning; provider concept Explore/Innovate/Balance.","ev":[
+ {"p":1,"q":"Vi jobbar tematiskt och med heldagslärande","i":"Thematic working stated on unit page.","c":[["Project- or inquiry-based learning","Thematic work","E"]],"cn":"School claim."}]},
+{"sid":"94600352","o":"R","note":"Ekedalsskolan F–5 (Värmdö): outdoor-life profile; outdoor classroom.","ev":[
+ {"p":1,"q":"Vi har en friluftsprofil som innebär att vi arbetar med elevernas kunskapsutveckling, rörelse och gemenskap i den fantastiska natur som omger vår skola.","i":"Outdoor profile.","c":[["Outdoor, nature, or place-based learning","Friluftsprofil","E"]],"cn":"Frequency for teaching not stated; fritids monthly."}]},
+{"sid":"94677983","o":"R","note":"Tullgårdsskolan F–6: staffed library actively used in teaching to promote reading; hbtqi-certified.","ev":[
+ {"p":0,"q":"Biblioteket används aktivt i undervisningen för att främja läsning, både på skol- och fritidstid.","i":"Reading emphasis via library.","c":[["Other stated profile","Reading promotion via library","S"]],"cn":"Per reading-emphasis precedent."}]},
+{"sid":"94791997","o":"R","note":"Svartbäcksskolan F–6 (Haninge): 'Hälsans skola' health-promoting profile.","ev":[
+ {"p":3,"q":"Svartbäcksskolan vill fungera som en hälsofrämjande plats där vi tillsammans arbetar för goda levnadsvanor","i":"Health profile.","c":[["Support, inclusion, or wellbeing emphasis","Hälsans skola (health profile)","E"]],"cn":"Per health-profile precedent."}]},
+{"sid":"94836092","o":"R","note":"Borgvallaskolan F–3 (Nacka): language and communication profile (English, rhetoric); Bornholmsmodellen; trivselledare.","ev":[
+ {"p":1,"q":"Vi har profilen språk och kommunikation med fokus på engelska och retorik.","i":"Language/rhetoric profile.","c":[["Language, international, or intercultural profile","Språk och kommunikation (English, rhetoric)","E"]],"cn":"School claim."},
+ {"p":1,"q":"Vi lägger också stor vikt vid elevernas läs- och skrivutveckling med hjälp av bland annat Bornholmsmodellen.","i":"Named literacy method.","c":[["Other stated profile","Bornholmsmodellen","E"]],"cn":"Per precedent."},
+ {"p":1,"q":"Nyligen så blev Borgvallaskolan en \"trivselskola\" med utbildade trivselledare","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent."}]},
+{"sid":"94864296","o":"N","note":"Åsö grundskola 7–9: student health, double-staffed maths lessons; no distinctive approach."},
+{"sid":"94902263","o":"R","note":"Viks skola F–6 (Värmdö): learning reinforced through aesthetic forms and literature; Täppan small-group setting; FRIS model.","ev":[
+ {"p":1,"q":"Viks skola är en kreativ mötesplats där lärandet förstärks genom estetiska uttrycksformer.","i":"Arts-integrated profile.","c":[["Arts and creative learning","Aesthetic forms of expression in learning","E"]],"cn":"School claim."},
+ {"p":1,"q":"På Täppan erbjuder vi en lugn och anpassad lärmiljö för elever i årskurs 1–6.","i":"On-site adapted small-group setting.","c":[["Support, inclusion, or wellbeing emphasis","Täppan small-group setting","S"]],"cn":"Per on-site special group precedent."}]},
+{"sid":"94943347","o":"R","note":"S:t Eriks katolska skola F–9: Catholic profile (weekly mass, Catholic orientation); all subjects language-developing.","ev":[
+ {"p":2,"q":"Utöver den lagstadgade timplanen ges eleverna ca 30 minuters katolsk orientering i veckan.","i":"Confessional profile.","c":[["Other stated profile","Catholic profile","E"]],"cn":"Subject teaching stated as non-confessional."},
+ {"p":0,"q":"Alla ämnen arbetar språkutvecklande.","i":"Language-developing approach stated as pervasive.","c":[["Other stated profile","Language-developing in all subjects","S"]],"cn":"Per precedent."}]},
+{"sid":"94987345","o":"N","note":"Ekebyskolan F–6 (Danderyd): health in centre, 'jag vill, jag vågar, jag kan'; generic."},
+{"sid":"95057356","o":"R","note":"Uppgårdskolan 7–9 (Ekerö): 21st century skills and entrepreneurial learning.","ev":[
+ {"p":0,"q":"Vi bygger det på 21st century skills och entreprenöriellt lärande.","i":"Entrepreneurial learning.","c":[["Other stated profile","Entrepreneurial learning","S"]],"cn":"No concrete practice described."}]},
+{"sid":"95432644","o":"B","why":"school-specific source not found","note":"Registered URL is Danderyd municipal homepage; no Baldersskolan page found."},
+{"sid":"95676943","o":"U","why":"unit scope unclear","note":"Kevingeskolan F–6: site mainly describes its anpassad grundskola (tydliggörande pedagogik, TAKK, low-arousal); unclear if this applies to the registered unit.","ev":[
+ {"p":1,"q":"Det innebär att vi använder tydliggörande pedagogik för händelser och situationer.","i":"Structured teaching in the anpassad grundskola.","cn":"Not coded: unit scope."}]},
+{"sid":"95747197","o":"N","note":"Noblaskolan Brevik F–6: Noblakoden structure; daily routine example from one class (silent reading, read-aloud). Per Noblaskolan precedent."},
+{"sid":"95869861","o":"N","note":"Kvisthamraskolan F–6 (Norrtälje): Rosen values, buddy system, library aspirations; generic."},
+{"sid":"95940425","o":"N","note":"Elevverket F–6: small school, Nobel theme tradition, chess club; generic."},
+{"sid":"96330648","o":"R","note":"Näsbyparksskolan 4–9 (Täby): accredited Erasmus school; mobile-free.","ev":[
+ {"p":0,"q":"Vi är en ackrediterad Erasmus-skola, vilket ger våra elever möjlighet till internationella samarbeten och utbyten.","i":"International exchange.","c":[["Language, international, or intercultural profile","Erasmus accredited","S"]],"cn":"Per Erasmus precedent."}]}
+]

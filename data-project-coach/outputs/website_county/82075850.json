@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "82075850",
+  "school_name": "Skarpatorpsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skarpatorpsskolan",
+  "attempted_at": "2026-10-21T09:17:12.841390+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skarpatorpsskolan",
+      "retrieved_at": "2026-10-21T09:17:13.831551+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skarpatorpsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "82075850_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "fullt utrustade praktiskt-estetiska salar inklusive labb-sal för alla ämnen",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a6244741197b2959cc728c9cd6126ec2f8cfcb366a79bea8b1086a0de6b74b04",
+      "school_unit_code": "82075850",
+      "school_name": "Skarpatorpsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skarpatorpsskolan",
+      "retrieved_at": "2026-10-21T09:17:13.831551+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

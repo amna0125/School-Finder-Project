@@ -1,0 +1,105 @@
+{
+  "school_unit_code": "78508835",
+  "school_name": "Sverigefinska skolan i Stockholm",
+  "registered_url": "http://www.sverigefinskaskolan.eu",
+  "attempted_at": "2026-10-21T09:17:07.685619+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.sverigefinskaskolan.eu/",
+      "retrieved_at": "2026-10-21T09:17:14.537960+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sverigefinskaskolan.eu",
+          "robots_url": "http://www.sverigefinskaskolan.eu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:08.725703+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sverigefinskaskolan.eu/",
+          "robots_url": "https://www.sverigefinskaskolan.eu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:10.403413+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "78508835_0.txt"
+    },
+    {
+      "source_url": "https://www.sverigefinskaskolan.eu/verksamhet/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:14.601089+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sverigefinskaskolan.eu/verksamhet/grundskola/",
+          "robots_url": "https://www.sverigefinskaskolan.eu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:10.403413+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "78508835_1.txt"
+    },
+    {
+      "source_url": "https://www.sverigefinskaskolan.eu/om-skolan/",
+      "retrieved_at": "2026-10-21T09:17:14.634041+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sverigefinskaskolan.eu/om-skolan/",
+          "robots_url": "https://www.sverigefinskaskolan.eu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:10.403413+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "78508835_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Vi erbjuder en trygg och inspirerande miljö där elever utvecklar både sin tvåspråkighet och stolthet över sin sverigefinska identitet.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "bbe05aa1f83649985f0536daf19da49e376329279a8cc0763ca99d94fc0d939d",
+      "school_unit_code": "78508835",
+      "school_name": "Sverigefinska skolan i Stockholm",
+      "source_url": "https://www.sverigefinskaskolan.eu/",
+      "retrieved_at": "2026-10-21T09:17:14.537960+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "enska då de flesta av våra elever fortsätter sina studier i svenska gymnasieskolor. Båda svenska och finska används dock under skoldagen och i undervisningen, speciellt i praktisk-estetiska ämnen. Vi har ämnesklassrum och eleverna byter klassrum mellan lektionerna.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "4f31477e2a427f08e715fa5d8136dec70631c9c1cf7816358a9bbb0ead4fa2ae",
+      "school_unit_code": "78508835",
+      "school_name": "Sverigefinska skolan i Stockholm",
+      "source_url": "https://www.sverigefinskaskolan.eu/verksamhet/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:14.601089+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Skolan har ett tvåspråkigt bibliotek med ett varierat utbud av böcker inom olika genrer samt klassuppsättningar på både finska och svenska från åk 1-9. Förutom satsningen på traditionella läromedel och litteratur har skolan även lyckats med ett omfattande digitaliseringsarbete, vilket resulterat i kvalitetsutmärkelsen Guldtrappan.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5d026352c830e24bb647f8e6621381a81b5daaa185c3bffa9c600753a0185233",
+      "school_unit_code": "78508835",
+      "school_name": "Sverigefinska skolan i Stockholm",
+      "source_url": "https://www.sverigefinskaskolan.eu/verksamhet/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:14.601089+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "original": "Contextual review recorded; Inaccessible source; access assessment unresolved",
+    "standard": "Blocked - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Contextual review recorded; Prior-source scoped review; fresh source inaccessible; Requires review",
+    "standard": "Blocked - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Contextual review recorded; Reviewed claim",
+    "standard": "Reviewed claim",
+    "schools": 87
+  },
+  {
+    "original": "Contextual review recorded; Reviewed explicit claim",
+    "standard": "Reviewed claim",
+    "schools": 4
+  },
+  {
+    "original": "Contextual review recorded; Scoped no clear approach evidence",
+    "standard": "No clear evidence in scoped review",
+    "schools": 25
+  },
+  {
+    "original": "Contextual review recorded; Uncertain evidence; Requires review",
+    "standard": "Uncertain evidence - requires review",
+    "schools": 32
+  },
+  {
+    "original": "Dormant status; requires review",
+    "standard": "Blocked - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Identity uncertainty; requires review",
+    "standard": "Blocked - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Inaccessible source; requires review",
+    "standard": "Blocked - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Inaccessible substantive source — requires review",
+    "standard": "Blocked - requires review",
+    "schools": 1
+  },
+  {
+    "original": "No clear evidence within scoped review",
+    "standard": "No clear evidence in scoped review",
+    "schools": 21
+  },
+  {
+    "original": "Not yet contextually reviewed",
+    "standard": "Not yet reviewed",
+    "schools": 459
+  },
+  {
+    "original": "Permission blocker",
+    "standard": "Blocked - requires review",
+    "schools": 2
+  },
+  {
+    "original": "Permission blocker / unresolved unit identity",
+    "standard": "Blocked - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Permission uncertainty; requires review",
+    "standard": "Blocked - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Prior contextual review; follow-ups may remain",
+    "standard": "Blocked - requires review",
+    "schools": 3
+  },
+  {
+    "original": "Prior contextual review; follow-ups may remain",
+    "standard": "No clear evidence in scoped review",
+    "schools": 4
+  },
+  {
+    "original": "Prior contextual review; follow-ups may remain",
+    "standard": "Reviewed claim",
+    "schools": 12
+  },
+  {
+    "original": "Prior contextual review; follow-ups may remain",
+    "standard": "Uncertain evidence - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Prior pilot review; scope caveats remain",
+    "standard": "Reviewed claim",
+    "schools": 3
+  },
+  {
+    "original": "Reviewed approach claim",
+    "standard": "Reviewed claim",
+    "schools": 15
+  },
+  {
+    "original": "Reviewed approach claims",
+    "standard": "Reviewed claim",
+    "schools": 10
+  },
+  {
+    "original": "Reviewed claim",
+    "standard": "Reviewed claim",
+    "schools": 34
+  },
+  {
+    "original": "Scoped no clear evidence",
+    "standard": "No clear evidence in scoped review",
+    "schools": 15
+  },
+  {
+    "original": "Uncertain evidence",
+    "standard": "Uncertain evidence - requires review",
+    "schools": 1
+  },
+  {
+    "original": "Uncertain evidence / requires review",
+    "standard": "Uncertain evidence - requires review",
+    "schools": 8
+  },
+  {
+    "original": "Uncertain evidence — no firm code",
+    "standard": "Uncertain evidence - requires review",
+    "schools": 2
+  },
+  {
+    "original": "Unclear evidence; no firm code",
+    "standard": "Uncertain evidence - requires review",
+    "schools": 5
+  },
+  {
+    "original": "Unclear evidence; requires review",
+    "standard": "Uncertain evidence - requires review",
+    "schools": 1
+  },
+  {
+    "original": "reviewed_claims",
+    "standard": "Reviewed claim",
+    "schools": 3
+  },
+  {
+    "original": "scoped_no_clear_evidence",
+    "standard": "No clear evidence in scoped review",
+    "schools": 4
+  },
+  {
+    "original": "uncertain_evidence",
+    "standard": "Uncertain evidence - requires review",
+    "schools": 3
+  }
+]

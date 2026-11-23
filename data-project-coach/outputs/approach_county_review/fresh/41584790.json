@@ -1,0 +1,72 @@
+{
+  "school_id": "41584790",
+  "school_name": "Järna Friskola",
+  "registered_url": "http://www.jarnafriskola.se",
+  "pages": [
+    {
+      "requested_url": "https://www.jarnafriskola.se/",
+      "source_url": "https://www.jarnafriskola.se/",
+      "page_title": "Järna friskola",
+      "accessed_at": "2026-10-21T17:33:52.644073+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "41584790_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.jarnafriskola.se/",
+          "robots_url": "https://www.jarnafriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:33:51.379223+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.jarnafriskola.se/var-skola/maria-montessori/",
+      "source_url": "https://www.jarnafriskola.se/var-skola/maria-montessori/",
+      "page_title": "Maria Montessori - Järna friskola",
+      "accessed_at": "2026-10-21T17:33:53.893095+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "41584790_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.jarnafriskola.se/var-skola/maria-montessori/",
+          "robots_url": "https://www.jarnafriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:33:51.379223+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.jarnafriskola.se/var-skola/atvexa-och-montessori-sverige/",
+      "source_url": "https://www.jarnafriskola.se/var-skola/atvexa-och-montessori-sverige/",
+      "page_title": "En del av Montessori Sverige och Atvexa - Järna friskola",
+      "accessed_at": "2026-10-21T17:33:55.125737+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "41584790_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.jarnafriskola.se/var-skola/atvexa-och-montessori-sverige/",
+          "robots_url": "https://www.jarnafriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:33:51.379223+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

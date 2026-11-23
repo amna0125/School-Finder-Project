@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "57034070",
+  "school_name": "Magelungens Grundskola Södermalm",
+  "registered_url": "http://www.magelungen.com",
+  "attempted_at": "2026-10-21T09:16:34.832715+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.magelungen.com",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "school_unit_code": "93968806",
+  "school_name": "Grönkullaskolan",
+  "registered_url": "http://www.sundbyberg.se/gronkullaskolan",
+  "attempted_at": "2026-10-21T09:23:51.807514+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.sundbyberg.se/gronkullaskolan",
+      "retrieved_at": "2026-10-21T09:23:53.406904+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sundbyberg.se/gronkullaskolan",
+          "robots_url": "https://www.sundbyberg.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.052373+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sundbyberg.se/gronkullaskolan",
+          "robots_url": "https://www.sundbyberg.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:13.511688+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "93968806_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Genom bild, slöjd och andra skapande aktiviteter får eleverna använda sin kreativitet och fantasi. Grönkullaskolan är med i flera Skapande Skola-projekt. Elever skapar poesi, teater, litteratur och musik tillsammans med kulturpedagoger och skolans lärare.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5ac6f24c8d979a9098d0ffa344092b3b1ec3ec08ce18c6b388a6bf503405c914",
+      "school_unit_code": "93968806",
+      "school_name": "Grönkullaskolan",
+      "source_url": "https://www.sundbyberg.se/gronkullaskolan",
+      "retrieved_at": "2026-10-21T09:23:53.406904+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": " omgivningen vid Rissne idrottsplats ligger Rissnehuset. Huset inrymmer, utöver klassrum och grupprum, fina och rymliga lokaler anpassade för träslöjd, textilslöjd, hemkunskap och musik.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0c2c58c888998a47917d7e40d0a5db1a53470d0c2455bdcae4cbfab7ac9b9954",
+      "school_unit_code": "93968806",
+      "school_name": "Grönkullaskolan",
+      "source_url": "https://www.sundbyberg.se/gronkullaskolan",
+      "retrieved_at": "2026-10-21T09:23:53.406904+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

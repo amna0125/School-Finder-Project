@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "42986451",
+  "school_name": "Fribergaskolan",
+  "registered_url": "https://www.danderyd.se/skolor/fribergaskolan/",
+  "attempted_at": "2026-10-21T09:16:08.310766+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.danderyd.se/skolor/fribergaskolan/",
+      "retrieved_at": "2026-10-21T09:16:10.820560+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/fribergaskolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:17.296287+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42986451_0.txt"
+    },
+    {
+      "source_url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:16:10.838118+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:17.296287+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42986451_1.txt"
+    },
+    {
+      "source_url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/var-organisation/",
+      "retrieved_at": "2026-10-21T09:16:10.852911+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/var-organisation/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:17.296287+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42986451_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

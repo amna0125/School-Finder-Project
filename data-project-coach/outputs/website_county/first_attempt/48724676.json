@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "48724676",
+  "school_name": "Kronängsskolan",
+  "registered_url": "http://vaxholm.se",
+  "attempted_at": "2026-10-21T09:16:22.645232+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://vaxholm.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

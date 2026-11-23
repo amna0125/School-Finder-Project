@@ -1,0 +1,9 @@
+{
+  "result": "PASSED",
+  "school_outcomes": 10,
+  "evidence": 10,
+  "codes": 6,
+  "source_hashes_verified": true,
+  "schema_revalidated": true,
+  "status": "STAGED_VALIDATED_NOT_LOADED"
+}

@@ -1,0 +1,17 @@
+{
+  "school_id": "56315778",
+  "school_name": "Brunnaskolan",
+  "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/brunnaskolan.html",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/brunnaskolan.html",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:38:04.307244+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

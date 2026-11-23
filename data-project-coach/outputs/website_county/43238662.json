@@ -1,0 +1,65 @@
+{
+  "school_unit_code": "43238662",
+  "school_name": "Björkhaga Skola",
+  "registered_url": "http://www.botkyrka.se/bjorkhagaskola",
+  "attempted_at": "2026-10-21T09:21:35.493001+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "terms_link_detected_bulk_followup_paused",
+  "terms_urls": [
+    "https://www.botkyrka.se/uppleva-och-gora/idrott-och-motion/idrottsanlaggningar-och-lokaler/villkor-for-bokning"
+  ],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.botkyrka.se/bjorkhagaskola",
+      "retrieved_at": "2026-10-21T09:21:38.730865+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.botkyrka.se/bjorkhagaskola",
+          "robots_url": "https://www.botkyrka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:52.938093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.botkyrka.se/bjorkhagaskola",
+          "robots_url": "https://www.botkyrka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:36.888691+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "43238662_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "utsättningar och utgår från Lgra22. I vårt arbetslag arbetar legitimerade lärare, lärare mot fritidshem samt assistenter. Förutom det så får våra elever undervisning i de praktisk estetiska ämnena av skolans pedagoger i dessa ämnen. Vår undervisning bedrivs både i grupp och genom enskild undervisning. Vi skapar trygghet genom en tydlighet och en struktur där varje skoldag börjar och slutar på samma sätt och där bildstöd används bland annat för att tydliggöra schemat för dagen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "2e33c96c9a4371fe98c78f1c4b970f3a7a894f0bbf83e87c13bd80412f92c1c1",
+      "school_unit_code": "43238662",
+      "school_name": "Björkhaga Skola",
+      "source_url": "https://www.botkyrka.se/bjorkhagaskola",
+      "retrieved_at": "2026-10-21T09:21:38.730865+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "ivs genom att ständigt ha fokus på trivsel, trygghet och studiero. Här får eleverna kunskaper och färdigheter för att lyckas i sina kommande studier och yrkesval. Genom demokrati, musik och andra kulturella intryck utbildar vi framtida världsmedborgare.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c3cbf2e7fef458dce5dff0dcce8066c8a2730bcc5f11c53af78f98d300654e4e",
+      "school_unit_code": "43238662",
+      "school_name": "Björkhaga Skola",
+      "source_url": "https://www.botkyrka.se/bjorkhagaskola",
+      "retrieved_at": "2026-10-21T09:21:38.730865+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

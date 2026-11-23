@@ -1,0 +1,52 @@
+{
+  "school_id": "63111806",
+  "school_name": "Källskolan",
+  "registered_url": "http://www.kallskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://kallskolan.se/",
+      "source_url": "https://kallskolan.se/",
+      "page_title": "Källskolan",
+      "accessed_at": "2026-10-21T17:38:54.584116+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "63111806_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://kallskolan.se/",
+          "robots_url": "https://kallskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:53.483821+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://kallskolan.se/om-oss/",
+      "source_url": "https://kallskolan.se/om-oss/",
+      "page_title": "Om oss – Källskolan",
+      "accessed_at": "2026-10-21T17:38:55.680064+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "63111806_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://kallskolan.se/om-oss/",
+          "robots_url": "https://kallskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:53.483821+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

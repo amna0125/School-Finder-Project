@@ -1,0 +1,7 @@
+{
+  "status": "PASSED",
+  "exact_quotes": 7,
+  "source_hashes": true,
+  "target_tuples": true,
+  "official_fingerprints_unchanged": true
+}

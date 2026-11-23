@@ -1,0 +1,45 @@
+{
+  "school_unit_code": "67788311",
+  "school_name": "Noblaskolan Sundbyberg",
+  "registered_url": "https://noblaskolan.se/sundbyberg/",
+  "attempted_at": "2026-10-21T09:16:47.054928+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://noblaskolan.se/sundbyberg/",
+      "retrieved_at": "2026-10-21T09:16:48.600393+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/sundbyberg/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67788311_0.txt"
+    },
+    {
+      "source_url": "https://noblaskolan.se/sundbyberg/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:48.649221+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/sundbyberg/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67788311_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

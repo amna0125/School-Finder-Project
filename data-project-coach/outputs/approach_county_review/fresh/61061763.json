@@ -1,0 +1,17 @@
+{
+  "school_id": "61061763",
+  "school_name": "Finnstaskolan",
+  "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/finnstaskolan.html",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/finnstaskolan.html",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:38:43.015319+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

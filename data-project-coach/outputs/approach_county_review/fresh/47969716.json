@@ -1,0 +1,52 @@
+{
+  "school_id": "47969716",
+  "school_name": "SSHL Sigtunaskolan Humanistiska Läroverket",
+  "registered_url": "http://www.sshl.se",
+  "pages": [
+    {
+      "requested_url": "https://sshl.se/",
+      "source_url": "https://sshl.se/",
+      "page_title": "Sigtunaskolan Humanistiska läroverket - SSHL",
+      "accessed_at": "2026-10-21T17:36:09.022766+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "47969716_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://sshl.se/",
+          "robots_url": "https://sshl.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:08.252459+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://sshl.se/svenska-utbildningar/grundskola/",
+      "source_url": "https://sshl.se/svenska-utbildningar/grundskola/",
+      "page_title": "Grundskolan åk 9 - SSHL",
+      "accessed_at": "2026-10-21T17:36:09.897100+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "47969716_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://sshl.se/svenska-utbildningar/grundskola/",
+          "robots_url": "https://sshl.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:08.252459+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "code_id": "ac_sr_80612612_01",
+    "school_id": "80612612",
+    "category": "Alternative pedagogy",
+    "subcategory": "Reggio Emilia-inspired",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_80612612_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. 'Inspired' rather than full model.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_80612612_02",
+    "school_id": "80612612",
+    "category": "Other stated profile",
+    "subcategory": "Skola för hållbar utveckling (award)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_80612612_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Award not independently checked.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_80731562_01",
+    "school_id": "80731562",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Health profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_80731562_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Cf. JENSEN Långholmen.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_80731562_02",
+    "school_id": "80731562",
+    "category": "Other stated profile",
+    "subcategory": "Traditional teacher-led; handwriting emphasis",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_80731562_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Cf. JENSEN Långholmen.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_80746043_01",
+    "school_id": "80746043",
+    "category": "Other stated profile",
+    "subcategory": "Bornholmsmodellen",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_80746043_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_80752058_01",
+    "school_id": "80752058",
+    "category": "Other stated profile",
+    "subcategory": "Traditional teacher-led; handwriting emphasis",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_80752058_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Cf. JENSEN Långholmen.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_81266343_01",
+    "school_id": "81266343",
+    "category": "Other stated profile",
+    "subcategory": "Personalised learning (Kunskapsskolan model)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_81266343_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Consistent with other Kunskapsskolan units.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_81396509_01",
+    "school_id": "81396509",
+    "category": "Other stated profile",
+    "subcategory": "Half-class teaching in lower years",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_81396509_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Organisational feature.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_81453817_01",
+    "school_id": "81453817",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Lärandemodellen cross-subject assignments",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_81453817_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Provider-level; consistent with earlier Lärande coding (Supported).",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_81857869_01",
+    "school_id": "81857869",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Universal Design for Learning",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_81857869_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Framework named; practice detail limited.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_81903519_01",
+    "school_id": "81903519",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "PAX",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_81903519_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent for named programmes.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_82110758_01",
+    "school_id": "82110758",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "MVP and Agera; special teaching groups",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_82110758_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. City-wide models.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_82212978_01",
+    "school_id": "82212978",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_82212978_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Provider site names this unit (F–3).",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_82408375_01",
+    "school_id": "82408375",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_82408375_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_82757734_01",
+    "school_id": "82757734",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor teaching across subjects",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_82757734_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Framed as opportunity; frequency not stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_82854505_01",
+    "school_id": "82854505",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_82854505_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_82962565_01",
+    "school_id": "82962565",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Barn gör rätt om de kan stance",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_82962565_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Cf. Bergfoten.",
+    "review_status": "Reviewed"
+  }
+]

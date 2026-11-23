@@ -1,0 +1,1 @@
+{"robots_url": "https://www.haninge.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T17:36:04.371642+00:00", "state": "parsed", "crawl_delay": 0, "body": "# All robots allowed!\r\nUser-agent: *\r\nDisallow:\r\n\r\n# Sitemap files\r\nSitemap: https://www.haninge.se/sitemap.xml"}

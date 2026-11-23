@@ -1,0 +1,19 @@
+--- 
++++ 
+@@ -1,9 +1,11 @@
+-# Current checkpoint — Batch20, 2026-10-30
++# Current checkpoint — Batch21, 2026-10-30
+ 
+-Append indigo-aardvark +12 evidence/+5 codes; replay silky-squid +0/+0. Totals250 evidence/180 codes, not school counts. Exact staging/target checks and prior records preserved, official fingerprints unchanged.22 unittest tests passed.
++Append jasper-centipede +9 evidence/+9 codes; replay holistic-herring +0/+0. Totals259 evidence/189 codes, not school counts. Exact staging/target checks and prior records preserved; official fingerprints unchanged.22 unittest tests passed (tests directory); initial wrong discovery path ran0 and is not counted as a pass. Independent quotation/hash/target check passed.
+ 
+-Ledger county_progress_20261030_after_batch20.csv:213 documented outcomes/549 pending/762 unique official IDs; exactly10 rows changed. Not213 resolved schools or county completion. Minimum200 already reached. Next next_batch_after_batch20.json, ascending pending IDs, on-demand batches of10.
++Ledger county_progress_20261030_after_batch21.csv:223 documented outcomes/539 pending/762 unique official IDs, exactly10 rows changed. Not223 resolved schools or county completion. Minimum200 already reached. Next next_batch_after_batch21.json; ascending pending IDs, on-demand batches of10.
+ 
+-Batch20:4 schools with5 reviewed self-description codes;2 scoped no-clear-evidence,1 unclear arts statement,1 inaccessible source,1 identity uncertainty,1 dormant-status case. Follow-ups: ID34672217 database Stavsborgsskolan vs ledger/URL Älta resursskola, explicitly separate unit; no support code. Runmarö dormant2026/27; no current outdoor code. Solbergaskolan Stockholm outage403 on robots; no school content/no bypass. Källberga F–6/7–9 site split vs official1–7. Bergius dance/Må Bra optional undated profile pages; no causal effects inferred. Carlssons arts wording and Lilla single entrepreneurial project insufficient for firm approach labels. Self-reported Lilla class-size and DiStra adults ratio not official comparable teacher metrics. Prior batch caveats remain in their review logs and workflow_before_batch20.md.
++Batch21:6 schools with9 reviewed self-description codes;3 scoped no-clear-evidence;1 uncertain language/health emphasis without firm code.9 evidence rows. Reviewed claims are not independently verified practice. Tunaskolan registered404 but current municipal200; Vällingby/Högland now accessible without rewriting historical access records. Kottla verified official ID36276828,7–9,Lidingö; DB name Futuraskolan AB retained. Swedish curriculum plus IMYC, not separate International School of Stockholm permit/curriculum. F-class vs official1–9/1–6 differences and shared preschool/anpassad-school scope exclusions retained. Unverified pupil/group/staff and PE-comparator claims not official comparable metrics. See collection_log.csv, review_log.csv and decision_log.md.
+ 
+-Do not rerun one-time builders/checkpoints including Batch20 or earlier. Dashboard deferred. No unattended schedule.
++Earlier caveats remain in workflow_before_batch21.md and previous batch logs, including Solbergaskolan403, Älta/Stavsborg identity mismatch, Runmarö dormant status and earlier reconciliation needs. Processing is not resolving every follow-up.
++
++Do not rerun one-time builders/checkpoints including Batch21 or earlier. Dashboard deferred. No unattended schedule.

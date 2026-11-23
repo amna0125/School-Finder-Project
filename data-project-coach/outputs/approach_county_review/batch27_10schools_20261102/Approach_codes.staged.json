@@ -1,0 +1,68 @@
+[
+  {
+    "code_id": "ac_b27_42149666_01",
+    "school_id": "42149666",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Multi-teacher system and common lesson structure",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b27_42149666_01",
+    "coder_note": "Assistant contextual review, codebook v1. Official years1–9; browser page F–9 across two buildings. Concrete multi-teacher system and common lesson structure jointly support learning-environment emphasis (Supported/Medium), not an explicit named support pedagogy. Staffing wording is self-reported, not class size or comparable official statistic. Raw HTML decoding failure preserved; quotations from ordinary browser excerpt. Reviewed public wording, not independently verified practice. Joint support: ae_b27_42149666_01 and ae_b27_42149666_02; one label row to respect existing loader uniqueness.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b27_42179975_01",
+    "school_id": "42179975",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Thematic interdisciplinary work, years1–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b27_42179975_01",
+    "coder_note": "Assistant contextual review, codebook v1. Official years1–3; school page F–3. Sustained thematic/interdisciplinary work with pupils questions supports inquiry approach. Creative environment adjective alone not separately coded as arts; practical-aesthetic subjects within themes noted but no extra arts label. Preschool-only project pedagogy on homepage excluded. Reviewed public wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b27_42328518_01",
+    "school_id": "42328518",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "French spetsutbildning, selective years7–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b27_42328518_01",
+    "coder_note": "Assistant contextual review, codebook v1. Official years1–9; combined homepage includes gymnasium, excluded. French spets programme explicitly years7–9 and selective admission: do not apply advanced programme to all pupils. Language label here limited to this explicitly scoped programme; exchanges described separately but no grade scope assumed. School claims not independently verified. Reviewed public wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b27_42434583_01",
+    "school_id": "42434583",
+    "category": "Other stated profile",
+    "subcategory": "Literacy emphasis and cross-subject literary themes",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b27_42434583_01",
+    "coder_note": "Assistant contextual review, codebook v1. Official years1–9; website F–9. Reading explicitly described as a pillar with literary themes across all subjects: Other stated profile, literacy thematic emphasis, not language/international or arts by inference. KSU autism groups not generalized; ordinary subject lists and nature proximity excluded. Reviewed public wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b27_42986451_01",
+    "school_id": "42986451",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "International exchanges and study trips",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b27_42986451_01",
+    "coder_note": "Assistant contextual review, codebook v1. Official and website years7–9. Explicit international profile and weekly Motivation och hälsa / Motivationslyftet. Effectiveness unverified. Choir at ceremonies alone not arts approach. Homepage pupil count about435 differs from about page about560; neither used as official statistic. Reviewed public wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b27_42986451_02",
+    "school_id": "42986451",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Motivationslyftet, weekly Motivation och hälsa",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b27_42986451_02",
+    "coder_note": "Assistant contextual review, codebook v1. Official and website years7–9. Explicit international profile and weekly Motivation och hälsa / Motivationslyftet. Effectiveness unverified. Choir at ceremonies alone not arts approach. Homepage pupil count about435 differs from about page about560; neither used as official statistic. Reviewed public wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

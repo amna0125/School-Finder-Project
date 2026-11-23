@@ -1,0 +1,46 @@
+[
+  {
+    "code_id": "ac_63bdb9603aff9911d138fef2",
+    "school_id": "23498302",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_d5f111dc9fd722ed76d715bf",
+    "coder_note": "Assistant source-context review and consistency pass, codebook v1, 2026-10-21. Direct statement supports this public-claim label, not implementation quality. Shared site explicitly names Anne Frank (4–6) and Färgargårdstorget (F–3); statement covers both. Prior register year-range discrepancy remains unresolved.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_2d09ea583d3c715c6402f8e4",
+    "school_id": "36066067",
+    "category": "Arts and creative learning",
+    "subcategory": "Music",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_563ad5815adecb2455cb636f",
+    "coder_note": "Assistant source-context review and consistency pass, codebook v1, 2026-10-21. Direct statement supports this public-claim label, not implementation quality. Grundskola-specific page; active GR directory maps name to 36066067. Existing detail-derived database name says Musikgymnasium: unresolved source-name conflict, not silently corrected.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_9c415f67a46305c0527246b4",
+    "school_id": "98760751",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf/Steiner",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_fba582b443b973ef43a0945c",
+    "coder_note": "Assistant source-context review and consistency pass, codebook v1, 2026-10-21. Direct statement supports this public-claim label, not implementation quality. School-wide pedagogy description on shared grundskola/gymnasium site; not a class-specific observation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_8e7fc5fa8f717841dd3ed9ec",
+    "school_id": "98760751",
+    "category": "Arts and creative learning",
+    "subcategory": "Arts integration",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_03d349a22c02745168a98608",
+    "coder_note": "Assistant source-context review and consistency pass, codebook v1, 2026-10-21. Direct statement supports this public-claim label, not implementation quality. School-wide description of Waldorf pedagogy; shared grundskola/gymnasium site. Does not establish independent arts-specialist accreditation.",
+    "review_status": "Reviewed"
+  }
+]

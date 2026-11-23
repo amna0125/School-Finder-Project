@@ -1,0 +1,93 @@
+{
+  "school_unit_code": "12801932",
+  "school_name": "Ulvsättraskolan",
+  "registered_url": "http://www.jarfalla.se",
+  "attempted_at": "2026-10-21T09:19:59.741027+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.jarfalla.se/",
+      "retrieved_at": "2026-10-21T09:20:06.438310+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.jarfalla.se",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.254996+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.jarfalla.se/",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.957095+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12801932_0.txt"
+    },
+    {
+      "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html",
+      "retrieved_at": "2026-10-21T09:20:06.512328+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.957095+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12801932_1.txt"
+    },
+    {
+      "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html",
+      "retrieved_at": "2026-10-21T09:20:06.584957+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.957095+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12801932_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "ter vi extra fokus på kulturen i Järfälla. Under hela månaden erbjuds ett brett program med kulturupplevelser för alla åldrar och intressen. Besökare kan ta del av allt från jazz, teater, musik och konst till show, föreläsningar och familjeaktiviteter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d4ab0d26d1241b771353bee52c54591c6a01515db85c3b1d1909d6ab3f030f64",
+      "school_unit_code": "12801932",
+      "school_name": "Ulvsättraskolan",
+      "source_url": "https://www.jarfalla.se/",
+      "retrieved_at": "2026-10-21T09:20:06.438310+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "xtra fokus på kulturen i Järfälla. Under hela månaden erbjuds ett brett program med kulturupplevelser för alla åldrar och intressen. Besökare kan ta del av allt från jazz, teater, musik och konst till show, föreläsningar och familjeaktiviteter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "78a7c9010a9ddce9da5d49811c4af078c61c8319f8bdea9ae1df886774ac78a4",
+      "school_unit_code": "12801932",
+      "school_name": "Ulvsättraskolan",
+      "source_url": "https://www.jarfalla.se/",
+      "retrieved_at": "2026-10-21T09:20:06.438310+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

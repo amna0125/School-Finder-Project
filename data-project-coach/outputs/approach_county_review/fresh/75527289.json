@@ -1,0 +1,14 @@
+{
+  "school_id": "75527289",
+  "school_name": "Västerhaninge Montessoriskola Ugglan",
+  "registered_url": "http://www.ugglan.net",
+  "pages": [],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "terms_review_required",
+  "terms_urls": [
+    "https://ugglan.net/villkor-och-policys/"
+  ]
+}

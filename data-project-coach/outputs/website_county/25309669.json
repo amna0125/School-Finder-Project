@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "25309669",
+  "school_name": "Kunskapsskolan Täby",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/taby",
+  "attempted_at": "2026-10-21T09:15:40.644284+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/taby",
+      "retrieved_at": "2026-10-21T09:15:50.398954+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/taby",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "25309669_0.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/kontakta-oss",
+      "retrieved_at": "2026-10-21T09:15:50.425073+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "25309669_1.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:50.632201+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "25309669_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "e799215c686d98bd05cae282ef765c12f40fbf466d6f341529ce7f7f7fedaac2",
+      "school_unit_code": "25309669",
+      "school_name": "Kunskapsskolan Täby",
+      "source_url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:50.632201+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Musik skapad av elever i åttan spelades upp av Västerås symfoniorkester",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "491ac8db2ffa78bc153c45da96198089d26b74b637c3284c9265c91529925834",
+      "school_unit_code": "25309669",
+      "school_name": "Kunskapsskolan Täby",
+      "source_url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:50.632201+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

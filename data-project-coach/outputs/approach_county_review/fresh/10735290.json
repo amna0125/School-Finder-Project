@@ -1,0 +1,32 @@
+{
+  "school_id": "10735290",
+  "school_name": "Stocksundsskolan",
+  "registered_url": "https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/",
+      "source_url": "https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/",
+      "page_title": "Stocksundsskolan och Långängsskolan – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:26:28.850019+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10735290_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.117771+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

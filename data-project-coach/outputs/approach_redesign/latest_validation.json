@@ -1,0 +1,60 @@
+{
+  "status": "COMPLETED",
+  "backup": "outputs/approach_redesign/migration_20261021T140032Z/schools_before_replacement.sqlite",
+  "dlt_load_ids": [
+    "1792591232.8176596"
+  ],
+  "dropped_tables": [
+    "school_focus_evidence",
+    "school_focus_coverage",
+    "school_focus_profiles",
+    "school_focus_county_coverage__terms_urls",
+    "school_focus_county_candidates",
+    "school_focus_county_coverage__errors",
+    "school_focus_county_coverage",
+    "school_focus_county_coverage__pages",
+    "school_focus_county_coverage__pages__robots_checks"
+  ],
+  "official_before": {
+    "schools": {
+      "rows": 762,
+      "sha256": "8dc22558b61537bbebcc0112032112b2f60ae30079d3356cb8048d6bc671c7d3"
+    },
+    "statistics": {
+      "rows": 45868,
+      "sha256": "17d367598bbb2ff5b367434818e7b72f53381ea46b1983f47a24f2343bdf9263"
+    },
+    "survey_observations": {
+      "rows": 84610,
+      "sha256": "22c3733fffcb8b09a0e1f651f0b9fa0373cbc7228690695aecd9a7c514b96bdc"
+    },
+    "source_coverage": {
+      "rows": 3048,
+      "sha256": "fec5c9dfb334c7f7bc007bb071d0752a5346ee4066471e9441899cb0273102c0"
+    }
+  },
+  "official_after": {
+    "schools": {
+      "rows": 762,
+      "sha256": "8dc22558b61537bbebcc0112032112b2f60ae30079d3356cb8048d6bc671c7d3"
+    },
+    "statistics": {
+      "rows": 45868,
+      "sha256": "17d367598bbb2ff5b367434818e7b72f53381ea46b1983f47a24f2343bdf9263"
+    },
+    "survey_observations": {
+      "rows": 84610,
+      "sha256": "22c3733fffcb8b09a0e1f651f0b9fa0373cbc7228690695aecd9a7c514b96bdc"
+    },
+    "source_coverage": {
+      "rows": 3048,
+      "sha256": "fec5c9dfb334c7f7bc007bb071d0752a5346ee4066471e9441899cb0273102c0"
+    }
+  },
+  "integrity_check": "ok",
+  "foreign_key_violations": 0,
+  "evidence_rows": 4,
+  "code_rows": 4,
+  "schools_coded": 3,
+  "county_schools_not_recoded": 759
+}

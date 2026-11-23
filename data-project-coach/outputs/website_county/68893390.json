@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "68893390",
+  "school_name": "Ulvsundaskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ulvsundaskolan",
+  "attempted_at": "2026-10-21T09:16:49.021482+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ulvsundaskolan",
+      "retrieved_at": "2026-10-21T09:16:51.693053+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ulvsundaskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "68893390_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "På vårt fritidshem erbjuder vi en meningsfull fritid med fokus på musik, skapande och rörelse. Genom lek och gemenskap utvecklar barnen sin identitet och sociala förmågor.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "e72e9fdece55bd349627d99e79b97b8112a3f7f7c03f64fb6f366700e74de03e",
+      "school_unit_code": "68893390",
+      "school_name": "Ulvsundaskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ulvsundaskolan",
+      "retrieved_at": "2026-10-21T09:16:51.693053+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

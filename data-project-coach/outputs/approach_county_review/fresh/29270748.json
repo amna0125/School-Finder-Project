@@ -1,0 +1,52 @@
+{
+  "school_id": "29270748",
+  "school_name": "Vanadisskolan",
+  "registered_url": "http://www.iofi.se",
+  "pages": [
+    {
+      "requested_url": "https://www.iofi.se/",
+      "source_url": "https://www.iofi.se/",
+      "page_title": "IOFI - Individ och Familjeinsatser",
+      "accessed_at": "2026-10-21T17:31:37.503190+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29270748_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.iofi.se/",
+          "robots_url": "https://www.iofi.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:36.169877+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.iofi.se/vardegrund",
+      "source_url": "https://www.iofi.se/vardegrund",
+      "page_title": "Vår värdegrund – Individ- och familjeinsatser med trygghet och evidens | IOFI — IOFI Individ och familjeinsatser",
+      "accessed_at": "2026-10-21T17:31:38.564275+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29270748_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.iofi.se/vardegrund",
+          "robots_url": "https://www.iofi.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:36.169877+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

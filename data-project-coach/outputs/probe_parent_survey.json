@@ -1,0 +1,85 @@
+{
+  "status" : "OK",
+  "message" : "Success",
+  "body" : {
+    "schoolUnitCode" : "98760751",
+    "semester" : "VT26",
+    "noOfAnswers" : "350",
+    "recommendMetrics" : {
+      "average" : null,
+      "ratioCorrespondsFully" : null,
+      "ratioCorrespondsWell" : null,
+      "ratioCorrespondsPoorly" : null,
+      "ratioCorrespondsNotAtAll" : null,
+      "ratioDoNotKnow" : null,
+      "ratioNoAnswer" : null,
+      "questionDescription" : null,
+      "questionSubject" : null
+    },
+    "satisfactionMetrics" : {
+      "average" : "7,4",
+      "ratioCorrespondsFully" : "44%",
+      "ratioCorrespondsWell" : "36%",
+      "ratioCorrespondsPoorly" : "17%",
+      "ratioCorrespondsNotAtAll" : "3%",
+      "ratioDoNotKnow" : "0%",
+      "ratioNoAnswer" : "0%",
+      "questionDescription" : "Hur nöjd är du med ditt barns skola?",
+      "questionSubject" : "Övergripande nöjdhet"
+    },
+    "securityMetrics" : {
+      "average" : "7,6",
+      "ratioCorrespondsFully" : "51%",
+      "ratioCorrespondsWell" : "31%",
+      "ratioCorrespondsPoorly" : "15%",
+      "ratioCorrespondsNotAtAll" : "3%",
+      "ratioDoNotKnow" : "0%",
+      "ratioNoAnswer" : "0%",
+      "questionDescription" : "Upplever du att ditt barn känner sig tryggt i skolan?",
+      "questionSubject" : "Trygghet"
+    },
+    "workingEnvironmentMetrics" : {
+      "average" : "6,4",
+      "ratioCorrespondsFully" : null,
+      "ratioCorrespondsWell" : null,
+      "ratioCorrespondsPoorly" : null,
+      "ratioCorrespondsNotAtAll" : null,
+      "ratioDoNotKnow" : "5%",
+      "ratioNoAnswer" : "0%",
+      "questionDescription" : "Hur ofta verkar det vara arbetsro på lektionerna?",
+      "questionSubject" : "Studiero",
+      "ratioAlways" : "12%",
+      "ratioOften" : "48%",
+      "ratioSometimes" : "21%",
+      "ratioSeldom" : "10%",
+      "ratioNever" : "4%"
+    },
+    "supportMetrics" : {
+      "average" : "6,8",
+      "ratioCorrespondsFully" : "37%",
+      "ratioCorrespondsWell" : "34%",
+      "ratioCorrespondsPoorly" : "22%",
+      "ratioCorrespondsNotAtAll" : "5%",
+      "ratioDoNotKnow" : "3%",
+      "ratioNoAnswer" : "0%",
+      "questionDescription" : "Tycker du att ditt barn får den hjälp som behövs från skolan för att klara skolarbetet?",
+      "questionSubject" : "Stöd"
+    },
+    "inspirationMetrics" : {
+      "average" : "7,1",
+      "ratioCorrespondsFully" : null,
+      "ratioCorrespondsWell" : null,
+      "ratioCorrespondsPoorly" : null,
+      "ratioCorrespondsNotAtAll" : null,
+      "ratioDoNotKnow" : "-",
+      "ratioNoAnswer" : "3%",
+      "questionDescription" : "Hur ofta verkar lärarna få ditt barn att bli intresserat av skolarbetet?",
+      "questionSubject" : "Stimulans",
+      "ratioAlways" : "23%",
+      "ratioOften" : "45%",
+      "ratioSometimes" : "21%",
+      "ratioSeldom" : "8%",
+      "ratioNever" : "-"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+[
+{"sid":"86363147","o":"B","why":"school-specific source not found","note":"Registered URL is Värmdö municipality homepage; no school page found."},
+{"sid":"86440798","o":"B","why":"content not readable","note":"School site pages returned no readable text (likely script-rendered or empty). No inference from school name."},
+{"sid":"86597125","o":"R","note":"Hässelby Villastad F–9: close mentorship focus; Studio 19 for pupils needing a smaller setting; all staff trained in NPF.","ev":[
+ {"p":0,"q":"Vi har en framgångsrik Studio 19, för elever som behöver ett mindre sammanhang.","i":"Small-setting support provision.","c":[["Support, inclusion, or wellbeing emphasis","Studio 19; NPF-trained staff","S"]],"cn":"Part of the school, not whole-school profile."}]},
+{"sid":"86758230","o":"U","why":"provider-level source only","note":"Viktor Rydbergs skolor foundation homepage only; no Jarlaplan unit page collected.","ev":[
+ {"p":0,"q":"Hos oss går konst och vetenskap hand i hand för att väcka nyfikenhet, kreativitet och lust att lära.","i":"Foundation-level statement; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"86917350","o":"R","note":"Köpmanholm (~35 pupils, island school): woods and sea used as a natural learning environment.","ev":[
+ {"p":0,"q":"Skolan är en liten F-6-skola med direkt närhet till både skog och hav – omgivningar som används som en naturlig lärmiljö för barnen.","i":"Natural surroundings used for learning.","c":[["Outdoor, nature, or place-based learning","Woods and sea as learning environment","S"]],"cn":"No frequency stated."}]},
+{"sid":"86937935","o":"R","note":"Sågtorp: certified Generation Pep school 2026; movement and healthy eating.","ev":[
+ {"p":0,"q":"Nu belönas skolan med att bli en av de skolor som certifieras som en Generation Pep Skola 2026","i":"Named health programme.","c":[["Support, inclusion, or wellbeing emphasis","Generation Pep","E"]],"cn":"Per precedent."}]},
+{"sid":"86985859","o":"B","why":"source inaccessible","note":"Registered Botkyrka URL returns HTTP 404."},
+{"sid":"87382179","o":"R","note":"Väringaskolan: project-based working methods and practical activities; health and wellbeing focus.","ev":[
+ {"p":0,"q":"Vi strävar efter att göra lärandet meningsfullt och engagerande genom projektbaserade arbetssätt och andra praktiska aktiviteter som förbereder eleverna för framtiden.","i":"Project-based methods stated.","c":[["Project- or inquiry-based learning","Project-based working methods","S"]],"cn":"Stated as aim ('strävar'); no detail."}]},
+{"sid":"87412084","o":"N","note":"Skolan LÄR: playful learning and curiosity; generic."},
+{"sid":"87425546","o":"R","note":"Kunskapsskolan Nacka F–9: personalised education with personal tutor.","ev":[
+ {"p":0,"q":"Därför har vi skapat en utbildning som är personligt utformad.","i":"Provider model stated on school page: personalised education.","c":[["Other stated profile","Personalised learning (Kunskapsskolan model)","E"]],"cn":"Consistent with other Kunskapsskolan units."}]},
+{"sid":"87521048","o":"R","note":"Engelbrekt F–9: profile/orientation choice from year 4 (incl. football); maths spets from year 7.","ev":[
+ {"p":0,"q":"Från årskurs 7 kan ditt barn söka en spetsutbildning i matematik.","i":"Specialist maths programme; football profile also listed.","c":[["Other stated profile","Maths spets 7–9; football profile","E"]],"cn":"Profile details on linked pages not collected."}]},
+{"sid":"87665835","o":"R","note":"Strandskolan F–9 (Tyresö): cross-subject teaching named as a pillar.","ev":[
+ {"p":1,"q":"Ämnesövergripande arbete - vi bedriver ämnesövergripande undervisning för att skapa förutsättningar för lärande i ett större sammanhang.","i":"Cross-subject teaching.","c":[["Project- or inquiry-based learning","Cross-subject teaching","S"]],"cn":"No detail on frequency."}]},
+{"sid":"87719096","o":"R","note":"Ålsten F–6: Erasmus+ projects; World's Children's Prize school.","ev":[
+ {"p":0,"q":"Vi arbetar i olika Erasmus+ projekt, ett europeiskt utbytesprogram som utvecklar verksamheten genom erfarenhetsutbyten i Europa.","i":"International exchange.","c":[["Language, international, or intercultural profile","Erasmus+ projects","S"]],"cn":"May be staff-focused exchanges."}]},
+{"sid":"87838841","o":"N","note":"Hässelbygård F–9: library, active breaks, food-waste project; generic."},
+{"sid":"87920455","o":"U","why":"isolated / generic claim","note":"Skönstaholm F–6: single mention of an exploratory way of working; unclear whether it describes pupils' learning or staff development.","ev":[
+ {"p":0,"q":"Vi utvecklar undervisning och lärande genom ett utforskande arbetssätt för att ge alla elever bästa möjliga förutsättningar att lyckas.","i":"Ambiguous inquiry statement."}]},
+{"sid":"87967939","o":"N","note":"Noblaskolan Lännersta F–6: Noblakoden structure, subject teachers from year 1; no distinctive approach category."},
+{"sid":"87999453","o":"R","note":"Tellusskolan Thea Bromma 7–9: rhetoric profile.","ev":[
+ {"p":0,"q":"Skolans retorikprofil ger eleverna goda förutsättningar att utvecklas både som individer och i sitt samspel med andra.","i":"Rhetoric profile.","c":[["Other stated profile","Rhetoric profile","E"]],"cn":"School claim."}]},
+{"sid":"88207732","o":"N","note":"Blommensberg F–5: facilities only."},
+{"sid":"88283203","o":"N","note":"Ösbyskolan (Värmdö) F–9: systematic quality work and safety team; generic."},
+{"sid":"88454421","o":"N","note":"Aspnäs: structure and fritids; generic."},
+{"sid":"88712672","o":"R","note":"Söraskolan: Erasmus+ project and Swedish–Serbian chess exchange (news headings only).","ev":[
+ {"p":1,"q":"Följ Söraskolans Erasmus+ projekt","i":"International exchange project.","c":[["Language, international, or intercultural profile","Erasmus+ project","S"]],"cn":"Headline only; detail not collected."}]},
+{"sid":"88795871","o":"R","note":"Södra Ängby F–9: trivselledare and active breaks; Ängbymodellen lesson structure.","ev":[
+ {"p":0,"q":"Skolan har trivselledare och ansvariga pedagoger som ser till att eleverna på låg- och mellanstadiet aktiverar sig på rasterna.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent."}]},
+{"sid":"89053805","o":"N","note":"Fastebol (Fastebol-Högby) F–6: renovation, values work; generic."},
+{"sid":"89317818","o":"N","note":"Kyrkskolan (Danderyd) F–6: organisation and leadership; generic."},
+{"sid":"89424201","o":"U","why":"isolated / generic claim","note":"Spiraskolan: homepage headings list emotional and social competence and mental strength, without description.","ev":[
+ {"p":0,"q":"Emotionell kompetens; Mental styrka; Social kompetens","i":"Headings suggest a wellbeing/SEL emphasis; no practice described."}]}
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "code_id": "ac_man_63321041_01",
+    "school_id": "63321041",
+    "category": "Arts and creative learning",
+    "subcategory": "Dance/Ballet",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_man_63321041_01",
+    "coder_note": "Manual check by Amna (2026-11-09); coded by Amna from the public page, loaded by the assistant. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_man_42202683_01",
+    "school_id": "42202683",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Weekly theme day; cross-subject themes",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_man_42202683_01",
+    "coder_note": "Manual check by Amna (2026-11-09); coded by Amna from the public page, loaded by the assistant. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_man_42202683_02",
+    "school_id": "42202683",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "City, parks and nearby forest used on theme days",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_man_42202683_02",
+    "coder_note": "Manual check by Amna (2026-11-09); coded by Amna from the public page, loaded by the assistant. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_man_97174070_01",
+    "school_id": "97174070",
+    "category": "Other stated profile",
+    "subcategory": "Advanced mathematics track (spetsmatte)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_man_97174070_01",
+    "coder_note": "Manual check by Amna (2026-11-09); coded by Amna from the public page, loaded by the assistant. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_man_39130058_01",
+    "school_id": "39130058",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_man_39130058_01",
+    "coder_note": "Manual check by Amna (2026-11-09); coded by Amna from the public page, loaded by the assistant. Website claim, not independently verified practice. Unit identity confirmed: yes",
+    "review_status": "Reviewed"
+  }
+]

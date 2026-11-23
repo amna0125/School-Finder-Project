@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "34540901",
+    "official_directory_name": "Estniska Skolan i Stockholm",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.estniskaskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "34625544",
+    "official_directory_name": "Raoul Wallenbergskolan Källberga",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.raoulwallenbergskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "34671128",
+    "official_directory_name": "Solbergaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solbergaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "34672217",
+    "official_directory_name": "Älta resursskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.nacka.se/altaresursskola",
+    "note": ""
+  },
+  {
+    "school_id": "34946479",
+    "official_directory_name": "Runmarö skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://varmdo.se",
+    "note": ""
+  },
+  {
+    "school_id": "35008423",
+    "official_directory_name": "Skolan Bergius",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.skolanbergius.se",
+    "note": ""
+  },
+  {
+    "school_id": "35129114",
+    "official_directory_name": "Internationella Engelska Skolan Årsta",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.engelska.se",
+    "note": ""
+  },
+  {
+    "school_id": "35311563",
+    "official_directory_name": "Lilla Nacka Skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "lillanacka.se",
+    "note": ""
+  },
+  {
+    "school_id": "35547286",
+    "official_directory_name": "Carlssons skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.carlssonsskola.se",
+    "note": ""
+  },
+  {
+    "school_id": "35784391",
+    "official_directory_name": "Distra IRS",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.distraresursskolor.se",
+    "note": ""
+  }
+]

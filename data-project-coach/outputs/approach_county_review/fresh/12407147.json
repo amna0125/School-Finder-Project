@@ -1,0 +1,72 @@
+{
+  "school_id": "12407147",
+  "school_name": "Röllingbyskolan",
+  "registered_url": "http://www.osteraker.se",
+  "pages": [
+    {
+      "requested_url": "https://www.osteraker.se/",
+      "source_url": "https://www.osteraker.se/",
+      "page_title": "Österåkers kommun - Österåkers kommun",
+      "accessed_at": "2026-10-21T17:27:38.011258+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "12407147_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.osteraker.se/",
+          "robots_url": "https://www.osteraker.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.138414+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.osteraker.se/subsite/pedagogcentrum.4.367d658917909e8fc2bb91.html",
+      "source_url": "https://www.osteraker.se/subsite/pedagogcentrum.4.367d658917909e8fc2bb91.html",
+      "page_title": "Pedagogcentrum - Österåkers kommun",
+      "accessed_at": "2026-10-21T17:27:38.817930+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "12407147_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.osteraker.se/subsite/pedagogcentrum.4.367d658917909e8fc2bb91.html",
+          "robots_url": "https://www.osteraker.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.138414+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.osteraker.se/subsite/pedagogosteraker.4.40523b741958b6adf74142c6.html",
+      "source_url": "https://www.osteraker.se/subsite/pedagogosteraker.4.40523b741958b6adf74142c6.html",
+      "page_title": "Pedagog Österåker - Österåkers kommun",
+      "accessed_at": "2026-10-21T17:27:39.652372+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "12407147_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.osteraker.se/subsite/pedagogosteraker.4.40523b741958b6adf74142c6.html",
+          "robots_url": "https://www.osteraker.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.138414+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

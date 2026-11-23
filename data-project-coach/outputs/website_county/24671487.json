@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "24671487",
+  "school_name": "Kunskapsskolans Resursskola",
+  "registered_url": "https://www.kunskapsskolan.se",
+  "attempted_at": "2026-10-21T09:15:39.282412+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kunskapsskolan.se",
+      "retrieved_at": "2026-10-21T09:15:45.250762+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "24671487_0.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/om-oss/kontakta-oss",
+      "retrieved_at": "2026-10-21T09:15:45.327835+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/om-oss/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "24671487_1.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/om-oss/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:45.525049+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/om-oss/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "24671487_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "785687a2aeced3a1a1c8d6a42be7a359697a6bfe8bc38a27fe3965e882298144",
+      "school_unit_code": "24671487",
+      "school_name": "Kunskapsskolans Resursskola",
+      "source_url": "https://www.kunskapsskolan.se/om-oss/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:45.525049+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Musik skapad av elever i åttan spelades upp av Västerås symfoniorkester",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "37be977650625c7e3195534593772dc8d6fa1c0d71ad6c63fa31329fc0d20265",
+      "school_unit_code": "24671487",
+      "school_name": "Kunskapsskolans Resursskola",
+      "source_url": "https://www.kunskapsskolan.se/om-oss/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:45.525049+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

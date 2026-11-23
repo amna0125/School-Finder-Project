@@ -1,0 +1,64 @@
+{
+  "school_unit_code": "65839656",
+  "school_name": "Byängsskolan AB",
+  "registered_url": "http://www.byangsskolan.se",
+  "attempted_at": "2026-10-21T09:22:40.709462+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.byangsskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:50.270541+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.byangsskolan.se",
+          "robots_url": "https://www.byangsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:43.072250+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.byangsskolan.se/",
+          "robots_url": "https://www.byangsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:45.497393+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "65839656_0.txt"
+    },
+    {
+      "source_url": "https://www.byangsskolan.se/om-oss",
+      "retrieved_at": "2026-10-21T09:22:50.312280+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.byangsskolan.se/om-oss",
+          "robots_url": "https://www.byangsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:45.497393+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "65839656_1.txt"
+    },
+    {
+      "source_url": "https://www.byangsskolan.se/om-oss/om-oss",
+      "retrieved_at": "2026-10-21T09:22:50.367572+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.byangsskolan.se/om-oss/om-oss",
+          "robots_url": "https://www.byangsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:45.497393+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "65839656_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,72 @@
+{
+  "school_id": "90850620",
+  "school_name": "Grundskolan Metapontum",
+  "registered_url": "http://www.metapontum.se",
+  "pages": [
+    {
+      "requested_url": "https://metapontum.se/",
+      "source_url": "https://metapontum.se/",
+      "page_title": "Metapontum",
+      "accessed_at": "2026-10-21T17:43:48.126798+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90850620_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://metapontum.se/",
+          "robots_url": "https://metapontum.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:46.741678+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://metapontum.se/grundskola-f-9/",
+      "source_url": "https://metapontum.se/grundskola-f-9/",
+      "page_title": "Grundskola F-9 - Metapontum",
+      "accessed_at": "2026-10-21T17:43:49.405389+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90850620_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://metapontum.se/grundskola-f-9/",
+          "robots_url": "https://metapontum.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:46.741678+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://metapontum.se/profiler/",
+      "source_url": "https://metapontum.se/profiler/",
+      "page_title": "Profiler - Metapontum",
+      "accessed_at": "2026-10-21T17:43:50.699564+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90850620_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://metapontum.se/profiler/",
+          "robots_url": "https://metapontum.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:46.741678+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

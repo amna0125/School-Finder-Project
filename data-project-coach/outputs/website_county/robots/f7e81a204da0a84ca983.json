@@ -1,0 +1,1 @@
+{"robots_url": "https://www.filosofiska.nu/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:22:25.772084+00:00", "state": "parsed", "crawl_delay": 0, "body": "User-Agent: *\nAllow: /\n\nHost: https://www.filosofiska.nu\nSitemap: https://www.filosofiska.nu/sitemap.xml\n"}

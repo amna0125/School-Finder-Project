@@ -1,0 +1,55 @@
+{
+  "school_unit_code": "36281817",
+  "school_name": "Höglandsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+  "attempted_at": "2026-10-21T09:15:59.144723+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+      "retrieved_at": "2026-10-21T09:16:00.133936+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "36281817_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Skolan har en lång historia och en tydlig estetisk inriktning. Sedan starten 1931 har skolan varit en plats för lärande, gemenskap och kreativitet. Vi lär av varandra och med varandra – elever, personal och dig som vårdnadshavare. Våra värdeord glädje, nyfikenhet och tillit genomsyrar hela verksamheten.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5f80d9983440c4a52e5341b7d1a9e30194a035c4256c94c7a997ae39c61ff283",
+      "school_unit_code": "36281817",
+      "school_name": "Höglandsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+      "retrieved_at": "2026-10-21T09:16:00.133936+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Elever lär sig bäst när teoretiska studier varvas med praktiska och estetiska moment. Ditt barn får utveckla sitt lärande genom flera uttryckssätt, till exempel tal, skrift, bild, musik och drama. Det stärker problemlösningsförmågan, självförtroendet och förmågan att uttrycka sig.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "49fa3e196795ddaeca505b59f26a6f7a5d55028d6cb7b74f210d4d4367edc263",
+      "school_unit_code": "36281817",
+      "school_name": "Höglandsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+      "retrieved_at": "2026-10-21T09:16:00.133936+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

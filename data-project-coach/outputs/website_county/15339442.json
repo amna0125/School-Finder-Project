@@ -1,0 +1,46 @@
+{
+  "school_unit_code": "15339442",
+  "school_name": "Runbackaskolan",
+  "registered_url": "http://www.sollentuna.se/sv/uweb/runbacka-skolor/",
+  "attempted_at": "2026-10-21T09:20:14.258432+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.sollentuna.se/uweb/runbacka-skolor/",
+      "retrieved_at": "2026-10-21T09:20:18.960876+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sollentuna.se/sv/uweb/runbacka-skolor/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:15.809232+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sollentuna.se/sv/uweb/runbacka-skolor/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sollentuna.se/uweb/runbacka-skolor/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "15339442_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "code_id": "ac_sr_53259263_01",
+    "school_id": "53259263",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school for pupils with autism; TEACCH",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_53259263_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School-level target group.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_53352683_01",
+    "school_id": "53352683",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_53352683_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Named programme.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_54332921_01",
+    "school_id": "54332921",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school; structured low-arousal approach",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_54332921_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School-level target group.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_54752734_01",
+    "school_id": "54752734",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Ecological / sustainability profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_54752734_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School description.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_54752734_02",
+    "school_id": "54752734",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor pedagogy; outdoor classroom and forest",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_54752734_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. 'Delvis' qualifier.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_54806839_01",
+    "school_id": "54806839",
+    "category": "Other stated profile",
+    "subcategory": "Daily reading and writing routine, F–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_54806839_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School description.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_54847211_01",
+    "school_id": "54847211",
+    "category": "Arts and creative learning",
+    "subcategory": "Aesthetic profiles: music, dance, theatre, art",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_54847211_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Sport also offered as profile.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_55233055_01",
+    "school_id": "55233055",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Fortnightly outdoor days, F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_55233055_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School description.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_55508705_01",
+    "school_id": "55508705",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf/Steiner",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_55508705_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No fidelity claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_55512387_01",
+    "school_id": "55512387",
+    "category": "Other stated profile",
+    "subcategory": "Early systematic reading instruction",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_55512387_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School description.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_55512387_02",
+    "school_id": "55512387",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nature used for teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_55512387_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No structure described.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_56130729_01",
+    "school_id": "56130729",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "'Children do well if they can' approach",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_56130729_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Model not named.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_56501561_01",
+    "school_id": "56501561",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "NTA inquiry-based science",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_56501561_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Same unit text as Klastorpsskolan.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_56501561_02",
+    "school_id": "56501561",
+    "category": "Other stated profile",
+    "subcategory": "Chess as mathematics method",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_56501561_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Results claim not verified.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_56568612_01",
+    "school_id": "56568612",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Three-teacher model F–6; two-teacher 7–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_56568612_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School description.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_56662185_01",
+    "school_id": "56662185",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school; groups by developmental level",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_56662185_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Site combines resursskola and anpassad skola.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_56662185_02",
+    "school_id": "56662185",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor pedagogy",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_56662185_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Brief mention.",
+    "review_status": "Reviewed"
+  }
+]

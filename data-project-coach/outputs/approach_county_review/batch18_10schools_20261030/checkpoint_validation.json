@@ -1,0 +1,24 @@
+{
+  "status": "PASSED",
+  "ledger_rows": 762,
+  "unique_ids": 762,
+  "changed_rows": 10,
+  "documented_outcomes": 193,
+  "pending": 569,
+  "next_selection_ids": [
+    "33565539",
+    "33624606",
+    "33733966",
+    "33794207",
+    "33922950",
+    "33951941",
+    "34125463",
+    "34135484",
+    "34148887",
+    "34225123"
+  ],
+  "append_flow": "khaki-foxhound",
+  "replay_flow": "pistachio-sloth",
+  "unit_tests_passed": 22,
+  "official_fingerprints_preserved": true
+}

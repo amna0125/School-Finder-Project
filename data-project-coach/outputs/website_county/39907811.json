@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "39907811",
+  "school_name": "Sofielundsskolan",
+  "registered_url": "http://www.sollentuna.se/sv/uweb/sofielundsskolan/",
+  "attempted_at": "2026-10-21T09:21:23.839681+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.sollentuna.se/uweb/sofielundsskolan/",
+      "retrieved_at": "2026-10-21T09:21:28.019865+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sollentuna.se/sv/uweb/sofielundsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:15.809232+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sollentuna.se/sv/uweb/sofielundsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sollentuna.se/uweb/sofielundsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "39907811_0.txt"
+    },
+    {
+      "source_url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:21:28.074344+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "39907811_1.txt"
+    },
+    {
+      "source_url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/elevhalsan/",
+      "retrieved_at": "2026-10-21T09:21:28.108493+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/elevhalsan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:17.316348+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "39907811_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Vi har fullt utrustade salar för Slöjd, Hemkunskap, Bild, och Musik som vi fortsätter att utveckla. Vi har även satsat på ett eget Makerspace, där våra elever har möjlighet att få lära sig om ljud- och filmskapande och även programmering.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "02ba8e872e9a8ff34b0f559db9b2a8decd548bd014ad7cc34d4520f3b1c5d193",
+      "school_unit_code": "39907811",
+      "school_name": "Sofielundsskolan",
+      "source_url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:21:28.074344+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

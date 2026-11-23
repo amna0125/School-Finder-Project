@@ -1,0 +1,325 @@
+[
+ {
+  "sid": "59975651",
+  "o": "N",
+  "note": "Step 3 rule 2 (agreed with Amna): thematic, question-led work is stated as a belief (\"tror vi\"), not current practice; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "93412255",
+  "o": "N",
+  "note": "Step 3 rule 2 (agreed with Amna): recurring themes are cross-class collaboration framed as safety/community work, not an inquiry way of teaching; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "24046791",
+  "o": "R",
+  "note": "Step 3 rule 2 (agreed with Amna): stated as how the school works on its pedagogical-concept page; Supported.",
+  "ev": [
+   {
+    "q": "Vi ser lärandet som en kreativ resa där vi lär genom att utforska, testa och lösa problem tillsammans.",
+    "i": "Pedagogical-concept page states exploring/problem-solving as the way the school learns.",
+    "c": [
+     [
+      "Project- or inquiry-based learning",
+      "Exploratory problem-solving learning (stated concept)",
+      "S"
+     ]
+    ],
+    "cn": "stated as how the school works on its pedagogical-concept page; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "17957898",
+  "o": "R",
+  "note": "Step 3 rule 2 (agreed with Amna): stated as how the school works on its pedagogical-concept page; Supported. Concrete examples are preschool-only and were not used.",
+  "ev": [
+   {
+    "q": "Vi ser lärandet som en kreativ resa där vi lär genom att utforska, testa och lösa problem tillsammans.",
+    "i": "Pedagogical-concept page states exploring/problem-solving as the way the school learns; concrete examples on the page are preschool-only.",
+    "c": [
+     [
+      "Project- or inquiry-based learning",
+      "Exploratory problem-solving learning (stated concept)",
+      "S"
+     ]
+    ],
+    "cn": "stated as how the school works on its pedagogical-concept page; Supported. Concrete examples are preschool-only and were not used."
+   }
+  ]
+ },
+ {
+  "sid": "87920455",
+  "o": "R",
+  "note": "Step 3 rule 2 (agreed with Amna): exploratory way of working stated as how the school teaches; Supported.",
+  "ev": [
+   {
+    "q": "Vi utvecklar undervisning och lärande genom ett utforskande arbetssätt för att ge alla elever bästa möjliga förutsättningar att lyckas.",
+    "i": "School states an exploratory way of working in teaching and learning.",
+    "c": [
+     [
+      "Project- or inquiry-based learning",
+      "Exploratory way of working",
+      "S"
+     ]
+    ],
+    "cn": "exploratory way of working stated as how the school teaches; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "37472911",
+  "o": "R",
+  "note": "Step 3 rule 2 (agreed with Amna): thematic way of working stated as how the school works; Supported.",
+  "ev": [
+   {
+    "q": "Det tematiska arbetssättet hjälper eleverna att upptäcka samband och förstå sin omvärld.",
+    "i": "School states a thematic way of working.",
+    "c": [
+     [
+      "Project- or inquiry-based learning",
+      "Thematic work",
+      "S"
+     ]
+    ],
+    "cn": "thematic way of working stated as how the school works; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "43138370",
+  "o": "N",
+  "note": "Step 3 rule 2 (agreed with Amna): thematic work only \"när det passar\" (when suitable), a conditional statement; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "48760074",
+  "o": "N",
+  "note": "Step 3 rule 2 (agreed with Amna): single \"verklighetsnära arbetssätt\" phrase with no description; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "58102266",
+  "o": "N",
+  "note": "Step 3 rule 2 (agreed with Amna): single \"verklighetsnära arbetssätt\" phrase; annual adventure day is an occasional event; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "44175786",
+  "o": "R",
+  "note": "Step 3 rule 2 (agreed with Amna): named method (NTA) for years 1–6; Supported. PEAK energy method not coded.",
+  "ev": [
+   {
+    "q": "Vi arbetar med NTA i åk 1-6.",
+    "i": "Named inquiry-based science programme (NTA) for years 1–6.",
+    "c": [
+     [
+      "Project- or inquiry-based learning",
+      "NTA inquiry-based science, years 1–6",
+      "S"
+     ]
+    ],
+    "cn": "named method (NTA) for years 1–6; Supported. PEAK energy method not coded."
+   }
+  ]
+ },
+ {
+  "sid": "15331669",
+  "o": "N",
+  "note": "Step 3 rule 2 (agreed with Amna): values work and reinforced mentorship are generic support, cross-subject wording not described; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "16914123",
+  "o": "R",
+  "note": "Step 3 rule 3 (agreed with Amna): language-developing way of working stated for all learning, as in the main run; Supported.",
+  "ev": [
+   {
+    "q": "Eftersom språket är en viktig nyckel i allt lärande använder sig Tavestaskolan av ett språkutvecklande arbetssätt.",
+    "i": "Language-developing approach stated for all learning.",
+    "c": [
+     [
+      "Other stated profile",
+      "Language-developing in all subjects",
+      "S"
+     ]
+    ],
+    "cn": "language-developing way of working stated for all learning, as in the main run; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "36350546",
+  "o": "R",
+  "note": "Step 3 rule 3 (agreed with Amna): language-developing work stated as the school focus, as in the main run; Supported. Student-health wording not coded.",
+  "ev": [
+   {
+    "q": "På Tunaskolan är det språkutvecklande arbetet i fokus, liksom vårt elevhälsoarbete.",
+    "i": "Language-developing work stated as a school focus.",
+    "c": [
+     [
+      "Other stated profile",
+      "Language-developing approach",
+      "S"
+     ]
+    ],
+    "cn": "language-developing work stated as the school focus, as in the main run; Supported. Student-health wording not coded."
+   }
+  ]
+ },
+ {
+  "sid": "14440920",
+  "o": "R",
+  "note": "Step 3 rule 3 (agreed with Amna): language- and knowledge-developing way of working stated for teaching, as in the main run; Supported.",
+  "ev": [
+   {
+    "q": "Undervisningen präglas av tydlighet, kvalitet och ett språk- och kunskapsutvecklande arbetssätt som hjälper eleverna att utveckla förståelse, nyfikenhet och lust att lära.",
+    "i": "Language- and knowledge-developing approach stated for teaching.",
+    "c": [
+     [
+      "Other stated profile",
+      "Language-developing approach",
+      "S"
+     ]
+    ],
+    "cn": "language- and knowledge-developing way of working stated for teaching, as in the main run; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "37887150",
+  "o": "N",
+  "note": "Step 3 rule 3 (agreed with Amna): \"internationally inspired pedagogy\" is too broad, teaching is in Swedish; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "19353396",
+  "o": "N",
+  "note": "Step 3 rule 4 (agreed with Amna): external homework help twice a week is generic support; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "41213404",
+  "o": "N",
+  "note": "Step 3 rule 4 (agreed with Amna): accessible learning described as a strength without a concrete model; generic; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "23617768",
+  "o": "U",
+  "note": "Step 3 rule 4 (agreed with Amna): flexible, changing teaching groups across the whole year group are concrete but fit none of the agreed rules; kept for Amna.",
+  "why": "concrete organisation, no agreed rule"
+ },
+ {
+  "sid": "37556682",
+  "o": "U",
+  "note": "Step 3 rule 4 (agreed with Amna): two adults in whole-class lessons (two-teacher model in Swedish) is concrete but fits none of the agreed rules; kept for Amna.",
+  "why": "concrete organisation, no agreed rule"
+ },
+ {
+  "sid": "89424201",
+  "o": "N",
+  "note": "Step 3 rule 4 (agreed with Amna): homepage headings only (emotional/social competence, mental strength), no practice described; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "13579948",
+  "o": "N",
+  "note": "Step 3 rule 4 (agreed with Amna): accessible learning, digitalisation and values work stated generically; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "42601396",
+  "o": "N",
+  "note": "Step 3 rule 4 (agreed with Amna): health and movement named as preconditions, no daily movement stated; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "20683111",
+  "o": "N",
+  "note": "Step 3 rule 4 (agreed with Amna): movement-and-learning emphasis without daily movement or method; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "24146389",
+  "o": "N",
+  "note": "Step 3 rule 4 (agreed with Amna): teacher-development priorities, not a pupil-facing model; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "43802065",
+  "o": "R",
+  "note": "Step 3 rule 4 (agreed with Amna): named programme (Trivselledare), as in the main run; Explicit. Grade change to F–3 from autumn 2026 noted.",
+  "ev": [
+   {
+    "q": "Från våren 2024 arbetar vi med Trivselledar-programmet ( trivselledare.se ) för att erbjuda alla elever fin gemenskap och rörelsepauser i klassrummet, meningsfulla raster och ett aktivt och utvecklande fritids.",
+    "i": "Named programme (Trivselledare) since spring 2024.",
+    "c": [
+     [
+      "Support, inclusion, or wellbeing emphasis",
+      "Trivselledare",
+      "E"
+     ]
+    ],
+    "cn": "named programme (Trivselledare), as in the main run; Explicit. Grade change to F–3 from autumn 2026 noted."
+   }
+  ]
+ },
+ {
+  "sid": "26808959",
+  "o": "R",
+  "note": "Step 3 rule 4 (agreed with Amna): stated reading model (Red Cross reading buddies, years 2–3); Supported.",
+  "ev": [
+   {
+    "q": "Vi samarbetar med Röda korset där volontärer är läsfaddrar för elever i årskurs 2 och 3.",
+    "i": "Stated reading-buddy model with Red Cross volunteers, years 2–3.",
+    "c": [
+     [
+      "Other stated profile",
+      "Reading buddies, years 2–3",
+      "S"
+     ]
+    ],
+    "cn": "stated reading model (Red Cross reading buddies, years 2–3); Supported."
+   }
+  ]
+ },
+ {
+  "sid": "43375546",
+  "o": "R",
+  "note": "Step 3 rule 4 (agreed with Amna): stated reading emphasis in the middle years, as in the main run; Supported.",
+  "ev": [
+   {
+    "q": "Eleverna använder fysiska läroböcker i nästan alla ämnen, och på mellanstadiet satsar vi särskilt mycket på läsning, som vi ser som en viktig grund inför högstadiet.",
+    "i": "Reading emphasis stated for the middle years.",
+    "c": [
+     [
+      "Other stated profile",
+      "Reading emphasis, years 4–6",
+      "S"
+     ]
+    ],
+    "cn": "stated reading emphasis in the middle years, as in the main run; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "11364996",
+  "o": "N",
+  "note": "Step 3 rule 6 (agreed with Amna): no current approach claim on the reviewed pages (dated/aspirational wording only); No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "45986032",
+  "o": "N",
+  "note": "Step 3 rule 6 (agreed with Amna): Reggio Emilia inspiration stated in future tense and derived from the preschool; No clear evidence.",
+  "why": ""
+ },
+ {
+  "sid": "16983719",
+  "o": "N",
+  "note": "Step 3 rule 6 (agreed with Amna): three broad strands exemplified with ordinary subject activities; No clear evidence.",
+  "why": ""
+ }
+]

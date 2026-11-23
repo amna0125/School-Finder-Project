@@ -1,0 +1,55 @@
+{
+  "school_unit_code": "80612612",
+  "school_name": "Kristinebergsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan",
+  "attempted_at": "2026-10-21T09:17:10.334129+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan",
+      "retrieved_at": "2026-10-21T09:17:12.837115+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "80612612_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "aditioner. Varje år firar vi Kristinebergsskolans dag. Då samlas hela skolan på skolgården för att sjunga och dansa till vår egen sång om skolan. Vi har också en gemensam sång och dans med andra skolor på Kungsholmen för att skapa samhörighet med \"staden\".",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "94ff5caf3c62601a66c553355be9e08ea9ca03fd15d8a88e9d29d80d3a2a2b7a",
+      "school_unit_code": "80612612",
+      "school_name": "Kristinebergsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan",
+      "retrieved_at": "2026-10-21T09:17:12.837115+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "other_named_pedagogy",
+      "supporting_excerpt": "Kristinebergsskolan inspireras av Reggio Emilia filosofin. Den utgår från att varje barn är kompetent och att lärmiljön fungerar som en \"tredje pedagog\".",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5adfc551ef19287b2677d2165f397ab9599fe9d21e21f2ba02507f6c71c8bc74",
+      "school_unit_code": "80612612",
+      "school_name": "Kristinebergsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan",
+      "retrieved_at": "2026-10-21T09:17:12.837115+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

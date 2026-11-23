@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "21997077",
+  "school_name": "Viljaskolan Sollentuna",
+  "registered_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+  "attempted_at": "2026-10-21T09:15:33.754927+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+      "retrieved_at": "2026-10-21T09:15:36.244766+00:00",
+      "robots_checks": [
+        {
+          "url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+          "robots_url": "https://viljaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:35.333546+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "21997077_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Skolans lokaler är väl tilltagna med egen slöjd-, musik-, och bildsal, idrottshall, no-sal samt ett skolbibliotek med plats för läsning och umgänge. Skolan har en rymlig skolgård med lekplats, fotbollsplan och närhet till naturområden som ger stor möjlighet till lek, rörelse och friluftsliv.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "89378f0b00276fd97a39265eb45338f06842c0aea10f5c55824bbf235f4f80b3",
+      "school_unit_code": "21997077",
+      "school_name": "Viljaskolan Sollentuna",
+      "source_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+      "retrieved_at": "2026-10-21T09:15:36.244766+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,40 @@
+[
+{"sid":"74174879","o":"N","note":"Bollstanäs F–5: lakeside outdoor environment used for outdoor time and movement; not described as teaching approach."},
+{"sid":"74358019","o":"U","why":"provider-level source only","note":"IES Nacka: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"74396596","o":"R","note":"Kvarnbacka F–6 (Kista): nearby green areas and city used in teaching; reading focus this year; also anpassad grundskola.","ev":[
+ {"p":0,"q":"Kvarnbackaskolan ligger i Kista, nära grönområden och kommunikationer. Det använder vi i vår undervisning för att utforska natur och stadens kultur.","i":"Local nature and city used in teaching.","c":[["Outdoor, nature, or place-based learning","Local nature and city culture in teaching","S"]],"cn":"No frequency stated."}]},
+{"sid":"74482611","o":"U","why":"provider-level source only","note":"IES Hässelby: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"74489639","o":"R","note":"Innovitaskolan Södertälje F–9: whole school works in thematic 'packages' where subjects collaborate.","ev":[
+ {"p":1,"q":"Det betyder att vi arbetar enligt en given modell där olika ämnen samarbetar utifrån givna teman.","i":"School-wide thematic cross-subject model.","c":[["Project- or inquiry-based learning","Thematic subject packages","E"]],"cn":"Applies F–9 per page."}]},
+{"sid":"74631147","o":"R","note":"Enskedefältet F–6: two studios (small settings with extra staff); KUR themes woven into work.","ev":[
+ {"p":0,"q":"En studio är en mindre undervisningsmiljö med extra personal för elever som behöver vara i ett mindre sammanhang under delar av dagen eller veckan.","i":"Small-group support provision.","c":[["Support, inclusion, or wellbeing emphasis","Studios (small settings)","S"]],"cn":"Part of the school, not whole-school profile."}]},
+{"sid":"74706113","o":"B","why":"no registered website","note":"No registered website in directory."},
+{"sid":"74723082","o":"R","note":"Gullinge F–6: at least 30 minutes scheduled movement daily; about seven pupils per teacher.","ev":[
+ {"p":0,"q":"Alla klasser har minst 30 minuter planerade rörelseaktiviteter på schemat.","i":"Daily scheduled movement.","c":[["Support, inclusion, or wellbeing emphasis","Daily scheduled movement (30 min)","E"]],"cn":"School claim."}]},
+{"sid":"74920766","o":"N","note":"Mariehäll F–6: building art theme and environment building; generic teaching description."},
+{"sid":"75017455","o":"N","note":"Skytteholm F–6: green areas create opportunities for outdoor pedagogy (affordance only); generic."},
+{"sid":"75109796","o":"R","note":"Lillåker F–9 (Lidingö): municipal resource school for pupils with autism.","ev":[
+ {"p":0,"q":"Lillåkers skola är en kommunal resursgrundskola för elever med autismspektrumtillstånd som behöver omfattande stöd.","i":"Resource school; autism.","c":[["Support, inclusion, or wellbeing emphasis","Resource school; autism","E"]],"cn":"Municipal page."}]},
+{"sid":"75255864","o":"R","note":"Pilgrimsskolan F–3: Bifrost-inspired with thematic working methods; small classes.","ev":[
+ {"p":0,"q":"är en bifrostinspirerad skola med ett tematiskt arbetssätt där teori och praktik går hand i hand.","i":"Bifrost-inspired thematic approach.","c":[["Alternative pedagogy","Bifrost-inspired","S"],["Project- or inquiry-based learning","Thematic work","S"]],"cn":"Short page; 'inspired'."}]},
+{"sid":"75387026","o":"N","note":"Vårbacka F–3: generic Huddinge text."},
+{"sid":"75401552","o":"R","note":"Tureberg: Trivselledarprogrammet; extra language-developing time beyond timetable F–5; Erasmus+ accredited; Skapande skola.","ev":[
+ {"p":1,"q":"Turebergsskolan är med i Trivselledarprogrammet - ett program för att utveckla rastverksamheter, där våra elever får utveckla sina ledarskapsförmågor.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledarprogrammet","E"]],"cn":"Per precedent."},
+ {"p":1,"q":"Därför har vi lagt extra undervisning utöver den obligatoriska timplanen i de yngre åldrarna (åk F-5).","i":"Extra language-developing teaching time.","c":[["Other stated profile","Extra language-development time F–5","E"]],"cn":"One or two afternoons a week."}]},
+{"sid":"75505688","o":"N","note":"Igelsta F–9: generic."},
+{"sid":"75527289","o":"B","why":"permission / terms","note":"Terms review required from earlier collection; not fetched. No inference from school name."},
+{"sid":"75565366","o":"N","note":"Myrstuguberget F–5: occasional theme work; generic."},
+{"sid":"75580959","o":"B","why":"permission / terms","note":"Terms review required from earlier collection; not fetched."},
+{"sid":"75614609","o":"R","note":"Södermalmsskolan F–9: inclusive and norm-critical approach.","ev":[
+ {"p":0,"q":"Vi har ett inkluderande förhållningssätt, vilket innebär att vi utgår ifrån att alla ingår och bidrar.","i":"Inclusion stance.","c":[["Support, inclusion, or wellbeing emphasis","Inclusive, norm-critical approach","S"]],"cn":"Stance, no named programme."}]},
+{"sid":"75656508","o":"R","note":"Vasastans Montessoriskola F–9: Montessori parent cooperative since 1986.","ev":[
+ {"p":0,"q":"Montessoripedagogik i Stockholm sedan 1986.","i":"Montessori.","c":[["Alternative pedagogy","Montessori","E"]],"cn":"School claim."}]},
+{"sid":"75834458","o":"N","note":"Björknäs F–9: natural setting and continuity F–9; generic."},
+{"sid":"76033436","o":"R","note":"Barkarby: age-mixed classes in lower years.","ev":[
+ {"p":1,"q":"Vi arbetar åldersblandat i lågstadiet och åldershomogent i mellanstadiet.","i":"Age-mixed organisation in lower years.","c":[["Other stated profile","Age-mixed lower years","S"]],"cn":"Organisational feature."}]},
+{"sid":"76222592","o":"N","note":"Innovitaskolan Rönninge F–5: screening and digital tools; Innovita concept only at provider level."},
+{"sid":"76440567","o":"N","note":"Kvarnbäck: relationships and home classrooms; generic."},
+{"sid":"76550010","o":"B","why":"source inaccessible","note":"Registered Upplands-Bro URL returns HTTP 404."}
+]

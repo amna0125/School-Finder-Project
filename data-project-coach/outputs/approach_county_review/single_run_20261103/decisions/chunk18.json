@@ -1,0 +1,46 @@
+[
+{"sid":"96622957","o":"R","note":"Backeboskolan (Värmdö): at least two large cross-subject themes per year; creativity in working method.","ev":[
+ {"p":1,"q":"Varje läsår innehåller minst två större ämnesövergripande teman.","i":"Recurring cross-subject themes.","c":[["Project- or inquiry-based learning","Cross-subject themes (min. two per year)","E"]],"cn":"School pedagogy page."}]},
+{"sid":"96646603","o":"N","note":"Lommarskolan (Norrtälje): new school starting autumn 2026; no content yet."},
+{"sid":"96653388","o":"R","note":"Robinson Valsjön (Tellusskolan): yard used for teaching; utepedagogik described for fritidshem.","ev":[
+ {"p":0,"q":"Vi använder gården till både undervisning och spontanlek under raster.","i":"Outdoor space used for teaching; frequency unstated.","c":[["Outdoor, nature, or place-based learning","Schoolyard used in teaching","S"]],"cn":"Fuller utepedagogik statement concerns fritidshemmet."}]},
+{"sid":"96671986","o":"B","why":"no registered website","note":"No registered website."},
+{"sid":"96689751","o":"N","note":"Kräpplaskolan F–3 (Huddinge): small school, cross-class activities; generic."},
+{"sid":"96984023","o":"R","note":"Östermalmsskolan F–6: Motivationslyftet programme; sustainability integrated, Skolverket award; park as year-round outdoor classroom.","ev":[
+ {"p":0,"q":"Programmet Motivationslyftet arbetar vi med för att stärka elevernas välmående, motivation och förmåga att prestera sitt bästa i skolan.","i":"Named wellbeing/motivation programme.","c":[["Support, inclusion, or wellbeing emphasis","Motivationslyftet","E"]],"cn":"Per named-programme precedent."},
+ {"p":0,"q":"Vårt arbete för hållbar utveckling har belönats med Skolverkets utmärkelse \"Skola för Hållbar utveckling\".","i":"Sustainability profile with national award.","c":[["Other stated profile","Skola för hållbar utveckling (award)","E"]],"cn":"Per precedent; award not independently checked."},
+ {"p":0,"q":"Miljön använder vi som ett \"uteklassrum\" året om, som främjar både lärande och välmående.","i":"Park used as outdoor classroom.","c":[["Outdoor, nature, or place-based learning","Park as outdoor classroom","S"]],"cn":"Frequency not stated."}]},
+{"sid":"97174070","o":"B","why":"permission / terms","note":"robots.txt disallows the crawler; not fetched."},
+{"sid":"97184063","o":"N","note":"Högbyskolan F–3 (Järfälla): shared unit with Fastebolskolan; to close after 2026/27; generic."},
+{"sid":"97400863","o":"R","note":"Vinsta grundskola västra 4–9: three-teacher team model, full-time mentors; trivselledare.","ev":[
+ {"p":0,"q":"Utöver det kan även ditt barn utbilda sig till trivselledare och leda lekar och aktiviteter för sina klasskamrater.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent."}]},
+{"sid":"97402564","o":"N","note":"Kvarnbergsskolan 7–9 (Värmdö): ability grouping in maths, maths pilot, social pedagogues; generic support."},
+{"sid":"97655739","o":"N","note":"Eneskolan F–9 (Järna): generic."},
+{"sid":"97683561","o":"N","note":"Johan Skytteskolan F–9: facilities and fritids; generic."},
+{"sid":"97686250","o":"N","note":"Rödabergsskolan F–9: vision text; anpassad skola mentioned (separate)."},
+{"sid":"97718207","o":"R","note":"Gottsta skola F–6 (Norrtälje): PAX i skolan; trivselledare; emphasis on reading and writing.","ev":[
+ {"p":2,"q":"Ett av våra verktyg för att skapa glädje, trivsel och trygghet är ”PAX i skolan”.","i":"Named programme.","c":[["Support, inclusion, or wellbeing emphasis","PAX","E"]],"cn":"Per precedent."},
+ {"p":2,"q":"Varje termin utses och utbildas trivselledare bland elever i samarbete med Trivselprogrammet.","i":"Named programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent."},
+ {"p":2,"q":"Vi lägger stor vikt vid elevens läs och skrivförmågan och följer systematiskt upp våra resultat på grupp- och individnivå.","i":"Literacy emphasis.","c":[["Other stated profile","Reading and writing emphasis","S"]],"cn":"Per reading-emphasis precedent."}]},
+{"sid":"97762139","o":"B","why":"substantive page not reached","note":"Registered site redirects to a WordPress login page (Skolalliansen); no school content."},
+{"sid":"97777849","o":"R","note":"Tallbohovskolan F–6 (Järfälla): dedicated reading pedagogues F–3; digital investment incl. programming.","ev":[
+ {"p":1,"q":"Vi har särskilda läspedagoger som utvecklar läsningen hos barn i F-3.","i":"Reading emphasis with dedicated staff.","c":[["Other stated profile","Reading pedagogues F–3","S"]],"cn":"Per reading-emphasis precedent."}]},
+{"sid":"97927760","o":"N","note":"Noblaskolan Rönninge F–6: Noblakoden; drama/creative work listed as examples of tools. Per Noblaskolan precedent."},
+{"sid":"97942210","o":"U","why":"provider-level source only","note":"IES Huddinge: only provider homepage and other units' pages collected.","ev":[
+ {"p":0,"q":"Upp till hälften av undervisningen sker därför på engelska av lärare med engelska som modersmål.","i":"Provider-wide bilingual model; unit not confirmed.","t":"Provider webpage","cn":"Per IES precedent."}]},
+{"sid":"97966458","o":"R","note":"Ormkärrsskolan F–6: extra focus on reading; all staff work with language development.","ev":[
+ {"p":0,"q":"Vi satsar extra på läsning, som är en viktig nyckel till kunskap.","i":"Reading emphasis.","c":[["Other stated profile","Reading emphasis","S"]],"cn":"Per precedent."},
+ {"p":0,"q":"Alla pedagoger arbetar med elevernas språkutveckling, både på lektioner under skoltid och på fritidshemmet.","i":"Language-developing approach stated as pervasive.","c":[["Other stated profile","Language development across staff","S"]],"cn":"Per precedent."}]},
+{"sid":"98070480","o":"R","note":"Hägerstenshamnens skola F–6: cooperative learning and tydliggörande pedagogik; reading ambassadors.","ev":[
+ {"p":0,"q":"Vårt arbete utgår ifrån kooperativt lärande och tydliggörande pedagogik.","i":"Stated school-wide approach.","c":[["Other stated profile","Cooperative learning","S"],["Support, inclusion, or wellbeing emphasis","Tydliggörande pedagogik","S"]],"cn":"No practice detail."}]},
+{"sid":"98239828","o":"R","note":"Ekebyholmsskolan F–9 (Rimbo): Christian foundation; holistic health.","ev":[
+ {"p":0,"q":"Ekebyholms Grundskola är en fristående skola med en kristen värdegrund, med fokus på kunskap och trygghet samt frihet att  tänka fritt och självständigt.","i":"Christian profile.","c":[["Other stated profile","Christian profile","E"]],"cn":"Per precedent."}]},
+{"sid":"98477278","o":"R","note":"Edboskolan F–6 (Huddinge): language- and knowledge-developing approach in all subjects.","ev":[
+ {"p":1,"q":"Därför genomsyrar ett språk- och kunskapsutvecklande arbetssätt undervisningen i alla ämnen","i":"Language-developing approach stated as pervasive.","c":[["Other stated profile","Language-developing in all subjects","S"]],"cn":"Per precedent."}]},
+{"sid":"98515782","o":"R","note":"Ängkärrskolan (Solna) 6–9: resource school for NPF, dyslexia, language disorders; groups of max 8.","ev":[
+ {"p":1,"q":"Stiftelsen nya Ängkärrskolan är en resursskola som vänder sig till elever i behov av extraordinära stödinsatser.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school (NPF/dyslexia)","E"]],"cn":"Per precedent."}]},
+{"sid":"98531789","o":"R","note":"Rånäs skola F–6 (Norrtälje): experience-based, thematic seasonal pedagogy; arts integrated; learning often outdoors.","ev":[
+ {"p":1,"q":"Under årets olika årstider arbetar vi med upplevelsebaserad, temainriktad pedagogik.","i":"Thematic pedagogy.","c":[["Project- or inquiry-based learning","Seasonal thematic pedagogy","E"]],"cn":"School claim."},
+ {"p":1,"q":"Bild, musik och drama integreras i undervisningen.","i":"Arts integration.","c":[["Arts and creative learning","Arts integrated in teaching","E"]],"cn":"School claim."},
+ {"p":1,"q":"Vi anser att lärandet ska ske i en verklig helhet som upplevs med alla sinnen, ofta ute i verkligheten.","i":"Learning often outside.","c":[["Outdoor, nature, or place-based learning","Learning often outdoors","S"]],"cn":"'Ofta' frequency hedge."}]}
+]

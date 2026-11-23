@@ -1,0 +1,69 @@
+{
+  "school_id": "57034070",
+  "school_name": "Magelungens Grundskola Södermalm",
+  "registered_url": "http://www.magelungen.com",
+  "pages": [
+    {
+      "requested_url": "https://magelungen.com/",
+      "source_url": "https://magelungen.com/",
+      "page_title": "Magelungen - Hopp och förändring",
+      "accessed_at": "2026-10-21T17:38:10.078015+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "57034070_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://magelungen.com/",
+          "robots_url": "https://magelungen.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:36:46.539135+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://magelungen.com/om-oss/",
+      "source_url": "https://magelungen.com/om-oss/",
+      "page_title": "Om oss",
+      "accessed_at": "2026-10-21T17:38:10.950316+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "57034070_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://magelungen.com/om-oss/",
+          "robots_url": "https://magelungen.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:36:46.539135+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://magelungen.com/om-oss/aktuellt-pa-magelungen/",
+      "source_url": "https://magelungen.com/om-oss/aktuellt-pa-magelungen/",
+      "page_title": "Aktuellt på Magelungen - Magelungen",
+      "accessed_at": "2026-10-21T17:38:11.793072+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "57034070_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://magelungen.com/om-oss/aktuellt-pa-magelungen/",
+          "robots_url": "https://magelungen.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:36:46.539135+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

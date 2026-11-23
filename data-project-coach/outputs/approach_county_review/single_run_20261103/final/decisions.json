@@ -1,0 +1,447 @@
+[
+ {
+  "sid": "67742754",
+  "o": "R",
+  "note": "Step 4A: Botkyrka page collected after checking that the earlier terms flag pointed to sports-hall booking conditions only.",
+  "ev": [
+   {
+    "url": "https://www.botkyrka.se/karsbyinternationalschool",
+    "q": "Karsby International School har en internationell inriktning vilket syns på våra goda resultat i engelska.",
+    "i": "International orientation stated, with Erasmus+ exchange.",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "International orientation; Erasmus+ exchange",
+      "S"
+     ]
+    ],
+    "cn": ""
+   },
+   {
+    "url": "https://www.botkyrka.se/karsbyinternationalschool",
+    "q": "Vi arbetar med ett språk- och kunskapsutvecklande arbetssätt (SKUA), där fokus ligger på att skapa bra undervisningssituationer för att stötta barn i sin språkliga utveckling.",
+    "i": "SKUA language-developing approach.",
+    "c": [
+     [
+      "Other stated profile",
+      "Language-developing approach (SKUA)",
+      "S"
+     ]
+    ],
+    "cn": ""
+   },
+   {
+    "url": "https://www.botkyrka.se/karsbyinternationalschool",
+    "q": "Vi har en organiserad rastverksamhet där elever, så kallade trivselledare, ansvarar för att genomföra aktiviteter vilket bidrar till bättre sammanhållning och en tryggare skolmiljö.",
+    "i": "Trivselledare named.",
+    "c": [
+     [
+      "Support, inclusion, or wellbeing emphasis",
+      "Trivselledare",
+      "E"
+     ]
+    ],
+    "cn": ""
+   },
+   {
+    "url": "https://www.botkyrka.se/karsbyinternationalschool",
+    "q": "För att utveckla elevernas förmåga att motverka och uppmärksamma mobbning och kränkande behandling arbetar vi med Botkyrka kommuns våldspreventiva program Tåget, årskurs F-6, och MVP (Mentors in Violence Prevention) i årskurs 7-9.",
+    "i": "Municipal violence-prevention programmes.",
+    "c": [
+     [
+      "Support, inclusion, or wellbeing emphasis",
+      "Tåget (F–6) and MVP (7–9), municipal programmes",
+      "S"
+     ]
+    ],
+    "cn": ""
+   }
+  ]
+ },
+ {
+  "sid": "75580959",
+  "o": "R",
+  "note": "Step 4A: Botkyrka page collected (terms flag was sports-hall booking conditions).",
+  "ev": [
+   {
+    "url": "https://www.botkyrka.se/rikstensskola",
+    "q": "Skolan satsar på tidig läsning och ett språkutvecklande arbetssätt.",
+    "i": "Early reading and language-developing approach stated.",
+    "c": [
+     [
+      "Other stated profile",
+      "Early reading and language-developing approach",
+      "S"
+     ]
+    ],
+    "cn": ""
+   }
+  ]
+ },
+ {
+  "sid": "75527289",
+  "o": "R",
+  "note": "Step 4A: ugglan.net collected; the earlier terms flag pointed to membership payment terms only.",
+  "ev": [
+   {
+    "url": "https://ugglan.net/",
+    "q": "På Ugglan arbetar vi utifrån Maria Montessoris tanke om att barn vill, kan och har en inneboende lust att lära.",
+    "i": "Montessori pedagogy stated.",
+    "c": [
+     [
+      "Alternative pedagogy",
+      "Montessori",
+      "E"
+     ]
+    ],
+    "cn": ""
+   }
+  ]
+ },
+ {
+  "sid": "43238662",
+  "o": "N",
+  "note": "Step 4A: Botkyrka page collected. Music/culture and past research projects mentioned only broadly; No clear evidence."
+ },
+ {
+  "sid": "45757947",
+  "o": "N",
+  "note": "Step 4A: Botkyrka page collected. Language and mathematics focus is generic; No clear evidence."
+ },
+ {
+  "sid": "33922950",
+  "o": "N",
+  "note": "Step 4A: Stockholm robots.txt allows all (earlier parse issue was line endings). Erasmus projects described as staff development; outdoor spaces for play; No clear evidence."
+ },
+ {
+  "sid": "41357379",
+  "o": "P",
+  "why": "school-specific source not found",
+  "note": "Step 4A/B: Botkyrka page collected but describes Skogsbacksskolan and never mentions Trampolinen (rule B: not transferred); No usable public page."
+ },
+ {
+  "sid": "65487837",
+  "o": "R",
+  "note": "Step 4C: register display name \"Futuraskolan International Stockholm\" and address Erik Dahlbergsgatan 58-62 match the unit page futuraskolan.se/schools/stockholm.",
+  "ev": [
+   {
+    "url": "https://futuraskolan.se/schools/stockholm/",
+    "q": "Futuraskolan International Stockholm is a bilingual school, which means that our students’ lessons are conducted approximately 50% in English and 50% in Swedish.",
+    "i": "Bilingual 50/50 teaching stated on unit page.",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (about 50/50)",
+      "E"
+     ]
+    ],
+    "cn": ""
+   },
+   {
+    "url": "https://futuraskolan.se/schools/stockholm/",
+    "q": "We follow the Swedish National Curriculum and in addition to that, we also utilize the International Primary Curriculum (IPC) in Grades F – 5 and the International Middle Years Curriculum (IMYC) in Grades 6-9.",
+    "i": "Named thematic curricula IPC/IMYC.",
+    "c": [
+     [
+      "Project- or inquiry-based learning",
+      "IPC/IMYC thematic curricula",
+      "S"
+     ]
+    ],
+    "cn": ""
+   }
+  ]
+ },
+ {
+  "sid": "40467992",
+  "o": "R",
+  "note": "Step 4C: register display name \"Futuraskolan International Hertig Karl\" matches the unit page.",
+  "ev": [
+   {
+    "url": "https://futuraskolan.se/schools/hertig-karl/",
+    "q": "Futuraskolan International Hertig Karl is a small bilingual school with a global perspective and caters for Grade F-9.",
+    "i": "Bilingual school stated on unit page.",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English",
+      "E"
+     ]
+    ],
+    "cn": ""
+   },
+   {
+    "url": "https://futuraskolan.se/schools/hertig-karl/",
+    "q": "We work thematically interrelating the Swedish National Curriculum with the International Primary Curriculum (IPC) and the International Middle Years Curriculum (IMYC) creating a setting for you as a student to broaden your knowledge through a global perspective",
+    "i": "Thematic work with IPC/IMYC.",
+    "c": [
+     [
+      "Project- or inquiry-based learning",
+      "IPC/IMYC thematic work",
+      "S"
+     ]
+    ],
+    "cn": ""
+   }
+  ]
+ },
+ {
+  "sid": "40978257",
+  "o": "R",
+  "note": "Step 4C: register display name \"Futuraskolan International School of Stockholm\" matches its own site.",
+  "ev": [
+   {
+    "url": "https://futuraskolaninternational.se/",
+    "q": "English is the language of instruction and it follows an international curriculum, not the Swedish National Curriculum.",
+    "i": "English-medium international school.",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "English-medium international curriculum",
+      "E"
+     ]
+    ],
+    "cn": ""
+   }
+  ]
+ },
+ {
+  "sid": "13954336",
+  "o": "R",
+  "note": "Step 4C: register display name \"Resursskolan vid Martinskolan\" matches martinskolan.se/resursskola.",
+  "ev": [
+   {
+    "url": "https://martinskolan.se/resursskola",
+    "q": "Vår resursgrundskola vänder sig till elever med omfattande och varaktigt stödbehov och som till följd av detta har svårt att klara av undervisningen och det sociala samspelet i en vanlig grundskola.",
+    "i": "Resource school.",
+    "c": [
+     [
+      "Support, inclusion, or wellbeing emphasis",
+      "Resource school (NPF)",
+      "E"
+     ]
+    ],
+    "cn": ""
+   },
+   {
+    "url": "https://martinskolan.se/resursskola",
+    "q": "Undervisningen utgår från grundskolans läroplan men bygger på waldorfpedagogikens praktiska, sociala och konstnärliga form för undervisningen samt specialpedagogiska metoder.",
+    "i": "Waldorf-based teaching in the resource school.",
+    "c": [
+     [
+      "Alternative pedagogy",
+      "Waldorf/Steiner",
+      "E"
+     ]
+    ],
+    "cn": ""
+   }
+  ]
+ },
+ {
+  "sid": "34672217",
+  "o": "R",
+  "note": "Step 4C: register display name \"Älta resursskola\" matches the Nacka page; the formal name Stavsborgsskolan is the host building.",
+  "ev": [
+   {
+    "url": "https://www.nacka.se/valfard-skola/alta-resursskola/om-oss/",
+    "q": "Älta resursskola riktar sig till elever som är i behov av extraordinärt särskilt stöd inom inriktningen NPF - Neuropsykiatrisk funktionsnedsättning.",
+    "i": "Resource school for NPF.",
+    "c": [
+     [
+      "Support, inclusion, or wellbeing emphasis",
+      "Resource school (NPF)",
+      "E"
+     ]
+    ],
+    "cn": ""
+   }
+  ]
+ },
+ {
+  "sid": "86440798",
+  "o": "P",
+  "why": "content not readable",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "54348763",
+  "o": "P",
+  "why": "content not readable",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "34946479",
+  "o": "P",
+  "why": "dormant status (municipality page marks it dormant 2026/27; Skolverket lists it active)",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "47727629",
+  "o": "P",
+  "why": "no registered website",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "62518360",
+  "o": "P",
+  "why": "school-specific source not found",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "94279206",
+  "o": "P",
+  "why": "school-specific source not found",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "51041954",
+  "o": "P",
+  "why": "school-specific source not found",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "47290443",
+  "o": "P",
+  "why": "school-specific source not found",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "70481988",
+  "o": "P",
+  "why": "school-specific source not found",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "79034924",
+  "o": "P",
+  "why": "source inaccessible",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "85670099",
+  "o": "P",
+  "why": "source inaccessible",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "58286716",
+  "o": "P",
+  "why": "substantive page not reached",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "93320132",
+  "o": "P",
+  "why": "substantive page not reached",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "97762139",
+  "o": "P",
+  "why": "substantive page not reached",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "39923451",
+  "o": "P",
+  "why": "substantive page not reached",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "22019000",
+  "o": "P",
+  "why": "substantive page not reached",
+  "note": "Step 4B (agreed with Amna): No usable public page."
+ },
+ {
+  "sid": "10715898",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "12092203",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "12259212",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "12332278",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "11193969",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "11496096",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "10063280",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "10682125",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "11018018",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "11914814",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "12757193",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "10661388",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "98760751",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "36066067",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ },
+ {
+  "sid": "23498302",
+  "o": "R",
+  "clear": true,
+  "note": "Step 4D: re-checked 2026-11-04; coded quote still on the live page and the approach is clear; caveat cleared."
+ }
+]

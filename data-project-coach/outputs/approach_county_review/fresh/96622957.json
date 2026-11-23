@@ -1,0 +1,72 @@
+{
+  "school_id": "96622957",
+  "school_name": "Backeboskolan ekonomisk förening",
+  "registered_url": "http://www.backeboskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.backeboskolan.se/",
+      "source_url": "https://www.backeboskolan.se/",
+      "page_title": "Backeboskolan | Öppna sinnen, skarpa hjärnor och stora hjärtan",
+      "accessed_at": "2026-10-21T17:44:32.345706+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "96622957_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.backeboskolan.se/",
+          "robots_url": "https://www.backeboskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:44:31.368776+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.backeboskolan.se/om-oss/",
+      "source_url": "https://www.backeboskolan.se/om-oss/",
+      "page_title": "Om oss | Backeboskolan",
+      "accessed_at": "2026-10-21T17:44:33.252140+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "96622957_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.backeboskolan.se/om-oss/",
+          "robots_url": "https://www.backeboskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:44:31.368776+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.backeboskolan.se/pedagogik/",
+      "source_url": "https://www.backeboskolan.se/pedagogik/",
+      "page_title": "Vision & Pedagogik | Backeboskolan",
+      "accessed_at": "2026-10-21T17:44:34.213187+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "96622957_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.backeboskolan.se/pedagogik/",
+          "robots_url": "https://www.backeboskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:44:31.368776+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

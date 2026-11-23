@@ -1,0 +1,59 @@
+{
+  "school_unit_code": "11193969",
+  "school_name": "Karlslundsskolan",
+  "registered_url": "http://www.vallentuna.se/karlslundsskolan",
+  "attempted_at": "2026-10-21T09:19:56.121657+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/karlslundsskolan?ae=karlslundsskolan",
+      "retrieved_at": "2026-10-21T09:20:00.554416+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vallentuna.se/karlslundsskolan",
+          "robots_url": "https://www.vallentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:57.552480+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "http://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/karlslundsskolan?ae=karlslundsskolan",
+          "robots_url": "https://www.vallentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:57.552480+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/karlslundsskolan?ae=karlslundsskolan",
+          "robots_url": "https://www.vallentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:59.698385+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11193969_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Karlslundskolan är en skola F-9 med valbar musikinriktning för årskurs 4-9, samt med tillhörande fritidshem. Skolan ligger i centrala Vallentuna.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "97caf04004fa3baaee6f4d038857484c97c2e08fd0d0355fade17d185f86a0a6",
+      "school_unit_code": "11193969",
+      "school_name": "Karlslundsskolan",
+      "source_url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/karlslundsskolan?ae=karlslundsskolan",
+      "retrieved_at": "2026-10-21T09:20:00.554416+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

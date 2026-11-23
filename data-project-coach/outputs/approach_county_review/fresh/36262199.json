@@ -1,0 +1,17 @@
+{
+  "school_id": "36262199",
+  "school_name": "Nytorpsskolan",
+  "registered_url": "https://salem.se/forskolaochskola/grundskola/nytorpsskolan.4.335d63281936795eddcd07c.html",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://salem.se/forskolaochskola/grundskola/nytorpsskolan.4.335d63281936795eddcd07c.html",
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
+      "attempted_at": "2026-10-21T17:32:41.971693+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

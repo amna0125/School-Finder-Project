@@ -1,0 +1,101 @@
+{
+  "school_unit_code": "31528772",
+  "school_name": "Mariaskolan",
+  "registered_url": "http://www.mariaskolan.nu",
+  "attempted_at": "2026-10-21T09:21:01.621887+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://mariaskolan.nu/",
+      "retrieved_at": "2026-10-21T09:21:12.613155+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.mariaskolan.nu",
+          "robots_url": "https://www.mariaskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:03.325279+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.mariaskolan.nu/",
+          "robots_url": "https://www.mariaskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:04.899964+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://mariaskolan.nu/",
+          "robots_url": "https://mariaskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:08.618918+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "31528772_0.txt"
+    },
+    {
+      "source_url": "https://mariaskolan.nu/om-skolan/",
+      "retrieved_at": "2026-10-21T09:21:12.662703+00:00",
+      "robots_checks": [
+        {
+          "url": "https://mariaskolan.nu/om-skolan/",
+          "robots_url": "https://mariaskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:08.618918+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "31528772_1.txt"
+    },
+    {
+      "source_url": "https://mariaskolan.nu/om-skolan/bibliotek/",
+      "retrieved_at": "2026-10-21T09:21:12.693894+00:00",
+      "robots_checks": [
+        {
+          "url": "https://mariaskolan.nu/om-skolan/bibliotek/",
+          "robots_url": "https://mariaskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:08.618918+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "31528772_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vi lägger stor vikt vid ett helhetsperspektiv. Teoretiska, praktiska och konstnärliga ämnen integreras för att hela människan skall ha möjlighet att vara aktiv i inlärnings-processen. Barnets olika mognadsfaser är grunden för den pedagogiska utformningen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "57583b2770d5e85b0342a3627d97bd59d634593937e7b0f48a41b89a2a951a92",
+      "school_unit_code": "31528772",
+      "school_name": "Mariaskolan",
+      "source_url": "https://mariaskolan.nu/",
+      "retrieved_at": "2026-10-21T09:21:12.613155+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Teoretiska, praktiska och konstnärliga ämnen integreras för att hela människan skall ha möjlighet att vara aktiv i inlärnings-processen. Vi följer lgr22 och Waldorfskolans läroplan för årskurs F – 9. Idag går cirka 170 elever på Mariaskolan.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1c645e0aa01f4eaedda15a96e3c7cac59ff867f12d75b507a0fc15f792cdccea",
+      "school_unit_code": "31528772",
+      "school_name": "Mariaskolan",
+      "source_url": "https://mariaskolan.nu/om-skolan/",
+      "retrieved_at": "2026-10-21T09:21:12.662703+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

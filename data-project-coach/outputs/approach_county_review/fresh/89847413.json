@@ -1,0 +1,52 @@
+{
+  "school_id": "89847413",
+  "school_name": "Skansbergsskolan",
+  "registered_url": "https://www.huddinge.se/skansbergsskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.huddinge.se/skansbergsskolan",
+      "source_url": "https://www.huddinge.se/skansbergsskolan",
+      "page_title": "Skansbergsskolan | Huddinge kommun",
+      "accessed_at": "2026-10-21T17:43:36.951558+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "89847413_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/skansbergsskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:42.922162+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.huddinge.se/skansbergsskolan/om-skolan",
+      "source_url": "https://www.huddinge.se/skansbergsskolan/om-skolan",
+      "page_title": "Om Skansbergsskolan | Huddinge kommun",
+      "accessed_at": "2026-10-21T17:43:40.260360+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "89847413_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/skansbergsskolan/om-skolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:42.922162+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

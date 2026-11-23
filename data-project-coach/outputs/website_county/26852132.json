@@ -1,0 +1,55 @@
+{
+  "school_unit_code": "26852132",
+  "school_name": "Solhemsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+  "attempted_at": "2026-10-21T09:15:43.835012+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+      "retrieved_at": "2026-10-21T09:15:45.350046+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26852132_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Genom att skolan deltar i Skapande skola får eleverna också fördjupa sig i konstnärliga och kulturella uttrycksformer tillsammans med professionella kulturaktörer.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "e7a428fdbf63cd11a905b4308dd21a9bd230f3eaa3e4149d1451da56d3cfed10",
+      "school_unit_code": "26852132",
+      "school_name": "Solhemsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+      "retrieved_at": "2026-10-21T09:15:45.350046+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Skapande och kreativitet är en naturlig del av vår undervisning. Skolan har ett samarbete med Kulturskolans orkesterskola. Här får elever i yngre åldrar uttrycka sig genom musik.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "7ada41a652cc6cbabe6dce7c6dd48bbe36fe6073b93ec21851b502c740b68522",
+      "school_unit_code": "26852132",
+      "school_name": "Solhemsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+      "retrieved_at": "2026-10-21T09:15:45.350046+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

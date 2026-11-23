@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "23886554",
+  "school_name": "I Ur och Skur Mårtensbergsskolan",
+  "registered_url": "http://www.iurochskur.se",
+  "attempted_at": "2026-10-21T09:15:37.450591+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.iurochskur.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

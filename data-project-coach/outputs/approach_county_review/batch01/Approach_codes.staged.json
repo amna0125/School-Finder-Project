@@ -1,0 +1,90 @@
+[
+  {
+    "code_id": "ac_31ac93eb99d06c4732f5b4a2",
+    "school_id": "10063280",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Cross-subject assignments",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_31ac93eb99d06c4732f5b4a2",
+    "coder_note": "Assistant contextual excerpt and consistency review, not human review or independently verified practice. School describes recurring period assignments; daily timetable is explicitly illustrative, not verified observation. Arts language in fritids does not justify a compulsory-school arts code.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_bbb36a1c6e555a9d0197d03d",
+    "school_id": "10661388",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf/Steiner",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_bbb36a1c6e555a9d0197d03d",
+    "coder_note": "Assistant contextual excerpt and consistency review, not human review or independently verified practice. Grundskola page also mentions gymnasium; named school-wide pedagogy explicitly includes grundskola. No claim about implementation fidelity.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_355be93789be16eee96b90ad",
+    "school_id": "10661388",
+    "category": "Arts and creative learning",
+    "subcategory": "Arts integration",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_355be93789be16eee96b90ad",
+    "coder_note": "Assistant contextual excerpt and consistency review, not human review or independently verified practice. Direct statement under teaching characteristics on grundskola page; not inferred from Waldorf label.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_d32533513386fefa79359d37",
+    "school_id": "10661388",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nature in teaching",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_d32533513386fefa79359d37",
+    "coder_note": "Assistant contextual excerpt and consistency review, not human review or independently verified practice. Includes explicit use of nature in teaching, not location alone; frequency and extent unspecified.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_e0783419932c27f3513e6cc1",
+    "school_id": "11018018",
+    "category": "Arts and creative learning",
+    "subcategory": "Music and creative learning",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_e0783419932c27f3513e6cc1",
+    "coder_note": "Assistant contextual excerpt and consistency review, not human review or independently verified practice. Provider concept covers Stockholm and Örebro. Registered website matches provider but unit-specific applicability needs confirmation.",
+    "review_status": "Requires review"
+  },
+  {
+    "code_id": "ac_bedf5d2a8eda50a5376b7912",
+    "school_id": "11193969",
+    "category": "Arts and creative learning",
+    "subcategory": "Music (optional years 4–9)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_bedf5d2a8eda50a5376b7912",
+    "coder_note": "Assistant contextual excerpt and consistency review, not human review or independently verified practice. Optional music pathway, not every pupil; contextual description includes music courses and performances with municipal arts school.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_a496c827d3e4db087b31a227",
+    "school_id": "11914814",
+    "category": "Arts and creative learning",
+    "subcategory": "Music (optional years 7–9)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_a496c827d3e4db087b31a227",
+    "coder_note": "Assistant contextual excerpt and consistency review, not human review or independently verified practice. Shared Rosenborgsenheten page explicitly names Rosenborgskolan profile; optional pathway in years 7–9, not whole-unit universal provision.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_455d582156edca61a8d5a620",
+    "school_id": "11914814",
+    "category": "Other stated profile",
+    "subcategory": "Sport (optional years 7–9)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_455d582156edca61a8d5a620",
+    "coder_note": "Assistant contextual excerpt and consistency review, not human review or independently verified practice. Heading names Rosenborgskolan. Optional profile requires active sports-club membership; not a profile shared by every pupil.",
+    "review_status": "Reviewed"
+  }
+]

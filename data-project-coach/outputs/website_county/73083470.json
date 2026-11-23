@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "73083470",
+  "school_name": "Rydbo Friskola",
+  "registered_url": "http://www.rydbofriskola.se",
+  "attempted_at": "2026-10-21T09:22:58.547535+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.rydbofriskola.se/",
+      "retrieved_at": "2026-10-21T09:23:10.034373+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.rydbofriskola.se",
+          "robots_url": "https://www.rydbofriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:01.041345+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.rydbofriskola.se/",
+          "robots_url": "https://www.rydbofriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:02.676702+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "73083470_0.txt"
+    },
+    {
+      "source_url": "https://www.rydbofriskola.se/forskola/montessori-pa-forskolan/",
+      "retrieved_at": "2026-10-21T09:23:10.097984+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.rydbofriskola.se/forskola/montessori-pa-forskolan/",
+          "robots_url": "https://www.rydbofriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:02.676702+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "73083470_1.txt"
+    },
+    {
+      "source_url": "https://www.rydbofriskola.se/skola-f-6/profil/",
+      "retrieved_at": "2026-10-21T09:23:10.128088+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.rydbofriskola.se/skola-f-6/profil/",
+          "robots_url": "https://www.rydbofriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:02.676702+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "73083470_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

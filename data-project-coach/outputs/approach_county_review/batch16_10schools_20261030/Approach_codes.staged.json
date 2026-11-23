@@ -1,0 +1,123 @@
+[
+  {
+    "code_id": "ac_b16_29158808_01",
+    "school_id": "29158808",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Superschysst (2–3); Livsviktigt tillsammans (4–6)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29158808_01",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Named wellbeing methods: Superschysst years 2–3; Livsviktigt tillsammans years 4–6. Not whole-school undifferentiated implementation. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29270748_01",
+    "school_id": "29270748",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Individualised resource teaching; tydliggörande pedagogik",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29270748_01",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Dedicated resource-school page explicitly describes NPF-focused methods. Page also mentions adapted schooling; code refers to ordinary resource-school provision, not transfer from adapted-only page. F–9 site versus official 1–9. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29278599_01",
+    "school_id": "29278599",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Erasmus+ international cooperation; accreditation since 2024",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29278599_01",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Explicit internationalisation section and Erasmus+ accreditation since 2024. Opportunities to apply for funding, not evidence that every pupil has completed an exchange. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29371242_01",
+    "school_id": "29371242",
+    "category": "Arts and creative learning",
+    "subcategory": "Weekly music/performing assembly (F–4)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b16_29371242_01",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Sustained weekly assembly with performance, classical music and choir; F–4 only. Supported creative/arts learning routine, not an arts-specialist school or evidence about years 5–9. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29497099_01",
+    "school_id": "29497099",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Swedish–English bilingual education; language immersion",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29497099_01",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Södertälje-specific FAQ hosting provider-wide wording; local about page explicitly identifies this school as bilingual. Up to half, not exactly half, and F–3 introduction gradual. No inference from outcomes. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29524966_01",
+    "school_id": "29524966",
+    "category": "Alternative pedagogy",
+    "subcategory": "Freinet",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29524966_01",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Explicit Freinet approach on school about page, not inferred from name; source spelling retained. Initial directory name/registered domain match; refreshed official name null remains a metadata follow-up, not filled. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29524966_02",
+    "school_id": "29524966",
+    "category": "Arts and creative learning",
+    "subcategory": "Aesthetic learning processes in interdisciplinary themes",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29524966_02",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Explicit aesthetic learning integrated in recurring interdisciplinary term themes. Source spelling retained. School section, not preschool page. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29524966_03",
+    "school_id": "29524966",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Interdisciplinary term themes",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b16_29524966_03",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Recurring term-long interdisciplinary theme supports thematic/project category, not explicit inquiry self-label or proof of implementation. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29585072_01",
+    "school_id": "29585072",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Explore / Innovate: exploratory and experiential learning",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29585072_01",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Local Enskede concept page explicitly describes exploratory/experiential approach. Prototyping and testing also described. This is school-hosted provider concept; no claim of observed classroom practice. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29725531_01",
+    "school_id": "29725531",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Swedish–English bilingual programme",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29725531_01",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. School explicitly states bilingual programme and half of lessons in English; historical founding sentence continues into present-tense description. No attainment claims copied. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b16_29725531_02",
+    "school_id": "29725531",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Class Development Program",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b16_29725531_02",
+    "coder_note": "Assistant contextual review; existing codebook v1; 2026-10-30. Named inclusive whole-class programme with joint goals rather than competing groups. Page does not specify year-by-year participation. No causal learning benefit endorsed. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

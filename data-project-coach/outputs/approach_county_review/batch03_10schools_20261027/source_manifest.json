@@ -1,0 +1,137 @@
+[
+  {
+    "file": "bagar.html",
+    "bytes": 142213,
+    "sha256": "efe513918b500f55799ee709994c38d61c52c8b450696c3dfe95fd7f9aebe4b0"
+  },
+  {
+    "file": "baling.html",
+    "bytes": 74794,
+    "sha256": "be969d068fee9cf9e68e07a9a11b5156af15404dd832b4b951bd17129c75f46f"
+  },
+  {
+    "file": "baling_about.html",
+    "bytes": 88678,
+    "sha256": "9ebc3bab3add70f6da953d834bfaed781675a2f677d8ecef9ecccc2e920df6e6"
+  },
+  {
+    "file": "brink.html",
+    "bytes": 75329,
+    "sha256": "19864db6a7c715638f8fd97670876775980620820d561ecfcf9f99f36241b149"
+  },
+  {
+    "file": "hastens.html",
+    "bytes": 246742,
+    "sha256": "1d0f32902aefb831ca2a3a583893a02dfba1f5f85f00c5e4660a2aba28b07a71"
+  },
+  {
+    "file": "hastens_profile.html",
+    "bytes": 181723,
+    "sha256": "ae1c2b03a357724f3785a67f34e3ecce6f614d1acd482b5d6eceab8e4c4637f7"
+  },
+  {
+    "file": "jarva.html",
+    "bytes": 238075,
+    "sha256": "455daa13973099d3013c7f796ab849f22d90132a15f045c0ee1a64b87d051a40"
+  },
+  {
+    "file": "martin.html",
+    "bytes": 226421,
+    "sha256": "e9a7bd44ce4f246df152c017d7954d0affac71f2324997d762ba47be4fbeac92"
+  },
+  {
+    "file": "martin_resource.html",
+    "bytes": 202750,
+    "sha256": "f2c8717d12545a1dca633141af4c146177a78476a06bb8cff68ab94d46fb2d34"
+  },
+  {
+    "file": "olof.html",
+    "bytes": 79335,
+    "sha256": "59971bf0fd1af552658df183e42ebca772ed69c9c4ae8a4fb084a8a5a0cd5a72"
+  },
+  {
+    "file": "olof_methods.html",
+    "bytes": 62685,
+    "sha256": "c6607b21d228e47ae4e1b27feee084db704d320bed57a6023739ebace8019132"
+  },
+  {
+    "file": "olof_on.html",
+    "bytes": 64906,
+    "sha256": "5d51f600dbda26df9434c7a7afb9567dbb30db71fcddf76cc1d5a7b8580cebe5"
+  },
+  {
+    "file": "olof_welcome.html",
+    "bytes": 65694,
+    "sha256": "f06e9e95d6a7d2c25fbb6bf7599c45cc3d44b644a7822542059cd3f481230538"
+  },
+  {
+    "file": "robots_bagar.txt",
+    "bytes": 68,
+    "sha256": "884a702f28cae7691d050d58f687e2d29412b1e5a799000e5769742bc5818d17"
+  },
+  {
+    "file": "robots_baling.txt",
+    "bytes": 498,
+    "sha256": "750f760e4ee8836a23a7a276b699e579cabdbbb9acbdd73d0ec029a2175aa069"
+  },
+  {
+    "file": "robots_brink.txt",
+    "bytes": 494,
+    "sha256": "2eb5c8782f1b259c3f513391f0b866049643bc6c37bdd44301d403299da0c003"
+  },
+  {
+    "file": "robots_hastens.txt",
+    "bytes": 195,
+    "sha256": "9a748ca4396caadd7f0feb825f66e4b4b527a30fc793dc523702dcd0da444e87"
+  },
+  {
+    "file": "robots_jarva.txt",
+    "bytes": 115,
+    "sha256": "7ee376db4734112003b4df0a2af107de3cb25c26ca7e10545375bc19225288ca"
+  },
+  {
+    "file": "robots_martin.txt",
+    "bytes": 68,
+    "sha256": "c58de8327d81ea0e682b3b9ac03d48adabdae6daff662c6a315154ea163deb0a"
+  },
+  {
+    "file": "robots_olof.txt",
+    "bytes": 497,
+    "sha256": "3cbf4051da897b9bbc84ae86ac51c746cbdb1c62c1dc2262e9aedd4a9db0e47c"
+  },
+  {
+    "file": "robots_rws.txt",
+    "bytes": 182,
+    "sha256": "69d37c974e6c9208e40368ea4a0914ebd353ecf630e49be340722af0b6cd95cf"
+  },
+  {
+    "file": "robots_stavs.txt",
+    "bytes": 68,
+    "sha256": "2fa4ae248db013708b65fd57104b29f4696a6c153d04165a3c949ab2bb824fd8"
+  },
+  {
+    "file": "robots_vrs.txt",
+    "bytes": 246,
+    "sha256": "0a1b8980a4d650af4c3139097c2e2591ffc31778f48d8ff264edde37cc6c9f33"
+  },
+  {
+    "file": "rws.html",
+    "bytes": 239962,
+    "sha256": "be20cd3ce4acaa3bfb9bdbbe9c52b91133cb5e7542e70f5b69c05c5133cf2f22"
+  },
+  {
+    "file": "stavs.html",
+    "bytes": 44084,
+    "sha256": "903aa02e9c1b733980d49b2dc1990d17aecd582d0b937d24da92f546d2f9af79"
+  },
+  {
+    "file": "stavs_about.html",
+    "bytes": 39999,
+    "sha256": "79f6d8be91da674442b75f4f9f34c585c184afddc4e72bdc0cea7576bc54304c"
+  },
+  {
+    "file": "vrs.html",
+    "bytes": 608992,
+    "sha256": "c9b64cd961289c230463f3e8dccf555dfb1ada4eb8790d3d7b7502556880efcb"
+  }
+]

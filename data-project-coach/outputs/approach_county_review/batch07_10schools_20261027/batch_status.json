@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 7,
+  "scoped_no_clear_schools": 1,
+  "requires_review_schools": 2,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 15,
+  "new_code_rows": 13,
+  "database_evidence_total": 81,
+  "database_codes_total": 64,
+  "first_load_flow": "bouncy-toucanet",
+  "replay_flow": "strong-herring",
+  "replay_inserted_rows": 0,
+  "validation": "load_validation.json"
+}

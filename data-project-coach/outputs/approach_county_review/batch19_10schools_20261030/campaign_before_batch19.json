@@ -1,0 +1,20 @@
+{
+  "target_minimum_contextual_reviews": 200,
+  "planned_whole_batch_endpoint": 203,
+  "batch_size": 10,
+  "baseline_reviewed": 63,
+  "baseline_ledger": "county_progress_20261027_after_batch05.csv",
+  "latest_committed_batch": "batch18_10schools_20261030",
+  "committed_contextual_reviews": 193,
+  "campaign_status": "CHECKPOINTED_TARGET_NOT_REACHED",
+  "target_reached": false,
+  "depth_policy": "School-specific source/context review, unit/year scope, exact quotations and metadata, conservative coding; uncertain/access/permission outcomes retained. Complete and persist each batch before advancing. No unattended schedule claimed.",
+  "latest_ledger": "county_progress_20261030_after_batch18.csv",
+  "remaining_minimum": 7,
+  "remaining_whole_batches_to_203": 1,
+  "next_selection": "next_batch_after_batch18.json",
+  "continuation_note": "193 documented outcomes including unresolved cases, not193 resolved schools. Batch18 loaded and replay verified; target200 not reached.",
+  "target_remaining_minimum": 7,
+  "planned_batches_remaining": 1,
+  "note": "193 documented outcomes, not resolved schools. One ten-school batch to203."
+}

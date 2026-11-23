@@ -1,0 +1,58 @@
+{
+  "school_unit_code": "95747197",
+  "school_name": "Noblaskolan Brevik",
+  "registered_url": "https://noblaskolan.se/brevik/",
+  "attempted_at": "2026-10-21T09:17:34.250224+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://noblaskolan.se/brevik/",
+      "retrieved_at": "2026-10-21T09:17:37.116670+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/brevik/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "95747197_0.txt"
+    },
+    {
+      "source_url": "https://noblaskolan.se/brevik/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:37.132866+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/brevik/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "95747197_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Efter lunch och rast inleds eftermiddagen med högläsning. Det är ett fint sätt att skapa lugn och stimulera fantasin.På eftermiddagen roterar schemat mellan SO- och NO-ämnena, musik, bild, slöjd eller idrott och hälsa. Tack vare det konsekventa schemat vet eleverna exakt när det är dags för deras favoritaktiviteter varje vecka.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "964abac2e80aaac6c0ecc4d3282c7e70657a23129469b8d0770706b61ab28932",
+      "school_unit_code": "95747197",
+      "school_name": "Noblaskolan Brevik",
+      "source_url": "https://noblaskolan.se/brevik/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:37.132866+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

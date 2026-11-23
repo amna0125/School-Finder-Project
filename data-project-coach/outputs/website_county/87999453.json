@@ -1,0 +1,29 @@
+{
+  "school_unit_code": "87999453",
+  "school_name": "Tellusskolan Thea Bromma",
+  "registered_url": "https://tellusskolan.se/skolor/thea-bromma/",
+  "attempted_at": "2026-10-21T09:17:21.308835+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://tellusskolan.se/skolor/thea-bromma/",
+      "retrieved_at": "2026-10-21T09:17:23.373988+00:00",
+      "robots_checks": [
+        {
+          "url": "https://tellusskolan.se/skolor/thea-bromma/",
+          "robots_url": "https://tellusskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:17:22.400455+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "87999453_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "62078083",
+  "school_name": "Lärande Grundskola Fresta",
+  "registered_url": "http://www.larandegrundskola.se",
+  "attempted_at": "2026-10-21T09:22:28.151767+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.larandegrundskola.se/",
+      "retrieved_at": "2026-10-21T09:22:30.353449+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.larandegrundskola.se",
+          "robots_url": "https://www.larandegrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:28.678892+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.larandegrundskola.se/",
+          "robots_url": "https://www.larandegrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.154259+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62078083_0.txt"
+    },
+    {
+      "source_url": "https://www.larandegrundskola.se/footer/om-larande-grundskola",
+      "retrieved_at": "2026-10-21T09:22:30.378219+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.larandegrundskola.se/footer/om-larande-grundskola",
+          "robots_url": "https://www.larandegrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.154259+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62078083_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

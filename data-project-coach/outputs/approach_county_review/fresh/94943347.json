@@ -1,0 +1,72 @@
+{
+  "school_id": "94943347",
+  "school_name": "S:t Eriks katolska skola",
+  "registered_url": "http://www.sterikskatolskaskola.se",
+  "pages": [
+    {
+      "requested_url": "https://www.sterikskatolskaskola.se/",
+      "source_url": "https://www.sterikskatolskaskola.se/",
+      "page_title": "S:t Eriks katolska skola – Familjär skola med katolsk profil",
+      "accessed_at": "2026-10-21T17:44:18.570459+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94943347_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sterikskatolskaskola.se/",
+          "robots_url": "https://www.sterikskatolskaskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:44:17.391671+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sterikskatolskaskola.se/om-skolan/",
+      "source_url": "https://www.sterikskatolskaskola.se/om-skolan/",
+      "page_title": "Om skolan – S:t Eriks katolska skola",
+      "accessed_at": "2026-10-21T17:44:20.221358+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94943347_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sterikskatolskaskola.se/om-skolan/",
+          "robots_url": "https://www.sterikskatolskaskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:44:17.391671+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sterikskatolskaskola.se/om-skolan/historik/",
+      "source_url": "https://www.sterikskatolskaskola.se/om-skolan/historik/",
+      "page_title": "Historik – S:t Eriks katolska skola",
+      "accessed_at": "2026-10-21T17:44:21.420419+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94943347_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sterikskatolskaskola.se/om-skolan/historik/",
+          "robots_url": "https://www.sterikskatolskaskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:44:17.391671+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

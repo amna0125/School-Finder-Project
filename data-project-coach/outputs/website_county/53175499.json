@@ -1,0 +1,38 @@
+{
+  "school_unit_code": "53175499",
+  "school_name": "Tyska Skolan",
+  "registered_url": "http://www.tyskaskolan.se",
+  "attempted_at": "2026-10-21T09:22:05.118270+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://tyskaskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:09.657890+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.tyskaskolan.se",
+          "robots_url": "http://tyskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:06.820743+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://tyskaskolan.se/",
+          "robots_url": "https://tyskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:08.470248+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "53175499_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "file": "aby.html",
+    "bytes": 31866,
+    "sha256": "dc9e8deeda7258d101781572ca18767de38d3251a7c13a25b6b0fc174dd865d3"
+  },
+  {
+    "file": "aby_methods.html",
+    "bytes": 29832,
+    "sha256": "40bb651a1c1412bd5d47870e5a83d989c715e92e706afb9f22cea900cf58720e"
+  },
+  {
+    "file": "gondolen.html",
+    "bytes": 194501,
+    "sha256": "de6e1ffdf034b6f1f83ee4cad371234ac47a40556a031ce040216e570f09d4ea"
+  },
+  {
+    "file": "gondolen_about.html",
+    "bytes": 169837,
+    "sha256": "4986a39a66c2227cabb1dc3b9d60ad46dff1b2b6cc5d0fc8c1e300b1c5d8aec9"
+  },
+  {
+    "file": "gondolen_bilingual.html",
+    "bytes": 162013,
+    "sha256": "91721f88989806e63eaa92517647a0e521cdf248bec94f0eb823cdfeab8939e9"
+  },
+  {
+    "file": "jensen.html",
+    "bytes": 147071,
+    "sha256": "2dc1fbdd2a9e6cd6f5f1067d7b4bee1937b8086b6c126c3c6f7bce423a81320d"
+  },
+  {
+    "file": "jensen_about.html",
+    "bytes": 151231,
+    "sha256": "25d3340f2b413929c7a7133615e1776d12c344fc3c1ea527bbb0a82e1f71ffd6"
+  },
+  {
+    "file": "jensen_health.html",
+    "bytes": 90053,
+    "sha256": "1601bd6c1732de0ab1a0e47c59f8067719fdeeea431bb3b7046e41c03ac0c136"
+  },
+  {
+    "file": "margretelund.html",
+    "bytes": 77188,
+    "sha256": "6bf0c36423e1578642e8fda54932989cd918838bfc14eccdbca86f6ff81ef9ca"
+  },
+  {
+    "file": "margretelund_about.html",
+    "bytes": 91159,
+    "sha256": "3019f07126859cab35de485e397429702e2b4e07ecd6ee1ebdfbf2918a8f1569"
+  },
+  {
+    "file": "margretelund_reading.html",
+    "bytes": 80308,
+    "sha256": "4d7b7355300610cc0e842ea7b1980373464fcd823aff929e268828864dd00c72"
+  },
+  {
+    "file": "margretelund_safety.html",
+    "bytes": 79209,
+    "sha256": "8e7a792a75a2531106b4d4e66537fa7b3c44729f562d4f33679beac8c3da405a"
+  },
+  {
+    "file": "maria.html",
+    "bytes": 129578,
+    "sha256": "949c33f3fd672644a3ee446c6058705d39e72d5cee783d5beaacd7aba00e9455"
+  },
+  {
+    "file": "maria_pedagogy.html",
+    "bytes": 94026,
+    "sha256": "1f28b27b71c4e13ea993876e890be7e7b597ce7571c171b44eeadd60f2cfaa1f"
+  },
+  {
+    "file": "nyboda.html",
+    "bytes": 114154,
+    "sha256": "b31a67ba2d8e8b5a611303cea69d2e02e74cbbfb560eaa8950c43d8b58f9b934"
+  },
+  {
+    "file": "nyboda_profile.html",
+    "bytes": 104598,
+    "sha256": "3c74a970af30b6a148f518cb440751d801b239243173c7b38c4343cf74c13ef2"
+  },
+  {
+    "file": "riala.html",
+    "bytes": 623419,
+    "sha256": "e51d96b8fd23c334fe38dff9c7af6fb1c5b39b4f4597c929416ba132ec03ec36"
+  },
+  {
+    "file": "riala_about.html",
+    "bytes": 625990,
+    "sha256": "6f255645c840e2b29424d64348365ce55586483ddff465d606cbec1f8a06e0f6"
+  },
+  {
+    "file": "riala_directory.html",
+    "bytes": 622677,
+    "sha256": "3816ff820a22c9a33c657edb6154830ef5c9abe04c35bd7b0c103747f4a7e965"
+  },
+  {
+    "file": "robots_aby.txt",
+    "bytes": 117,
+    "sha256": "e0467bece6a18af84cb83e0c4504cbe89df00ae791407b9164bd8483f88e3fc4"
+  },
+  {
+    "file": "robots_gondolen.txt",
+    "bytes": 148028,
+    "sha256": "6dd138b5fd44d6c953f99788c3b7a0a1e5253ab8daac880f4bf140dcf995d661"
+  },
+  {
+    "file": "robots_jensen.txt",
+    "bytes": 2141,
+    "sha256": "8e8cb58d810473a52cce903be5ffb73d948eef981bbd101cffbf8dc2c02fcf4e"
+  },
+  {
+    "file": "robots_maria.txt",
+    "bytes": 179,
+    "sha256": "cf5ab2ddd4d50631bd0de400fd9e2a24ea37c9c86f8f489a2063374d32d7970d"
+  },
+  {
+    "file": "robots_norrtalje.txt",
+    "bytes": 72,
+    "sha256": "59801bc47e1a4d2bfdc91f22dfe1fbab4f327da07983a7c9fa5133bd6deb3258"
+  },
+  {
+    "file": "robots_osteraker.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "robots_sigtuna.txt",
+    "bytes": 497,
+    "sha256": "3cbf4051da897b9bbc84ae86ac51c746cbdb1c62c1dc2262e9aedd4a9db0e47c"
+  },
+  {
+    "file": "robots_tyreso.txt",
+    "bytes": 496,
+    "sha256": "80961e454c31aeb5880d122d1108f22e770073eea4c077229ac3080442a22d14"
+  },
+  {
+    "file": "robots_urfjall.txt",
+    "bytes": 114,
+    "sha256": "53169c5a235f6a3848ebe236716d85d1f7a1200de5ae92cd45827c63f1615ecd"
+  },
+  {
+    "file": "robots_vasby.txt",
+    "bytes": 735,
+    "sha256": "392174139ecef31e13a1eba9bbfdb2892d5c42ad824a5b0744565e1b2cb053f2"
+  },
+  {
+    "file": "saga.html",
+    "bytes": 65495,
+    "sha256": "322a113d7fb9b467f01825661c82fc4323478794f5742ed09e2e728f4e07047f"
+  },
+  {
+    "file": "saga_methods.html",
+    "bytes": 61285,
+    "sha256": "343a4f0e62d09c6e98dabf811929becd4ef2f4f8d58ff5b0e192c60abf4748bd"
+  },
+  {
+    "file": "urfjall.html",
+    "bytes": 97366,
+    "sha256": "5b81f681e43339323562e88a8f406e17b4034c1879aa2c18378ffb14251a4984"
+  },
+  {
+    "file": "urfjall_school.html",
+    "bytes": 99596,
+    "sha256": "30582e537f0f3ceb4dde054a227616c5b9d5288a257e72d3ee979e7df6caee3a"
+  },
+  {
+    "file": "vasby.html",
+    "bytes": 73255,
+    "sha256": "8d9a7746a1f960932d65e080de0d56cef5e9180b57e45859701866b098e89385"
+  },
+  {
+    "file": "vasby_about.html",
+    "bytes": 73216,
+    "sha256": "7c22ff916d4b93784b28abfea8bfb83155fe98b115f38de7b628f2b13b0b23b6"
+  }
+]

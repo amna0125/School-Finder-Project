@@ -1,0 +1,51 @@
+{
+  "school_unit_code": "71992738",
+  "school_name": "Fornbackaskolan",
+  "registered_url": "http://www.sodertalje.se/fornbackaskolan",
+  "attempted_at": "2026-10-21T09:22:53.880065+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.sodertalje.se/fornbackaskolan",
+      "retrieved_at": "2026-10-21T09:22:56.154034+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sodertalje.se/fornbackaskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:59.357737+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sodertalje.se/fornbackaskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:00.848981+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "71992738_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Praktiskestetiska ämnen som idrott, slöjd, hemkunskap, musik och bild är oftast placerade på eftermiddagen i schemat.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "6d40e7d3fbe7b0362b85aa88442e06a7000d54cf12eb67a30cabffdbe3ef305e",
+      "school_unit_code": "71992738",
+      "school_name": "Fornbackaskolan",
+      "source_url": "https://www.sodertalje.se/fornbackaskolan",
+      "retrieved_at": "2026-10-21T09:22:56.154034+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

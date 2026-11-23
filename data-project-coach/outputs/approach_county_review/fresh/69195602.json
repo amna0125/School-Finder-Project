@@ -1,0 +1,72 @@
+{
+  "school_id": "69195602",
+  "school_name": "Silverdalsskolan",
+  "registered_url": "http://www.sollentuna.se/sv/uweb/utbildning-silverdal/",
+  "pages": [
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/silverdalsskolan/",
+      "source_url": "https://www.sollentuna.se/uweb/silverdalsskolan/",
+      "page_title": "Silverdalsskolan",
+      "accessed_at": "2026-10-21T17:39:51.108991+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "69195602_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/silverdalsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:25.959945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/silverdalsskolan/om-oss/",
+      "source_url": "https://www.sollentuna.se/uweb/silverdalsskolan/om-oss/",
+      "page_title": "Om Silverdalsskolan",
+      "accessed_at": "2026-10-21T17:39:51.907014+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "69195602_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/silverdalsskolan/om-oss/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:25.959945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/silverdalsskolan/om-oss/avveckling-av-silverdalsskolan/",
+      "source_url": "https://www.sollentuna.se/uweb/silverdalsskolan/om-oss/avveckling-av-silverdalsskolan/",
+      "page_title": "Silverdalsskolan stänger juni 2027",
+      "accessed_at": "2026-10-21T17:39:52.717136+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "69195602_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/silverdalsskolan/om-oss/avveckling-av-silverdalsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:25.959945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

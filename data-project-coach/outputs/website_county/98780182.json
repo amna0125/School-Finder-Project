@@ -1,0 +1,113 @@
+{
+  "school_unit_code": "98780182",
+  "school_name": "Bodals skola",
+  "registered_url": "https://www.lidingo.se/bodalsskola",
+  "attempted_at": "2026-10-21T09:24:01.644121+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/",
+      "retrieved_at": "2026-10-21T09:24:05.711289+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lidingo.se/bodalsskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.556963+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/bodalsskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98780182_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/var-pedagogik-bodals-skola/",
+      "retrieved_at": "2026-10-21T09:24:05.772246+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/var-pedagogik-bodals-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98780182_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/fritidshem-och-fritidsklubb-bodals-skola/",
+      "retrieved_at": "2026-10-21T09:24:05.848295+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/fritidshem-och-fritidsklubb-bodals-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98780182_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": " eller erbjuda extra stöd för elever som behöver det. Baskunskaperna tala, lyssna, läsa, skriva och räkna är centrala. Vid sidan av dessa stimulerar vi olika intelligenser. Musik, estetisk och skapande verksamhet spelar en viktig roll för utvecklingen. Lika viktigt i dagens- som framtidens samhälle är social kompetens. Vi månar därför om att träna barnens förmåga att fungera i kontakt med olika människor och i olika miljöer.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "3a2544fbca08a83916d10f9cbd02121e0c4fa8252fa6b2b6a2acd139fd93a1f7",
+      "school_unit_code": "98780182",
+      "school_name": "Bodals skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/var-pedagogik-bodals-skola/",
+      "retrieved_at": "2026-10-21T09:24:05.772246+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "metoder eller erbjuda extra stöd för elever som behöver det. Baskunskaperna tala, lyssna, läsa, skriva och räkna är centrala. Vid sidan av dessa stimulerar vi olika intelligenser. Musik, estetisk och skapande verksamhet spelar en viktig roll för utvecklingen. Lika viktigt i dagens- som framtidens samhälle är social kompetens. Vi månar därför om att träna barnens förmåga att fungera i kontakt med olika människor och i olika miljöer.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "be4af6815492b9b3fc5cbc5c7c0bc7e0510dbb981030ea752f796e1e730f73a2",
+      "school_unit_code": "98780182",
+      "school_name": "Bodals skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/var-pedagogik-bodals-skola/",
+      "retrieved_at": "2026-10-21T09:24:05.772246+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "um. De äldre barnen har två klassrum och ett större och ett mindre fritidsrum. Både fritidshemmet och Klubben har också tillgång till skolans idrottshall, trä- och textilslöjdsal, musiksal, bildsal, hemkunskapssal och skapande ateljé.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "88f45392a646b4c800fd2770b39f91c0e5de83ba39d42fece30013703e885efc",
+      "school_unit_code": "98780182",
+      "school_name": "Bodals skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/fritidshem-och-fritidsklubb-bodals-skola/",
+      "retrieved_at": "2026-10-21T09:24:05.848295+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,52 @@
+{
+  "school_id": "71363923",
+  "school_name": "Djurgårdsskolan",
+  "registered_url": "http://www.djurgardsskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.djurgardsskolan.se/",
+      "source_url": "https://www.djurgardsskolan.se/",
+      "page_title": "HEM | Minsida",
+      "accessed_at": "2026-10-21T17:40:11.084654+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "71363923_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.djurgardsskolan.se/",
+          "robots_url": "https://www.djurgardsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:10.277930+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.djurgardsskolan.se/om-skolan",
+      "source_url": "https://www.djurgardsskolan.se/om-skolan",
+      "page_title": "OM SKOLAN | Minsida",
+      "accessed_at": "2026-10-21T17:40:11.946652+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "71363923_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.djurgardsskolan.se/om-skolan",
+          "robots_url": "https://www.djurgardsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:10.277930+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "63742407",
+  "school_name": "Rosendalsskolan",
+  "registered_url": "http://www.vallentuna.se",
+  "attempted_at": "2026-10-21T09:16:44.842112+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.vallentuna.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

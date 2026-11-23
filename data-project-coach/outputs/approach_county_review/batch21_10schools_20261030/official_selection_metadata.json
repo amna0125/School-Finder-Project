@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "35890890",
+    "official_database_name": "Västerholms friskola",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.vasterholm.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:04.140000"
+  },
+  {
+    "school_id": "35933721",
+    "official_database_name": "Rudboda skola",
+    "municipality_code": "0186",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "https://www.lidingo.se/rudbodaskola",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:12:07.530000"
+  },
+  {
+    "school_id": "36021631",
+    "official_database_name": "Montessoriskolan Växthuset",
+    "municipality_code": "0123",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.ahavaxthuset.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:21.710000"
+  },
+  {
+    "school_id": "36031993",
+    "official_database_name": "Vällingbyskolan",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:31.190000"
+  },
+  {
+    "school_id": "36185466",
+    "official_database_name": "I Ur och Skur Utsikten",
+    "municipality_code": "0186",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "https://iurochskur.friluftsframjandet.se/i-ur-och-skur-forskola--skola/i-ur-och-skurs-verksamheter/i-ur-och-skur-utsikten-skola/",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:42.630000"
+  },
+  {
+    "school_id": "36232577",
+    "official_database_name": "Bromma Enskilda Skola",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.brommaenskilda.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:26.030000"
+  },
+  {
+    "school_id": "36262199",
+    "official_database_name": "Nytorpsskolan",
+    "municipality_code": "0128",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://salem.se/forskolaochskola/grundskola/nytorpsskolan.4.335d63281936795eddcd07c.html",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:30.120000"
+  },
+  {
+    "school_id": "36276828",
+    "official_database_name": "Futuraskolan AB",
+    "municipality_code": "0186",
+    "grades_json": "[\"7\", \"8\", \"9\"]",
+    "website": "http://www.futuraskolan.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:32.380000"
+  },
+  {
+    "school_id": "36281817",
+    "official_database_name": "Höglandsskolan",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:09.320000"
+  },
+  {
+    "school_id": "36350546",
+    "official_database_name": "Tunaskolan",
+    "municipality_code": "0127",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.botkyrka.se/tunaskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:12.240000"
+  }
+]

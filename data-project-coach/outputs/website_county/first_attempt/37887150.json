@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "37887150",
+  "school_name": "Nordic International School Nacka",
+  "registered_url": "https://nordicinternational.se/nacka",
+  "attempted_at": "2026-10-21T09:16:01.662365+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "https://nordicinternational.se/nacka",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

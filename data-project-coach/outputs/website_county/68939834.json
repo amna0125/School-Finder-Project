@@ -1,0 +1,74 @@
+{
+  "school_unit_code": "68939834",
+  "school_name": "Hillelskolan",
+  "registered_url": "http://www.hillel.nu",
+  "attempted_at": "2026-10-21T09:16:49.299223+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://hillel.nu/",
+      "retrieved_at": "2026-10-21T09:17:04.466315+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.hillel.nu",
+          "robots_url": "http://www.hillel.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:50.153394+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.hillel.nu/",
+          "robots_url": "https://www.hillel.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:54.852823+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://hillel.nu/",
+          "robots_url": "https://hillel.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:57.461068+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "68939834_0.txt"
+    },
+    {
+      "source_url": "https://hillel.nu/judiska-profilen-2/",
+      "retrieved_at": "2026-10-21T09:17:04.480272+00:00",
+      "robots_checks": [
+        {
+          "url": "https://hillel.nu/judiska-profilen-2/",
+          "robots_url": "https://hillel.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:57.461068+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "68939834_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "På Hillelgården ges grundläggande kunskaper i judiska kulturen, traditioner och historien genom lek, musik berättelser och samtal.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "39b76493450d2e79745df95af43d36ea756dd463cb67d1669ddf0b2eb7f67ad2",
+      "school_unit_code": "68939834",
+      "school_name": "Hillelskolan",
+      "source_url": "https://hillel.nu/judiska-profilen-2/",
+      "retrieved_at": "2026-10-21T09:17:04.480272+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

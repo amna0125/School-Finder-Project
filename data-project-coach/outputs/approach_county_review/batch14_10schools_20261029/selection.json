@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "26742346",
+    "official_directory_name": "Solna Enskilda Skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.bma.nu",
+    "note": ""
+  },
+  {
+    "school_id": "26804905",
+    "official_directory_name": "Mora Parks skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.morapark.se",
+    "note": ""
+  },
+  {
+    "school_id": "26808959",
+    "official_directory_name": "Parkskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.solna.se",
+    "note": ""
+  },
+  {
+    "school_id": "26852132",
+    "official_directory_name": "Solhemsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "26878879",
+    "official_directory_name": "Stallets Skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.stalletsskola.se",
+    "note": ""
+  },
+  {
+    "school_id": "27181501",
+    "official_directory_name": "Viktor Rydbergs skola Nacka",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vrskolor.se",
+    "note": ""
+  },
+  {
+    "school_id": "27273328",
+    "official_directory_name": "Årstadalsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/arstadalsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "27323097",
+    "official_directory_name": "Noblaskolan Solna",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://noblaskolan.se/solna/",
+    "note": ""
+  },
+  {
+    "school_id": "27344011",
+    "official_directory_name": "Neglinge skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.neglinge.nacka.se",
+    "note": ""
+  },
+  {
+    "school_id": "27357778",
+    "official_directory_name": "Oxhagsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/oxhagsskolan",
+    "note": ""
+  }
+]

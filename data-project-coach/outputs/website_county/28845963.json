@@ -1,0 +1,71 @@
+{
+  "school_unit_code": "28845963",
+  "school_name": "Majtorpskolan",
+  "registered_url": "http://www.sodertalje.se/rosenborgskolan",
+  "attempted_at": "2026-10-21T09:20:53.953007+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.sodertalje.se/rosenborgsenheten",
+      "retrieved_at": "2026-10-21T09:20:56.426617+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sodertalje.se/rosenborgskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:59.357737+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sodertalje.se/rosenborgskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:00.848981+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sodertalje.se/rosenborgsenheten",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:00.848981+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "28845963_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "ra, vara delaktiga vid olika moment kopplat till tidsuppfattning, årstider samt månader och veckodagar. Därför efter fortsätter skoldagen enligt schema med teoretiska och praktisk estetiska ämnen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "7b2083629a8d2bec824412192aeb859e22913b364899c607a1a83d671c940332",
+      "school_unit_code": "28845963",
+      "school_name": "Majtorpskolan",
+      "source_url": "https://www.sodertalje.se/rosenborgsenheten",
+      "retrieved_at": "2026-10-21T09:20:56.426617+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "ommunalt övergripande särskild undervisningsgrupp (KÖSU). I den anrika skolbyggnaden från 1907 går våra elever från årskurs 7–9. De elever som vill kombinera sina studier med sitt musik- eller idrottsintresse kan söka till vår profilverksamhet. Du kan även gå här på teoretisk profil.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "8e563903d2a28652032181c393ab99bd6fd03eac1f74eac8934f243a1f6092ab",
+      "school_unit_code": "28845963",
+      "school_name": "Majtorpskolan",
+      "source_url": "https://www.sodertalje.se/rosenborgsenheten",
+      "retrieved_at": "2026-10-21T09:20:56.426617+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

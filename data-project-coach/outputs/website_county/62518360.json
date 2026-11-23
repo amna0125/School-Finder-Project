@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "62518360",
+  "school_name": "Resursskola Annersta",
+  "registered_url": "http://www.huddinge.se/annerstaskolan",
+  "attempted_at": "2026-10-21T09:22:28.406924+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.huddinge.se/annerstaskolan",
+      "retrieved_at": "2026-10-21T09:22:31.099285+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.huddinge.se/annerstaskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:52.895723+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.huddinge.se/annerstaskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.404163+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62518360_0.txt"
+    },
+    {
+      "source_url": "https://www.huddinge.se/annerstaskolan/om-skolan",
+      "retrieved_at": "2026-10-21T09:22:31.169985+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/annerstaskolan/om-skolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.404163+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62518360_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

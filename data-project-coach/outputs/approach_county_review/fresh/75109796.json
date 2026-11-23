@@ -1,0 +1,72 @@
+{
+  "school_id": "75109796",
+  "school_name": "Lillåkers skola",
+  "registered_url": "https://lidingo.se/lillakersskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/",
+      "page_title": "Lillåkers skola F-9 - Lidingö",
+      "accessed_at": "2026-10-21T17:40:40.775135+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "75109796_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/ansok-till-lillakers-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/ansok-till-lillakers-skola/",
+      "page_title": "Ansök till Lillåkers skola - Lidingö",
+      "accessed_at": "2026-10-21T17:40:42.560044+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "75109796_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/ansok-till-lillakers-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/fritidshem-och-fritidsklubb-lillakers-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/fritidshem-och-fritidsklubb-lillakers-skola/",
+      "page_title": "Fritidshem och fritidsklubb, Lillåkers skola - Lidingö",
+      "accessed_at": "2026-10-21T17:40:43.410994+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "75109796_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/fritidshem-och-fritidsklubb-lillakers-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

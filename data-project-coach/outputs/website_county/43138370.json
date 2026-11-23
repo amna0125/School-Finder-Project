@@ -1,0 +1,101 @@
+{
+  "school_unit_code": "43138370",
+  "school_name": "Vittra Brotorp",
+  "registered_url": "http://www.vittra.se/brotorp",
+  "attempted_at": "2026-10-21T09:21:35.232768+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vittra.se/brotorp/",
+      "retrieved_at": "2026-10-21T09:21:39.287879+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vittra.se/brotorp",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.345093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vittra.se/brotorp",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:03.914768+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vittra.se/brotorp/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "43138370_0.txt"
+    },
+    {
+      "source_url": "https://vittra.se/brotorp/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:21:39.311692+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/brotorp/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "43138370_1.txt"
+    },
+    {
+      "source_url": "https://vittra.se/brotorp/artikel/pedagoger/",
+      "retrieved_at": "2026-10-21T09:21:39.336182+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/brotorp/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "43138370_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "FN-dagen skapar stolthet hos Vittra Rösjötorps elever Vittra Rösjötorp International i Sollentuna är en tvåspråkig förskola och skola med både engelska och svenska. Här går barn och elever som inte har svenska som förstaspråk tillsammans med de som valt Vittra Rösjötorp för möjligheten att tidigt lära sig engelska. FN-dagen som i år firas torsdagen den...",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "f7248afa94793633b5f82006f97e77b931d880a9e08722808664ed47d3fe43d8",
+      "school_unit_code": "43138370",
+      "school_name": "Vittra Brotorp",
+      "source_url": "https://vittra.se/brotorp/",
+      "retrieved_at": "2026-10-21T09:21:39.287879+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": " engagemang och en stark tro på varje elevs förmåga. Elevernas höjdpunkter ser olika ut – för vissa är det samarbetet i klassrummet, för andra gemenskapen på rasterna, skapandet i estetiska ämnen eller rörelseglädjen på idrotten. Skoldagen rymmer både trygghet, inspiration och möjligheter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "e9ed240f1c24f2feab0e085f8d60c988af89293702ce4eef39612cf17deba90e",
+      "school_unit_code": "43138370",
+      "school_name": "Vittra Brotorp",
+      "source_url": "https://vittra.se/brotorp/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:21:39.311692+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "school_id": "18193338",
+  "school_name": "Svandammsskolan",
+  "registered_url": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/svandammsskolan-f-6",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/svandammsskolan-f-6",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:29:13.429083+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

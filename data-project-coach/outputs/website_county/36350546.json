@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "36350546",
+  "school_name": "Tunaskolan",
+  "registered_url": "http://www.botkyrka.se/tunaskolan",
+  "attempted_at": "2026-10-21T09:21:14.605559+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/tunaskolan",
+      "error": "HTTP 404"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "school_id": "14115670",
+  "school_name": "Friskolan & Fritidshemmet Hästens",
+  "registered_url": "http://www.friskolanhastens.se",
+  "pages": [
+    {
+      "requested_url": "https://friskolanhastens.se/",
+      "source_url": "https://friskolanhastens.se/",
+      "page_title": "Friskolan & Fritidshemmet Hästens - En liten skola inför det stora livet",
+      "accessed_at": "2026-10-21T17:27:51.441612+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "14115670_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://friskolanhastens.se/",
+          "robots_url": "https://friskolanhastens.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.659634+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://friskolanhastens.se/om-oss/",
+      "source_url": "https://friskolanhastens.se/om-oss/",
+      "page_title": "Om oss - Friskolan & Fritidshemmet Hästens",
+      "accessed_at": "2026-10-21T17:27:52.539075+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "14115670_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://friskolanhastens.se/om-oss/",
+          "robots_url": "https://friskolanhastens.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.659634+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://friskolanhastens.se/var-profil/",
+      "source_url": "https://friskolanhastens.se/var-profil/",
+      "page_title": "Vår profil - Friskolan & Fritidshemmet Hästens",
+      "accessed_at": "2026-10-21T17:27:54.592008+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "14115670_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://friskolanhastens.se/var-profil/",
+          "robots_url": "https://friskolanhastens.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.659634+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

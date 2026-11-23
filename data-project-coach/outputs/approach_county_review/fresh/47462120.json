@@ -1,0 +1,52 @@
+{
+  "school_id": "47462120",
+  "school_name": "Dibber International School Sollentuna",
+  "registered_url": "https://dibber.se/skola/international-school-sollentuna/",
+  "pages": [
+    {
+      "requested_url": "https://dibber.se/skola/international-school-sollentuna/",
+      "source_url": "https://dibber.se/skola/international-school-sollentuna/",
+      "page_title": "Dibber International | Tvåspråkig grundskola i Sollentuna",
+      "accessed_at": "2026-10-21T17:36:09.908369+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "47462120_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://dibber.se/skola/international-school-sollentuna/",
+          "robots_url": "https://dibber.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:08.408853+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://dibber.se/skola/international-school-sollentuna/om-oss/",
+      "source_url": "https://dibber.se/skola/international-school-sollentuna/om-oss/",
+      "page_title": "Om Dibber International School Sollentuna - Dibber",
+      "accessed_at": "2026-10-21T17:36:11.563530+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "47462120_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://dibber.se/skola/international-school-sollentuna/om-oss/",
+          "robots_url": "https://dibber.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:08.408853+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

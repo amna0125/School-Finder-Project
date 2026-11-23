@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "52293921",
+  "school_name": "Bällstabergsskolan",
+  "registered_url": "http://www.skolor.vallentuna.se/ballstaberg/",
+  "attempted_at": "2026-10-21T09:16:25.445769+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.skolor.vallentuna.se/ballstaberg/",
+      "error": "<urlopen error timed out>"
+    }
+  ]
+}

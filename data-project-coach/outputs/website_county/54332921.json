@@ -1,0 +1,51 @@
+{
+  "school_unit_code": "54332921",
+  "school_name": "Mellansjö skola",
+  "registered_url": "https://nytida.se/skola/vara-skolor/mellansjoskolan/",
+  "attempted_at": "2026-10-21T09:16:30.733029+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://nytida.se/verksamheter/mellansjo-skola/",
+      "retrieved_at": "2026-10-21T09:16:32.800382+00:00",
+      "robots_checks": [
+        {
+          "url": "https://nytida.se/skola/vara-skolor/mellansjoskolan/",
+          "robots_url": "https://nytida.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.077882+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://nytida.se/verksamheter/mellansjo-skola/",
+          "robots_url": "https://nytida.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.077882+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "54332921_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Utöver klassrum finns specialutrustade lokaler för idrott, slöjd, musik och bild. Den fysiska miljön är anpassad för att skapa trygghet, överblick och tydliga ramar, vilket är centralt för skolans målgrupp.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "99e05a6b5833e6cf1f9a2d2a4a99257e3ae77f9583300f6314493fa2ebf3379c",
+      "school_unit_code": "54332921",
+      "school_name": "Mellansjö skola",
+      "source_url": "https://nytida.se/verksamheter/mellansjo-skola/",
+      "retrieved_at": "2026-10-21T09:16:32.800382+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

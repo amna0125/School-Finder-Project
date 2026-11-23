@@ -1,0 +1,52 @@
+{
+  "school_id": "91067048",
+  "school_name": "Ebba Braheskolan",
+  "registered_url": "http://www.ebbabraheskolan.se",
+  "pages": [
+    {
+      "requested_url": "http://ebbabraheskolan.se/",
+      "source_url": "http://ebbabraheskolan.se/",
+      "page_title": "Ebba Braheskolan |",
+      "accessed_at": "2026-10-21T17:43:54.203093+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "91067048_0.txt",
+      "robots_checks": [
+        {
+          "url": "http://ebbabraheskolan.se/",
+          "robots_url": "http://ebbabraheskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:52.846318+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "http://ebbabraheskolan.se/pedagogik/",
+      "source_url": "http://ebbabraheskolan.se/pedagogik/",
+      "page_title": "Pedagogik | Ebba Braheskolan",
+      "accessed_at": "2026-10-21T17:43:55.547237+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "91067048_1.txt",
+      "robots_checks": [
+        {
+          "url": "http://ebbabraheskolan.se/pedagogik/",
+          "robots_url": "http://ebbabraheskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:52.846318+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

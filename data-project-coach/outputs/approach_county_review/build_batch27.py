@@ -1,0 +1,90 @@
+"""One-time Batch27 structuring of saved public sources; no database writes/network."""
+from pathlib import Path
+import csv, json, re, html, hashlib
+from collections import Counter
+import duckdb
+from outputs.approach_county_review.extract19 import parse
+from school_pipeline.approach_migration import validate_records
+P=Path('outputs/approach_county_review'); B=P/'batch27_10schools_20261102'; S=B/'sources'; D='2026-11-02'
+assert not (B/'Approach_evidence.staged.json').exists(), 'Already staged; do not rerun'
+rows=list(csv.DictReader((P/'county_progress_20261102_after_batch26.csv').open()))
+selection=sorted((r for r in rows if r['review_state']=='Not yet contextually reviewed'),key=lambda r:r['school_id'])[:10]
+ids=[r['school_id'] for r in selection]
+assert ids==['41955701','42149666','42179975','42202683','42215279','42328518','42434583','42601396','42912378','42986451']
+with duckdb.connect('.state/schools.duckdb',read_only=True) as db:
+ cur=db.execute('select * from schools where school_unit_code in ('+','.join('?' for _ in ids)+') order by school_unit_code',ids)
+ meta=[dict(zip([x[0] for x in cur.description],r)) for r in cur.fetchall()]
+assert [r['school_unit_code'] for r in meta]==ids
+urls={
+'jarva':'https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/jarvastadens-skola',
+'husby':'https://grundskola.stockholm/hitta-grundskola/grundskola/husbygardsskolan',
+'farsta':'https://www.mavatterosen.se/', 'farsta_about':'https://www.mavatterosen.se/farsta-strandskolan/',
+'stper':'https://www.sigtuna.se/stpersskola',
+'stper_work':'https://www.sigtuna.se/utbildning-och-barnomsorg/grundskola/grundskolor/st-pers-skola/arbetssatt-och-kvalitetsarbete.html',
+'stper_platform':'https://www.sigtuna.se/utbildning-och-barnomsorg/grundskola/grundskolor/st-pers-skola/arbetssatt-och-kvalitetsarbete/pedagogisk-plattform-barn-och-elever-1-16-ar.html',
+'franska':'https://www.franskaskolan.se/',
+'franska_profile':'https://www.franskaskolan.se/grundskolan/franska-profilen-spetsutbildning/',
+'brunn':'https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/brunnsskola.4.2d09c46d1850f82301f8f3d.html',
+'trang':'https://www.huddinge.se/trangsundsskolan','trang_about':'https://www.huddinge.se/trangsundsskolan/om-skolan',
+'vinsta':'https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-ostra',
+'friberga':'https://www.danderyd.se/skolor/fribergaskolan/',
+'friberga_about':'https://www.danderyd.se/skolor/fribergaskolan/om-oss/',
+'friberga_idea':'https://www.danderyd.se/skolor/fribergaskolan/om-oss/var-organisation/',
+'friberga_health':'https://www.danderyd.se/skolor/fribergaskolan/om-oss/motivation-och-halsa/'}
+notes=[
+'Current website F–3; official years1–3. Future middle-school expansion not current scope. Generic support, school size and nature proximity do not establish a profile. Scoped review of saved school description only, not evidence of absence.',
+'Official years1–9; browser page F–9 across two buildings. Concrete multi-teacher system and common lesson structure jointly support learning-environment emphasis (Supported/Medium), not an explicit named support pedagogy. Staffing wording is self-reported, not class size or comparable official statistic. Raw HTML decoding failure preserved; quotations from ordinary browser excerpt.',
+'Official years1–3; school page F–3. Sustained thematic/interdisciplinary work with pupils questions supports inquiry approach. Creative environment adjective alone not separately coded as arts; practical-aesthetic subjects within themes noted but no extra arts label. Preschool-only project pedagogy on homepage excluded.',
+'Permission blocker: robots_kung.txt explicitly disallows AI crawlers. No school content fetched or coded. Search discovery excluded as evidence. Needs permission resolution before content collection.',
+'Official years1–6. Scoped saved homepage, work-methods page and linked municipal pedagogical platform. Platform includes preschool and all municipal schools; broad agency, creativity and accessibility language insufficient for a firm school-specific category. No clear evidence within these pages, not exhaustive school review; further school-description page remains optional follow-up.',
+'Official years1–9; combined homepage includes gymnasium, excluded. French spets programme explicitly years7–9 and selective admission: do not apply advanced programme to all pupils. Language label here limited to this explicitly scoped programme; exchanges described separately but no grade scope assumed. School claims not independently verified.',
+'Official years1–9; website F–9. Reading explicitly described as a pillar with literary themes across all subjects: Other stated profile, literacy thematic emphasis, not language/international or arts by inference. KSU autism groups not generalized; ordinary subject lists and nature proximity excluded.',
+'Official years1–9; website F–9. Broad health/movement and accessible instruction emphasis lacks sufficiently specific school model in reviewed homepage/about pages; uncertain uncoded note. Municipal common routines not distinct school profile.',
+'Official eastern unit years1–6; website eastern F–6, western4–9. Creativity statement immediately follows description of both units; applicability to east alone unresolved. Retain uncertain uncoded quotation. Research participation not pedagogy.',
+'Official and website years7–9. Explicit international profile and weekly Motivation och hälsa / Motivationslyftet. Effectiveness unverified. Choir at ceremonies alone not arts approach. Homepage pupil count about435 differs from about page about560; neither used as official statistic.'
+]
+outcomes=['No clear evidence within scoped review','Reviewed approach claim','Reviewed approach claim','Permission blocker','No clear evidence within scoped review','Reviewed approach claim','Reviewed approach claim','Uncertain evidence / requires review','Uncertain evidence / requires review','Reviewed approach claim']
+pages=[['jarva'],['husby'],['farsta','farsta_about'],[],['stper','stper_work','stper_platform'],['franska','franska_profile'],['brunn'],['trang','trang_about'],['vinsta'],['friberga','friberga_about','friberga_idea','friberga_health']]
+def title(n):
+ if n=='husby':return json.loads((S/'husby_browser_excerpt.json').read_text())['page_title']
+ m=re.search(r'<title[^>]*>(.*?)</title>',(S/(n+'.html')).read_text(),re.S|re.I)
+ assert m,n
+ return html.unescape(re.sub('<[^>]+>','',m.group(1))).strip()
+def text(n):
+ return json.loads((S/'husby_browser_excerpt.json').read_text())['text'] if n=='husby' else parse(S/(n+'.html'))[0]
+e=[];c=[]
+def add(i,n,q,cat='',sub='',level='Explicit'):
+ assert q in text(n),(n,q)
+ sid=ids[i];num=sum(x['school_id']==sid for x in e)+1;eid=f'ae_b27_{sid}_{num:02}'
+ e.append(dict(evidence_id=eid,school_id=sid,source_url=urls[n],page_title=title(n),accessed_date=D,quoted_text=q,evidence_type='School webpage',interpretation_note=notes[i]))
+ if cat:c.append(dict(code_id=f'ac_b27_{sid}_{num:02}',school_id=sid,category=cat,subcategory=sub,coding_level=level,confidence='Medium' if level=='Supported' else 'High',evidence_id=eid,coder_note='Assistant contextual review, codebook v1. '+notes[i]+' Reviewed public wording, not independently verified practice.',review_status='Reviewed'))
+add(1,'husby','Vi har därför ett flerlärarsystem och hög bemanning i våra årskurser.','Support, inclusion, or wellbeing emphasis','Multi-teacher system and common lesson structure','Supported')
+add(1,'husby','En gemensam struktur på lektionerna gör att ditt barn känner igen sig i varje lektion hos varje lärare.')
+c[0]['coder_note'] += ' Joint support: ae_b27_42149666_01 and ae_b27_42149666_02; one label row to respect existing loader uniqueness.'
+add(2,'farsta_about','Ett tematiskt och ämnesövergripande arbetssätt genomsyrar verksamheten där elevernas arbeten dokumenteras och synliggörs.','Project- or inquiry-based learning','Thematic interdisciplinary work, years1–3')
+add(2,'farsta_about','Temaarbetet planeras utifrån Lgr 22 och elevernas egna frågeställningar/intressen.')
+add(5,'franska_profile','Detta innebär att elever fr.o.m. åk 7 kommer att få möjlighet att läsa franska på gymnasienivå.','Language, international, or intercultural profile','French spetsutbildning, selective years7–9')
+add(6,'brunn','Läsning är nyckeln till alla andra skolämnen och en av grundpelarna i vår verksamhet. Vi har olika litterära teman som en röd tråd genom alla skolämnen.','Other stated profile','Literacy emphasis and cross-subject literary themes')
+add(7,'trang_about','Kunskap står i centrum för vårt arbete, samtidigt som vi ser hälsa och rörelse som viktiga förutsättningar för lärande och välmående.')
+add(8,'vinsta','Vi har ett tydligt fokus på kultur och kreativitet genom vårt arbete med Skapande skola.')
+add(9,'friberga_idea','Vi har stark internationell profil och arrangerar utbyten med skolor i Spanien och studieresa till Tyskland.','Language, international, or intercultural profile','International exchanges and study trips')
+add(9,'friberga_health','På Fribergaskolan har vi en lektion i veckan som heter Motivation och hälsa.','Support, inclusion, or wellbeing emphasis','Motivationslyftet, weekly Motivation och hälsa')
+validate_records(e,c)
+reviews=[];logs=[]
+for i,r in enumerate(selection):
+ reviews.append(dict(school_id=ids[i],school_name=r['official_directory_name'],outcome=outcomes[i],evidence_count=sum(x['school_id']==ids[i] for x in e),code_count=sum(x['school_id']==ids[i] for x in c),unit_scope=notes[i],follow_up=notes[i],reviewer='Assistant contextual review; not independent verification',accessed_date=D,load_state='Structured and validated; not loaded'))
+ for n in pages[i]:
+  logs.append(dict(school_id=ids[i],registered_url=r['registered_url'],selected_url=urls[n],page_title=title(n),accessed_date=D,status='Browser readable; raw HTML decoding failure' if n=='husby' else 'HTTP200',saved_file='sources/husby_browser_excerpt.json' if n=='husby' else 'sources/'+n+'.html',selection_rationale='Ascending pending official ID; school/provider descriptive pages and relevant follow-ups',scope=notes[i],outcome=outcomes[i],permissions='Saved robots for seven hosts; Kungsholmen explicit AI restriction respected. Stockholm/Huddinge prior checks not exhaustive terms clearance. No bypass.',exclusions='No social/gallery/login/admin/application follow-up; rankings, surveys, news about named children and staff identities excluded from evidence.',retrieval_note='Access date from recorded source collection, no precise fetch time invented. Requested/final URLs same for these HTML pages per recorded fetch results. Husby browser excerpt is not raw HTML.'))
+ if not pages[i]:logs.append(dict(school_id=ids[i],registered_url=r['registered_url'],selected_url='',page_title='',accessed_date=D,status='Permission blocker; content not fetched',saved_file='sources/robots_kung.txt',selection_rationale='Ascending pending official ID; retained blocker not skipped',scope=notes[i],outcome=outcomes[i],permissions='Explicit AI crawler disallow',exclusions='No school content or search snippet used as evidence',retrieval_note='Only permission file saved; no school page access date asserted'))
+def dump(n,v):(B/n).write_text(json.dumps(v,ensure_ascii=False,indent=2,default=str)+'\n')
+for n,v in [('selection.json',selection),('official_selection_metadata.json',meta),('Approach_evidence.staged.json',e),('Approach_codes.staged.json',c)]:dump(n,v)
+for n,rs in [('review_log.csv',reviews),('collection_log.csv',logs)]:
+ with (B/n).open('w',newline='') as f:
+  w=csv.DictWriter(f,fieldnames=list(rs[0]));w.writeheader();w.writerows(rs)
+(B/'collection_log.jsonl').write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in logs))
+dump('source_hashes.json',{x.name:hashlib.sha256(x.read_bytes()).hexdigest() for x in sorted(S.iterdir()) if x.is_file()})
+dump('staging_validation.json',dict(status='PASSED',schools=len(selection),evidence=len(e),codes=len(c),outcomes=dict(Counter(outcomes)),schema_valid=True,quotes_checked=True,official_ids_valid=True,selection_matches_ledger=True,database_modified=False,county_ledger_modified=False))
+dump('batch_status.json',dict(status='STAGED_VALIDATED_NOT_LOADED',schools=10,evidence=len(e),codes=len(c),source_access_date=D,database_loaded=False,county_checkpointed=False))
+(B/'decision_log.md').write_text('# Batch27 decisions\n\n'+'\n\n'.join(ids[i]+': '+notes[i] for i in range(10))+'\n\nCodebook v1 unchanged. Evidence outcomes are not clear/unclear scope totals. See CONTINUATION_REVIEW.md for source limitations.\n')
+(B/'REPORT.md').write_text('# Batch27 — structured and validated\n\n10 school outcomes; '+str(len(e))+' evidence records; '+str(len(c))+' code records.\n\n'+json.dumps(dict(Counter(outcomes)),ensure_ascii=False,indent=2)+'\n\nSaved as structured staging only. Not loaded into main database; county ledger unchanged. No Batch28 work. Source access date2026-11-02, not inferred from structuring date.\n')
+print(json.dumps(dict(status='STAGED_VALIDATED_NOT_LOADED',schools=10,evidence=len(e),codes=len(c),outcomes=dict(Counter(outcomes)))))

@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "43403496",
+    "official_directory_name": "Mariekällskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor/mariekallskolan/",
+    "note": ""
+  },
+  {
+    "school_id": "43632318",
+    "official_directory_name": "Enbacksskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/enbacksskolan",
+    "note": ""
+  },
+  {
+    "school_id": "43802065",
+    "official_directory_name": "Lilla Parkskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.lillaparkskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "43869172",
+    "official_directory_name": "Fredsborgskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.fredsborgskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "44002887",
+    "official_directory_name": "Ellagårdsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.taby.se/ellagardsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "44031601",
+    "official_directory_name": "Höglundaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "note": ""
+  },
+  {
+    "school_id": "44046131",
+    "official_directory_name": "Sundbyskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sundbyskolan",
+    "note": ""
+  },
+  {
+    "school_id": "44175786",
+    "official_directory_name": "Boo Gårds skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.boogard.nacka.se",
+    "note": ""
+  },
+  {
+    "school_id": "44227469",
+    "official_directory_name": "Grimstaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.upplandsvasby.se/grimstaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "44373961",
+    "official_directory_name": "Idunskolan Östra Stockholms Waldorfskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.idunskolan.se",
+    "note": ""
+  }
+]

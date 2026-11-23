@@ -1,0 +1,62 @@
+[
+  {
+    "evidence_id": "ae_b28_43133926_01",
+    "school_id": "43133926",
+    "source_url": "https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/bergshamraskolan",
+    "page_title": "Bergshamra­skolan \n\n - Solna stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Skolan har även ett gott samarbete med Solna kulturskola.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Unclear/Low: isolated cooperation statement does not establish sustained arts integration. Official snapshot years1–7; website F–9 and phased reopening from year7 autumn2025, expanding one year annually. Do not treat F–9 as verified current provision in every year."
+  },
+  {
+    "evidence_id": "ae_b28_43138370_01",
+    "school_id": "43138370",
+    "source_url": "https://vittra.se/brotorp/om/grundskola/",
+    "page_title": "Vittra Brotorp | Grundskola i Sundbyberg",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi arbetar tematiskt när det passar och väver samman ämnen för att skapa mening i lärandet.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Unclear/Low: conditional thematic work in lower/middle and upper-school sections; no sufficiently concrete sustained inquiry/project process described in reviewed page. No arts code from ordinary aesthetic subjects. School F–9 distinguished from preschool."
+  },
+  {
+    "evidence_id": "ae_b28_43375546_01",
+    "school_id": "43375546",
+    "source_url": "https://4-9.ralsen.se/v%C3%A5ra-verksamheter/skolan",
+    "page_title": "Rälsen 4-9 - Skolan",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Eleverna använder fysiska läroböcker i nästan alla ämnen, och på mellanstadiet satsar vi särskilt mycket på läsning, som vi ser som en viktig grund inför högstadiet.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Unclear/Low: reading emphasis specifically middle school, insufficient concrete model for a firm code. Provider homepage explicitly links Rälsen4–9 to this subdomain; no transfer from other provider units. About140 pupils is self-reported for26/27, not class size."
+  },
+  {
+    "evidence_id": "ae_b28_43289917_01",
+    "school_id": "43289917",
+    "source_url": "https://www.danderyd.se/skolor/vasaskolan/satsningar/naturvetenskap--teknik-for-alla/",
+    "page_title": "NTA - Naturvetenskap & Teknik för Alla – Danderyds kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Det viktigaste är det undersökande arbetssättet som sporrar eleverna att själva ställa frågor, göra förutsägelser, genomföra sina undersökningar och dokumentera resultatet.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit named NTA inquiry approach. School self-description, not independently verified practice."
+  },
+  {
+    "evidence_id": "ae_b28_43289917_02",
+    "school_id": "43289917",
+    "source_url": "https://www.danderyd.se/skolor/vasaskolan/satsningar/naturvetenskap--teknik-for-alla/",
+    "page_title": "NTA - Naturvetenskap & Teknik för Alla – Danderyds kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vasaskolan var först ut i kommunen med att använda NTA, och arbetar sedan 2004 kontinuerligt med arbetssättet i alla klasser.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Direct unit applicability statement; historical start date is school wording, not independent verification."
+  },
+  {
+    "evidence_id": "ae_b28_43289917_03",
+    "school_id": "43289917",
+    "source_url": "https://www.danderyd.se/skolor/vasaskolan/satsningar/las--och-litteratursatsning/",
+    "page_title": "Läs- och litteratursatsning – Danderyds kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Under varje läsår satsar vi extra mycket på läsning för eleverna i år 2 (vårterminen), 3 (höstterminen) och år 4 då vi har läsgrupper.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Targeted reading/literature initiative; extra reading groups specifically year2 spring, year3 autumn and year4. Not an arts or language/international profile."
+  }
+]

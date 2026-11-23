@@ -1,0 +1,52 @@
+{
+  "school_id": "10661388",
+  "school_name": "Örjanskolan grund",
+  "registered_url": "http://www.orjanskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://orjanskolan.se/",
+      "source_url": "https://orjanskolan.se/",
+      "page_title": "Hem",
+      "accessed_at": "2026-10-21T17:26:28.943715+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10661388_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://orjanskolan.se/",
+          "robots_url": "https://orjanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.211648+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://orjanskolan.se/grundskola",
+      "source_url": "https://orjanskolan.se/grundskola",
+      "page_title": "Grundskolan",
+      "accessed_at": "2026-10-21T17:26:29.668207+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10661388_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://orjanskolan.se/grundskola",
+          "robots_url": "https://orjanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.211648+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

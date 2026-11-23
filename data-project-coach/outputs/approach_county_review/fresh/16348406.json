@@ -1,0 +1,17 @@
+{
+  "school_id": "16348406",
+  "school_name": "Matteusskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:28:40.048923+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

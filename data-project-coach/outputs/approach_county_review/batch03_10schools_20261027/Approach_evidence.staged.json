@@ -1,0 +1,102 @@
+[
+  {
+    "evidence_id": "ae_b03_13384795_01",
+    "school_id": "13384795",
+    "source_url": "https://raoulwallenbergskolan.se/skola/rws-bagartorp/",
+    "page_title": "RWS Bagartorp – fokus på kunskap och karaktär",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Vi arbetar med Trivselledare för att stärka tryggheten och gemenskapen. Elever utbildas till ledare för inkluderande rastaktiviteter som främjar samarbete, ansvarstagande och en positiv skolmiljö där alla känner sig välkomna och delaktiga.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Bagartorp-specific health/wellbeing section; body and stored official grades agree 7–9. Metadata says 6–9: retain discrepancy, do not extend claim to year 6. Excludes other RWS units and news."
+  },
+  {
+    "evidence_id": "ae_b03_13493243_01",
+    "school_id": "13493243",
+    "source_url": "https://vrskolor.se/grundskolor/vrs-djursholm/",
+    "page_title": "Viktor Rydbergs högstadieskola i Djursholm, Norrort",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Viktor Rydbergs samskola Djursholm bedriver spetsutbildning i engelska sedan hösten 2013. Detta innebär att eleverna får utökad undervisning i engelska i en stimulerande miljö där engelskundervisningen håller en högre studietakt och har ett fördjupat innehåll.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Djursholm 7–9; English spets pathway only, admission test. Not bilingual schoolwide teaching; other subjects Swedish. Exclude gymnasium navigation and generic art/science slogan."
+  },
+  {
+    "evidence_id": "ae_b03_13582062_01",
+    "school_id": "13582062",
+    "source_url": "https://jarvaskolan.se/",
+    "page_title": "Järvaskolan",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Därmed har AIK Fotboll startat upp en fotbollsklass som elever på Järvaskolan har möjlighet att intresseanmäla sig till.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Järvaskolan 7–9 stored grades; optional football class, not all pupils; exclude similarly named Järvastaden."
+  },
+  {
+    "evidence_id": "ae_b03_13582062_02",
+    "school_id": "13582062",
+    "source_url": "https://jarvaskolan.se/",
+    "page_title": "Järvaskolan",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Eleverna erbjuds extra läxhjälp efter skoltid varje vecka. TVÅ / FLERA LÄRARE Skolan erbjuder minst två undervisande lärare i ett klassrum.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Support interpretation jointly rests on weekly homework help and at least two teaching teachers per classroom; this is self-reported provision, not official pupil/teacher ratio."
+  },
+  {
+    "evidence_id": "ae_b03_13665610_01",
+    "school_id": "13665610",
+    "source_url": "https://www.taby.se/Brinkskolan",
+    "page_title": "Brinkskolan | Täby kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Vi är Pep-certifierade och arbetar aktivt med rörelse, matvanor och har miljöcertifieringen Grön Flagg.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Brinkskolan website F–6; stored official grades 1–6 omit preschool class. Named health framework and concrete movement/food emphasis. Certification self-reported, not independently checked. Green Flag alone not outdoor pedagogy."
+  },
+  {
+    "evidence_id": "ae_b03_14115670_01",
+    "school_id": "14115670",
+    "source_url": "https://friskolanhastens.se/var-profil/",
+    "page_title": "Vår profil - Friskolan & Fritidshemmet Hästens",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Skolans profil är praktisk- estetisk samt med friluftsliv, med huvudområdena kultur, skapande, rörelse och natur i samverkan med de teoretiska ämnena.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Hästens school profile integrates practical/aesthetic and theoretical subjects; stored grades 1–5, website also preschool class. Not a claim about artistic quality."
+  },
+  {
+    "evidence_id": "ae_b03_14115670_02",
+    "school_id": "14115670",
+    "source_url": "https://friskolanhastens.se/var-profil/",
+    "page_title": "Vår profil - Friskolan & Fritidshemmet Hästens",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "För elever i F–3 bedrivs både undervisning (matematik, NO, idrott och hälsa) och fritidsverksamhet (friluftsliv) utomhus en dag i veckan.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Outdoor teaching explicitly F–3 only, weekly; do not extend to years 4–5. Preschool class website scope distinguished from stored official grade list."
+  },
+  {
+    "evidence_id": "ae_b03_13954336_01",
+    "school_id": "13954336",
+    "source_url": "https://martinskolan.se/resursskola",
+    "page_title": "Martinskolan",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Undervisningen utgår från grundskolans läroplan men bygger på waldorfpedagogikens praktiska, sociala och konstnärliga form för undervisningen samt specialpedagogiska metoder.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Requires review: selection directory labels ID as resource school, stored schools table names ID Martinskolan Söders Waldorfskola. Resource-unit page is explicit but cannot safely attach a firm Waldorf/support label to this ID before reconciliation. No code."
+  },
+  {
+    "evidence_id": "ae_b03_13579948_01",
+    "school_id": "13579948",
+    "source_url": "https://www.sigtuna.se/utbildning-och-barnomsorg/grundskola/grundskolor/st-olofs-skola/pa-st-olofs-skola/valkommen-till-st-olofs-skola.html",
+    "page_title": "Välkommen till S:t Olofs skola - Sigtuna kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Därför satsar S:t Olofs skola extra mycket på tillgängligt lärande, digitalisering och värdegrundsarbete.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Uncertain broad emphasis: concrete distinctive model/practices not established in scoped welcome/methods pages. 7–9 official and website agree. No firm code; not proof of absence."
+  },
+  {
+    "evidence_id": "ae_b03_13679897_01",
+    "school_id": "13679897",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bagarmossens-skola",
+    "page_title": "Bagarmossens skola, F–9 - Stockholms stad",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Våra elever får med sig många olika upplevelser och både Stockholms stad och närmiljön med Nackareservatet används som resurser i undervisningen.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Uncertain place-based lead: recurring structure, frequency and year scope unspecified. Generic creative variation insufficient for arts code. Stockholm robots response malformed; no further collection on host. No firm code."
+  }
+]

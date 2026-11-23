@@ -1,0 +1,15 @@
+[
+{"sid":"98666483","o":"N","note":"Ålstaskolan F–5 (Järfälla): new building; generic. (Chunk 18 school, loaded with chunk 19.)"},
+{"sid":"98753011","o":"U","why":"provider-level source only","note":"IES Sundbyberg: only provider homepage and other units' pages collected.","ev":[
+ {"p":0,"q":"Upp till hälften av undervisningen sker därför på engelska av lärare med engelska som modersmål.","i":"Provider-wide bilingual model; unit not confirmed.","t":"Provider webpage","cn":"Per IES precedent."}]},
+{"sid":"98780182","o":"N","note":"Bodals skola F–9 (Lidingö): library and reading aspirations, generic adaptation; no distinctive approach."},
+{"sid":"98925408","o":"N","note":"Viksjöskolan 7–9 (Järfälla): combines traditional teaching with clear routines; generic."},
+{"sid":"99022046","o":"N","note":"Sköndalsskolan F–6: frequent visits to nearby nature, not tied to teaching; generic."},
+{"sid":"99373839","o":"R","note":"Ekebyhovsskolan F–6 (Ekerö): has A-spår for children with autism and anpassad grundskola.","ev":[
+ {"p":0,"q":"Här finns plats för fyra paralleller i årskurs F - 6 med anpassad grundskola och A-spår (för barn med autism).","i":"On-site autism track.","c":[["Support, inclusion, or wellbeing emphasis","A-spår (autism track)","S"]],"cn":"Per on-site special group precedent."}]},
+{"sid":"99640618","o":"B","why":"school-specific source not found","note":"Registered URL is Nykvarn municipal homepage; no Lillhagaskolan page collected."},
+{"sid":"99648792","o":"R","note":"Adolf Fredriks musikklasser 4–9: extended music timetable, music daily; admission by music test.","ev":[
+ {"p":0,"q":"Alla elever har en utökad timplan i ämnet musik och har musik minst en gång om dagen i sitt schema.","i":"Music profile with daily music.","c":[["Arts and creative learning","Music profile (daily music)","E"]],"cn":"School claim."}]},
+{"sid":"99749462","o":"N","note":"Långsjöskolan 4–9 (Rimbo): generic."},
+{"sid":"99842607","o":"N","note":"Oxbacksskolan F–3 (Södertälje): inclusive environment, adult-led breaks; generic."}
+]

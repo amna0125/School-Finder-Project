@@ -1,0 +1,30 @@
+{
+  "school_unit_code": "69004747",
+  "school_name": "Fryshuset Grundskola Husby",
+  "registered_url": "https://fryshuset.se/",
+  "attempted_at": "2026-10-21T09:16:49.609792+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://fryshuset.se/",
+      "retrieved_at": "2026-10-21T09:16:51.647470+00:00",
+      "robots_checks": [
+        {
+          "url": "https://fryshuset.se/",
+          "robots_url": "https://fryshuset.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:50.437617+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "69004747_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

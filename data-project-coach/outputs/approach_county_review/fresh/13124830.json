@@ -1,0 +1,17 @@
+{
+  "school_id": "13124830",
+  "school_name": "Sjöängsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:27:36.369942+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

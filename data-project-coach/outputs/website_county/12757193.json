@@ -1,0 +1,101 @@
+{
+  "school_unit_code": "12757193",
+  "school_name": "Vittra Östertälje",
+  "registered_url": "http://www.vittra.se/ostertalje",
+  "attempted_at": "2026-10-21T09:19:59.124835+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vittra.se/ostertalje/",
+      "retrieved_at": "2026-10-21T09:20:08.551016+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vittra.se/ostertalje",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.345093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vittra.se/ostertalje",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:03.914768+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vittra.se/ostertalje/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12757193_0.txt"
+    },
+    {
+      "source_url": "https://vittra.se/ostertalje/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:20:08.583778+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/ostertalje/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12757193_1.txt"
+    },
+    {
+      "source_url": "https://vittra.se/ostertalje/artikel/pedagoger/",
+      "retrieved_at": "2026-10-21T09:20:08.600415+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/ostertalje/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12757193_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "FN-dagen skapar stolthet hos Vittra Rösjötorps elever Vittra Rösjötorp International i Sollentuna är en tvåspråkig förskola och skola med både engelska och svenska. Här går barn och elever som inte har svenska som förstaspråk tillsammans med de som valt Vittra Rösjötorp för möjligheten att tidigt lära sig engelska. FN-dagen som i år firas torsdagen den...",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "78cf10f6cd119952ceb10eb2f4e0465f3bacb2f36141dec74adfbe4e1efd0ed3",
+      "school_unit_code": "12757193",
+      "school_name": "Vittra Östertälje",
+      "source_url": "https://vittra.se/ostertalje/",
+      "retrieved_at": "2026-10-21T09:20:08.551016+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Efter samlingen drar undervisningen igång med en gemensam genomgång som följs av självständigt arbete eller arbete i grupp. Undervisningen varvas med kreativa ämnen som bild, musik eller experiment i NO – något många ser fram emot. Gruppuppgifter och praktiska övningar där eleverna får samarbeta, tänka kreativt och lösa problem tillsammans blir ofta dagens höjdpunkter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "638d4b25ee226b6140e84bc28ef3d0205d26c79b0fcc04fd87d5d1cd3f8b30ad",
+      "school_unit_code": "12757193",
+      "school_name": "Vittra Östertälje",
+      "source_url": "https://vittra.se/ostertalje/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:20:08.583778+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "status": "PASSED",
+  "ledger_rows": 762,
+  "unique_ids": 762,
+  "changed_rows": 10,
+  "documented_outcomes": 223,
+  "pending": 539,
+  "next_selection_ids": [
+    "36513280",
+    "36520624",
+    "36628382",
+    "37112288",
+    "37147254",
+    "37328635",
+    "37416253",
+    "37472911",
+    "37556682",
+    "37796564"
+  ],
+  "append_flow": "jasper-centipede",
+  "replay_flow": "holistic-herring",
+  "unit_tests_passed": 22,
+  "official_fingerprints_preserved": true,
+  "db_counts": {
+    "schools": 762,
+    "statistics": 45868,
+    "survey_observations": 84610,
+    "source_coverage": 3048,
+    "approach_evidence": 259,
+    "approach_codes": 189
+  },
+  "source_hashes_verified": true
+}

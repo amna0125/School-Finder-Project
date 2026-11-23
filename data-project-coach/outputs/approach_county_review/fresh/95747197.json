@@ -1,0 +1,52 @@
+{
+  "school_id": "95747197",
+  "school_name": "Noblaskolan Brevik",
+  "registered_url": "https://noblaskolan.se/brevik/",
+  "pages": [
+    {
+      "requested_url": "https://noblaskolan.se/brevik/",
+      "source_url": "https://noblaskolan.se/brevik/",
+      "page_title": "En skola i Tyresö med höga ambitioner | Noblaskolan Brevik",
+      "accessed_at": "2026-10-21T17:44:30.717942+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "95747197_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/brevik/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:39:25.937311+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://noblaskolan.se/brevik/om/grundskola/",
+      "source_url": "https://noblaskolan.se/brevik/om/grundskola/",
+      "page_title": "Grundskola i Tyresö med förskoleklass-åk 9 l Noblaskolan Brevik",
+      "accessed_at": "2026-10-21T17:44:31.482631+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "95747197_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/brevik/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:39:25.937311+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

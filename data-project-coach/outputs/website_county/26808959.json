@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "26808959",
+  "school_name": "Parkskolan",
+  "registered_url": "https://www.solna.se",
+  "attempted_at": "2026-10-21T09:15:43.606344+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.solna.se",
+      "retrieved_at": "2026-10-21T09:15:49.259730+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.solna.se",
+          "robots_url": "https://www.solna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:44.486367+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26808959_0.txt"
+    },
+    {
+      "source_url": "https://www.solna.se/barn--utbildning/forskola/hitta-forskola-och-pedagogisk-omsorg",
+      "retrieved_at": "2026-10-21T09:15:49.522322+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.solna.se/barn--utbildning/forskola/hitta-forskola-och-pedagogisk-omsorg",
+          "robots_url": "https://www.solna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:44.486367+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26808959_1.txt"
+    },
+    {
+      "source_url": "https://www.solna.se/barn--utbildning/forskola/hitta-forskola-och-pedagogisk-omsorg/andante-forskola---tornbacken",
+      "retrieved_at": "2026-10-21T09:15:49.624690+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.solna.se/barn--utbildning/forskola/hitta-forskola-och-pedagogisk-omsorg/andante-forskola---tornbacken",
+          "robots_url": "https://www.solna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:44.486367+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26808959_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "18064456",
+  "school_name": "Söderholmsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/soderholmsskolan",
+  "attempted_at": "2026-10-21T09:15:29.004424+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/soderholmsskolan",
+      "retrieved_at": "2026-10-21T09:15:31.980213+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/soderholmsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "18064456_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "fullt utrustade salar för idrott, slöjd, musik, bild och hemkunskap.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d82bf31a219c7507ca24daeaa53358babfd143da922d97ff853d81841000426d",
+      "school_unit_code": "18064456",
+      "school_name": "Söderholmsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/soderholmsskolan",
+      "retrieved_at": "2026-10-21T09:15:31.980213+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

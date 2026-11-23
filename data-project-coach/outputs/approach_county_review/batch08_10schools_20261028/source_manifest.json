@@ -1,0 +1,182 @@
+[
+  {
+    "file": "akerstorp.html",
+    "bytes": 85422,
+    "sha256": "908eb0cb5c249747a25e7a822097e06cb5ee69fb0486c8cc1ba6e57b01edc5d0"
+  },
+  {
+    "file": "akerstorp_goals.html",
+    "bytes": 82234,
+    "sha256": "272c51d78fef8276b23e292200be70eba289a94f8b8329d2f4ee83e976e9edbf"
+  },
+  {
+    "file": "fryshuset_about.html",
+    "bytes": 162830,
+    "sha256": "0922ba1e3f693b19a6a9f7f662c5a0d34df06eb282d1ffb8f8067271d1cfd93b"
+  },
+  {
+    "file": "fryshuset_alis.html",
+    "bytes": 160375,
+    "sha256": "6b5cac4963410862ae0620ad4c70bd6cac3b4f8de6caee6faf410fd621ac6313"
+  },
+  {
+    "file": "fryshuset_official.json",
+    "bytes": 1540,
+    "sha256": "f2082bf1ea44e9be435c8863d3d2d93c0224c2d27eaf0933132c6f68575eacc7"
+  },
+  {
+    "file": "fryshuset_passions.html",
+    "bytes": 163220,
+    "sha256": "774910bbe94429dd5549c9c46ae32f36e413c5ce020969bcab5e5df6148c5ee3"
+  },
+  {
+    "file": "jensen.html",
+    "bytes": 147810,
+    "sha256": "b6b4b7dbb6fa6de8a16c64266c1e7583754ddc99510983b943e6879779b46766"
+  },
+  {
+    "file": "jensen_about.html",
+    "bytes": 102898,
+    "sha256": "8d71e09237406365b4f82aab675491de31c31fd39266fcb1e6810e716df85be5"
+  },
+  {
+    "file": "jensen_health.html",
+    "bytes": 90053,
+    "sha256": "65e5b07338273c66d6433df9bbe8f730fa400597b660e7ea117eabb4f146d0a5"
+  },
+  {
+    "file": "kappala.html",
+    "bytes": 232144,
+    "sha256": "3eedc93700e1699223f82ca69412be13d2a58b598d06aa8df960f83312286d3b"
+  },
+  {
+    "file": "kappala_profile.html",
+    "bytes": 228505,
+    "sha256": "2a5ed8574b05fafc35863a563c4b260d0b70e75615284b793863d9d86071248e"
+  },
+  {
+    "file": "karlberg.html",
+    "bytes": 139590,
+    "sha256": "ceba3c3035b847145827008dce4e467f49c6cd27b8a0fded68092c2ff54a878c"
+  },
+  {
+    "file": "oden.html",
+    "bytes": 137530,
+    "sha256": "e42c65990e326431b6d0aa315af1023022156ddfe1f071d45219a24a0e521b19"
+  },
+  {
+    "file": "oden_model.html",
+    "bytes": 85866,
+    "sha256": "e3f8fb25436c3aff890c9355f4083a9b8ecb88a540ae7ac57c50bd91c13dbb87"
+  },
+  {
+    "file": "oden_official.json",
+    "bytes": 1543,
+    "sha256": "d3cc227559b2b3a6abfefcd005d162648ebca14d8cb016a6e2fac6aaeac8d78d"
+  },
+  {
+    "file": "odensala.html",
+    "bytes": 60966,
+    "sha256": "331aafd8ef346648788f0b3fb67b6669bcb8d358203efcfed20666ff81b36de0"
+  },
+  {
+    "file": "odensala_methods.html",
+    "bytes": 61367,
+    "sha256": "e385d5047f406e5f25fb5c5589dc00f7073b8ddda001abce3d9d70ecde1c9720"
+  },
+  {
+    "file": "odensala_welcome.html",
+    "bytes": 66055,
+    "sha256": "47591a39154724555ca560ae1bb4d1c92dbc41e531f7c2007ef529b9e7212b6f"
+  },
+  {
+    "file": "robots_fryshuset.txt",
+    "bytes": 34,
+    "sha256": "359af9b994ea8a08fba38fb4bd5b24cf21fb66fe6fb50d598d217583f20e175e"
+  },
+  {
+    "file": "robots_jensen.txt",
+    "bytes": 2141,
+    "sha256": "8e8cb58d810473a52cce903be5ffb73d948eef981bbd101cffbf8dc2c02fcf4e"
+  },
+  {
+    "file": "robots_larande.txt",
+    "bytes": 115,
+    "sha256": "55b4e527ad617bf9facad5062bc87d5eb2084237356ca8930e32a3fe6f35d4bc"
+  },
+  {
+    "file": "robots_lidingo.txt",
+    "bytes": 114,
+    "sha256": "fb96c4c53ca018b321d3e537897b9564102b4b7aed5fa20bc27f4a8d4e418a2b"
+  },
+  {
+    "file": "robots_osteraker.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "robots_rodret.txt",
+    "bytes": 110,
+    "sha256": "6b4a42864568f487f402ecac42e1b3522528b4959937dc51458053c28cdf9a24"
+  },
+  {
+    "file": "robots_sigtuna.txt",
+    "bytes": 497,
+    "sha256": "3cbf4051da897b9bbc84ae86ac51c746cbdb1c62c1dc2262e9aedd4a9db0e47c"
+  },
+  {
+    "file": "robots_sollentuna.txt",
+    "bytes": 59,
+    "sha256": "90073a61ecb6f417b0e153809713f1d1e23de4d41f64752906a7dbee8ae07103"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 63,
+    "sha256": "944c34fa915945519607a73d2b3e5ee74d7ffcd061747c40f5cbdad4d0ef051e"
+  },
+  {
+    "file": "rodret.html",
+    "bytes": 89968,
+    "sha256": "d94e80a67b77ed3c5c5146085979c64333ab31b9616ac2578bf4158df196a792"
+  },
+  {
+    "file": "rodret_official.json",
+    "bytes": 1494,
+    "sha256": "29408bbd59684c630da024fe3e607691839a723f4e09b2ce0a741336034554cc"
+  },
+  {
+    "file": "rodret_profile.html",
+    "bytes": 51694,
+    "sha256": "2902f74cfd46be0d354ae0934b511578c2ebd342e4913b87e6821f2d4c3a052d"
+  },
+  {
+    "file": "rodret_school.html",
+    "bytes": 53017,
+    "sha256": "2b51c87aff493661ca74ba6da62ee6500b7677f59b2dbdfb9ec767d28109d03e"
+  },
+  {
+    "file": "sandakra.html",
+    "bytes": 142786,
+    "sha256": "f0db930024b22bf26b8435ebe4675b9fa7b0c86f16c8a9bafbdde32ab2573810"
+  },
+  {
+    "file": "tegelhagen.html",
+    "bytes": 31388,
+    "sha256": "326cf6bd779f8d2a0da7844a8504aa890ba800386aebf6aaae4854de5baee3c5"
+  },
+  {
+    "file": "tegelhagen_about.html",
+    "bytes": 29182,
+    "sha256": "6f11f839328a418546aa04886bd379ab6035d9cb0fa5ff29249a07526ee52b5c"
+  },
+  {
+    "file": "tegelhagen_methods.html",
+    "bytes": 30280,
+    "sha256": "3408657bcb5e60037929cff647de9bbf1d918d4d11f0c7373260e7c697c58529"
+  },
+  {
+    "file": "tegelhagen_outdoor.html",
+    "bytes": 31092,
+    "sha256": "b17dd92e961e36bcd916505a38a4dc25f5d79454fe0113bf1fc0efe93d6b41a1"
+  }
+]

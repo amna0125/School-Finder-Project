@@ -1,0 +1,72 @@
+[
+  {
+    "evidence_id": "ae_b23_37887150_01",
+    "school_id": "37887150",
+    "source_url": "https://nordicinternational.se/nacka/om-skolan/",
+    "page_title": "Om skolan - Nordic International School",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Undervisningen – undervisning på svenska med en internationellt inspirerad pedagogik, förankrad i forskning om hur elever lär sig bäst",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Swedish teaching explicitly stated; internationally inspired pedagogy is too broad for a language/international code or named alternative pedagogy. F–9 website vs official1–9; prior inaccessible outcome retained. Requires review if more specific pedagogy evidence emerges."
+  },
+  {
+    "evidence_id": "ae_b23_38096510_01",
+    "school_id": "38096510",
+    "source_url": "https://magelungen.com/enheter/stockholm-alvsjo-grundskola/",
+    "page_title": "Stockholm Älvsjö Resursskola - Magelungen",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "På vår resursskola är den pedagogiska miljön genomtänkt och anpassad utifrån elevernas behov. Grupperna är små, lärartätheten hög och elevhälsan förstärkt för att eleven ska ges möjlighet att utvecklas i sina studier och känna att de lyckas.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Unit-specific Älvsjö resource-school description; official4–9. Intensive support applies to resource-school placements. Separate behandlingsskola/social-services intervention is not assigned to every pupil. Small groups and staffing are self-reported, not comparable statistics. Registered provider homepage resolved through directory to unit."
+  },
+  {
+    "evidence_id": "ae_b23_38394561_01",
+    "school_id": "38394561",
+    "source_url": "https://www.sodertaljefriskola.se",
+    "page_title": "Södertälje friskola",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Södertälje friskola har språkprofil. Du märker det genom att vi har ökat ut undervisningstiden i svenska och engelska.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit language profile and additional Swedish/English teaching time. WebsiteF–9 vs official1–9. No separate support code from ordinary staffing/group statements."
+  },
+  {
+    "evidence_id": "ae_b23_38653015_01",
+    "school_id": "38653015",
+    "source_url": "https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor/pershagenskolan/",
+    "page_title": "Pershagenskolan - Södertälje kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi har ett stort intresse för teknik och de naturvetenskapliga ämnena och arbetar med att utveckla vår teknikprofil tillsammans med andra aktörer i kommunen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit developing technology profile with municipal partners. Other stated profile only; not inquiry/project learning inferred. Developmental wording retained; no claim that a mature pathway exists or all pupils receive extra hours. F–9 website vs official1–9."
+  },
+  {
+    "evidence_id": "ae_b23_38661388_01",
+    "school_id": "38661388",
+    "source_url": "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/broangsskolan",
+    "page_title": "Broängsskolan i Tumba - Botkyrka kommun - Botkyrka kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "För att uppnå detta är vi en del av kommunens våldsförebyggande arbete ”Tåget” (eller ”MVP” som det heter för åk 7-9) som sker i samarbete med socialtjänsten.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named violence-prevention Tåget/MVP programme described on Broängsskolan page for shared Tumba Södra rector-area with Kassmyraskolan. MVP specifically7–9; do not assign separate-school statistics or assume outdoor pedagogy from reserve location. F–9 website vs official1–9."
+  },
+  {
+    "evidence_id": "ae_b23_38758770_01",
+    "school_id": "38758770",
+    "source_url": "https://farstagrundskola.stockholm/det-har-ar-farsta-grundskola/",
+    "page_title": "Det här är Farsta grundskola och Adolf Fredriks musikklasser - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Adolf Fredriks musikklasser årskurs 4-9 Elever i musiklass uppträder på många olika sätt och olika sammanhang, till exempel med konsert för vårdnadshavare och anhöriga. I musikundervisningen sjunger du främst i kör. Du får även spela instrument i grupp. Du har musiklektioner varje dag på schemat.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Music/choir profile only selected music classes years4–9, not whole FarstaF–9 population or co-located anpassad provision. School description confirms year range and daily music; directory describes skills-test admission. F-class outdoor provision not coded for official1–9 unit."
+  },
+  {
+    "evidence_id": "ae_b23_38935587_01",
+    "school_id": "38935587",
+    "source_url": "https://engelska.se/our-schools/enskede/",
+    "page_title": "IES Enskede – International Bilingual School Enskede",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Internationella Engelska Skolan (IES) Enskede provides a unique and high-quality bilingual education, with up to 50 % of lessons taught in English.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Unit-specific homepage explicitly bilingual with up to50% English teaching, years4–9 matching official range. About page contains erroneous Karlstad history/234 students6–9; exclude that paragraph and do not use counts as official statistics."
+  }
+]

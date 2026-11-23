@@ -1,0 +1,17 @@
+{
+  "school_id": "33733966",
+  "school_name": "International School of Kungsholmen",
+  "registered_url": "https://www.internationalschoolofkungsholmen.com/",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.internationalschoolofkungsholmen.com/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.internationalschoolofkungsholmen.com'. (_ssl.c:1010)>",
+      "attempted_at": "2026-10-21T17:32:09.654072+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

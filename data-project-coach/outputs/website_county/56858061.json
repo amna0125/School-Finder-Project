@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "56858061",
+  "school_name": "Söderby Friskola",
+  "registered_url": "http://www.soderbyfriskola.se",
+  "attempted_at": "2026-10-21T09:16:33.918164+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.soderbyfriskola.se/",
+      "retrieved_at": "2026-10-21T09:16:44.675020+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.soderbyfriskola.se",
+          "robots_url": "http://www.soderbyfriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:38.090264+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.soderbyfriskola.se/",
+          "robots_url": "https://www.soderbyfriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:41.271313+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "56858061_0.txt"
+    },
+    {
+      "source_url": "https://www.soderbyfriskola.se/om-skolan/",
+      "retrieved_at": "2026-10-21T09:16:44.708834+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.soderbyfriskola.se/om-skolan/",
+          "robots_url": "https://www.soderbyfriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:41.271313+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "56858061_1.txt"
+    },
+    {
+      "source_url": "https://www.soderbyfriskola.se/om-skolan/medarbetare/",
+      "retrieved_at": "2026-10-21T09:16:44.840609+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.soderbyfriskola.se/om-skolan/medarbetare/",
+          "robots_url": "https://www.soderbyfriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:41.271313+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "56858061_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

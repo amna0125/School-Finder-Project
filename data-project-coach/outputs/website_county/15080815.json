@@ -1,0 +1,93 @@
+{
+  "school_unit_code": "15080815",
+  "school_name": "Fjällenskolan",
+  "registered_url": "http://www.jarfalla.se",
+  "attempted_at": "2026-10-21T09:20:10.947822+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.jarfalla.se/",
+      "retrieved_at": "2026-10-21T09:20:14.685131+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.jarfalla.se",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.254996+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.jarfalla.se/",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.957095+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "15080815_0.txt"
+    },
+    {
+      "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html",
+      "retrieved_at": "2026-10-21T09:20:14.761673+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.957095+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "15080815_1.txt"
+    },
+    {
+      "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html",
+      "retrieved_at": "2026-10-21T09:20:14.832310+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.957095+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "15080815_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "ter vi extra fokus på kulturen i Järfälla. Under hela månaden erbjuds ett brett program med kulturupplevelser för alla åldrar och intressen. Besökare kan ta del av allt från jazz, teater, musik och konst till show, föreläsningar och familjeaktiviteter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "b30e777f8ae86242318b9b7c01bdf59b2d421bff8136e292ef08aca7b526b9cc",
+      "school_unit_code": "15080815",
+      "school_name": "Fjällenskolan",
+      "source_url": "https://www.jarfalla.se/",
+      "retrieved_at": "2026-10-21T09:20:14.685131+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "xtra fokus på kulturen i Järfälla. Under hela månaden erbjuds ett brett program med kulturupplevelser för alla åldrar och intressen. Besökare kan ta del av allt från jazz, teater, musik och konst till show, föreläsningar och familjeaktiviteter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c4b20eba68b3a2c84c1769257db95375c4828936821945a43eeea82909a6df4d",
+      "school_unit_code": "15080815",
+      "school_name": "Fjällenskolan",
+      "source_url": "https://www.jarfalla.se/",
+      "retrieved_at": "2026-10-21T09:20:14.685131+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "code_id": "ac_b23_38096510_01",
+    "school_id": "38096510",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school / individualised support",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b23_38096510_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Unit-specific Älvsjö resource-school description; official4–9. Intensive support applies to resource-school placements. Separate behandlingsskola/social-services intervention is not assigned to every pupil. Small groups and staffing are self-reported, not comparable statistics. Registered provider homepage resolved through directory to unit. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b23_38394561_01",
+    "school_id": "38394561",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Language profile: Swedish and English",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b23_38394561_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Explicit language profile and additional Swedish/English teaching time. WebsiteF–9 vs official1–9. No separate support code from ordinary staffing/group statements. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b23_38653015_01",
+    "school_id": "38653015",
+    "category": "Other stated profile",
+    "subcategory": "Developing technology profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b23_38653015_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Explicit developing technology profile with municipal partners. Other stated profile only; not inquiry/project learning inferred. Developmental wording retained; no claim that a mature pathway exists or all pupils receive extra hours. F–9 website vs official1–9. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b23_38661388_01",
+    "school_id": "38661388",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Tåget / MVP violence prevention",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b23_38661388_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Named violence-prevention Tåget/MVP programme described on Broängsskolan page for shared Tumba Södra rector-area with Kassmyraskolan. MVP specifically7–9; do not assign separate-school statistics or assume outdoor pedagogy from reserve location. F–9 website vs official1–9. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b23_38758770_01",
+    "school_id": "38758770",
+    "category": "Arts and creative learning",
+    "subcategory": "Music / choir classes, years4–9 only",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b23_38758770_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Music/choir profile only selected music classes years4–9, not whole FarstaF–9 population or co-located anpassad provision. School description confirms year range and daily music; directory describes skills-test admission. F-class outdoor provision not coded for official1–9 unit. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b23_38935587_01",
+    "school_id": "38935587",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Bilingual Swedish/English, years4–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b23_38935587_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Unit-specific homepage explicitly bilingual with up to50% English teaching, years4–9 matching official range. About page contains erroneous Karlstad history/234 students6–9; exclude that paragraph and do not use counts as official statistics. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "91213471",
+  "school_name": "Klockargårdens skola",
+  "registered_url": "https://www.lidingo.se/klockargardensskola",
+  "attempted_at": "2026-10-21T09:17:26.581377+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "https://www.lidingo.se/klockargardensskola",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

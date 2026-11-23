@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "33565539",
+    "official_directory_name": "Gustav Vasaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.skolor.vallentuna.se/gustavvasa/",
+    "note": ""
+  },
+  {
+    "school_id": "33624606",
+    "official_directory_name": "Måsöskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "note": ""
+  },
+  {
+    "school_id": "33733966",
+    "official_directory_name": "International School of Kungsholmen",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://www.internationalschoolofkungsholmen.com/",
+    "note": ""
+  },
+  {
+    "school_id": "33794207",
+    "official_directory_name": "Sandvikskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarfalla.se",
+    "note": ""
+  },
+  {
+    "school_id": "33922950",
+    "official_directory_name": "Smedslättsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/smedslattsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "33951941",
+    "official_directory_name": "Råsunda Centralskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "www.solna.se",
+    "note": ""
+  },
+  {
+    "school_id": "34125463",
+    "official_directory_name": "Nytorpsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://nytida.se/skola/vara-skolor/nytorpsskolan/",
+    "note": ""
+  },
+  {
+    "school_id": "34135484",
+    "official_directory_name": "Montessori Mondial Nacka",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://montessorimondial.se/nacka/",
+    "note": ""
+  },
+  {
+    "school_id": "34148887",
+    "official_directory_name": "Blombackaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.sodertalje.se/blombackaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "34225123",
+    "official_directory_name": "Furuborgskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.nykvarn.se",
+    "note": ""
+  }
+]

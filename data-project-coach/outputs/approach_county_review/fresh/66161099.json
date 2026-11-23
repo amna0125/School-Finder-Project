@@ -1,0 +1,32 @@
+{
+  "school_id": "66161099",
+  "school_name": "Internationella Engelska Skolan Österåker",
+  "registered_url": "http://www.engelska.se",
+  "pages": [
+    {
+      "requested_url": "https://engelska.se/",
+      "source_url": "https://engelska.se/",
+      "page_title": "Internationella Engelska Skolan - a safe school",
+      "accessed_at": "2026-10-21T17:39:16.897246+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "66161099_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://engelska.se/",
+          "robots_url": "https://engelska.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:38.321480+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

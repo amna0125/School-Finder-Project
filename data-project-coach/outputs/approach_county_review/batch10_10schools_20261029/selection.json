@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "22127801",
+    "official_directory_name": "Internationella Engelska Skolan Länna",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.engelska.se",
+    "note": ""
+  },
+  {
+    "school_id": "22174435",
+    "official_directory_name": "Björnbodaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjornbodaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "22202915",
+    "official_directory_name": "Tyresö Montessoriskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.tmsv.se",
+    "note": ""
+  },
+  {
+    "school_id": "22472689",
+    "official_directory_name": "Jarlabergs skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarlaberg.nacka.se",
+    "note": ""
+  },
+  {
+    "school_id": "22513261",
+    "official_directory_name": "Kista grundskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-f-3",
+    "note": ""
+  },
+  {
+    "school_id": "22531873",
+    "official_directory_name": "Norrgärdsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.norrtalje.se",
+    "note": ""
+  },
+  {
+    "school_id": "22777703",
+    "official_directory_name": "Johannes skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/johannes-skola",
+    "note": ""
+  },
+  {
+    "school_id": "22807677",
+    "official_directory_name": "Näsbydalskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.taby.se/nasbydalskolan",
+    "note": ""
+  },
+  {
+    "school_id": "22847273",
+    "official_directory_name": "Ängskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sundbyberg.se/angskolan",
+    "note": ""
+  },
+  {
+    "school_id": "22904289",
+    "official_directory_name": "Vilans skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vilan.nacka.se",
+    "note": ""
+  }
+]

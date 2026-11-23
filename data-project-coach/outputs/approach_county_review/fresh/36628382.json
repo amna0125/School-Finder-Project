@@ -1,0 +1,72 @@
+{
+  "school_id": "36628382",
+  "school_name": "Iljansbodaskolan",
+  "registered_url": "http://www.jarfalla.se",
+  "pages": [
+    {
+      "requested_url": "https://www.jarfalla.se/",
+      "source_url": "https://www.jarfalla.se/",
+      "page_title": "Järfälla - Järfälla kommun",
+      "accessed_at": "2026-10-21T17:32:44.138941+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "36628382_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.jarfalla.se/",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:38.386358+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html",
+      "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html",
+      "page_title": "E-tjänst för förskola, pedagogisk omsorg, fritidshem och fritidsklubb - Järfälla kommun",
+      "accessed_at": "2026-10-21T17:32:49.029242+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "36628382_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg/etjanstforforskolapedagogiskomsorgfritidshemochfritidsklubb.4.4c481391697a8f482f3d52d.html",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:38.386358+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html",
+      "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html",
+      "page_title": "Förskola och pedagogisk omsorg - Järfälla kommun",
+      "accessed_at": "2026-10-21T17:32:52.240843+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "36628382_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.jarfalla.se/forskolaskolaochutbildning/forskola/forskolaochpedagogiskomsorg.4.640dac6b1300db73e7c80005086.html",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:38.386358+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

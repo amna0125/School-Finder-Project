@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "57368693",
+  "school_name": "Sickla skola",
+  "registered_url": "http://www.sickla.nacka.se",
+  "attempted_at": "2026-10-21T09:16:37.310734+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.sickla.nacka.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

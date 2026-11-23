@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "35311563",
+  "school_name": "Lilla Nacka skola",
+  "registered_url": "lillanacka.se",
+  "attempted_at": "2026-10-21T09:15:57.089445+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "lillanacka.se",
+      "error": "Unsafe URL"
+    }
+  ]
+}

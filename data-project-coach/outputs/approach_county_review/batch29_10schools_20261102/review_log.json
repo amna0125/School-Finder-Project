@@ -1,0 +1,112 @@
+[
+  {
+    "school_id": "43403496",
+    "school_name": "Mariekällskolan",
+    "outcome": "scoped_no_clear_evidence",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "Website 4–9; general lesson structure, varied teaching, attendance/results follow-up and safety. No distinctive approach established within single official description.",
+    "scope_status": "Clear within reviewed school description",
+    "follow_up": "None beyond normal scoped-review limits.",
+    "reviewed_sources": "sources/marie.html"
+  },
+  {
+    "school_id": "43632318",
+    "school_name": "Enbacksskolan",
+    "outcome": "reviewed_claims",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "Structured accessible teaching supported by multiple concrete descriptions; no arts code from isolated partnership list.",
+    "scope_status": "Clear with component year limits",
+    "follow_up": "Three-teacher component lower/middle years only; not class-size data. Stockholm malformed robots caveat retained.",
+    "reviewed_sources": "sources/enback.html"
+  },
+  {
+    "school_id": "43802065",
+    "school_name": "Lilla Parkskolan",
+    "outcome": "uncertain_evidence",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "F–3 autumn2026 transition; literacy emphasis and named wellbeing program recorded without firm codes.",
+    "scope_status": "Requires reconciliation",
+    "follow_up": "Official snapshot/current grades differ; confirm current applicability through transition. Historical Assyrisk/Syriansk profile excluded.",
+    "reviewed_sources": "sources/lillapark.html;sources/lillapark_about.html"
+  },
+  {
+    "school_id": "43869172",
+    "school_name": "Fredsborgskolan",
+    "outcome": "uncertain_evidence",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "Explicit F–6 health/movement profile, but selected official ID snapshot years1–9 vs separate named current units.",
+    "scope_status": "Requires reconciliation",
+    "follow_up": "Resolve unit identity/current grade mapping before firm codes; do not generalize F–6 profile across high school.",
+    "reviewed_sources": "sources/fredsborg.html;sources/fredsborg_unit.html;sources/fredsborg_profile.html"
+  },
+  {
+    "school_id": "44002887",
+    "school_name": "Ellagårdsskolan",
+    "outcome": "reviewed_claims",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "Explicit wellbeing teaching; no arts code from events.",
+    "scope_status": "Clear within reviewed school description",
+    "follow_up": "F–6; no frequency/effectiveness assertion.",
+    "reviewed_sources": "sources/ellagard.html"
+  },
+  {
+    "school_id": "44031601",
+    "school_name": "Höglundaskolan",
+    "outcome": "scoped_no_clear_evidence",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "School-specific about/work pages: generic adaptation, cooperation, safety and results goals. No distinctive approach established.",
+    "scope_status": "Clear within reviewed school description",
+    "follow_up": "Registered URL generic municipality listing; selected matching named school subdomain. Work-page merit-value goal may be inherited wording: not current outcome or approach evidence; unrelated municipal news excluded.",
+    "reviewed_sources": "sources/hoglunda.html;sources/hoglunda_about.html;sources/hoglunda_work.html"
+  },
+  {
+    "school_id": "44046131",
+    "school_name": "Sundbyskolan",
+    "outcome": "scoped_no_clear_evidence",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "F–9 official description: general safety, best-break activity, green spaces, ordinary support facilities. No distinctive approach established.",
+    "scope_status": "Clear within reviewed school description",
+    "follow_up": "2024–2025 facilities section is dated; no outdoor/arts profile or support-group generalization. Stockholm robots caveat retained.",
+    "reviewed_sources": "sources/sundby.html"
+  },
+  {
+    "school_id": "44175786",
+    "school_name": "Boo Gårds skola",
+    "outcome": "uncertain_evidence",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "NTA years1–6 and PEAK energy method stated; category/process evidence insufficient for firm codes.",
+    "scope_status": "Clear for NTA years1–6; other components limited or unspecified",
+    "follow_up": "Follow up concrete NTA inquiry process if needed; visitor/staff exchanges do not establish whole-school international profile.",
+    "reviewed_sources": "sources/boo_registered.html;sources/boo_method.html;sources/boo_international.html;sources/boo_nta.html"
+  },
+  {
+    "school_id": "44227469",
+    "school_name": "Grimstaskolan",
+    "outcome": "scoped_no_clear_evidence",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "Current municipality site 6–9; generic aims, rules and safety. No distinctive approach established.",
+    "scope_status": "Clear within reviewed school description",
+    "follow_up": "Official directory Grimstaskolan vs DB Grimsta skola retained; same registered municipality route. Shared rules with adapted school not transferred as profile.",
+    "reviewed_sources": "sources/grimsta.html;sources/grimsta_about.html"
+  },
+  {
+    "school_id": "44373961",
+    "school_name": "Idunskolan Östra Stockholms Waldorfskola",
+    "outcome": "reviewed_claims",
+    "reviewer": "Assistant contextual review",
+    "review_date": "2026-11-02",
+    "decision": "Current F–9 Waldorf self-description and concrete cross-subject arts integration.",
+    "scope_status": "Clear within reviewed school description",
+    "follow_up": "Utefritids is not school-wide outdoor pedagogy. Period teaching not automatically inquiry learning.",
+    "reviewed_sources": "sources/idun.html;sources/idun_today.html;sources/idun_method.html"
+  }
+]

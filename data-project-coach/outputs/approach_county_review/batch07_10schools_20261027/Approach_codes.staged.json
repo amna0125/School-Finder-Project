@@ -1,0 +1,145 @@
+[
+  {
+    "code_id": "ac_b07_17526606_01",
+    "school_id": "17526606",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Olweus and Trivselledar structured wellbeing",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_17526606_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Akalla-specific F–6 page, stored grades 1–6. Also describes Trivselledar organised recess, expanded wellbeing team and integrated associations. Named programme not generic safety duties. Not Fryshusets other schools, passion profiles or all-school resource designation inferred. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_17640364_01",
+    "school_id": "17640364",
+    "category": "Other stated profile",
+    "subcategory": "Mathematics and natural-science spets pathway",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_17640364_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Ordinary 7–9 unit, Adolf Rudbecks väg 21. Page describes nationally recruited selective maths/NO pathway, 30 places per year and skills test; not all pupils. Permission claim is school wording not independently verified licence. Ordinary Skapande skola/temadagar not arts integration alone. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_17640364_02",
+    "school_id": "17640364",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Full-time study-pedagogue mentoring",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b07_17640364_02",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. 7–9 unit-specific full-time mentor role in each of three work teams and external family-support collaboration. Supported wellbeing emphasis based on identifiable enhanced practice; no effects inferred or official teacher-resource statistic created. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18053776_01",
+    "school_id": "18053776",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Archipelago place-based profile, F–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_18053776_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Djurö F–9-specific profile. Context describes continuous lower-year canoeing, middle-year island paddle and higher-year sailing overnight, natural learning environment. Not every activity assigned to every pupil; exact frequencies beyond continuous lower-year canoeing unspecified. School facilities alone would not justify code. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18064456_01",
+    "school_id": "18064456",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Daily nature use including lessons",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b07_18064456_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Söderholmsskolan F–6 page explicitly includes lessons and daily nature use, beyond nearby-park location. Supported outdoor learning interpretation; no subject breakdown or exact minutes given. School timetable/fritids distinction retained. Lillholmsskolan co-location not same ID; one-off mural not arts integration. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18193338_01",
+    "school_id": "18193338",
+    "category": "Arts and creative learning",
+    "subcategory": "Practical-aesthetic and theoretical subject cooperation",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b07_18193338_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Current official Svandamm F–6 page; old registered URL 404, new linked navigation same school. Sustained subject cooperation plus actual resource allocation supports arts integration; not confirmed effectiveness or numeric class size. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18193338_02",
+    "school_id": "18193338",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "At least one outdoor lesson weekly",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_18193338_02",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. F–6 unit page under schoolyard includes outdoor classroom Grönan and weekly outdoor teaching. Not just Grön Flagg award; unspecified subjects and session duration not invented. Awards self-reported dated context not verified. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18193338_03",
+    "school_id": "18193338",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "F-class/third-year buddy system and ÖMER context",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b07_18193338_03",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Concrete buddy system plus named ÖMER values framework and smart-start week; Supported wellbeing interpretation. Buddy delivery explicitly F-class/third-year, not uniform all years. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18595907_01",
+    "school_id": "18595907",
+    "category": "Arts and creative learning",
+    "subcategory": "Optional music pathway; two additional hours weekly",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_18595907_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Ordinary Edsberg 7–9, optional music pathway only; same page ensemble/stage performance/theory/ear training above ordinary offer. Not whole-school arts integration; page updated July 2025 retained as current stated offer, homepage also advertises. Adapted unit excluded. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18595907_02",
+    "school_id": "18595907",
+    "category": "Other stated profile",
+    "subcategory": "Optional sport deepening",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_18595907_02",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Optional 7–9 sport deepening through SKOL IF collaboration, not all pupils or unspecified sport frequency. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18595907_03",
+    "school_id": "18595907",
+    "category": "Other stated profile",
+    "subcategory": "Mathematics spets pathway",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_18595907_03",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Mathematics selective nationally recruited pathway only; year9 gymnasium-course statement, applications to year7 and spare years8–9 places described. Not whole-school delivery or causal advantage. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_18595907_04",
+    "school_id": "18595907",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "English spets pathway only",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_18595907_04",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Optional nationally recruited English spets pathway, entrance test; not schoolwide bilingual teaching or international curriculum. Official/stored ordinary years7–9, no adapted-unit transfer. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b07_19089469_01",
+    "school_id": "19089469",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b07_19089469_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Fredsduvan Jordbro at Sommarbo 201 explicitly describes Montessori prepared environment, concrete materials and individual plans. Named school plus substantive unit practice; not name-only inference. Official grades1–5, website age6–12 and preschool-class priority: exact upper-year delivery discrepancy/age range retained, not extended to year6. School claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

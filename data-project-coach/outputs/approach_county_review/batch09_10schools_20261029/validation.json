@@ -1,0 +1,10 @@
+{
+  "status": "PASSED_ARTIFACT_VALIDATION",
+  "schools": 10,
+  "evidence_rows": 12,
+  "code_rows": 6,
+  "quote_substrings_checked": true,
+  "ledger_unique_ids": 762,
+  "next_id_order_checked": true,
+  "not_yet_contextually_reviewed": 659
+}

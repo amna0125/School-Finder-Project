@@ -1,0 +1,72 @@
+{
+  "school_id": "78508835",
+  "school_name": "Sverigefinska skolan i Stockholm",
+  "registered_url": "http://www.sverigefinskaskolan.eu",
+  "pages": [
+    {
+      "requested_url": "https://www.sverigefinskaskolan.eu/",
+      "source_url": "https://www.sverigefinskaskolan.eu/",
+      "page_title": "Sverigefinska skolan i Stockholm – I hjärtat av Stockholm",
+      "accessed_at": "2026-10-21T17:41:12.519778+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "78508835_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sverigefinskaskolan.eu/",
+          "robots_url": "https://www.sverigefinskaskolan.eu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:10.878728+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sverigefinskaskolan.eu/verksamhet/grundskola/",
+      "source_url": "https://www.sverigefinskaskolan.eu/verksamhet/grundskola/",
+      "page_title": "Grundskola – Sverigefinska skolan i Stockholm",
+      "accessed_at": "2026-10-21T17:41:13.659528+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "78508835_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sverigefinskaskolan.eu/verksamhet/grundskola/",
+          "robots_url": "https://www.sverigefinskaskolan.eu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:10.878728+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sverigefinskaskolan.eu/om-skolan/",
+      "source_url": "https://www.sverigefinskaskolan.eu/om-skolan/",
+      "page_title": "Om skolan – Sverigefinska skolan i Stockholm",
+      "accessed_at": "2026-10-21T17:41:14.726508+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "78508835_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sverigefinskaskolan.eu/om-skolan/",
+          "robots_url": "https://www.sverigefinskaskolan.eu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:10.878728+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

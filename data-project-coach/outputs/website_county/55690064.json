@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "55690064",
+  "school_name": "Resursskolan Ängsrosen",
+  "registered_url": "www.osteraker.se",
+  "attempted_at": "2026-10-21T09:16:33.750596+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "www.osteraker.se",
+      "error": "Unsafe URL"
+    }
+  ]
+}

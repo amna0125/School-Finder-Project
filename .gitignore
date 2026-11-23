@@ -1,0 +1,53 @@
+# ---- Python and tool folders (rebuilt automatically, never commit) ----
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# ---- Secrets (keep these private) ----
+.env
+.env.*
+!.env.example
+**/.dlt/secrets.toml
+
+# ---- Pipeline working state: databases, dlt load packages, Prefect ----
+data-project-coach/.state/
+loads/
+*.duckdb
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# ---- Website build output and installed packages ----
+node_modules/
+dist/
+data-project-coach/web/_backup_*/
+
+# ---- dbt build output ----
+data-project-coach/dbt/target/
+data-project-coach/dbt/logs/
+data-project-coach/dbt/.user.yml
+
+# ---- Backups and archives ----
+*.tgz
+_claude_transfer/
+
+# ---- Logs ----
+*.log
+*.jsonl
+
+# ---- Raw scraped web pages (the extracted text and quotes stay in the repo) ----
+data-project-coach/outputs/**/*.html
+data-project-coach/outputs/**/*robots*.txt
+data-project-coach/outputs/db_recovery/
+data-project-coach/outputs/duckdb_migration/
+data-project-coach/outputs/runs/
+
+# ---- Step-by-step snapshots (only the latest versions are kept) ----
+data-project-coach/outputs/approach_county_review/county_progress_2026102*.csv
+data-project-coach/outputs/approach_county_review/county_progress_*_after_batch*.csv
+data-project-coach/outputs/approach_county_review/county_progress_*_after_chunk*.csv
+data-project-coach/outputs/approach_county_review/next_batch_after_*.json
+
+# ---- Raw sitemap dump (18 MB, not extracted text) ----
+data-project-coach/outputs/**/sitemaps.json

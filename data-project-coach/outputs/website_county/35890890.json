@@ -1,0 +1,61 @@
+{
+  "school_unit_code": "35890890",
+  "school_name": "Västerholms friskola",
+  "registered_url": "http://www.vasterholm.se",
+  "attempted_at": "2026-10-21T09:21:12.167327+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://vasterholm.se/",
+      "retrieved_at": "2026-10-21T09:21:21.866499+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vasterholm.se",
+          "robots_url": "https://vasterholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:14.385775+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vasterholm.se/",
+          "robots_url": "https://vasterholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:16.962393+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vasterholm.se/",
+          "robots_url": "https://vasterholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:18.737084+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "35890890_0.txt"
+    },
+    {
+      "source_url": "https://vasterholm.se/om-skolan/",
+      "retrieved_at": "2026-10-21T09:21:21.905052+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vasterholm.se/om-skolan/",
+          "robots_url": "https://vasterholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:18.737084+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "35890890_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

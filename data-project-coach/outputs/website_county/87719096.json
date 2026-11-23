@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "87719096",
+  "school_name": "Ålstensskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alstensskolan",
+  "attempted_at": "2026-10-21T09:17:20.021255+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alstensskolan",
+      "retrieved_at": "2026-10-21T09:17:22.728474+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alstensskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "87719096_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "nslutning till klassrummen. Fritidshem och fritidsklubb Narnia för våra elever i årskurs 3-6 finns på bottenplanet vid entré B. På fritidstids använder vi även idrotts-, bild- och musiksalarna för pedagogledda aktiviteter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "6c107177fa680ddaf95b4cf84dc9c22fe97d5b511f80c2ebd3f4de4e6d526c74",
+      "school_unit_code": "87719096",
+      "school_name": "Ålstensskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alstensskolan",
+      "retrieved_at": "2026-10-21T09:17:22.728474+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

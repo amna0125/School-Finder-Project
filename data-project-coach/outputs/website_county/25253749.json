@@ -1,0 +1,93 @@
+{
+  "school_unit_code": "25253749",
+  "school_name": "Albatross Montessoriskola",
+  "registered_url": "http://www.albatross-montessori.se",
+  "attempted_at": "2026-10-21T09:15:40.143538+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.albatross-montessori.se/",
+      "retrieved_at": "2026-10-21T09:15:48.877808+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.albatross-montessori.se",
+          "robots_url": "http://www.albatross-montessori.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:41.617412+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.albatross-montessori.se/",
+          "robots_url": "https://www.albatross-montessori.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:44.428878+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "25253749_0.txt"
+    },
+    {
+      "source_url": "https://www.albatross-montessori.se/om-skolan/",
+      "retrieved_at": "2026-10-21T09:15:48.943414+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.albatross-montessori.se/om-skolan/",
+          "robots_url": "https://www.albatross-montessori.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:44.428878+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "25253749_1.txt"
+    },
+    {
+      "source_url": "https://www.albatross-montessori.se/montessoripedagogiken/",
+      "retrieved_at": "2026-10-21T09:15:48.985983+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.albatross-montessori.se/montessoripedagogiken/",
+          "robots_url": "https://www.albatross-montessori.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:44.428878+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "25253749_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Skolan är centralt placerad på Lidingö – i ett lite ”hemligt”, fritt, högt och ljust läge med avstånd till biltrafik. Huvudbyggnaden är ett enplanshus i vinkel med matsal och musiksal i souterräng, skapat just för barn i låg- och mellanstadieålder. Med cirka 200 elever i årskurserna F till 6 är Albatross en relativt liten skola med en varm gemenskap.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "84cc7f76521647cdb09bb86788c3674a64d04e493934d817578101b30a33e82d",
+      "school_unit_code": "25253749",
+      "school_name": "Albatross Montessoriskola",
+      "source_url": "https://www.albatross-montessori.se/om-skolan/",
+      "retrieved_at": "2026-10-21T09:15:48.943414+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Den förberedda klassrumsmiljön i en montessoriskola är rik på spännande läromedel och åskådningsmateriel. Miljön är väl genomtänkt och estetiskt tilltalande. De pedagogiska materialen är placerade på hyllor i barnvänlig höjd. Varje sak har sin speciella plats på hyllan. Det skapar lugn och harmoni och ger barnet de bästa förutsättningarna för att kunna utveckla hela sin personlighet.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "79f9522ce18afc941bd6aa385df0ad7e2f6109c076c3c8fac44aa483a9dec282",
+      "school_unit_code": "25253749",
+      "school_name": "Albatross Montessoriskola",
+      "source_url": "https://www.albatross-montessori.se/montessoripedagogiken/",
+      "retrieved_at": "2026-10-21T09:15:48.985983+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

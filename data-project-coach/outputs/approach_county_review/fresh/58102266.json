@@ -1,0 +1,72 @@
+{
+  "school_id": "58102266",
+  "school_name": "Vittra Sollentuna",
+  "registered_url": "http://www.vittra.se/sollentuna",
+  "pages": [
+    {
+      "requested_url": "https://vittra.se/sollentuna/",
+      "source_url": "https://vittra.se/sollentuna/",
+      "page_title": "Vittra | Skola i Sollentuna",
+      "accessed_at": "2026-10-21T17:38:22.555353+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58102266_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/sollentuna/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/sollentuna/om/grundskola/",
+      "source_url": "https://vittra.se/sollentuna/om/grundskola/",
+      "page_title": "Vittra | Grundskola i Sollentuna",
+      "accessed_at": "2026-10-21T17:38:23.390679+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58102266_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/sollentuna/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/sollentuna/artikel/pedagoger/",
+      "source_url": "https://vittra.se/sollentuna/artikel/pedagoger/",
+      "page_title": "Lär känna våra pedagoger | Vittra Sollentuna",
+      "accessed_at": "2026-10-21T17:38:24.140996+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58102266_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/sollentuna/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

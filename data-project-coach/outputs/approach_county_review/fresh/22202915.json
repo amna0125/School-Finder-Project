@@ -1,0 +1,69 @@
+{
+  "school_id": "22202915",
+  "school_name": "Tyresö Montessoriskola",
+  "registered_url": "http://www.tmsv.se",
+  "pages": [
+    {
+      "requested_url": "https://www.tmsv.se/",
+      "source_url": "https://www.tmsv.se/",
+      "page_title": "Startsida",
+      "accessed_at": "2026-10-21T17:30:01.253589+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "22202915_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.tmsv.se/",
+          "robots_url": "https://www.tmsv.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:30:00.301208+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.tmsv.se/om-oss",
+      "source_url": "https://www.tmsv.se/om-oss",
+      "page_title": "Om oss",
+      "accessed_at": "2026-10-21T17:30:02.269562+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "22202915_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.tmsv.se/om-oss",
+          "robots_url": "https://www.tmsv.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:30:00.301208+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.tmsv.se/om-oss/montessoripedagogiken",
+      "source_url": "https://www.tmsv.se/om-oss/montessoripedagogiken",
+      "page_title": "Montessoripedagogiken",
+      "accessed_at": "2026-10-21T17:30:03.289004+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "22202915_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.tmsv.se/om-oss/montessoripedagogiken",
+          "robots_url": "https://www.tmsv.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:30:00.301208+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

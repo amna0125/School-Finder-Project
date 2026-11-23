@@ -1,0 +1,125 @@
+{
+  "school_unit_code": "14115670",
+  "school_name": "Friskolan & Fritidshemmet Hästens",
+  "registered_url": "http://www.friskolanhastens.se",
+  "attempted_at": "2026-10-21T09:20:06.726958+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://friskolanhastens.se/",
+      "retrieved_at": "2026-10-21T09:20:21.819317+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.friskolanhastens.se",
+          "robots_url": "https://friskolanhastens.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:13.522614+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.friskolanhastens.se/",
+          "robots_url": "https://friskolanhastens.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:15.788126+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://friskolanhastens.se/",
+          "robots_url": "https://friskolanhastens.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:19.246602+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "14115670_0.txt"
+    },
+    {
+      "source_url": "https://friskolanhastens.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:20:21.835718+00:00",
+      "robots_checks": [
+        {
+          "url": "https://friskolanhastens.se/om-oss/",
+          "robots_url": "https://friskolanhastens.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:19.246602+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "14115670_1.txt"
+    },
+    {
+      "source_url": "https://friskolanhastens.se/var-profil/",
+      "retrieved_at": "2026-10-21T09:20:21.869521+00:00",
+      "robots_checks": [
+        {
+          "url": "https://friskolanhastens.se/var-profil/",
+          "robots_url": "https://friskolanhastens.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:19.246602+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "14115670_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "rs erfarenhet inom branschen. Verksamheten startades av två eldsjälar år 2000, efter att de gick i pension år 2020, drivs skolan nu av sex medarbetare. Skolans profil är praktisk- estetisk med huvudområdena kultur, skapande, rörelse och natur i samverkan med de teoretiska ämnena.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "bfbf102babca5c9d2bc1251ca46ae2bb56e7e53a5a1cedaf07dcee5a98be49cd",
+      "school_unit_code": "14115670",
+      "school_name": "Friskolan & Fritidshemmet Hästens",
+      "source_url": "https://friskolanhastens.se/",
+      "retrieved_at": "2026-10-21T09:20:21.819317+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Friskolan Hästens arbetar med en praktisk-estetisk profil som genomsyrar hela verksamheten med ett kreativt arbetssätt. De praktiskt-estetiska ämnena integreras i den teoretiska undervisningen, vilket gör lärandet varierat, engagerande och meningsfullt.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ba75a2786747d8f28cd633210b683f534ac2bb5f5fa11f8831f9837821a21f47",
+      "school_unit_code": "14115670",
+      "school_name": "Friskolan & Fritidshemmet Hästens",
+      "source_url": "https://friskolanhastens.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:20:21.835718+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Både i skolan och på fritids arbetar vi med flera kulturella inslag såsom sång, musik, dans och teater. Varje vårterminen avslutas med en show där eleverna får visa upp det de arbetat med och skapat under terminen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "8b8b3157d0a650b8dc221f8e988995ee393cf605c1cf06107687add4cf8c00dd",
+      "school_unit_code": "14115670",
+      "school_name": "Friskolan & Fritidshemmet Hästens",
+      "source_url": "https://friskolanhastens.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:20:21.835718+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Skolan genomsyras av ett kreativt arbetssätt genom att praktiskt / estetiska ämnen integreras i den teoretiska undervisningen",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a63e23bfa62a805cb3192a33bc05c7cc2f4d77cb814dede05fd22eaa48b0cf3b",
+      "school_unit_code": "14115670",
+      "school_name": "Friskolan & Fritidshemmet Hästens",
+      "source_url": "https://friskolanhastens.se/var-profil/",
+      "retrieved_at": "2026-10-21T09:20:21.869521+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,54 @@
+{
+  "school_unit_code": "28799594",
+  "school_name": "Kärrdalsskolan",
+  "registered_url": "http://sites.google.com/a/edu.sollentuna.se/kdl/",
+  "attempted_at": "2026-10-21T09:20:53.317103+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/edu.sollentuna.se/kdl/&followup=https://sites.google.com/a/edu.sollentuna.se/kdl/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-349846233:1792574461088539",
+      "retrieved_at": "2026-10-21T09:21:02.330516+00:00",
+      "robots_checks": [
+        {
+          "url": "http://sites.google.com/a/edu.sollentuna.se/kdl/",
+          "robots_url": "https://sites.google.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:54.998998+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://sites.google.com/a/edu.sollentuna.se/kdl/",
+          "robots_url": "https://sites.google.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:56.713442+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://sites.google.com/a/edu.sollentuna.se/kdl/&followup=https://sites.google.com/a/edu.sollentuna.se/kdl/",
+          "robots_url": "https://accounts.google.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:00.392407+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/edu.sollentuna.se/kdl/&followup=https://sites.google.com/a/edu.sollentuna.se/kdl/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-349846233:1792574461088539",
+          "robots_url": "https://accounts.google.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:00.392407+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "28799594_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

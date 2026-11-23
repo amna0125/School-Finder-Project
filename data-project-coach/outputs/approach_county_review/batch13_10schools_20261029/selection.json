@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "25253749",
+    "official_directory_name": "Albatross Montessoriskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.albatross-montessori.se",
+    "note": ""
+  },
+  {
+    "school_id": "25309669",
+    "official_directory_name": "Kunskapsskolan Täby",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.kunskapsskolan.se/skolor/taby",
+    "note": ""
+  },
+  {
+    "school_id": "25506439",
+    "official_directory_name": "Kassmyraskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.botkyrka.se/kassmyraskolan",
+    "note": ""
+  },
+  {
+    "school_id": "25555358",
+    "official_directory_name": "Eiraskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/eiraskolan",
+    "note": ""
+  },
+  {
+    "school_id": "25772114",
+    "official_directory_name": "Vaxö skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vaxholm.se",
+    "note": ""
+  },
+  {
+    "school_id": "25918983",
+    "official_directory_name": "Hammerstaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.botkyrka.se/hammerstaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "26138955",
+    "official_directory_name": "Skå skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.ekero.se/skaskola",
+    "note": ""
+  },
+  {
+    "school_id": "26172429",
+    "official_directory_name": "International School of the Stockholm Region",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.internationalschoolofthestockholmregion.stockholm.se/",
+    "note": ""
+  },
+  {
+    "school_id": "26281697",
+    "official_directory_name": "Montessoriskolan - Gustafslund",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.montessoriskolan.nu",
+    "note": ""
+  },
+  {
+    "school_id": "26480342",
+    "official_directory_name": "Nordanskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.upplandsvasby.se",
+    "note": ""
+  }
+]

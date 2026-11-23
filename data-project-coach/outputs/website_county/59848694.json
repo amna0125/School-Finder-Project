@@ -1,0 +1,93 @@
+{
+  "school_unit_code": "59848694",
+  "school_name": "Danderyds Montessoriskola",
+  "registered_url": "http://www.dmskola.se",
+  "attempted_at": "2026-10-21T09:22:22.330331+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.dmskola.se/",
+      "retrieved_at": "2026-10-21T09:22:31.054244+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.dmskola.se",
+          "robots_url": "https://www.dmskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:23.794039+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.dmskola.se/",
+          "robots_url": "https://www.dmskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:25.242130+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "59848694_0.txt"
+    },
+    {
+      "source_url": "https://www.dmskola.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:31.116351+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.dmskola.se/om-oss/",
+          "robots_url": "https://www.dmskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:25.242130+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "59848694_1.txt"
+    },
+    {
+      "source_url": "https://www.dmskola.se/om-oss/montessoripedagogik/",
+      "retrieved_at": "2026-10-21T09:22:31.162162+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.dmskola.se/om-oss/montessoripedagogik/",
+          "robots_url": "https://www.dmskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:25.242130+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "59848694_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "montessori",
+      "supporting_excerpt": "Välkommen till Danderyds Montessoriskola – en inspirerande och kreativ lärandemiljö för barn i åldrarna 6–12 år. På vår skola strävar vi efter att främja varje barns naturliga nyfikenhet och lust att lära genom Montessoripedagogikens beprövade metoder.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "18f8b1a9d14222386ab4b989225922ba09d9f870aaeebd34325c094c5496cdcb",
+      "school_unit_code": "59848694",
+      "school_name": "Danderyds Montessoriskola",
+      "source_url": "https://www.dmskola.se/",
+      "retrieved_at": "2026-10-21T09:22:31.054244+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "montessori",
+      "supporting_excerpt": "Höstterminen 1994 startade Danderyds Montessoriskola AB i en del av Fribergaskolans lokaler. Skolan har sedan dess flyttat till Mörbyskolans lokaler där vi numera befinner oss med närhet till kommunikationer, idrottshallar, simhall och naturområden. Skolan ägs idag av Montessori förskolor och skolor i Sverige AB som är den del av Atvexa.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "34fce95a8f4f78b59565f8d1a98c256dcf23967afe86c0adb7dcc5f5004a4d0f",
+      "school_unit_code": "59848694",
+      "school_name": "Danderyds Montessoriskola",
+      "source_url": "https://www.dmskola.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:31.116351+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

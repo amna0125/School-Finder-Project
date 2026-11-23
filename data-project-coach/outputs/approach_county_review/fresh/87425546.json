@@ -1,0 +1,72 @@
+{
+  "school_id": "87425546",
+  "school_name": "Kunskapsskolan Nacka",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/nacka",
+  "pages": [
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/nacka",
+      "source_url": "https://www.kunskapsskolan.se/skolor/nacka",
+      "page_title": "Kunskapsskolan Nacka",
+      "accessed_at": "2026-10-21T17:42:42.560851+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "87425546_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/nacka",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.607125+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/kontakta-oss",
+      "source_url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/kontakta-oss",
+      "page_title": "Kontakta oss - Kunskapsskolan Nacka",
+      "accessed_at": "2026-10-21T17:42:45.005493+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "87425546_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.607125+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/aktuellt",
+      "source_url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/aktuellt",
+      "page_title": "Aktuellt - Kunskapsskolan Nacka",
+      "accessed_at": "2026-10-21T17:43:09.140538+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "87425546_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.607125+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

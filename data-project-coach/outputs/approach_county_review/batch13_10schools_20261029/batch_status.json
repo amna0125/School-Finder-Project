@@ -1,0 +1,15 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 8,
+  "scoped_no_clear_schools": 2,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 9,
+  "new_code_rows": 9,
+  "database_evidence_total": 160,
+  "database_codes_total": 124,
+  "first_load_flow": "placid-puffin",
+  "replay_flow": "quirky-catfish",
+  "replay_inserted_rows": 0,
+  "tests": "22 existing tests passed"
+}

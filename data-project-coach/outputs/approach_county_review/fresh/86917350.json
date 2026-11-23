@@ -1,0 +1,72 @@
+{
+  "school_id": "86917350",
+  "school_name": "Köpmanholms skola",
+  "registered_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/",
+  "pages": [
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/",
+      "page_title": "Köpmanholms skola - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:42:42.166067+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "86917350_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/var-skola/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/var-skola/",
+      "page_title": "Om Köpmanholms skola - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:42:43.266747+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "86917350_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/var-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/kopmanholms-fritidshem/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/kopmanholms-fritidshem/",
+      "page_title": "Köpmanholms fritidshem - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:42:44.413716+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "86917350_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/kopmanholms-fritidshem/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,9 @@
+{
+  "schema_validation": "passed",
+  "quote_substrings": "passed",
+  "unique_schools": 10,
+  "evidence_records": 6,
+  "code_records": 2,
+  "database_modified": false,
+  "county_ledger_modified": false
+}

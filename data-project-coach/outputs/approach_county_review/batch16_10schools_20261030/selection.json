@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "29158808",
+    "official_directory_name": "Observatorielundens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/observatorielundens-skola",
+    "note": ""
+  },
+  {
+    "school_id": "29270748",
+    "official_directory_name": "Vanadisskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.iofi.se",
+    "note": ""
+  },
+  {
+    "school_id": "29278599",
+    "official_directory_name": "Lovisedalsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.vallentuna.se/lovisedal/",
+    "note": ""
+  },
+  {
+    "school_id": "29371242",
+    "official_directory_name": "Campus Manilla",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.campusmanilla.se",
+    "note": ""
+  },
+  {
+    "school_id": "29410344",
+    "official_directory_name": "Kungsholmens grundskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kungsholmens-grundskola",
+    "note": ""
+  },
+  {
+    "school_id": "29497099",
+    "official_directory_name": "Internationella Engelska Skolan Södertälje",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.engelska.se",
+    "note": ""
+  },
+  {
+    "school_id": "29524966",
+    "official_directory_name": "Freinetskolan Kastanjen",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.kastanjen.nu",
+    "note": ""
+  },
+  {
+    "school_id": "29585072",
+    "official_directory_name": "Innovitaskolan Enskede",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://innovitaskolan.se/enskede/",
+    "note": ""
+  },
+  {
+    "school_id": "29705473",
+    "official_directory_name": "Snösätraskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan",
+    "note": ""
+  },
+  {
+    "school_id": "29725531",
+    "official_directory_name": "Engelska Skolan Norr",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.esn.se",
+    "note": ""
+  }
+]

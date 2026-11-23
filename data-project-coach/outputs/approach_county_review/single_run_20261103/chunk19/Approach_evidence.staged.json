@@ -1,0 +1,32 @@
+[
+  {
+    "evidence_id": "ae_sr_98753011_01",
+    "school_id": "98753011",
+    "source_url": "https://engelska.se/sv/",
+    "page_title": "Internationella Engelska Skolan – En trygg skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Upp till hälften av undervisningen sker därför på engelska av lärare med engelska som modersmål.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Provider-wide bilingual model; unit not confirmed."
+  },
+  {
+    "evidence_id": "ae_sr_99373839_01",
+    "school_id": "99373839",
+    "source_url": "https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/ekebyhovsskolan-f-6",
+    "page_title": "Ekebyhovsskolan F-6 - Ekerö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Här finns plats för fyra paralleller i årskurs F - 6 med anpassad grundskola och A-spår (för barn med autism).",
+    "evidence_type": "School webpage",
+    "interpretation_note": "On-site autism track."
+  },
+  {
+    "evidence_id": "ae_sr_99648792_01",
+    "school_id": "99648792",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/adolf-fredriks-musikklasser",
+    "page_title": "Adolf Fredriks musikklasser, 4–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Alla elever har en utökad timplan i ämnet musik och har musik minst en gång om dagen i sitt schema.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Music profile with daily music."
+  }
+]

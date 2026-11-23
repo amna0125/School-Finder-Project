@@ -1,0 +1,10 @@
+{
+  "statuses": {
+    "fetched_no_candidate_needs_review": 454,
+    "fetched_candidates_need_review": 216,
+    "missing_registered_website": 8,
+    "collection_failed_needs_review": 84
+  },
+  "candidate_records": 345,
+  "schools": 762
+}

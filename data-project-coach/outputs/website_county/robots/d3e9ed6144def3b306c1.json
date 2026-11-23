@@ -1,0 +1,1 @@
+{"robots_url": "https://www.svalnas.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:23:31.723374+00:00", "state": "parsed", "crawl_delay": 0, "body": "Sitemap: https://www.svalnas.se/sitemap.xml\n\nUser-agent: NerdyBot\nDisallow: /\n\nUser-agent: dotbot\nCrawl-delay: 10\n\nUser-agent: *\nDisallow: /ajax/\nDisallow: /apps/\n"}

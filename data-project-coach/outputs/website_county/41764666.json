@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "41764666",
+  "school_name": "Långbrodalsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan",
+  "attempted_at": "2026-10-21T09:16:06.271522+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan",
+      "retrieved_at": "2026-10-21T09:16:10.551775+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "41764666_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "I Slottet finns även vår skolrestaurang och salar för slöjd och musik.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0aa84bcc0132278f811e061a7384dbd7b15755e13cc3f657e9ffa6df329b438a",
+      "school_unit_code": "41764666",
+      "school_name": "Långbrodalsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan",
+      "retrieved_at": "2026-10-21T09:16:10.551775+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

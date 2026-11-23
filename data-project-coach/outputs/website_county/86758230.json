@@ -1,0 +1,113 @@
+{
+  "school_unit_code": "86758230",
+  "school_name": "Viktor Rydbergs skola Jarlaplan",
+  "registered_url": "http://www.vrskolor.se",
+  "attempted_at": "2026-10-21T09:17:17.321037+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vrskolor.se/",
+      "retrieved_at": "2026-10-21T09:17:21.477231+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vrskolor.se",
+          "robots_url": "http://www.vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:21.584403+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vrskolor.se/",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:23.257528+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "86758230_0.txt"
+    },
+    {
+      "source_url": "https://vrskolor.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:21.528103+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vrskolor.se/om-oss",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:23.257528+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vrskolor.se/om-oss/",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:23.257528+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "86758230_1.txt"
+    },
+    {
+      "source_url": "https://vrskolor.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:21.565502+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vrskolor.se/om-oss/",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:23.257528+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "86758230_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "“Jag gillar min bildlärare som vi också har teater med. Det är kul att vara kreativ och få spela pjäser. Mina snälla lärare gör det roligt att gå till skolan varje dag.”",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1362981d4d721b1960eb2274b9f2459b121bdca41f5be5317a28b57810eef0e8",
+      "school_unit_code": "86758230",
+      "school_name": "Viktor Rydbergs skola Jarlaplan",
+      "source_url": "https://vrskolor.se/",
+      "retrieved_at": "2026-10-21T09:17:21.477231+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "I den första skolan, som startades i Djursholm 1994, kombinerade de höga akademiska ambitioner med konstnärligt skapande i en kreativ atmosfär. De ville få eleverna att utvecklas och trivas i skolan, inte minst de elever som helst satte sig längst bak för att inte märkas.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a129382c820555a468aadb6485e8b55ffb01ac04ffa7994b4e954323362b3fed",
+      "school_unit_code": "86758230",
+      "school_name": "Viktor Rydbergs skola Jarlaplan",
+      "source_url": "https://vrskolor.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:21.528103+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "I den första skolan, som startades i Djursholm 1994, kombinerade de höga akademiska ambitioner med konstnärligt skapande i en kreativ atmosfär. De ville få eleverna att utvecklas och trivas i skolan, inte minst de elever som helst satte sig längst bak för att inte märkas.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a129382c820555a468aadb6485e8b55ffb01ac04ffa7994b4e954323362b3fed",
+      "school_unit_code": "86758230",
+      "school_name": "Viktor Rydbergs skola Jarlaplan",
+      "source_url": "https://vrskolor.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:21.565502+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

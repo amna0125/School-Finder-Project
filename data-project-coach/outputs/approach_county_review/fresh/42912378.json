@@ -1,0 +1,17 @@
+{
+  "school_id": "42912378",
+  "school_name": "Vinsta grundskola östra",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-ostra",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-ostra",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:34:00.502935+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

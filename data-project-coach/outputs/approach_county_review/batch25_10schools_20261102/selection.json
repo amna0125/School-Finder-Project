@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "40383398",
+    "official_directory_name": "Bromma kyrkskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bromma-kyrkskola",
+    "note": ""
+  },
+  {
+    "school_id": "40467992",
+    "official_directory_name": "Futuraskolan International Hertig Karl",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.futuraskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "40610606",
+    "official_directory_name": "Lycée Francais Saint Louis, gr",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.lfsl.net",
+    "note": ""
+  },
+  {
+    "school_id": "40618486",
+    "official_directory_name": "Råsunda skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://solna.se",
+    "note": ""
+  },
+  {
+    "school_id": "40631085",
+    "official_directory_name": "Fittjaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.botkyrka.se/fittjaskolanbotkyrkanorra",
+    "note": ""
+  },
+  {
+    "school_id": "40847752",
+    "official_directory_name": "Björkebyskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarfalla.se",
+    "note": ""
+  },
+  {
+    "school_id": "40904373",
+    "official_directory_name": "Närlundaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.ekero.se/narlundaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "40978257",
+    "official_directory_name": "Futuraskolan International School of Stockholm",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.futuraskolaninternational.se",
+    "note": ""
+  },
+  {
+    "school_id": "41176931",
+    "official_directory_name": "Gärdesskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gardesskolan",
+    "note": ""
+  },
+  {
+    "school_id": "41181908",
+    "official_directory_name": "Hägerneholmsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://www.taby.se/hagerneholmsskolan",
+    "note": ""
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "file": "ang.html",
+    "bytes": 95405,
+    "sha256": "a2f59ad3293dedb2ad4538f7da17f9ec29c7b2560392d3cdf6b8d0934049cd4c"
+  },
+  {
+    "file": "bjornboda.html",
+    "bytes": 150308,
+    "sha256": "5861203064ba20be8923786c476299b549ef7c344d19347776929a0978b190a5"
+  },
+  {
+    "file": "ies.html",
+    "bytes": 270942,
+    "sha256": "91378d57849dcfa1493c946c5897b384c11c3309a9420a336602e6e2f04f186f"
+  },
+  {
+    "file": "jarlaberg.html",
+    "bytes": 31011,
+    "sha256": "266452664cbe5c5368232ab95070187f84e1f95b528b56b260c83f710531b4ea"
+  },
+  {
+    "file": "jarlaberg_about.html",
+    "bytes": 31589,
+    "sha256": "058c823aefce2ca3ffe81b8cee0d8a2df44a16db2f0ffff8f0aa4d1e1af3fce2"
+  },
+  {
+    "file": "jarlaberg_official.json",
+    "bytes": 1486,
+    "sha256": "a21f2db522408b5c620730dc371db9154c69b59b4fcd3f8283a5df79419d3cd4"
+  },
+  {
+    "file": "johannes.html",
+    "bytes": 146815,
+    "sha256": "5f6de1677d9dff52896e92945a35d649f9fad06c81f289348014ebc58f7552db"
+  },
+  {
+    "file": "kista_official.json",
+    "bytes": 1606,
+    "sha256": "35351e586d7d1364108992da29ea92e656b5636e5c32b58d627bf2d84ab6e359"
+  },
+  {
+    "file": "kista_old.html",
+    "bytes": 141206,
+    "sha256": "46a51a1ae52f0e1aff110beec7b4bd58332257451710ef1ba7b876783344aeeb"
+  },
+  {
+    "file": "kista_upper.html",
+    "bytes": 136730,
+    "sha256": "b1bfc9e30b7f9dd535fc89201a7a37023a4ee7b70fab67e2de68bf4391127b2e"
+  },
+  {
+    "file": "nacka_directory.html",
+    "bytes": 40153,
+    "sha256": "e9dd5db8fed831e379c990958f3fd547a90608e9c97f912caeb6d6432102e3a1"
+  },
+  {
+    "file": "nasbydal.html",
+    "bytes": 73397,
+    "sha256": "76467df8159ab7fbe1b34634a3867221b76ffc893016e8dbcd936cc3b57883df"
+  },
+  {
+    "file": "nasbydal_spets.html",
+    "bytes": 88939,
+    "sha256": "382cae9ac60396535de110b3cfa6a4c0d918d45841e982a05e1810651353f272"
+  },
+  {
+    "file": "norrgard.html",
+    "bytes": 632548,
+    "sha256": "59d83dce349df8722868e70986c2473e376f82450729b118af5338b71742918c"
+  },
+  {
+    "file": "norrgard_about.html",
+    "bytes": 636254,
+    "sha256": "35907e1d5ae15a44a7a3e0d23bfca9f468268695cf7e324bcd420a30120a40c8"
+  },
+  {
+    "file": "norrgard_official.json",
+    "bytes": 1491,
+    "sha256": "0fc7f8a83c5d4a3545c0714e6390ca2a12d14ceefcca53b7002a7597e1cb33f1"
+  },
+  {
+    "file": "norrtalje_directory.html",
+    "bytes": 622677,
+    "sha256": "9476f5e2c42a1ea8df17e6fd82fed6e2a045f3d1e4e12c26eee0f569b9ec14f7"
+  },
+  {
+    "file": "robots_ies.txt",
+    "bytes": 201,
+    "sha256": "0cdf671e9a727a54209a5b350ee119c17003b314ccef21b4ce8eb022f2644f0b"
+  },
+  {
+    "file": "robots_nacka.txt",
+    "bytes": 90,
+    "sha256": "64fe41969e11ec84b6931292db50ef815df7f9d69b40957717f3836cfc06a702"
+  },
+  {
+    "file": "robots_norrtalje.txt",
+    "bytes": 72,
+    "sha256": "59801bc47e1a4d2bfdc91f22dfe1fbab4f327da07983a7c9fa5133bd6deb3258"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 67,
+    "sha256": "bba51e84f7a5a0904a456f6e4b3e79b919e43800d60b2e6a7508062cec4d2106"
+  },
+  {
+    "file": "robots_sundbyberg.txt",
+    "bytes": 500,
+    "sha256": "f2d7dd81294d79c44c86c57bb61680c9af9fd563c76c88b69f4f7422dafb0bac"
+  },
+  {
+    "file": "robots_taby.txt",
+    "bytes": 494,
+    "sha256": "2eb5c8782f1b259c3f513391f0b866049643bc6c37bdd44301d403299da0c003"
+  },
+  {
+    "file": "robots_tmsv.txt",
+    "bytes": 144626,
+    "sha256": "cda18eb89ce1a81f0861c7968e79fec1d60d9a39f813cc80fc89a58cb333cdd1"
+  },
+  {
+    "file": "tyreso_method.html",
+    "bytes": 166603,
+    "sha256": "c9b00cea6db7e099192ca37baf2cb3ae7a8541a29d17d689fdc1ce105de02c13"
+  },
+  {
+    "file": "tyreso_official.json",
+    "bytes": 1521,
+    "sha256": "5543fcf57f53ab0278caba036ae2ffa1a9a7c54ace91b274801a63132274eb8b"
+  },
+  {
+    "file": "tyreso_school.html",
+    "bytes": 165828,
+    "sha256": "b1524872aec3a33f5e42af2464069f44c1e40239bcc025b142927745de1aa7d3"
+  },
+  {
+    "file": "vilan.html",
+    "bytes": 28225,
+    "sha256": "50280009f68b5e294703c0a0c76fc60b3dff5892cfea5ed7aacb99a133eb3fc8"
+  },
+  {
+    "file": "vilan_about.html",
+    "bytes": 38197,
+    "sha256": "04bea7591e0e761794febaf243bcca9e5bde3181deac1b75276a85237378bba1"
+  },
+  {
+    "file": "vilan_teaching.html",
+    "bytes": 34740,
+    "sha256": "3661b8b5504d5e958ad9bb4c269a3d2395475202574b434fe95107d5024a2a1f"
+  }
+]

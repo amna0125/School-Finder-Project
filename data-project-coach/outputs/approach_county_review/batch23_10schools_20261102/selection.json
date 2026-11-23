@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "37887150",
+    "official_directory_name": "Nordic International School Nacka",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://nordicinternational.se/nacka",
+    "note": ""
+  },
+  {
+    "school_id": "38096510",
+    "official_directory_name": "Magelungens Grundskola Älvsjö",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.magelungen.com",
+    "note": ""
+  },
+  {
+    "school_id": "38394561",
+    "official_directory_name": "Södertälje friskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.sodertaljefriskola.se",
+    "note": ""
+  },
+  {
+    "school_id": "38526011",
+    "official_directory_name": "Eddaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sigtuna.se/eddaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "38653015",
+    "official_directory_name": "Pershagenskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.sodertalje.se/pershagenskolan.",
+    "note": ""
+  },
+  {
+    "school_id": "38661388",
+    "official_directory_name": "Broängsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.botkyrka.se/broangsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "38758770",
+    "official_directory_name": "Farsta grundskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser",
+    "note": ""
+  },
+  {
+    "school_id": "38854084",
+    "official_directory_name": "Steningehöjdens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sigtuna.se",
+    "note": ""
+  },
+  {
+    "school_id": "38935587",
+    "official_directory_name": "Internationella Engelska Skolan Enskede",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.engelska.se",
+    "note": ""
+  },
+  {
+    "school_id": "38975788",
+    "official_directory_name": "Tungelsta skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "note": ""
+  }
+]

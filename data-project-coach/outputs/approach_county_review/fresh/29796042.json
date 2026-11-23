@@ -1,0 +1,50 @@
+{
+  "school_id": "29796042",
+  "school_name": "Engelska skolan Gondolen",
+  "registered_url": "https://www.esgondolen.se/",
+  "pages": [
+    {
+      "requested_url": "https://www.esgondolen.se/",
+      "source_url": "https://www.esgondolen.se/",
+      "page_title": "Engelska skolan Gondolen",
+      "accessed_at": "2026-10-21T17:31:46.162061+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29796042_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.esgondolen.se/",
+          "robots_url": "https://www.esgondolen.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:31:45.195645+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.esgondolen.se/om-oss",
+      "source_url": "https://www.esgondolen.se/om-oss",
+      "page_title": "Engelska skolan Gondolen - Om oss",
+      "accessed_at": "2026-10-21T17:31:47.175929+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29796042_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.esgondolen.se/om-oss",
+          "robots_url": "https://www.esgondolen.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:31:45.195645+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

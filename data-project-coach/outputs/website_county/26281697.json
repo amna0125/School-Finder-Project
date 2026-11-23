@@ -1,0 +1,81 @@
+{
+  "school_unit_code": "26281697",
+  "school_name": "Montessoriskolan i Norrtälje",
+  "registered_url": "http://www.montessoriskolan.nu",
+  "attempted_at": "2026-10-21T09:20:46.447425+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.montessoriskolan.nu/",
+      "retrieved_at": "2026-10-21T09:20:53.258802+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.montessoriskolan.nu",
+          "robots_url": "https://www.montessoriskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:48.170899+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.montessoriskolan.nu/",
+          "robots_url": "https://www.montessoriskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:49.912177+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26281697_0.txt"
+    },
+    {
+      "source_url": "https://www.montessoriskolan.nu/montessoripedagogik/",
+      "retrieved_at": "2026-10-21T09:20:53.292169+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.montessoriskolan.nu/montessoripedagogik/",
+          "robots_url": "https://www.montessoriskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:49.912177+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26281697_1.txt"
+    },
+    {
+      "source_url": "https://www.montessoriskolan.nu/fotbollsprofilen/",
+      "retrieved_at": "2026-10-21T09:20:53.315312+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.montessoriskolan.nu/fotbollsprofilen/",
+          "robots_url": "https://www.montessoriskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:49.912177+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26281697_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "sport",
+      "supporting_excerpt": "Utvecklas som fotbollsspelare genom att anmäla dig till Montessoriskolans fotbollsprofil i samarbete med BKV Norrtälje!",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0e244c9348a1c1d542ff94107675632116a17a715ce876e4196851873aab3516",
+      "school_unit_code": "26281697",
+      "school_name": "Montessoriskolan i Norrtälje",
+      "source_url": "https://www.montessoriskolan.nu/fotbollsprofilen/",
+      "retrieved_at": "2026-10-21T09:20:53.315312+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

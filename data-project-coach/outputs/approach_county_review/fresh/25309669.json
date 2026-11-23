@@ -1,0 +1,72 @@
+{
+  "school_id": "25309669",
+  "school_name": "Kunskapsskolan Täby",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/taby",
+  "pages": [
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/taby",
+      "source_url": "https://www.kunskapsskolan.se/skolor/taby",
+      "page_title": "Kunskapsskolan Täby",
+      "accessed_at": "2026-10-21T17:30:22.697913+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "25309669_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/taby",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/kontakta-oss",
+      "source_url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/kontakta-oss",
+      "page_title": "Kontakta oss - Kunskapsskolan Täby",
+      "accessed_at": "2026-10-21T17:30:26.399570+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "25309669_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/aktuellt",
+      "source_url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/aktuellt",
+      "page_title": "Aktuellt - Kunskapsskolan Täby",
+      "accessed_at": "2026-10-21T17:30:59.076148+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "25309669_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

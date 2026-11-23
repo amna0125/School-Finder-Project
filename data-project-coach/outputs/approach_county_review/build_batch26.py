@@ -1,0 +1,60 @@
+"""One-time Batch26 staging; preserve prior batches."""
+from pathlib import Path
+import csv,json,re,html,hashlib
+import duckdb
+from outputs.approach_county_review.extract19 import parse
+from school_pipeline.approach_migration import validate_records
+P=Path('outputs/approach_county_review');B=P/'batch26_10schools_20261102';S=B/'sources';D='2026-11-02'
+assert not (B/'Approach_evidence.staged.json').exists()
+def dump(n,v):(B/n).write_text(json.dumps(v,ensure_ascii=False,indent=2,default=str)+'\n')
+rows=list(csv.DictReader((P/'county_progress_20261102_after_batch25.csv').open()))
+selection=sorted((r for r in rows if r['review_state']=='Not yet contextually reviewed'),key=lambda r:r['school_id'])[:10]
+ids=[r['school_id'] for r in selection];assert ids==['41213404','41285467','41357379','41377165','41405700','41507895','41554150','41584790','41764666','41888515']
+with duckdb.connect('.state/schools.duckdb',read_only=True) as db:
+ cur=db.execute('select * from schools where school_unit_code in ('+','.join('?' for _ in ids)+') order by school_unit_code',ids);names=[x[0] for x in cur.description];meta=[dict(zip(names,r)) for r in cur.fetchall()]
+u=dict(kallbrink='https://www.huddinge.se/kallbrinksskolan',kallbrink_about='https://www.huddinge.se/kallbrinksskolan/om-skolan',adolf='https://grundskola.stockholm/hitta-grundskola/grundskola/adolfsbergsskolan',skogs='https://www.botkyrka.se/skola-och-forskola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan',sundby='https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/sundby-skola-f-6',storkyrko='https://grundskola.stockholm/hitta-grundskola/grundskola/storkyrkoskolan',nobla='https://noblaskolan.se/nacka-strand/',nobla_about='https://noblaskolan.se/nacka-strand/om/grundskola/',slott='https://www.taby.se/slottsparksskolan',jarna='https://www.jarnafriskola.se/',jarna_about='https://www.jarnafriskola.se/var-skola/',langbrodal='https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan',fardala='https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/fardala-skola.html')
+page_sets=[['kallbrink','kallbrink_about'],['adolf'],['skogs'],['sundby'],['storkyrko'],['nobla','nobla_about'],['slott'],['jarna','jarna_about'],['langbrodal'],['fardala']]
+notes_list=[
+'Website F–9; shared rector area not generalized. Accessibility described as a strength, but broad relational/support wording lacks a sufficiently concrete distinctive model; retained as uncertain note, no firm code.',
+'Website F–6 with separate addresses by year. Reviewed descriptive page only; ordinary teams, premises and fritids do not establish an approach. No clear evidence within this scope, not evidence of absence.',
+'PERMISSION BLOCKER: prior terms_review_required remains unresolved; robots is not terms clearance. General Skogsbacksskolan page already fetched, but does not mention Trampolinen. No profile transferred; no approach evidence curated or coded. Resolve terms and ID-bearing Trampolinen mapping before substantive collection resumes.',
+'Website F–6; nature-adjacent location and generic leadership/accessibility are not outdoor pedagogy. Registered HTTP not separately fetched; HTTPS short path redirected to selected descriptive path. Scoped no-clear.',
+'Website F–6. Generic creative/stimulating wording, cultural heritage and assemblies do not establish arts-based pedagogy. No clear evidence within descriptive-page scope.',
+'Website preschool through year3; only compulsory-school F–3 page and common Noblakoden context used. Target overlap years1–3. Outdoor pedagogy explicitly stated, frequency unspecified. Promotional attainment claims excluded; no effectiveness inference.',
+'Website F–3; target overlap1–3. IBIS named as preventive model. Research/evidensbaserad wording is school self-description, not verified effectiveness. University assessment collaboration not a profile.',
+'Website F–9; explicit Montessori-inspired rather than certified/full Montessori. Outdoor didactics explicitly integrated into teaching. About page references 2024 anniversary, so pupil count/current implementation not independently verified.',
+'Website F–6, two buildings and external PE location for4–6. Ordinary support, movement, theme weeks and nearby woods do not by themselves establish a distinctive approach. Scoped no-clear.',
+'Website F–6; cooperative learning and elevhälsa i varje vrå are developing step-by-step, not verified fully implemented. Trivselledare starts year2; recurring activities two days/week. Separate municipal tal/språk learning studio not generalized. Impact assertions excluded.'
+]
+notes=dict(zip(ids,notes_list));outcomes=dict(zip(ids,['Uncertain evidence / requires review','No clear evidence within scoped review','Permission blocker / unresolved unit identity','No clear evidence within scoped review','No clear evidence within scoped review','Reviewed approach claim','Reviewed approach claim','Reviewed approach claim','No clear evidence within scoped review','Reviewed approach claim']))
+def title(n):
+ s=(S/(n+'.html')).read_text();return html.unescape(re.sub('<[^>]+>','',re.search(r'<title[^>]*>(.*?)</title>',s,re.S|re.I).group(1))).strip()
+e=[];c=[]
+def add(i,n,quote,cat='',sub='',status='Reviewed'):
+ sid=ids[i];assert quote in parse(S/(n+'.html'))[0],(n,quote);num=sum(r['school_id']==sid for r in e)+1;eid=f'ae_b26_{sid}_{num:02}'
+ e.append(dict(evidence_id=eid,school_id=sid,source_url=u[n],page_title=title(n),accessed_date=D,quoted_text=quote,evidence_type='School webpage',interpretation_note=notes[sid]))
+ if cat:c.append(dict(code_id=f'ac_b26_{sid}_{num:02}',school_id=sid,category=cat,subcategory=sub,coding_level='Explicit',confidence='High',evidence_id=eid,coder_note='Assistant contextual review, codebook v1, 2026-11-02. '+notes[sid]+' School wording, not independently verified practice.',review_status=status))
+add(0,'kallbrink_about','Tillgängligt lärande är en av våra största styrkor och genomsyrar undervisningen, lärmiljöerna och skolans organisation.')
+add(5,'nobla','Därför har vi skapat Noblakoden – ett gemensamt förhållningssätt kring lektionsstruktur, ordning, mentorsrollen och andra saker som är viktiga för en bra skolmiljö.','Support, inclusion, or wellbeing emphasis','Noblakoden structured learning environment')
+add(5,'nobla_about','Språk, läsning och samtal har en självklar plats i alla ämnen, och lärandet förstärks genom rörelse och utomhuspedagogik.','Outdoor, nature, or place-based learning','Outdoor pedagogy, years1–3 overlap')
+add(6,'slott','IBIS står för inkluderande beteendestöd i skolan och utvecklar vårt förebyggande arbete med trygghet och studiero.','Support, inclusion, or wellbeing emphasis','IBIS, years1–3 overlap')
+add(7,'jarna_about','Vi är en Montessoriinspirerad skola, vilket innebär att vi arbetar efter Montessoripedagogikens grundläggande tankar kring barns utveckling och inlärning.','Alternative pedagogy','Montessori-inspired')
+add(7,'jarna','utomhusdidaktik ingår som ett naturligt moment i undervisningen.','Outdoor, nature, or place-based learning','Outdoor didactics integrated into teaching')
+add(9,'fardala','Vi befinner oss i ett utvecklingsarbete i kooperativt lärande samt elevhälsa i varje vrå som implementeras steg för steg i alla klassrum.','Other stated profile','Cooperative learning and elevhälsa i varje vrå, developing')
+add(9,'fardala','Vi är en trivselskola vilket betyder att vi har utbildade trivselledare i alla årskurser från årskurs 2.','Support, inclusion, or wellbeing emphasis','Trivselledare, from year2')
+validate_records(e,c)
+reviews=[];logs=[]
+for i,r in enumerate(selection):
+ sid=r['school_id'];reviews.append(dict(school_id=sid,school_name=r['official_directory_name'],outcome=outcomes[sid],evidence_count=sum(x['school_id']==sid for x in e),code_count=sum(x['school_id']==sid for x in c),unit_scope=notes[sid],follow_up=notes[sid],reviewer='Assistant contextual review; not independent verification',accessed_date=D,load_state='Staged, not loaded'))
+ for n in page_sets[i]:
+  logs.append(dict(school_id=sid,registered_url=r['registered_url'],selected_url=u[n],page_title=title(n),accessed_date=D,status=200,saved_file='sources/'+n+'.html',selection_rationale='Ascending pending official ID; official/provider descriptive school pages and teaching/about follow-ups. General Skogsbacksskolan source held for identity/permission review, not coded.',scope=notes[sid],outcome=outcomes[sid],permissions='Robots responses saved for eight hosts. Stockholm malformed68-byte response not affirmative clearance; Järna empty file. Skogsbacksskolan prior terms flag unresolved and page was fetched before resolving it; no additional collection or approach evidence curated for that unit. No exhaustive terms clearance asserted; no bypass.',exclusions='No social/admin/login/application/gallery follow-up; surveys, individual pupil quotes and staff identities excluded from curated evidence. Embedded videos not transcribed.',retrieval_note='Public HTML accessed 2026-11-02; precise fetch timestamps not retained. Sundby requested HTTPS short path redirected to full selected path; registered HTTP roots not separately tested. Fårdala selected official school path instead of generic municipal root. Other saved descriptive requests returned200 at selected URLs.'))
+for n,v in [('selection.json',selection),('official_selection_metadata.json',meta),('Approach_evidence.staged.json',e),('Approach_codes.staged.json',c)]:dump(n,v)
+for n,rs in [('review_log.csv',reviews),('collection_log.csv',logs)]:
+ with (B/n).open('w',newline='') as f:w=csv.DictWriter(f,fieldnames=rs[0]);w.writeheader();w.writerows(rs)
+(B/'collection_log.jsonl').write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in logs))
+dump('source_hashes.json',{x.name:hashlib.sha256(x.read_bytes()).hexdigest() for x in sorted(S.iterdir()) if x.is_file()})
+dump('staging_validation.json',dict(status='PASSED',schools=10,evidence=len(e),codes=len(c),official_ids_valid=True,selection_matches_ledger=True))
+(B/'decision_log.md').write_text('# Batch26 decisions\n\n'+'\n\n'.join(sid+': '+notes[sid] for sid in ids)+'\n\nCodebook v1 unchanged. About/pedagogy/education/profile/creative/arts/learning/values concepts guided scoped text review; not an exhaustive search. Källbrink broad evidence held uncoded; Skogsbacksskolan Trampolinen permission and unit mapping unresolved. Approach outcomes are not county applicability-scope totals.\n')
+(B/'REPORT.md').write_text('# Batch26 — 2 November 2026\n\n10 outcomes:4 reviewed-claim schools,1 uncertain (no firm code),4 scoped no-clear,1 unresolved permission/identity blocker.8 evidence excerpts /7 codes. Page availability does not clear permissions or unit applicability. See decisions for year/group/curriculum caveats.\n\nStaged; load and checkpoint pending.\n')
+dump('batch_status.json',dict(status='STAGED_VALIDATED_NOT_LOADED',schools=10,evidence=len(e),codes=len(c),date=D))
+print(json.dumps(dict(schools=10,evidence=len(e),codes=len(c))))

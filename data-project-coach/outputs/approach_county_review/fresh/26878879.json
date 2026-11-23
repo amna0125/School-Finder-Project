@@ -1,0 +1,17 @@
+{
+  "school_id": "26878879",
+  "school_name": "Stallets skola",
+  "registered_url": "http://www.stalletsskola.se",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.stalletsskola.se",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:31:28.135163+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

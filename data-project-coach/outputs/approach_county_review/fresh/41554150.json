@@ -1,0 +1,17 @@
+{
+  "school_id": "41554150",
+  "school_name": "Slottsparksskolan",
+  "registered_url": "http://www.taby.se/slottsparksskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.taby.se/slottsparksskolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:33:51.442575+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

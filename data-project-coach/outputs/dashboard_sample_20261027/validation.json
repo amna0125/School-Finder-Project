@@ -1,0 +1,17 @@
+{
+  "analysis_date": "2026-10-27",
+  "status": "passed",
+  "sample_schools": 5,
+  "metric_observations": 20,
+  "checks": [
+    "five unique sample IDs",
+    "four 2025/26 measures per school",
+    "selected reviewed codes link to matching school evidence",
+    "exact numeric conversion only for EXISTS",
+    "raw suppression/rounding/exclusion flags preserved",
+    "ten official source file hashes unchanged"
+  ],
+  "database_accessed": false,
+  "new_source_requests": 0,
+  "sample_status": "Provisional; user confirmation pending"
+}

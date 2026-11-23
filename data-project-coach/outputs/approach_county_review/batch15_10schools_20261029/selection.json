@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "27595656",
+    "official_directory_name": "Birkaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.birkaskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "27830075",
+    "official_directory_name": "Ljungbackens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.lidingo.se/ljungbackensskola",
+    "note": ""
+  },
+  {
+    "school_id": "28138418",
+    "official_directory_name": "Vintertullsskolan i Stockholm",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vintertullsskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "28145722",
+    "official_directory_name": "Aktiviaskolan Enhet Eken",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.aktiviaskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "28184857",
+    "official_directory_name": "Lundaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://lundaskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "28231215",
+    "official_directory_name": "Drottningholmskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.drottningholmskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "28313791",
+    "official_directory_name": "Tomtbergaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.huddinge.se/tomtbergaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "28799594",
+    "official_directory_name": "Kärrdalsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://sites.google.com/a/edu.sollentuna.se/kdl/",
+    "note": ""
+  },
+  {
+    "school_id": "28845963",
+    "official_directory_name": "Majtorpskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sodertalje.se/rosenborgskolan",
+    "note": ""
+  },
+  {
+    "school_id": "29096335",
+    "official_directory_name": "Bergsundsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.bergsundsskolan.se",
+    "note": ""
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "code_id": "ac_b12_24172067_01",
+    "school_id": "24172067",
+    "category": "Arts and creative learning",
+    "subcategory": "Arts integrated with academic subjects",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24172067_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Official schoolID grades1–9, website preschoolclass/lower-year and6–9culture-choice scopes separately described. Direct arts integration beyond subject list, not claims of quality/effects or academic/creative binary. Dated2025/26culture-choice menu contextual not assumed unchanged2026/27. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24172067_02",
+    "school_id": "24172067",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Recurring cross-subject thematic projects",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24172067_02",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. School explicitly describes recurring themes/projects joining subjects, pupil questions, investigation and varied finalproducts on same page. Method page says alternates projects with ordinary subject teaching, not all-day or every-subject project-only. Framework explicit; schedule/duration unspecified. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24172067_03",
+    "school_id": "24172067",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Lower-year school-garden environmental learning",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b12_24172067_03",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Structured environmental/place-learning interpretation supported by age-specific sowing(Fsunflowers,1–2schoolgarden,3chili/tomato), recurring seedcollection and environment profile. Scope lower yearsF–3; historical2023/24themes/future2025hope not silently current observations; no weeklyoutdoor frequency inferred. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24172067_04",
+    "school_id": "24172067",
+    "category": "Other stated profile",
+    "subcategory": "Stated social-justice profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24172067_04",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Explicit justice dimension distinct from arts/environment, described via participation, socialjustice and capacitytoinfluence in themes. Otherstatedprofile, not judgementofpolitical/religiousbeliefs or statutorypolicy alone. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24199792_01",
+    "school_id": "24199792",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori-inspired/oriented, F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24199792_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. School-specific compulsorypage, not preschool-only. Aboutpage says Montessori-inspired; preserve inspired/oriented qualifier, no certification/fidelityclaim. Freshofficial24199792andcontact Ringvägen50Saltsjöbaden/F–3match; wwwDNSfailed,publicnon-wwwreplacementretrievedafterrobotscheck. Exclude Ale namesake. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24199792_02",
+    "school_id": "24199792",
+    "category": "Arts and creative learning",
+    "subcategory": "Weekly studio-based art, F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24199792_02",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. ExplicitschoolF–3artsprofile/weeklystudio; annualexhibitioncontextnotsoleevidence. No pupilartwork or personaldata copied, no verifiedqualityclaim. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24199792_03",
+    "school_id": "24199792",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Question-led thematic and cross-subject learning",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b12_24199792_03",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Unitongoingmodel pupilquestions/subjectintegration plus experiments and classroom/outdoorvariation support inquiry/thematicinterpretation, not namedself-label inquiry or project-onlycurriculum. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24199792_04",
+    "school_id": "24199792",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor days rotating between year groups, F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24199792_04",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. F–3school context; daily pulse and rotatingoutdoorday explicit. Thisoutdoorcode covers statedorganisedoutdoortimetable, NOT eachpupilweeklyday: rotatingyeargroupsmakesindividualfrequencyunclear. Claimed prerequisite/effects not verified. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24199792_05",
+    "school_id": "24199792",
+    "category": "Other stated profile",
+    "subcategory": "Singapore Math teaching tool, F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24199792_05",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Namedschool-appliedmathematicaltool, Otherprofile not standalonealternativeMontessori or evidenceofhigherresults. F–3unit; effectsareintentionsnotverified. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24374886_01",
+    "school_id": "24374886",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Community-anchored real-world projects and themes",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b12_24374886_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. VäsbyF–9 unitexplicitlysays communityanchoredteaching; unitaboutadds actualcivicworkwithmunicipality/climateprojects. Supportedprojectinterpretation from combinedsources, not genericprovideralone; modelapplicationmayvary amongcampuses, exactduration/yearparticipationunspecified. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24402537_01",
+    "school_id": "24402537",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Swedish-English bilingual education, F–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24402537_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. DirectunitF–9,storedofficial1–9+F. SameparagraphSwedishcurriculum/up-to-halfeducationEnglish. Upperboundnotfixed50/50, foreignteachers/qualitynotverified; providerpreschoolnavigationnotunitproof. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24671487_01",
+    "school_id": "24671487",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Continuous special-pedagogical support, years7–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24671487_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Freshofficial24671487resourceflag/grades7–9/Riksdalervägen5matchesHägerstenunit. Unit-specificindividualisedpedagogywithweeklycoaching/adapteddaystructure, not providerordinaryschooltransfer. Staffingdensityself-reportednotclasssize. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24716970_01",
+    "school_id": "24716970",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Positive behaviour support (PBS)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24716970_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. HögalidF–9ordinaryunit. DirectPBSapproach plus Elevbarometer/safetycontext; claimedbenefitsnotverified. Central specialteachinggroupsnotgeneralised, websiteclasssizesnotimportedintoofficialstatistics. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b12_24754913_01",
+    "school_id": "24754913",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Tåget F–3 and MVP years4–6",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b12_24754913_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. KnutbyskolanStockholmF–6Knutbygränd4,notKnutbyskolaninUppsalacounty. Explicitage-scopedviolencepreventionmodels. OrdinarySwedishlanguagedevelopmentnotinternationalcategory; no causalverification. Public statement, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "42328518",
+  "school_name": "Franska Skolan/Ecole francaise",
+  "registered_url": "http://www.franskaskolan.se",
+  "attempted_at": "2026-10-21T09:21:33.423900+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.franskaskolan.se/",
+      "retrieved_at": "2026-10-21T09:21:40.670476+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.franskaskolan.se",
+          "robots_url": "https://www.franskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:36.085682+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.franskaskolan.se/",
+          "robots_url": "https://www.franskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:37.565547+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42328518_0.txt"
+    },
+    {
+      "source_url": "https://www.franskaskolan.se/grundskolan/",
+      "retrieved_at": "2026-10-21T09:21:40.711846+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.franskaskolan.se/grundskolan/",
+          "robots_url": "https://www.franskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:37.565547+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42328518_1.txt"
+    },
+    {
+      "source_url": "https://www.franskaskolan.se/grundskolan/ansokan-grundskolan/",
+      "retrieved_at": "2026-10-21T09:21:40.751456+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.franskaskolan.se/grundskolan/ansokan-grundskolan/",
+          "robots_url": "https://www.franskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:37.565547+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42328518_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "42328518",
+  "school_name": "Franska Skolan/Ecole francaise",
+  "registered_url": "http://www.franskaskolan.se",
+  "attempted_at": "2026-10-21T09:16:07.803294+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.franskaskolan.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "school_id": "32886383",
+  "school_name": "Mörtviksskolan",
+  "registered_url": "http://www.huddinge.se/mortviksskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.huddinge.se/mortviksskolan/om-skolan",
+      "source_url": "https://www.huddinge.se/mortviksskolan/om-skolan",
+      "page_title": "Om Mörtviksskolan | Huddinge kommun",
+      "accessed_at": "2026-10-21T17:31:56.004296+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "32886383_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/mortviksskolan/om-skolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:21.763536+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.huddinge.se/mortviksskolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:31:52.707952+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "66283082",
+  "school_name": "Hammarbyskolan Norra",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-norra",
+  "attempted_at": "2026-10-21T09:16:45.859434+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-norra",
+      "retrieved_at": "2026-10-21T09:16:46.870386+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-norra",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "66283082_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "other_named_pedagogy",
+      "supporting_excerpt": "I förskoleklass till årskurs 6 arbetar vi Reggio Emilia-inspirerat där barn och unga ses som kompetenta och viktiga samhällsmedborgare, väl värda att lyssna på.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5da0af1d40daef677097fb407a62deff7d37121798f87ea6e6a810982f3274c8",
+      "school_unit_code": "66283082",
+      "school_name": "Hammarbyskolan Norra",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-norra",
+      "retrieved_at": "2026-10-21T09:16:46.870386+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

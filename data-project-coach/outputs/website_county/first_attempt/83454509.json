@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "83454509",
+  "school_name": "Skarpängsskolan",
+  "registered_url": "http://www.taby.se/skarpangsskolan",
+  "attempted_at": "2026-10-21T09:17:14.566586+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.taby.se/skarpangsskolan",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

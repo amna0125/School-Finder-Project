@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "17957898",
+  "school_name": "Innovitaskolan Rudan",
+  "registered_url": "https://innovitaskolan.se/rudan/",
+  "attempted_at": "2026-10-21T09:15:28.438557+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://innovitaskolan.se/rudan/",
+      "retrieved_at": "2026-10-21T09:15:33.096784+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/rudan/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "17957898_0.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/rudan/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:15:33.118296+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/rudan/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "17957898_1.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/rudan/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:33.136120+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/rudan/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "17957898_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Genom lek, bild och musik kan barnens fantasi och uttrycksförmåga komma fram på olika sätt. De uppmuntras till att testa själva med pedagogernas stöttning, för genom att testa utvecklas vi.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d98655a966e065b67da2447b13727c36290a985e1cb6cb4e5da8be1db65aa4df",
+      "school_unit_code": "17957898",
+      "school_name": "Innovitaskolan Rudan",
+      "source_url": "https://innovitaskolan.se/rudan/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:15:33.118296+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

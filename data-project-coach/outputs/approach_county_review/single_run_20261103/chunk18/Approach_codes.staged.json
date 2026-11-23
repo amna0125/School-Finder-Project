@@ -1,0 +1,222 @@
+[
+  {
+    "code_id": "ac_sr_96622957_01",
+    "school_id": "96622957",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Cross-subject themes (min. two per year)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_96622957_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School pedagogy page.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_96653388_01",
+    "school_id": "96653388",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Schoolyard used in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_96653388_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Fuller utepedagogik statement concerns fritidshemmet.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_96984023_01",
+    "school_id": "96984023",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Motivationslyftet",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_96984023_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per named-programme precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_96984023_02",
+    "school_id": "96984023",
+    "category": "Other stated profile",
+    "subcategory": "Skola för hållbar utveckling (award)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_96984023_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent; award not independently checked.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_96984023_03",
+    "school_id": "96984023",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Park as outdoor classroom",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_96984023_03",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency not stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_97400863_01",
+    "school_id": "97400863",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_97400863_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_97718207_01",
+    "school_id": "97718207",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "PAX",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_97718207_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_97718207_02",
+    "school_id": "97718207",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_97718207_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_97718207_03",
+    "school_id": "97718207",
+    "category": "Other stated profile",
+    "subcategory": "Reading and writing emphasis",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_97718207_03",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per reading-emphasis precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_97777849_01",
+    "school_id": "97777849",
+    "category": "Other stated profile",
+    "subcategory": "Reading pedagogues F–3",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_97777849_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per reading-emphasis precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_97966458_01",
+    "school_id": "97966458",
+    "category": "Other stated profile",
+    "subcategory": "Reading emphasis",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_97966458_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_97966458_02",
+    "school_id": "97966458",
+    "category": "Other stated profile",
+    "subcategory": "Language development across staff",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_97966458_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_98070480_01",
+    "school_id": "98070480",
+    "category": "Other stated profile",
+    "subcategory": "Cooperative learning",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_98070480_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No practice detail.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_98070480_02",
+    "school_id": "98070480",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Tydliggörande pedagogik",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_98070480_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No practice detail.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_98239828_01",
+    "school_id": "98239828",
+    "category": "Other stated profile",
+    "subcategory": "Christian profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_98239828_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_98477278_01",
+    "school_id": "98477278",
+    "category": "Other stated profile",
+    "subcategory": "Language-developing in all subjects",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_98477278_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_98515782_01",
+    "school_id": "98515782",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school (NPF/dyslexia)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_98515782_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_98531789_01",
+    "school_id": "98531789",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Seasonal thematic pedagogy",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_98531789_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_98531789_02",
+    "school_id": "98531789",
+    "category": "Arts and creative learning",
+    "subcategory": "Arts integrated in teaching",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_98531789_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_98531789_03",
+    "school_id": "98531789",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Learning often outdoors",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_98531789_03",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. 'Ofta' frequency hedge.",
+    "review_status": "Reviewed"
+  }
+]

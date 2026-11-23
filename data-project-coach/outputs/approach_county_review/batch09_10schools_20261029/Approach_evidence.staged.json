@@ -1,0 +1,122 @@
+[
+  {
+    "evidence_id": "ae_b09_20563782_01",
+    "school_id": "20563782",
+    "source_url": "https://nynashamn.se/service/forskola--skola/grundskola/grundskolor-i-nynashamns-kommun/kyrkskolan-f-6",
+    "page_title": "Kyrkskolan F-6 - Nynäshamns kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi använder differentierad undervisning, det vill säga olika vägar gällande tempo, nivå, omfång, metod och intresse.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "F–6 Sorunda, fresh official ID/name/address/grades reconciles broken F–3 URL. Context also states organised recess and movement breaks as explicit focus; supported inclusion/wellbeing interpretation, not ordinary statutory provision alone. Future Sunnerby school 2027 not assumed current unit."
+  },
+  {
+    "evidence_id": "ae_b09_20563782_02",
+    "school_id": "20563782",
+    "source_url": "https://nynashamn.se/service/forskola--skola/grundskola/grundskolor-i-nynashamns-kommun/kyrkskolan-f-6",
+    "page_title": "Kyrkskolan F-6 - Nynäshamns kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Med styrda rastaktiviteter och rörelsepauser som främjar rörelse vill vi att eleverna ska känna sig trygga, orka mer och kunna fokusera bättre.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Additional context supporting differentiated/movement code; intended effects not verified. Grön Flagg certification alone not outdoor evidence; years5–6 temporary accommodation and return autumn2026 retained in review notes."
+  },
+  {
+    "evidence_id": "ae_b09_20683111_01",
+    "school_id": "20683111",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/backahagens-skola",
+    "page_title": "Bäckahagens skola, F–9 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "På Bäckahagens skola arbetar vi med sambandet mellan rörelse och lärande. Genom fysisk aktivitet vill vi lägga grunden för en hälsosam livsstil.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: F–9 ordinary unit; stated emphasis but specific recurring methods/frequency unclear. Adapted7–9 unit excluded; no firm wellbeing/outdoor code."
+  },
+  {
+    "evidence_id": "ae_b09_21346638_01",
+    "school_id": "21346638",
+    "source_url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/",
+    "page_title": "Om Järla skola | Nacka kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Hösten 2026 blir Nacka Musikklasser en egen skola. Undervisningen sker som tidigare i Järla skolas och Eklidens skolas lokaler.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: current official21346638 matches Järla F–6, but same page mixes historical music-class affiliation and autumn2026 separation. No music code assigned to Järla; shared physical premises do not establish same unit."
+  },
+  {
+    "evidence_id": "ae_b09_21346638_02",
+    "school_id": "21346638",
+    "source_url": "https://www.friluftsframjandet.se/skola-och-samhalle/friluftsliv-i-skolan/friluftsliv-pa-schemat-ak-4-9/inspiration-och-goda-exempel/friluftsliv-var-tredje-vecka-pa-jarla-skola/",
+    "page_title": "Friluftsliv var tredje vecka på Järla skola - Friluftsfrämjandet",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Var tredje vecka har eleverna 2,5 timmes friluftsliv.",
+    "evidence_type": "Attributed public organisation article",
+    "interpretation_note": "Requires review: attributed Friluftsfrämjandet interview of school teachers identifies Järla Nacka and from year4, concrete recurrent outdoor programme. Publication date not established and current school pages do not confirm continued delivery; retain evidence without firm current code. No personal names quoted, no effects accepted as verified."
+  },
+  {
+    "evidence_id": "ae_b09_21724208_01",
+    "school_id": "21724208",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/satraskolan",
+    "page_title": "Sätraskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi arbetar med projektet OLIKA – en skola fri från kränkningar.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Sätraskolan ordinary F–9, not separately linked adapted unit. Named anti-harassment project with two safety groups and Mentor Sverige collaboration described on page; unit-specific model beyond generic safety promise."
+  },
+  {
+    "evidence_id": "ae_b09_21724208_02",
+    "school_id": "21724208",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/satraskolan",
+    "page_title": "Sätraskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi har också sedan flera år ett samarbete med KTH i projektet Mathivation, där eleverna på högstadiet får utbildning i att föreläsa och lära ut matematik till andra elever i Stockholm och Sverige.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Specific sustained maths peer-teaching collaboration, higher years7–9 only, participant coverage unspecified. Other stated profile; not project/inquiry category merely because called project, nor whole-school maths spets."
+  },
+  {
+    "evidence_id": "ae_b09_21871265_01",
+    "school_id": "21871265",
+    "source_url": "https://www.sollentuna.se/uweb/sollentuna-musikklasser/om-oss/",
+    "page_title": "Om oss",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Hos oss på Sollentuna Musikklasser läser eleverna en utökad kursplan med mer musikundervisning än på en vanlig skolan och de har körsång flera gånger i veckan.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Official ordinary4–9 music-profile school; shares premises with Häggviksskolan but distinct ID. Admissions page says mandatory group/individual entry tests; selective enrolment retained. Not causal claim or ordinary music-subject list."
+  },
+  {
+    "evidence_id": "ae_b09_21997077_01",
+    "school_id": "21997077",
+    "source_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+    "page_title": "Viljaskolan Sollentuna - Viljaskolan",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "På skolan arbetar vi aktivt med den pedagogiska modellen Elmemodellen. En undervisningsmodell som bygger på tre delar: fysisk-, pedagogisk- och social lärmiljö.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Sollentuna F–9 Kärleksbacken3 exact fresh official match. Unit describes structure/predictability/undisturbed work and Trivselledare daily; provider model explains individual spaces/headphones as context. Unit also states UDL-inspired introduction autumn2026, not mature/certified implementation. Angered school dog excluded."
+  },
+  {
+    "evidence_id": "ae_b09_21997077_02",
+    "school_id": "21997077",
+    "source_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+    "page_title": "Viljaskolan Sollentuna - Viljaskolan",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Nytt för hösten 2026 är att vi i den pedagogiska lärmiljön inför en UDL-inspirerad pedagogik (Universal Design for Learning).",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Additional same-category evidence for inclusive planning model. Preserve introduction autumn2026 and inspired qualifier, not independent verification or Alternative pedagogy code from an inclusion framework."
+  },
+  {
+    "evidence_id": "ae_b09_22030561_01",
+    "school_id": "22030561",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostbergaskolan",
+    "page_title": "Östbergaskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Under lektionerna gör vi korta rörelsepass för att ge eleverna ökad koncentration och fokus på skolarbetet.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Östberga F–6 ordinary school, stored grades1–6. Supported wellbeing emphasis combines lesson movement, extraPE/swimming focus and explicit organised physical activity recess/fritids. Effects intended not verified; staffing counts/teacher qualifications self-reported and not official metrics."
+  },
+  {
+    "evidence_id": "ae_b09_22030561_02",
+    "school_id": "22030561",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostbergaskolan",
+    "page_title": "Östbergaskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi satsar mycket på rörelse och fysisk aktivitet genom styrd verksamhet under raster och fritidsverksamhet.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Additional concrete support for same wellbeing code. LEGO is school values acronym not robotics pedagogy; ordinary Swedish/maths focus not language profile."
+  }
+]

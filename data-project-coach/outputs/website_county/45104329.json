@@ -1,0 +1,93 @@
+{
+  "school_unit_code": "45104329",
+  "school_name": "Torsviks skola",
+  "registered_url": "https://lidingo.se/torsviksskola",
+  "attempted_at": "2026-10-21T09:16:14.310380+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/",
+      "retrieved_at": "2026-10-21T09:16:18.208662+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/torsviksskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.076315+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.076315+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "45104329_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/var-pedagogik-torsviks-skola/",
+      "retrieved_at": "2026-10-21T09:16:18.255556+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/var-pedagogik-torsviks-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.076315+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "45104329_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/fritidshem-och-fritidsklubb-torsviks-skola/",
+      "retrieved_at": "2026-10-21T09:16:18.297816+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/fritidshem-och-fritidsklubb-torsviks-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.076315+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "45104329_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Under oktober och november har vi FN-samling i Ansgarskyrkan, Chocktober, och våra musikintresserade elever håller lunchkonsert och är med i Talang Torsvik. Vi arbetar även med barnboksveckan och nationella läsdagen eftersom det är både roligt och viktigt att läsa.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "4870be45e8368063b031e73dafc8f82d5454585754000a441846f966655913f2",
+      "school_unit_code": "45104329",
+      "school_name": "Torsviks skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/var-pedagogik-torsviks-skola/",
+      "retrieved_at": "2026-10-21T09:16:18.255556+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "ten regleras i LGR11, läroplan för grundskolan samt för förskoleklassen och fritidshemmet. Centralt innehåll för undervisningen på fritids är språk och kommunikation, skapande och estetiska uttrycksformer, natur och samhälle samt lekar, fysisk aktivitet och utevistelse.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5830efeafaafad2f536b7d54178b6310b1922be4613c63982d5717ac0ddfa5c1",
+      "school_unit_code": "45104329",
+      "school_name": "Torsviks skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/fritidshem-och-fritidsklubb-torsviks-skola/",
+      "retrieved_at": "2026-10-21T09:16:18.297816+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

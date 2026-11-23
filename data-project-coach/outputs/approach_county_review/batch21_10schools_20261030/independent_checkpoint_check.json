@@ -1,0 +1,10 @@
+{
+  "status": "PASSED",
+  "unchanged_prior_rows": 752,
+  "changed_selected_rows": 10,
+  "documented_outcomes": 223,
+  "pending": 539,
+  "unique_official_ids": 762,
+  "next_selection_exact": true,
+  "ledger_diff_checked": true
+}

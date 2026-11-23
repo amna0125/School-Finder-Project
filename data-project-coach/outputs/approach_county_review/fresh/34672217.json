@@ -1,0 +1,32 @@
+{
+  "school_id": "34672217",
+  "school_name": "Stavsborgsskolan",
+  "registered_url": "https://www.nacka.se/altaresursskola",
+  "pages": [
+    {
+      "requested_url": "https://www.nacka.se/altaresursskola",
+      "source_url": "https://www.nacka.se/altaresursskola",
+      "page_title": "Älta resursskola | Nacka kommun",
+      "accessed_at": "2026-10-21T17:32:16.585937+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "34672217_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/altaresursskola",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

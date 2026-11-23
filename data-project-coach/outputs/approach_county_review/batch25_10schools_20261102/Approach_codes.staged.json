@@ -1,0 +1,79 @@
+[
+  {
+    "code_id": "ac_b25_40610606_01",
+    "school_id": "40610606",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "French-medium / multilingual intercultural pathway",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b25_40610606_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Official1–9 unit; website spans preschool through upper secondary. French language of instruction statement applies institution-wide and language pathway explicitly starts CP; restrict interpretation to compulsory-school years, exclude preschool/lycee-specific activities. French educational cycle equivalence to Swedish years not independently mapped; curriculum comparability caveat retained. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b25_40618486_01",
+    "school_id": "40618486",
+    "category": "Other stated profile",
+    "subcategory": "Reading emphasis",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b25_40618486_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–6 overlaps official1–6. Explicit reading focus and extra mathematics years4–5 outside ordinary timetable. Extra maths does not mean all pupils participate; no inferred quality. Municipal safety section is not unique school profile. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b25_40618486_02",
+    "school_id": "40618486",
+    "category": "Other stated profile",
+    "subcategory": "Extra mathematics, years4–5",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b25_40618486_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–6 overlaps official1–6. Explicit reading focus and extra mathematics years4–5 outside ordinary timetable. Extra maths does not mean all pupils participate; no inferred quality. Municipal safety section is not unique school profile. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b25_40631085_01",
+    "school_id": "40631085",
+    "category": "Other stated profile",
+    "subcategory": "Language and mathematical strategies emphasis",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b25_40631085_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website4–9 agrees with official. Explicit language/mathematical strategies emphasis plus recurring maths holiday schools. External art/craft collaborations insufficiently specific for arts approach; special teaching group, newcomer classes and separate adapted school are not all-pupil descriptions. No website teacher-qualification or pupil quote curated as evidence. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b25_40904373_01",
+    "school_id": "40904373",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Lekande barn inclusion project",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b25_40904373_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–6 overlaps official1–6. Named Lekande barn project intended to promote activity, cohesion and inclusion. This is school self-description, not verified effects; project dates and detailed implementation unspecified. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b25_41176931_01",
+    "school_id": "41176931",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "IBIS school-wide positive behaviour support",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b25_41176931_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–9 overlaps official1–9. IBIS is described as school-wide; PAX explicitly F–3 (compulsory overlap1–3). Separate adapted-school and Olaus Petri units excluded. Programmes describe stated practice, not independently verified effectiveness. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b25_41176931_02",
+    "school_id": "41176931",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "PAX, F–3 only",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b25_41176931_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–9 overlaps official1–9. IBIS is described as school-wide; PAX explicitly F–3 (compulsory overlap1–3). Separate adapted-school and Olaus Petri units excluded. Programmes describe stated practice, not independently verified effectiveness. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

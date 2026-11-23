@@ -1,0 +1,72 @@
+{
+  "school_id": "27344011",
+  "school_name": "Neglinge skola",
+  "registered_url": "http://www.neglinge.nacka.se",
+  "pages": [
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/neglinge-skola/",
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/",
+      "page_title": "Neglinge skola | Nacka kommun",
+      "accessed_at": "2026-10-21T17:31:26.241736+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27344011_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/neglinge-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogiska-modellen/",
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogiska-modellen/",
+      "page_title": "Pedagogiska modellen | Nacka kommun",
+      "accessed_at": "2026-10-21T17:31:27.127172+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27344011_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogiska-modellen/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogisk-profil/",
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogisk-profil/",
+      "page_title": "Pedagogisk profil | Nacka kommun",
+      "accessed_at": "2026-10-21T17:31:27.943907+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27344011_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogisk-profil/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

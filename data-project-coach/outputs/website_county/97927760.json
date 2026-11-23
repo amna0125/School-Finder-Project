@@ -1,0 +1,58 @@
+{
+  "school_unit_code": "97927760",
+  "school_name": "Noblaskolan Rönninge",
+  "registered_url": "https://noblaskolan.se/ronninge/",
+  "attempted_at": "2026-10-21T09:17:37.145772+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://noblaskolan.se/ronninge/",
+      "retrieved_at": "2026-10-21T09:17:38.711942+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/ronninge/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "97927760_0.txt"
+    },
+    {
+      "source_url": "https://noblaskolan.se/ronninge/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:38.727363+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/ronninge/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "97927760_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vi använder iPads, datorer, drama och skapande som exempel på några av de pedagogiska verktyg vi tillämpar i undervisningen. Variationen av arbetssätt bidrar till ett lustfyllt lärande, men också till möjligheten att knyta an det nya med det eleverna redan känner till, så kallat erfarenhetsbaserat lärande.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "f3fdd1c8b54478b86cd422235a11dd602d3b30bc86555ada38ece538b97a59cb",
+      "school_unit_code": "97927760",
+      "school_name": "Noblaskolan Rönninge",
+      "source_url": "https://noblaskolan.se/ronninge/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:38.727363+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

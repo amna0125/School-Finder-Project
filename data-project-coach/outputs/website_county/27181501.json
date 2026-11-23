@@ -1,0 +1,113 @@
+{
+  "school_unit_code": "27181501",
+  "school_name": "Viktor Rydbergs skola Nacka",
+  "registered_url": "http://www.vrskolor.se",
+  "attempted_at": "2026-10-21T09:15:44.504303+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vrskolor.se/",
+      "retrieved_at": "2026-10-21T09:15:49.371325+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vrskolor.se",
+          "robots_url": "http://www.vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:21.584403+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vrskolor.se/",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:23.257528+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27181501_0.txt"
+    },
+    {
+      "source_url": "https://vrskolor.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:15:49.464506+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vrskolor.se/om-oss",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:23.257528+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vrskolor.se/om-oss/",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:23.257528+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27181501_1.txt"
+    },
+    {
+      "source_url": "https://vrskolor.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:15:49.517238+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vrskolor.se/om-oss/",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:23.257528+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27181501_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "“Jag gillar min bildlärare som vi också har teater med. Det är kul att vara kreativ och få spela pjäser. Mina snälla lärare gör det roligt att gå till skolan varje dag.”",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "9c43b92d7f12358b539648dabc91011b741386b73e39b7d0da6768c979684e93",
+      "school_unit_code": "27181501",
+      "school_name": "Viktor Rydbergs skola Nacka",
+      "source_url": "https://vrskolor.se/",
+      "retrieved_at": "2026-10-21T09:15:49.371325+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "I den första skolan, som startades i Djursholm 1994, kombinerade de höga akademiska ambitioner med konstnärligt skapande i en kreativ atmosfär. De ville få eleverna att utvecklas och trivas i skolan, inte minst de elever som helst satte sig längst bak för att inte märkas.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "741ee0ebdc65695f18876818ef77257c05ba146b6cfcd51e177ed0463c8989dd",
+      "school_unit_code": "27181501",
+      "school_name": "Viktor Rydbergs skola Nacka",
+      "source_url": "https://vrskolor.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:15:49.464506+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "I den första skolan, som startades i Djursholm 1994, kombinerade de höga akademiska ambitioner med konstnärligt skapande i en kreativ atmosfär. De ville få eleverna att utvecklas och trivas i skolan, inte minst de elever som helst satte sig längst bak för att inte märkas.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "741ee0ebdc65695f18876818ef77257c05ba146b6cfcd51e177ed0463c8989dd",
+      "school_unit_code": "27181501",
+      "school_name": "Viktor Rydbergs skola Nacka",
+      "source_url": "https://vrskolor.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:15:49.517238+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

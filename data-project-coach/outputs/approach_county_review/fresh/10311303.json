@@ -1,0 +1,72 @@
+{
+  "school_id": "10311303",
+  "school_name": "Lilla Kulturama",
+  "registered_url": "http://www.kulturama.se",
+  "pages": [
+    {
+      "requested_url": "https://www.kulturama.se/",
+      "source_url": "https://www.kulturama.se/",
+      "page_title": "Kulturama - Estetiska utbildningar och kurser | Kulturama",
+      "accessed_at": "2026-10-21T17:26:21.248072+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10311303_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kulturama.se/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.208574+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kulturama.se/grundskola/",
+      "source_url": "https://www.kulturama.se/grundskola/",
+      "page_title": "Estetiska grundskolor i Stockholm | Kulturama | Kulturama",
+      "accessed_at": "2026-10-21T17:26:22.862475+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10311303_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kulturama.se/grundskola/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.208574+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kulturama.se/grundskola/ansokan/",
+      "source_url": "https://www.kulturama.se/grundskola/ansokan/",
+      "page_title": "Här söker du till våra grundskolor | Kulturama",
+      "accessed_at": "2026-10-21T17:26:24.254446+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10311303_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kulturama.se/grundskola/ansokan/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.208574+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

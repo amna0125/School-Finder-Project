@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "49631077",
+  "school_name": "Högsätra skola",
+  "registered_url": "https://www.lidingo.se/hogsatraskola",
+  "attempted_at": "2026-10-21T09:21:56.920753+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/",
+      "retrieved_at": "2026-10-21T09:22:00.848865+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lidingo.se/hogsatraskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.556963+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/hogsatraskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "49631077_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/fritidshem-och-fritidsklubb-hogsatra-skola/",
+      "retrieved_at": "2026-10-21T09:22:00.906224+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/fritidshem-och-fritidsklubb-hogsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "49631077_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/elevhalsa-hogsatra-skola/",
+      "retrieved_at": "2026-10-21T09:22:00.954703+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/elevhalsa-hogsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "49631077_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Personalen som jobbar hos oss på Högsätra skola har hög kompetens och lång erfarenhet. Våra lokaler är ljusa och välutrustade med specialsalar för till exempel bild, musik, NO och slöjd. Skolan har också hemklassrum för alla klasser. Runt skolan finns stora grönområden utan biltrafik, som vi utnyttjar för exempelvis naturstudier, vandringar och andra aktiviteter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "22571d619ebf8835378ce170e6ee5fe04014a633ab04f8e7f6a2e5eec21bc39a",
+      "school_unit_code": "49631077",
+      "school_name": "Högsätra skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/",
+      "retrieved_at": "2026-10-21T09:22:00.848865+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,76 @@
+{
+  "school_unit_code": "60131588",
+  "school_name": "Sticklinge skola",
+  "registered_url": "https://www.lidingo.se/sticklingeskola",
+  "attempted_at": "2026-10-21T09:22:24.079981+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/",
+      "retrieved_at": "2026-10-21T09:22:28.328540+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lidingo.se/sticklingeskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.556963+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/sticklingeskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "60131588_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/var-pedagogik-sticklinge-skola/",
+      "retrieved_at": "2026-10-21T09:22:28.413944+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/var-pedagogik-sticklinge-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "60131588_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/fritidshem-och-fritidsklubb-sticklinge-skola/",
+      "retrieved_at": "2026-10-21T09:22:28.470518+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/fritidshem-och-fritidsklubb-sticklinge-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "60131588_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

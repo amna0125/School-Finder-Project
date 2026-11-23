@@ -1,0 +1,237 @@
+[
+  {
+    "file": "aktivia.html",
+    "bytes": 201594,
+    "sha256": "a396502f7731248983fef52e4580b238fed46abd2284d607b5fe639592dd376e"
+  },
+  {
+    "file": "aktivia_about.html",
+    "bytes": 164816,
+    "sha256": "563213f3843c5b6fcb3a478cd7791bfb3d69adba7996ceee23864a6cb07677f1"
+  },
+  {
+    "file": "aktivia_contact.html",
+    "bytes": 175488,
+    "sha256": "d6eeef292a73f03a6b34a273ec256c12f45ed7e60c17dd0ef927e7351c107268"
+  },
+  {
+    "file": "aktivia_method.html",
+    "bytes": 172352,
+    "sha256": "8bca44c63ef2a2c1836869038ca0336405730c667396ccfaa2f68843867a2114"
+  },
+  {
+    "file": "aktivia_official.json",
+    "bytes": 1469,
+    "sha256": "76134ff7d54f5f5c1e43cb194128593f904c95c72ef97296a85b9e1ab59a979f"
+  },
+  {
+    "file": "bergsund.html",
+    "bytes": 514839,
+    "sha256": "99059182f44f1e8a36421ed4de0c3a025d189e0fd4839ae756571183c2ac0b90"
+  },
+  {
+    "file": "bergsund_about.html",
+    "bytes": 518608,
+    "sha256": "2bcce53bb62023c38ad4d592b1771aa3aead659fd1aeb2118ddab0bd6b41bff8"
+  },
+  {
+    "file": "bergsund_fplan.html",
+    "bytes": 523919,
+    "sha256": "e0e046f59b492d2ce88770b47b4b51aa090ff5ff7755ecfc4e267d593f5c8963"
+  },
+  {
+    "file": "bergsund_official.json",
+    "bytes": 1496,
+    "sha256": "c5a8b3b50e7121d84809db1a56b30bcb595e32470e7f0011cd5fc142ca78c288"
+  },
+  {
+    "file": "bergsund_teaching.html",
+    "bytes": 564378,
+    "sha256": "904782c35dc0cb2e26613eac47030640cce90e0b066d6ce1d3f78be64d0911a7"
+  },
+  {
+    "file": "bergsund_trivsel.html",
+    "bytes": 533617,
+    "sha256": "d67c2ea1e3fa6bf228da89ba89369638b021507ecc7806410b9c8a5003e3ef09"
+  },
+  {
+    "file": "birka.html",
+    "bytes": 244139,
+    "sha256": "4fbabba2bf7f81ce6868e9be2df9e6b3aec83cef1ae1f65efd379fa656d5214d"
+  },
+  {
+    "file": "birka_international.html",
+    "bytes": 150135,
+    "sha256": "fee140500459dc223cd2de965a52d3dfaff5130698ddc18c29e0300c7f00cee1"
+  },
+  {
+    "file": "birka_method.html",
+    "bytes": 157961,
+    "sha256": "5c2ae3f664871e515ee366cda19abf091e8418674b7c483cb35d9c23127177fe"
+  },
+  {
+    "file": "birka_official.json",
+    "bytes": 1504,
+    "sha256": "108b85cbf60ee38297e53d77502daeb937f2d15f343e1a5066db4822a01963ab"
+  },
+  {
+    "file": "birka_school.html",
+    "bytes": 163447,
+    "sha256": "23fb6ba44bc4115bd30958341075cd8d95bbd7bee55cfbf145ad78627d82d897"
+  },
+  {
+    "file": "drottningholm.html",
+    "bytes": 70875,
+    "sha256": "4c12f8d7a1bed4fc0855116e82917eb5aaa485ecac6c321ba8d1730854efedbf"
+  },
+  {
+    "file": "drottningholm_about.html",
+    "bytes": 76734,
+    "sha256": "f2e908e784b4f070f3d6fcc334c4f1ff2163f602f963283a30f6ed00f78f3ce1"
+  },
+  {
+    "file": "karrdal.html",
+    "bytes": 29040,
+    "sha256": "df163955e308e574d67a4934a88c2910f21adef3a176ca8aa5d269bb036ea692"
+  },
+  {
+    "file": "karrdal_health.html",
+    "bytes": 30628,
+    "sha256": "06a316927c7772655e12a994f8de6d5126d4a1f81cb21461474b5f74b6ab11bd"
+  },
+  {
+    "file": "karrdal_methods.html",
+    "bytes": 32577,
+    "sha256": "05c1ffaa091495d85d28b5cb2bc76207785fee367ad96ebc1b722eca373eb07d"
+  },
+  {
+    "file": "karrdal_olweus.html",
+    "bytes": 31115,
+    "sha256": "d4847fc950833dc952fb12dba81371158b6872392503b8d0fb78bc0319015584"
+  },
+  {
+    "file": "ljungbacken.html",
+    "bytes": 231082,
+    "sha256": "b8c101de556d076cae63a4ddde50c8b4c8ca354e5488d80e9a8388e961d10fb2"
+  },
+  {
+    "file": "ljungbacken_method.html",
+    "bytes": 228835,
+    "sha256": "5b63dc42d7157db0c459bd6186b72e90d5587cf270e5331fd31615ec290b7f8c"
+  },
+  {
+    "file": "lunda.html",
+    "bytes": 610174,
+    "sha256": "45e5f0a4c903b52b74d7f3d0a3d0d66c8a0eb9fc3ef99eb644d6b5ef2ead704f"
+  },
+  {
+    "file": "lunda_home.html",
+    "bytes": 652836,
+    "sha256": "d0f884c012cf7a55298077659549b6a913858aa75a8b388a302aec237d0e5d8e"
+  },
+  {
+    "file": "lunda_plan.html",
+    "bytes": 607098,
+    "sha256": "ab5dae3abcd55b38e84faa20da8647987698f1b20149b5f53a3ce409eb442512"
+  },
+  {
+    "file": "lunda_trivsel.html",
+    "bytes": 589566,
+    "sha256": "0894cb2d445604bf1285d2deb4cc2d9e1f0965c1cf7347219fb33f26d65c80bc"
+  },
+  {
+    "file": "majtorp.html",
+    "bytes": 144243,
+    "sha256": "08a52739966472f0dc10bc75aa01265cecd71521a263f848589fe15d51a8e181"
+  },
+  {
+    "file": "majtorp_official.json",
+    "bytes": 1501,
+    "sha256": "94247386f7c151fad9964a0030d686e71a6b230792d50e51fcd588f64d867b4f"
+  },
+  {
+    "file": "robots_aktivia.txt",
+    "bytes": 178,
+    "sha256": "46767245fa6b3fc197a1f8b1e399c9e10b2eba1fb497d9147669e47786c860f0"
+  },
+  {
+    "file": "robots_bergsund.txt",
+    "bytes": 595955,
+    "sha256": "a0c70bb9151823d208b664b7f8ca8828029277ed746b331a4c858b5397cc6973"
+  },
+  {
+    "file": "robots_bergsund_com.txt",
+    "bytes": 497,
+    "sha256": "ccf24eb2da095eb87782f962737dccefb4b6262dc1dc9f5eb952ea2f7a3afdfe"
+  },
+  {
+    "file": "robots_birka.txt",
+    "bytes": 1509,
+    "sha256": "7bdd1f6d386d8e30f4732de027bfd023ce9ca6a1f794070821f97a3cf78688f6"
+  },
+  {
+    "file": "robots_drottningholm.txt",
+    "bytes": 130,
+    "sha256": "bee29f613f259a1b656516b09fb7705fc05dbdcb2883fdce86c2a96d1c2b8e5c"
+  },
+  {
+    "file": "robots_huddinge.txt",
+    "bytes": 498,
+    "sha256": "750f760e4ee8836a23a7a276b699e579cabdbbb9acbdd73d0ec029a2175aa069"
+  },
+  {
+    "file": "robots_lidingo.txt",
+    "bytes": 114,
+    "sha256": "fb96c4c53ca018b321d3e537897b9564102b4b7aed5fa20bc27f4a8d4e418a2b"
+  },
+  {
+    "file": "robots_lunda.txt",
+    "bytes": 652836,
+    "sha256": "d0f884c012cf7a55298077659549b6a913858aa75a8b388a302aec237d0e5d8e"
+  },
+  {
+    "file": "robots_lunda_com.txt",
+    "bytes": 493,
+    "sha256": "08f60648a20027b020baeaca8a2f4fa3115f1231e3d3a405f0476f45dc1b0285"
+  },
+  {
+    "file": "robots_sodertalje.txt",
+    "bytes": 100,
+    "sha256": "2ae70aeef40d856f7e60c10c2195f903ff788173bd8a62a12c11c85b5fb9c492"
+  },
+  {
+    "file": "robots_sollentuna.txt",
+    "bytes": 59,
+    "sha256": "90073a61ecb6f417b0e153809713f1d1e23de4d41f64752906a7dbee8ae07103"
+  },
+  {
+    "file": "robots_vintertull.txt",
+    "bytes": 191,
+    "sha256": "73454aff83863f9a00b7b54f4b1150ac1ae0858b590c696dc73f5d32fd19c02d"
+  },
+  {
+    "file": "tomtberga.html",
+    "bytes": 74959,
+    "sha256": "de8a3131340ee34b58a0c102733fd2cb6660dcbe832343d8cbb47e103c64f903"
+  },
+  {
+    "file": "tomtberga_about.html",
+    "bytes": 84104,
+    "sha256": "3e16a412f87caa5f027fd06e87ed88cb52661913b319814bdd547ad17d03391c"
+  },
+  {
+    "file": "vintertull.html",
+    "bytes": 94637,
+    "sha256": "09931b2b1615662c192f769fdda8346dc09a17124528fdf8467a22bc77cd5462"
+  },
+  {
+    "file": "vintertull_method.html",
+    "bytes": 61803,
+    "sha256": "c11eb5cb5bb3c894e4a16b16b56880f966414b30d13302750e68dd982ef9b076"
+  },
+  {
+    "file": "vintertull_official.json",
+    "bytes": 1544,
+    "sha256": "6935b5335d5c4aa845294b973d60acfcb14b2a0a199b1633982feff473f81878"
+  }
+]

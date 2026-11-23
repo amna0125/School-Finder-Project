@@ -1,0 +1,32 @@
+{
+  "school_id": "15049834",
+  "school_name": "Lilla Alby skola",
+  "registered_url": "http://www.sundbyberg.se/lillaalbyskola",
+  "pages": [
+    {
+      "requested_url": "https://www.sundbyberg.se/lillaalbyskola",
+      "source_url": "https://www.sundbyberg.se/lillaalbyskola",
+      "page_title": "Lilla Alby skola | Sundbybergs stad",
+      "accessed_at": "2026-10-21T17:28:00.414722+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "15049834_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sundbyberg.se/lillaalbyskola",
+          "robots_url": "https://www.sundbyberg.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:58.893267+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

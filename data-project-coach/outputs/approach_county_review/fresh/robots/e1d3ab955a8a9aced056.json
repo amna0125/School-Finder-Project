@@ -1,0 +1,1 @@
+{"robots_url": "https://europaskolan.nu/robots.txt", "http_status": 200, "checked_at": "2026-10-21T17:41:29.243039+00:00", "state": "parsed", "crawl_delay": 0, "body": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://europaskolan.nu/sitemap_index.xml\n"}

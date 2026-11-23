@@ -1,0 +1,189 @@
+[
+  {
+    "code_id": "ac_sr_65927702_01",
+    "school_id": "65927702",
+    "category": "Other stated profile",
+    "subcategory": "Daily silent reading",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_65927702_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Routine, not a full profile.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_66283082_01",
+    "school_id": "66283082",
+    "category": "Alternative pedagogy",
+    "subcategory": "Reggio Emilia-inspired",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_66283082_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. 'Inspired' rather than full model.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_66383692_01",
+    "school_id": "66383692",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Smaller groups; on-site resource school",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_66383692_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Resource school may be a separate unit.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_66455663_01",
+    "school_id": "66455663",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Bilingual; Cambridge English 1–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_66455663_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_66620411_01",
+    "school_id": "66620411",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "International school; English-medium",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_66620411_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_66620411_02",
+    "school_id": "66620411",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "International Primary Curriculum (IPC)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_66620411_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Primary years only.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_66634449_01",
+    "school_id": "66634449",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Real-world projects and themes",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_66634449_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Consistent with Vittra Vallentuna.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_66851849_01",
+    "school_id": "66851849",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Solution-focused pedagogy",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_66851849_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. List of what it means not captured.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_67662754_01",
+    "school_id": "67662754",
+    "category": "Other stated profile",
+    "subcategory": "Technology profile; makerspace",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_67662754_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_67662754_02",
+    "school_id": "67662754",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Real-world projects and themes",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_67662754_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Consistent with Vittra Vallentuna.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_67731691_01",
+    "school_id": "67731691",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_67731691_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_67731691_02",
+    "school_id": "67731691",
+    "category": "Other stated profile",
+    "subcategory": "Daily reading focus",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_67731691_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_67743631_01",
+    "school_id": "67743631",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Bilingual English/Swedish",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_67743631_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_67809355_01",
+    "school_id": "67809355",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Thematic work years 1–3",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_67809355_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency hedge; lower years only.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_67926479_01",
+    "school_id": "67926479",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Body-mind balance; motor development",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_67926479_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Shared preschool/school vision.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_68403656_01",
+    "school_id": "68403656",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Bilingual Swedish–Finnish",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_68403656_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_68602166_01",
+    "school_id": "68602166",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Preventive inclusive learning environments",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_68602166_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Training, not a named programme.",
+    "review_status": "Reviewed"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "school_id": "77656740",
+  "school_name": "Rosholmen Education Academy AB",
+  "registered_url": "http://www.rosholmen.se",
+  "pages": [
+    {
+      "requested_url": "http://www.rosholmen.se",
+      "source_url": "http://www.rosholmen.se",
+      "page_title": "Läsåret 26/27 - Rosholmen Education Academy",
+      "accessed_at": "2026-10-21T17:40:56.821973+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "77656740_0.txt",
+      "robots_checks": [
+        {
+          "url": "http://www.rosholmen.se",
+          "robots_url": "http://www.rosholmen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:55.706822+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "http://www.rosholmen.se/om-oss/",
+      "source_url": "http://www.rosholmen.se/om-oss/",
+      "page_title": "Om oss - Rosholmen Education Academy",
+      "accessed_at": "2026-10-21T17:40:58.026318+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "77656740_1.txt",
+      "robots_checks": [
+        {
+          "url": "http://www.rosholmen.se/om-oss/",
+          "robots_url": "http://www.rosholmen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:55.706822+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

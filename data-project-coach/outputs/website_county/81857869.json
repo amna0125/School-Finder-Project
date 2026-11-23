@@ -1,0 +1,113 @@
+{
+  "school_unit_code": "81857869",
+  "school_name": "Skärsätra skola",
+  "registered_url": "https://www.lidingo.se/skarsatraskola",
+  "attempted_at": "2026-10-21T09:23:21.446432+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/",
+      "retrieved_at": "2026-10-21T09:23:25.550522+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lidingo.se/skarsatraskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.556963+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/skarsatraskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81857869_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/fritidshem-och-fritidsklubb-skarsatra-skola/",
+      "retrieved_at": "2026-10-21T09:23:25.599345+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/fritidshem-och-fritidsklubb-skarsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81857869_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/elevhalsa-skarsatra-skola/",
+      "retrieved_at": "2026-10-21T09:23:25.666269+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/elevhalsa-skarsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81857869_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vi börjar tidigt uppmuntra kreativitet och skapande för att ge tillgång till nya sätt att uttrycka sig. Körsång, dans, rörelse och konstutställningar är några exempel på aktiviteter. Rasterna och skolgården är utformade för att uppmuntra till glädje och inkludering, alla ska kunna hitta något som lockar.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "2336c8825f54a47d8102ad9a428245a3ab7a0f080a8263ad4c7987b712d360b3",
+      "school_unit_code": "81857869",
+      "school_name": "Skärsätra skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/",
+      "retrieved_at": "2026-10-21T09:23:25.550522+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Några exempel på aktiviteter på Skärsätragården är pingis, dans och andra sporter i rörelserummet, skapande aktiviteter i hobbyverkstan, bräd- och kortspel, musik i replokalen, utomhuslekar och filmvisning.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d81704d30d2273b94cf08f19b98a8c5ec362ea84a1660469bc6cbb3d4221538e",
+      "school_unit_code": "81857869",
+      "school_name": "Skärsätra skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/fritidshem-och-fritidsklubb-skarsatra-skola/",
+      "retrieved_at": "2026-10-21T09:23:25.599345+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Vi har ett stort utbud, från programmering, IKT (Informations- och kommunikationsteknologi), fritidskör (med skolans musiklärare), Skärsätra stjärnorna (eleverna får uppträda), målarkurser, fritidsråd, fredagskul, pyssel, disco, utelek, studiestund (med klasslärare), fri lek, rörelse (utomhus och i vår idrottshall) och mycket mer. Vi använder vår stora, fina skolgård med fotbollsplan, skog och mycket annat som ger möjlighet till kul aktivitet och gemenskap. Naturen har vi in på knuten med både Kottlasjön och naturreservatet Kappsta som vi använder för utflykter, utforskande och kreativt lärande.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5a1f5b988c7b23bd5f9462ee93435c531b525dcf0f0f69f30f745116e1342e55",
+      "school_unit_code": "81857869",
+      "school_name": "Skärsätra skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/fritidshem-och-fritidsklubb-skarsatra-skola/",
+      "retrieved_at": "2026-10-21T09:23:25.599345+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

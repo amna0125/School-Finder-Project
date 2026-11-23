@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "86937935",
+  "school_name": "Sågtorpsskolan",
+  "registered_url": "http://www.sagtorp.nacka.se",
+  "attempted_at": "2026-10-21T09:17:17.821931+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.sagtorp.nacka.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

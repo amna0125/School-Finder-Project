@@ -1,0 +1,55 @@
+{
+  "school_unit_code": "13301127",
+  "school_name": "Ekens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola",
+  "attempted_at": "2026-10-21T09:15:20.677368+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola",
+      "retrieved_at": "2026-10-21T09:15:22.757716+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "13301127_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Du har praktiskt-estetiska ämnen och moderna språk i ditt schema varje vecka. Du arbetar i längre pass och träffar få lärare under din skolvecka. Du fördjupar dig i ämnet du läser under veckan och befäster dina kunskaper på ett djupare plan. Din skoldag blir mer sammanhållen och trygg.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "dbfd62ddfc07cfc542703b0472c5239f5eaa0a71f6676b1e3cb6038929cc8694",
+      "school_unit_code": "13301127",
+      "school_name": "Ekens skola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola",
+      "retrieved_at": "2026-10-21T09:15:22.757716+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Under våra musiklektioner sjunger och spelar vi tillsammans. Foto: Liv och Darcy Studio.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "649a553345d4d8deb772c6ee7fb16b75425d30d362835686fd794cce20c632f2",
+      "school_unit_code": "13301127",
+      "school_name": "Ekens skola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola",
+      "retrieved_at": "2026-10-21T09:15:22.757716+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

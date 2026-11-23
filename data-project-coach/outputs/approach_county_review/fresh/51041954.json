@@ -1,0 +1,31 @@
+{
+  "school_id": "51041954",
+  "school_name": "Rälsen Norrviken",
+  "registered_url": "http://www.ralsen.se",
+  "pages": [
+    {
+      "requested_url": "https://www.ralsen.se/",
+      "source_url": "https://www.ralsen.se/",
+      "page_title": "Rälsens förskolor och skolor",
+      "accessed_at": "2026-10-21T17:37:06.063183+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "51041954_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.ralsen.se/",
+          "robots_url": "https://www.ralsen.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:36:03.057617+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

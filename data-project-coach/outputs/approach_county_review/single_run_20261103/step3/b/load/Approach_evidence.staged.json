@@ -1,0 +1,32 @@
+[
+  {
+    "evidence_id": "ae_s3b_35547286_01",
+    "school_id": "35547286",
+    "quoted_text": "Musik, estetisk och skapande verksamhet spelar en viktig roll för utvecklingen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Pedagogy page states music, aesthetic and creative activity as important in the school's work.",
+    "source_url": "https://www.carlssonsskola.se/om/Pedagogik",
+    "page_title": "Carlssons Skola",
+    "accessed_date": "2026-10-30"
+  },
+  {
+    "evidence_id": "ae_s3b_23617768_01",
+    "school_id": "23617768",
+    "quoted_text": "Flexibla undervisningsgrupper: Vi ser hela årskursen som en grupp. Eleverna delas in i mindre undervisningsgrupper som förändras över tid.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Concrete flexible small-group organisation across the year group.",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-norra-skola",
+    "page_title": "Katarina Norra skola, F–9 - Stockholms stad",
+    "accessed_date": "2026-10-29"
+  },
+  {
+    "evidence_id": "ae_s3b_37556682_01",
+    "school_id": "37556682",
+    "quoted_text": "Vi eftersträvar att vara två vuxna på alla helklasslektioner; i svenska är det alltid två lärare i ett så kallat tvålärarskap och i övriga ämnen en lärare och en fritidspedagog.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Two adults in whole-class lessons; two-teacher model in Swedish (middle school page).",
+    "source_url": "https://kistaschool.se/skolans-verksamheter",
+    "page_title": "Kista International School",
+    "accessed_date": "2026-11-02"
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "16426165",
+  "school_name": "Kunskapsskolan Enskede",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/enskede",
+  "attempted_at": "2026-10-21T09:15:26.759842+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/enskede",
+      "retrieved_at": "2026-10-21T09:15:32.092687+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/enskede",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "16426165_0.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/kontakta-oss",
+      "retrieved_at": "2026-10-21T09:15:32.128559+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "16426165_1.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:32.297385+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "16426165_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5d110e6abafe7cb680a57d065043fd8a1c96f8e6004bb483a87d7e8ec3fb279f",
+      "school_unit_code": "16426165",
+      "school_name": "Kunskapsskolan Enskede",
+      "source_url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:32.297385+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Musik skapad av elever i åttan spelades upp av Västerås symfoniorkester",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "6ddae9213d76ccda7c63b26eaae3167359f5e2c2964a4df46e490bea1b812692",
+      "school_unit_code": "16426165",
+      "school_name": "Kunskapsskolan Enskede",
+      "source_url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:32.297385+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

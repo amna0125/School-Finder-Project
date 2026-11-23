@@ -1,0 +1,43 @@
+[
+{"sid":"62078083","o":"R","note":"Lärande Grundskola Fresta: Lärandemodellen integrated assignments (provider page); Fresta listed among the provider's schools on its homepage.","ev":[
+ {"p":1,"q":"Därför arbetar vi med ämnesövergripande uppdrag där eleverna tillsammans med lärarna aktivt söker kunskap och där det alltid finns en mottagare för det eleverna gör.","i":"Year-round cross-subject assignments with real recipients.","t":"Provider webpage","c":[["Project- or inquiry-based learning","Lärandemodellen cross-subject assignments","S"]],"cn":"Provider-level; consistent with earlier Lärande coding (Supported)."}]},
+{"sid":"62288230","o":"R","note":"Lina F–9 (Södertälje): language- and knowledge-developing approach across all subjects.","ev":[
+ {"p":0,"q":"Undervisningen vilar på ett språk- och kunskapsutvecklande arbetssätt, där vi systematiskt arbetar med att stärka elevernas skolspråk, samtalsförmåga, läsning och skrivande inom alla ämnen.","i":"Language-developing approach as foundation of teaching.","c":[["Other stated profile","Language- and knowledge-developing approach","S"]],"cn":"Common municipal approach, stated here as central."}]},
+{"sid":"62518360","o":"B","why":"school-specific source not found","note":"Registered Huddinge URL is Annerstaskolan's main page; no page for the resource-school unit found."},
+{"sid":"62533129","o":"R","note":"Bobergsskolan F–9: Bobergsmodellen, flexible teaching groups instead of classes, subject teachers from F.","ev":[
+ {"p":0,"q":"Vi arbetar enligt Bobergsmodellen. I stället för klasser tillhör ditt barn olika undervisningsgrupper.","i":"Distinctive organisational model.","c":[["Other stated profile","Bobergsmodellen flexible groups","E"]],"cn":"School claim."}]},
+{"sid":"62544265","o":"R","note":"Fria Maria F–6: cross-subject, aesthetic and thematic working methods.","ev":[
+ {"p":1,"q":"Genom ämnesövergripande, estetiska och tematiska arbetssätt skapar vi sammanhang som gör kunskapen meningsfull.","i":"Thematic/cross-subject and aesthetic methods.","c":[["Project- or inquiry-based learning","Cross-subject thematic work","S"],["Arts and creative learning","Aesthetic working methods","S"]],"cn":"No detail on frequency or structure."}]},
+{"sid":"62569730","o":"U","why":"provider-level source only","note":"IES Värmdö: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"62707060","o":"N","note":"Skälby F–6: thematic work only in förskoleklass; rock school in fritidsklubb. No distinctive approach."},
+{"sid":"62862066","o":"N","note":"Helenelund F–9: digital tools, reading and occasional cross-subject projects described generically."},
+{"sid":"63111806","o":"R","note":"Källskolan F–5: Christian (allkristen) profile.","ev":[
+ {"p":1,"q":"Källskolan är en fristående skola med kristen profil i Kungsängen nordväst om Stockholm.","i":"Confessional profile.","c":[["Other stated profile","Christian profile","E"]],"cn":"School claim."}]},
+{"sid":"63150475","o":"R","note":"Sjumilaskolan F–9: municipal resource school for pupils with autism.","ev":[
+ {"p":1,"q":"Sjumilaskolan är en kommungemensam resursskola för elever från förskoleklass till årkurs 9.","i":"Resource school; autism.","c":[["Support, inclusion, or wellbeing emphasis","Resource school; autism","E"]],"cn":"Municipal page."}]},
+{"sid":"63300625","o":"N","note":"Duvbo F–6: generic values and fritids description."},
+{"sid":"63321041","o":"B","why":"permission / terms","note":"robots.txt disallows ClaudeBot; not fetched. No inference from school name."},
+{"sid":"63329692","o":"R","note":"Sörgård F–6: nature-near location often used in teaching; outdoor library.","ev":[
+ {"p":0,"q":"Det naturnära läget gör att vi ofta använder närmiljön i undervisningen.","i":"Local environment often used in teaching.","c":[["Outdoor, nature, or place-based learning","Local environment used in teaching","S"]],"cn":"Frequency hedge."}]},
+{"sid":"63542436","o":"N","note":"Sätunaskolan: landing page has only navigation text; nothing distinctive in scope."},
+{"sid":"63581692","o":"N","note":"Enebyberg: renovation news and values page; no distinctive approach."},
+{"sid":"63592981","o":"U","why":"provider-level source only","note":"IES Sigtuna: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"63682476","o":"R","note":"Grantomta Montessoriskola F–5: Montessori pedagogy and material; Grön Flagg sustainability.","ev":[
+ {"p":2,"q":"Vi följer läroplanen Lgr 22 och kunskapsplanen ” En samlad plan för montessoripedagogiken i Sverige”.","i":"Montessori pedagogy with national Montessori plan.","c":[["Alternative pedagogy","Montessori","E"]],"cn":"School claim."}]},
+{"sid":"63742407","o":"B","why":"school-specific source not found","note":"Registered URL is Vallentuna municipality homepage; no school page found."},
+{"sid":"63954028","o":"R","note":"Kunskapsskolan Fruängen 6–9: personalised education model.","ev":[
+ {"p":0,"q":"Därför har vi skapat en utbildning som är personligt utformad.","i":"Provider model stated on school page: personalised education.","c":[["Other stated profile","Personalised learning (Kunskapsskolan model)","E"]],"cn":"Consistent with other Kunskapsskolan units."}]},
+{"sid":"64065082","o":"R","note":"Fredrikshov: Singapore maths and genre pedagogy; international orientation via Round Square and study trips.","ev":[
+ {"p":1,"q":"Vår undervisning är baserad på den senaste forskningen inom lärande och undervisningsmetoder, vilket bland annat lett fram till att vi idag arbetar med singaporematematik och genrepedagogik.","i":"Named teaching methods.","c":[["Other stated profile","Singapore maths and genre pedagogy","E"]],"cn":"School claim."},
+ {"p":1,"q":"Sedan 2024 är Fredrikshovs slotts skola medlem i den internationella organisationen Round Square","i":"International orientation with regular projects.","c":[["Language, international, or intercultural profile","International orientation; Round Square","E"]],"cn":"Membership not checked."}]},
+{"sid":"64081877","o":"N","note":"Snättringe F–6: guiding words and structure; generic."},
+{"sid":"64285853","o":"N","note":"Duvnäs: small school with individualised teaching and high expectations; generic."},
+{"sid":"64732323","o":"R","note":"Tanto International School: extended English instruction years 1–8, Cambridge pathway, intercultural approach.","ev":[
+ {"p":1,"q":"We offer our students extended instruction in English from year 1 all the way up to year 8.","i":"English-language/international profile.","c":[["Language, international, or intercultural profile","Extended English instruction; intercultural approach","E"]],"cn":"School claim."}]},
+{"sid":"64736967","o":"R","note":"Västbergaskolan F–9: Erasmus+ projects for upper years; also has anpassad grundskola (separate).","ev":[
+ {"p":0,"q":"Västbergaskolan har under flera år bedrivit skolutvecklingsprojekt inom ramen för Erasmus+.","i":"International exchange projects for 7–9.","c":[["Language, international, or intercultural profile","Erasmus+ projects (7–9)","S"]],"cn":"Limited to upper years."}]},
+{"sid":"64836806","o":"R","note":"Vallaskolan F–6: special focus on early reading and writing; nature setting inspires outdoor time (not coded).","ev":[
+ {"p":1,"q":"Genom tidig kartläggning uppmärksammar vi snabbt elever som behöver extra stöd, och vi har ett särskilt fokus på läs- och skrivinlärning.","i":"Reading/writing emphasis.","c":[["Other stated profile","Early reading and writing focus","S"]],"cn":"School claim."}]}
+]

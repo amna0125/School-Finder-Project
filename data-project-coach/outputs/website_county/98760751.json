@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "98760751",
+  "school_name": "Kristofferskolan",
+  "registered_url": "https://kristofferskolan.se",
+  "attempted_at": "2026-10-21T09:17:39.538954+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://kristofferskolan.se",
+      "retrieved_at": "2026-10-21T09:17:46.276928+00:00",
+      "robots_checks": [
+        {
+          "url": "https://kristofferskolan.se",
+          "robots_url": "https://kristofferskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:41.400251+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98760751_0.txt"
+    },
+    {
+      "source_url": "https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/",
+      "retrieved_at": "2026-10-21T09:17:46.299316+00:00",
+      "robots_checks": [
+        {
+          "url": "https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/",
+          "robots_url": "https://kristofferskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:41.400251+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98760751_1.txt"
+    },
+    {
+      "source_url": "https://kristofferskolan.se/waldorfpedagogik/en-vag-till-frihet/en-utvecklingsvag/",
+      "retrieved_at": "2026-10-21T09:17:46.419571+00:00",
+      "robots_checks": [
+        {
+          "url": "https://kristofferskolan.se/waldorfpedagogik/en-vag-till-frihet/en-utvecklingsvag/",
+          "robots_url": "https://kristofferskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:41.400251+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98760751_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

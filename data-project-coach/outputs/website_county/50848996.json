@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "50848996",
+  "school_name": "Raoul Wallenbergskolan Bromma",
+  "registered_url": "http://www.raoulwallenbergskolan.se",
+  "attempted_at": "2026-10-21T09:21:59.096415+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://raoulwallenbergskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:04.667234+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.raoulwallenbergskolan.se",
+          "robots_url": "https://raoulwallenbergskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.081917+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://raoulwallenbergskolan.se/",
+          "robots_url": "https://raoulwallenbergskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:04.002872+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "50848996_0.txt"
+    },
+    {
+      "source_url": "https://raoulwallenbergskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:04.740280+00:00",
+      "robots_checks": [
+        {
+          "url": "https://raoulwallenbergskolan.se/om-oss/",
+          "robots_url": "https://raoulwallenbergskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:04.002872+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "50848996_1.txt"
+    },
+    {
+      "source_url": "https://raoulwallenbergskolan.se/om-oss/nyheter/",
+      "retrieved_at": "2026-10-21T09:22:04.796956+00:00",
+      "robots_checks": [
+        {
+          "url": "https://raoulwallenbergskolan.se/om-oss/nyheter/",
+          "robots_url": "https://raoulwallenbergskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:04.002872+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "50848996_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

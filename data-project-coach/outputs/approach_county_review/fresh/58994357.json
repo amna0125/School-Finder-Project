@@ -1,0 +1,72 @@
+{
+  "school_id": "58994357",
+  "school_name": "Innovitaskolan Segeltorp",
+  "registered_url": "https://innovitaskolan.se/segeltorp/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/segeltorp/",
+      "source_url": "https://innovitaskolan.se/segeltorp/",
+      "page_title": "Innovitaskolan Segeltorp | Förskola & grundskola i Huddinge",
+      "accessed_at": "2026-10-21T17:38:29.778115+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58994357_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/segeltorp/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/segeltorp/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/segeltorp/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Segeltorp | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:38:30.984212+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58994357_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/segeltorp/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/segeltorp/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/segeltorp/om/grundskola/",
+      "page_title": "Vår grundskola | Innovitaskolan Segeltorp | Om skolan",
+      "accessed_at": "2026-10-21T17:38:32.162434+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "58994357_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/segeltorp/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

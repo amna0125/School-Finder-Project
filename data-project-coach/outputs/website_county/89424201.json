@@ -1,0 +1,76 @@
+{
+  "school_unit_code": "89424201",
+  "school_name": "Spirande Lärande i Täby AB",
+  "registered_url": "http://www.spiraskolan.se",
+  "attempted_at": "2026-10-21T09:17:22.731811+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://spiraskolan.se/",
+      "retrieved_at": "2026-10-21T09:17:33.920610+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.spiraskolan.se",
+          "robots_url": "http://www.spiraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:23.538089+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.spiraskolan.se/",
+          "robots_url": "https://www.spiraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:26.058616+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://spiraskolan.se/",
+          "robots_url": "https://spiraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:28.377568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89424201_0.txt"
+    },
+    {
+      "source_url": "https://spiraskolan.se/pedagogisk-modell/",
+      "retrieved_at": "2026-10-21T09:17:33.938557+00:00",
+      "robots_checks": [
+        {
+          "url": "https://spiraskolan.se/pedagogisk-modell/",
+          "robots_url": "https://spiraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:28.377568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89424201_1.txt"
+    },
+    {
+      "source_url": "https://spiraskolan.se/om/montessori/",
+      "retrieved_at": "2026-10-21T09:17:33.956578+00:00",
+      "robots_checks": [
+        {
+          "url": "https://spiraskolan.se/om/montessori/",
+          "robots_url": "https://spiraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:28.377568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89424201_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

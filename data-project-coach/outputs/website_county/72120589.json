@@ -1,0 +1,63 @@
+{
+  "school_unit_code": "72120589",
+  "school_name": "Stålhamraskolan",
+  "registered_url": "http://www.sodertalje.se/stalhamraskolan",
+  "attempted_at": "2026-10-21T09:22:54.607003+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.sodertalje.se/stalhamraskolan",
+      "retrieved_at": "2026-10-21T09:22:56.878580+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sodertalje.se/stalhamraskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:59.357737+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sodertalje.se/stalhamraskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:00.848981+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "72120589_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "De praktisk-estetiska ämnena har en central plats i undervisningen. Eleverna får uttrycka sig genom skapande aktiviteter, till exempel när de bygger modeller av husen i närområdet eller skapar trollsländor av pärlor efter att ha läst om fjärilens livscykel.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "fa3bd1e971bec790c84bb9ea113ac349dc97b5efa71a67bd694221ef6aa119f1",
+      "school_unit_code": "72120589",
+      "school_name": "Stålhamraskolan",
+      "source_url": "https://www.sodertalje.se/stalhamraskolan",
+      "retrieved_at": "2026-10-21T09:22:56.878580+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": " skogsområden runt knuten. Skolans välförankrade traditioner är en del av den trygghet som finns i skolan. Många traditionerna bygger på och levandegör skolans fina undervisning i musik.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "94af0f56938e242ca34ad29864e8612dd9000f842bd25145eb9092ab8f7ce4f8",
+      "school_unit_code": "72120589",
+      "school_name": "Stålhamraskolan",
+      "source_url": "https://www.sodertalje.se/stalhamraskolan",
+      "retrieved_at": "2026-10-21T09:22:56.878580+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

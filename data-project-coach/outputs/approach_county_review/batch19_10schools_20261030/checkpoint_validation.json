@@ -1,0 +1,32 @@
+{
+  "status": "PASSED",
+  "ledger_rows": 762,
+  "unique_ids": 762,
+  "changed_rows": 10,
+  "documented_outcomes": 203,
+  "pending": 559,
+  "next_selection_ids": [
+    "34540901",
+    "34625544",
+    "34671128",
+    "34672217",
+    "34946479",
+    "35008423",
+    "35129114",
+    "35311563",
+    "35547286",
+    "35784391"
+  ],
+  "append_flow": "mature-crocodile",
+  "replay_flow": "modern-ibis",
+  "unit_tests_passed": 22,
+  "official_fingerprints_preserved": true,
+  "db_counts": {
+    "schools": 762,
+    "statistics": 45868,
+    "survey_observations": 84610,
+    "source_coverage": 3048,
+    "approach_evidence": 238,
+    "approach_codes": 175
+  }
+}

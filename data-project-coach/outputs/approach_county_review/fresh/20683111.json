@@ -1,0 +1,17 @@
+{
+  "school_id": "20683111",
+  "school_name": "Bäckahagens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/backahagens-skola",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/backahagens-skola",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:29:50.958358+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

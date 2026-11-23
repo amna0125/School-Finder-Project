@@ -1,0 +1,15 @@
+{
+  "status": "PASSED_ARTIFACT_VALIDATION",
+  "schools": 10,
+  "evidence_rows": 13,
+  "code_rows": 9,
+  "quote_substrings_checked": true,
+  "source_access_date": "2026-10-30",
+  "regression_tests_passed": 22,
+  "ledger_unique_ids": 762,
+  "next_id_order_checked": true,
+  "ledger_changes_exact_selected_ten": true,
+  "append_flow": "proficient-oarfish",
+  "replay_flow": "bulky-ibex",
+  "git_diff_available": false
+}

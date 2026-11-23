@@ -1,0 +1,122 @@
+[
+  {
+    "file": "enhagen.html",
+    "bytes": 168218,
+    "sha256": "0ed2d54b3ab88f05b9f874d394f3fc43811c2e6795d5cf7a6cae37bb11cfba3a"
+  },
+  {
+    "file": "grisslehamn.html",
+    "bytes": 626170,
+    "sha256": "29c9b07a7338abf4bfa736531dd599fdcf9d93af078fe237f438635bf62e4b96"
+  },
+  {
+    "file": "magelung.html",
+    "bytes": 142018,
+    "sha256": "84010f21a5c5b141e4709b732e7355be9b9fbd3c99a4b6e86299e96f4399eb22"
+  },
+  {
+    "file": "mortvik.html",
+    "bytes": 74572,
+    "sha256": "1300be6ad19578c1f32dc744b8e3b422b0d547bb0b6170f08b6850943e363baf"
+  },
+  {
+    "file": "mortvik_about.html",
+    "bytes": 84562,
+    "sha256": "342446c861f2e7e1983014496f22e9c785ce3e80585a35220b22dda2bbcfbe44"
+  },
+  {
+    "file": "munso.html",
+    "bytes": 93556,
+    "sha256": "4ec42f0ccad7aa328b8d6132c21ba937a70c354ed87ab65c67a3828946b62f58"
+  },
+  {
+    "file": "njupkarr.html",
+    "bytes": 114332,
+    "sha256": "fbeded1d255d29b24a9998421e174077afa97d7c8f71d3784d8d43a4bbede023"
+  },
+  {
+    "file": "nobla.html",
+    "bytes": 65706,
+    "sha256": "4d07cdd0da9e43c8b4cbad13d59ed661ec7b54442bdc4ca756425fd1d9872595"
+  },
+  {
+    "file": "nobla_language.html",
+    "bytes": 64736,
+    "sha256": "a1dc9d3e6802ca963e2f501bcd95d3ba5ddf26e52b071803e85a2b1bafc40e6c"
+  },
+  {
+    "file": "robots_ekero.txt",
+    "bytes": 495,
+    "sha256": "564b4ab0c2da8ba358e64127df1ab334e730d63172d51fc4637aaad11666ce42"
+  },
+  {
+    "file": "robots_huddinge.txt",
+    "bytes": 498,
+    "sha256": "750f760e4ee8836a23a7a276b699e579cabdbbb9acbdd73d0ec029a2175aa069"
+  },
+  {
+    "file": "robots_nobla.txt",
+    "bytes": 2367,
+    "sha256": "d4a9cacda0f3dad192b90bef0dbe62420dbeb9e76c5af718d12acdebe49df6f1"
+  },
+  {
+    "file": "robots_norrtalje.txt",
+    "bytes": 72,
+    "sha256": "59801bc47e1a4d2bfdc91f22dfe1fbab4f327da07983a7c9fa5133bd6deb3258"
+  },
+  {
+    "file": "robots_sollentuna.txt",
+    "bytes": 59,
+    "sha256": "90073a61ecb6f417b0e153809713f1d1e23de4d41f64752906a7dbee8ae07103"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 67,
+    "sha256": "bba51e84f7a5a0904a456f6e4b3e79b919e43800d60b2e6a7508062cec4d2106"
+  },
+  {
+    "file": "robots_sundbyberg.txt",
+    "bytes": 500,
+    "sha256": "f2d7dd81294d79c44c86c57bb61680c9af9fd563c76c88b69f4f7422dafb0bac"
+  },
+  {
+    "file": "robots_taby.txt",
+    "bytes": 189,
+    "sha256": "d8c46147ee9ce42309d7619ea5d989e98ef2767655f308759b52c57ac5fee56e"
+  },
+  {
+    "file": "robots_tyreso.txt",
+    "bytes": 496,
+    "sha256": "80961e454c31aeb5880d122d1108f22e770073eea4c077229ac3080442a22d14"
+  },
+  {
+    "file": "roslag.html",
+    "bytes": 624483,
+    "sha256": "28cfc55b68ddef26d4654b5efa2bba549885f58a6ea766615c1ca95be25b775c"
+  },
+  {
+    "file": "taby.html",
+    "bytes": 156252,
+    "sha256": "b761694c088c0b10b3c0342114f31e5b5382087ce43833a83936f9ec8e1ea54e"
+  },
+  {
+    "file": "ursvik.html",
+    "bytes": 92857,
+    "sha256": "cd94490ba4c9993846504de272e526bf0f995fd235fdc59cc9a3247c231d0d56"
+  },
+  {
+    "file": "vaxmora.html",
+    "bytes": 32915,
+    "sha256": "ec61cf624345669d3625035771bd01f83a7b4dfcd6582de10994e049f85b411a"
+  },
+  {
+    "file": "vaxmora_health.html",
+    "bytes": 31520,
+    "sha256": "4d9f00253227fcf4ce5d85bab8ba232f342b6a4650cbc27b46fb1b401e889fd9"
+  },
+  {
+    "file": "vaxmora_safety.html",
+    "bytes": 31166,
+    "sha256": "bf2c899d0c9a9ff75cd275d94f3e8d95bb5acf14b921ed4020560e662acd5d80"
+  }
+]

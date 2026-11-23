@@ -1,0 +1,57 @@
+[
+  {
+    "code_id": "ac_b14_26742346_01",
+    "school_id": "26742346",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori-inspired, F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b14_26742346_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Unit-specific SolnaEnskilda methods page applies to school/preschool; schoolF–3page independently confirms mixed-ageclasses/concretematerials. ExactofficialID/Industrivägen16/grades1–3+Fmatch. Preserve inspired qualifier, not certified fidelity; no preschool-only transfer. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b14_26852132_01",
+    "school_id": "26852132",
+    "category": "Arts and creative learning",
+    "subcategory": "Orchestra-school collaboration, younger years",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b14_26852132_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. SolhemF–6school page sustained named orchestra-school partnership, younger-year coverage exactyears/frequencyunspecified. Supportedartsinterpretation alongside concrete culturallearningcontext, not artfacilities or visitsalone. SharedschoolorganisationSolhemsängen not sameofficialID assumed. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b14_26878879_01",
+    "school_id": "26878879",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Vänskapsarbete through drama-play and peer exercises",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b14_26878879_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. F–3StalletsSollentuna, exactfreshID/Landsvägen24/name/gradesmatch, postalcodewebsite19270vsregister19272retained. Concreteemotional/socialinclusion exercises under namedfriendshipwork. Drama used as socialtool, not artsprofile. Public.comschoolpages replace.se redirect; robotsdestination404uncertainty retained. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b14_27344011_01",
+    "school_id": "27344011",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Recurring friluftsliv pedagogy; dated delivery details",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b14_27344011_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. NeglingeF–5ordinaryunit. Specificpageupdated2023-10-03/currentlinkedmethodspagerestatesprofile: record publicdescriptionnotverifycurrentimplementation. All-yearoutdoordaysstated; weeklyforestmorningexplicitFonly, fritidsmonthlyF–3separate. Schoolforestpedagogy describedunderdevelopment, not completed. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b14_27344011_02",
+    "school_id": "27344011",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Inlärning med rörelse movement emphasis",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b14_27344011_02",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Explicitnamedmovementapproach, updated2026-09-28; concreteFmotoricscreening/needbasedweeklygymnastics/extraswimsupport and classroom/recessmovement. No claim allpupilsreceiveweeklyextra gymnastics, health/brainclaimsnotverified. Teacherresearchnotpupilinquirycode. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

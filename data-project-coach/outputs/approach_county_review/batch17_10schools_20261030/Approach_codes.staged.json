@@ -1,0 +1,101 @@
+[
+  {
+    "code_id": "ac_b17_29796042_01",
+    "school_id": "29796042",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Swedish–English bilingual",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_29796042_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Website states bilingual F–9 provision. Current schools table names this ID Engelska skolan Gondolen; ledger uses ESF Skarpnäck AB. Registered domain and Skarpnäck location match; retain historical name discrepancy. Expanded timetable and Cambridge opportunities are claims, not outcomes. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b17_30255409_01",
+    "school_id": "30255409",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Health profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_30255409_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Local F–9 health-profile self-label. Provider health page supplies context, not independently verified local routines. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b17_31018677_01",
+    "school_id": "31018677",
+    "category": "Other stated profile",
+    "subcategory": "Social sustainability",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_31018677_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit local social-sustainability focus. Preceding award criteria are criteria, not separately demonstrated practices; award claim not independently verified. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b17_31281674_01",
+    "school_id": "31281674",
+    "category": "Other stated profile",
+    "subcategory": "Sports profile, years7–9 profile classes",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_31281674_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Profile classes7–9 only, not all pupils. Alternating three/five sports lessons stated. Site ordinary7–9 versus official4–9 unresolved; co-located adapted unit excluded. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b17_31528772_01",
+    "school_id": "31528772",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf/Steiner",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_31528772_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Named Waldorf school F–9. Homepage retains stale lgr11 wording; no inference of current curriculum compliance. Provider pedagogy F–12 discussion not unit grades. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b17_31528772_02",
+    "school_id": "31528772",
+    "category": "Arts and creative learning",
+    "subcategory": "Arts integration",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_31528772_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit integrated theoretical/practical/artistic teaching self-description. Retain homepage stale curriculum caveat. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b17_31608087_01",
+    "school_id": "31608087",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori values; materials/methods in preschool class",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_31608087_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. F–3 school: values school-wide; concrete Montessori materials/methods specifically preschool class. Do not infer methods in every grade or transfer preschool provision. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b17_31758556_01",
+    "school_id": "31758556",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trygghetsteamet junior peer support",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_31758556_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Named pupil peer-support routine; scheduled team meetings described. Page updated25 September2026. No named pupils or images used. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b17_31758556_02",
+    "school_id": "31758556",
+    "category": "Other stated profile",
+    "subcategory": "På väg mot 50 000 reading project",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b17_31758556_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Named sustained reading project across classrooms and fritids plus library and staff development. Page updated23 April2024, persistence not independently verified. Not inquiry-based merely because called a project. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "school_id": "73083470",
+  "school_name": "Rydbo Friskola",
+  "registered_url": "http://www.rydbofriskola.se",
+  "pages": [
+    {
+      "requested_url": "https://www.rydbofriskola.se/",
+      "source_url": "https://www.rydbofriskola.se/",
+      "page_title": "Start - Rydbo friskola",
+      "accessed_at": "2026-10-21T17:40:27.624072+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73083470_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.rydbofriskola.se/",
+          "robots_url": "https://www.rydbofriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:26.640567+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.rydbofriskola.se/forskola/montessori-pa-forskolan/",
+      "source_url": "https://www.rydbofriskola.se/forskola/montessori-pa-forskolan/",
+      "page_title": "Montessori på förskolan - Rydbo friskola",
+      "accessed_at": "2026-10-21T17:40:28.675756+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73083470_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.rydbofriskola.se/forskola/montessori-pa-forskolan/",
+          "robots_url": "https://www.rydbofriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:26.640567+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.rydbofriskola.se/skola-f-6/profil/",
+      "source_url": "https://www.rydbofriskola.se/skola-f-6/profil/",
+      "page_title": "Profil - Rydbo friskola",
+      "accessed_at": "2026-10-21T17:40:29.672167+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73083470_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.rydbofriskola.se/skola-f-6/profil/",
+          "robots_url": "https://www.rydbofriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:26.640567+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

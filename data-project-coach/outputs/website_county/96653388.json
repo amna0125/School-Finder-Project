@@ -1,0 +1,42 @@
+{
+  "school_unit_code": "96653388",
+  "school_name": "Robinson Valsjön",
+  "registered_url": "https://tellusskolan.se/skolor/robinson-valsjon/",
+  "attempted_at": "2026-10-21T09:17:34.974276+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://tellusskolan.se/skolor/robinson-valsjon/",
+      "retrieved_at": "2026-10-21T09:17:35.938072+00:00",
+      "robots_checks": [
+        {
+          "url": "https://tellusskolan.se/skolor/robinson-valsjon/",
+          "robots_url": "https://tellusskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:17:22.400455+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "96653388_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Under året har teater blivit ett populärt inslag i fritidsverksamheten och eleverna har satt upp",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ca4fb36b0ad93a9bd4b7feadca393faa6d9167f3cfe957b17fc349f4ffdb50bc",
+      "school_unit_code": "96653388",
+      "school_name": "Robinson Valsjön",
+      "source_url": "https://tellusskolan.se/skolor/robinson-valsjon/",
+      "retrieved_at": "2026-10-21T09:17:35.938072+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

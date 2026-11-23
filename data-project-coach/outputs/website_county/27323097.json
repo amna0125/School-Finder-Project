@@ -1,0 +1,58 @@
+{
+  "school_unit_code": "27323097",
+  "school_name": "Noblaskolan Solna",
+  "registered_url": "https://noblaskolan.se/solna/",
+  "attempted_at": "2026-10-21T09:15:45.448372+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://noblaskolan.se/solna/",
+      "retrieved_at": "2026-10-21T09:15:47.075860+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/solna/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27323097_0.txt"
+    },
+    {
+      "source_url": "https://noblaskolan.se/solna/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:47.146678+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/solna/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27323097_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "uds våra elever undervisning med några av Sveriges bästa lärare och ändamålsenliga ämnessalar. Vår skolmiljö är lugn och harmonisk med akvarier på ett flertal ställen och klassisk musik spelandes i entréhallen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1cc3f2f9b5c6715dce5290c6c81df7fb2d85750efa1f7dc62c1b6b54420d49b9",
+      "school_unit_code": "27323097",
+      "school_name": "Noblaskolan Solna",
+      "source_url": "https://noblaskolan.se/solna/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:47.146678+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "49862579",
+  "school_name": "Fagersjöskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/fagersjoskolan",
+  "attempted_at": "2026-10-21T09:16:24.273662+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/fagersjoskolan",
+      "retrieved_at": "2026-10-21T09:16:27.885593+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/fagersjoskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "49862579_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "El Sistema ger eleverna möjlighet att upptäcka, lära och uttrycka sig genom musikaliska genrer som barn inte kommer i kontakt med så ofta eller i samma utsträckning som populärmusiken. Genom att musiken som konstform blir en del av elevernas liv får de även verktyg för att närma sig och förstå andra konstuttryck.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "05f1b4d7ac8de527c417c48a5cd4c65f5844f5eeb9cf439e5e940ef3421d22c2",
+      "school_unit_code": "49862579",
+      "school_name": "Fagersjöskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/fagersjoskolan",
+      "retrieved_at": "2026-10-21T09:16:27.885593+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

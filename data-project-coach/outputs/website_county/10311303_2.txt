@@ -1,0 +1,85 @@
+Här söker du till våra grundskolor | Kulturama
+Cookies
+Vi använder cookies
+För att du ska få en så bra upplevelse som möjligt använder vi cookies på vår webbplats. Genom att klicka på “Godkänn alla cookies” samtycker du till alla cookies i enlighet med vår cookiepolicy. För att godkänna endast nödvändiga cookies kan du klicka på “Inställningar”. Lär mer om vår cookiepolicy
+Godkänn alla cookiesNeka alla cookiesHantera cookieinställningar
+Nödvändiga (obligatoriska)Visa cookies inom Nödvändiga (obligatoriska)
+Dessa cookies är viktiga för att webbplatsen ska fungera. De stödjer viktiga funktioner, som till exempel varukorgar och den tekniska driften av webbplatsen för att säkerställa att den fungerar som förväntat.
+CookieUpphörDomänFöretagSyftecsrftoken365 dagarkulturama.seKulturamaDitt besökVisa mer information
+Används för att spara en unik identifierare för att motverka otillåtna registreringar i formulär.applicant_identifier365 dagarkulturama.seKulturamaDitt besökVisa mer information
+Används för att identifiera användaren för att reservera en plats vid anmälan.cookie-popup365 dagarkulturama.seKulturamaDitt besökVisa mer information
+Används för att komma ihåg cookie inställningar för användaren.sp[projectid]Sessionkulturama.seRek.aiDitt besökVisa mer information
+Sidor som besöktes under denna sessionlast[projectid]Sessionkulturama.seRek.aiDitt besökVisa mer information
+Senast besökta sidan i denna sessionrekOrgRefSessionkulturama.seRek.aiDitt besökVisa mer information
+Ursprunglig referensadress för denna sessionsessionstarttimeSessionkulturama.seRek.aiDitt besökVisa mer information
+Datumobjekt för när sessionen börjaderektabsSessionkulturama.seRek.aiDitt besökVisa mer information
+Lista med "sektionssidor" som användaren har besökt under den aktuella sessionen
+Marknadsföring
+Acceptera cookies inom MarknadsföringVisa cookies inom Marknadsföring
+CookieUpphörDomänFöretagSyfte_fbp3 månaderkulturama.seFacebookMarknadsföringVisa mer information
+Denna cookie är installerad av Facebook. Annonser skapas genom att cookies har placerats på domäner som tillhör Facebooks företagspartners, vars webbplats du besöker.fr3 månaderkulturama.seFacebookMarknadsföringVisa mer information
+Denna cookie installeras av Facebook för att visa relevanta annonser för användarna samt för att mäta och förbättra annonserna. Cookien spårar också användarens beteende på webbplatser som har Facebookpixel eller plugin.test_cookie15 minuterdoubleclick.netGoogle DoubleclickMarknadsföringVisa mer information
+Denna cookie är installerad av doubleclick.net. Syftet med cookien är att avgöra om användarens webbläsare stödjer cookies.IDE1 år och 24 dagardoubleclick.netGoogle DoubleclickMarknadsföringVisa mer information
+Denna cookie används av Google DoubleClick och lagrar information om hur användaren använder webbplatsen samt hur annonser används innan besöket på webbplatsen. Informationen används för att visa användare annonser som är relevanta enligt användarprofilen.sc_at1 år och 24 dagarsnapchat.comSnapchatMarknadsföringVisa mer information
+Cookien är installerad av Snapchat. Cookien används för reklamändamål. Genom att spåra användarnas beteende på Snapchat kan relevanta annonser visas för användarna.YSCSessionyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie är installerad av Youtube och används för att spåra visningar av inbäddade videor.yt-remote-device-idAldrigyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie installeras via inbäddade YouTube-filmer.yt-remote-connected-devicesAldrigyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie installeras via inbäddade YouTube-filmer.VISITOR_INFO1_LIVE5 månader och 27 dagaryoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie är installerad av YouTube. Cookien används för att spåra information om inbäddade YouTube-fimer på en webbplats.yt.innertube::requestsAldrigyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie är installerad av YouTube. Cookien registrerar ett unikt ID som lagrar data om vilka filmer användaren har sett på YouTube.yt.innertube::nextIdAldrigyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie är installerad av YouTube. Cookien registrerar ett unikt ID som lagrar data om vilka filmer användaren har sett på YouTube._ttp1 år och 1 månadkulturama.seTikTokMarknadsföring_tt_enable_cookie1 år och 1 månadkulturama.seTikTokMarknadsföring
+Statistik
+Acceptera cookies inom StatistikVisa cookies inom Statistik
+Icke-nödvändiga cookies som samlar in data för analys av besöksstatistik.
+CookieUpphörDomänFöretagSyfte_ga2 årkulturama.seGoogle AnalyticsAnalyserVisa mer information
+Denna cookie är installerad av Google Analytics. Cookien används för att beräkna besökare, sessionioner och kampanjdata samt följa upp webbplatsanvändningen för webbplatsens analysrapport. Cookies lagrar information anonymt, unika besökare identifieras genom att tilldelas ett slumpmässigt genererat nummer._gid1 dagkulturama.seGoogle AnalyticsAnalyserVisa mer information
+Denna cookie är installerad av Google Analytics. Cookien används för att lagra information om hur besökare använder webbplatsen vilket hjälper till att skapa en analysrapport om hur webbplatsen presterar. Uppgifterna som samlats in inkluderar antalet besökare, källan varifrån de kommer och de sidor som visas anonymt._gat_UA-1044675-151 minutkulturama.seGoogle AnalyticsAnalyserVisa mer information
+Det här är en mönstertypcookie från Google Analytics, där mönsterelementet på namnet innehåller det unika identitetsnumret för kontot eller webbplatsen som det relaterar till. Det verkar vara en variant av _gat -cookien som används för att begränsa mängden data som registreras av Google på webbplatser med hög trafikvolym.X-AB1 dagsc-static.netSnapchatCONSENT16 år, 4 månader, 6 dagar och 12 timmaryoutube.comYouTubeAnalyserVisa mer information
+Denna cookie installeras via inbäddade YouTube-filmer. Den registrerar anonym statistisk om till exempel hur många gånger videon visas och vilka inställningar som används för uppspelning. Ingen känslig data samlas in om du inte loggar in på ditt Google-konto, i så fall är dina val kopplade till ditt konto, till exempel om du klickar på "gilla" i en video.
+Preferenser
+Acceptera cookies inom PreferenserVisa cookies inom Preferenser
+Icke-nödvändiga cookies som sparar information kring användarval och inställningar.
+CookieUpphörDomänFöretagSyfteapplication-formLokalkulturama.seKulturamaDitt besökVisa mer information
+Används för att underlätta vid anmälan eller navigering.application-completeLokalkulturama.seKulturamaDitt besökVisa mer information
+Används för att spara information vid fullföljd anmälan._scid1 år och 1 månadkulturama.seSnapchatFunktionVisa mer information
+Denna cookie är installerad av Snapchat. Cookien används för att visa och lagra Snapchatpixel och användarens unika ID.Bekräfta mina val
+Här söker du till våra grundskolor
+Kulturama har två grundskolor i Stockholms län: Kulturama Grundskola Sundbyberg åk 4-9 och Kulturama Grundskola Hammarby Sjöstad åk 4-9. Hos oss finns inriktningarna Bild & form, Musik & sång samt Musikal.
+Det är viktigt att söka till rätt skolenhet och inriktning. Det går bra att söka till flera skolor och inriktningar, då görs en ansökan till respektive skola och inriktning.
+Ansökan
+Gör din ansökan här
+Gör din ansökan här
+Anmäl dig här om ditt barn har skyddade personuppgifter
+Anmäl dig här om ditt barn har skyddade personuppgifter
+Så här ansöker du
+Klicka på Gör din ansökan här och logga in i vårt kö- och ansökningssystem med Bank ID
+Lägg till de barn du vill anmäla
+Tänk på följande när du ska skapa köplats eller ansökan:
+Välj skola
+Bild och form Kulturama Hammarby Sjöstad – för anmälan till inriktningen Bild och form i Hammarby Sjöstad
+Bild och form Kulturama Sundbyberg – för anmälan till inriktning Bild och form i Sundbyberg
+Kulturama Gr Hammarby Sjöstad – för anmälan till inriktningarna Musik & sång eller Musikal i Hammarby Sjöstad
+Kulturama Grundskola Sundbyberg – för anmälan till inriktningarna Musik & sång eller Musikal i Sundbyberg
+Välj årskurs
+Om du bara vill söka till en inriktning, välj
+Årskurs inriktning, exempelvis 7 Musikal – valet är här gjort på åk 7 och inriktningen Musikal
+Om du vill lägga till ett andrahandsval, välj:
+Årskurs inriktning / årskurs inriktning, exempelvis 7 Musikal / 7 Musikal & sång – valet är här gjort på åk 7 och förstahandsvalet Musikal samt andrahandsvalet Musikal & sång
+Efter att ansökan är gjord blir du som sökt Musikal och Musik & sång kallad till färdighetsprov medan anmälan till Bild & form blir en köplats. Här kan du läsa mer om våra urvalsgrunder för skolplacering.
+Kallelse till färdighetsprov skickas ut via mail cirka två veckor före provet.
+Gör din ansökan här
+Gör din ansökan här
+Urvalsgrunder för skolplacering
+Urvalsgrunder för skolplacering
+Urvalsgrunderna för skolplacering på Kulturamas grundskolor skiljer sig åt beroende på profilval. Vad som gäller för respektive profil kan du läsa om nedan.
+Byt till Kulturama Grundskola
+Vill du byta till Kulturama Grundskola? Välkommen att kontakta oss.
+Hammarby Sjöstad
+ansokning.hs@kulturama.se
+Sundbyberg
+ansokning.sbg@kulturama.se
+Kontakt Kulturama Grundskola
+Kontakt Kulturama Grundskola
+Har du några frågor, vill skicka post eller besöka någon av våra grundskolor? Här hittar du samtliga kontaktuppgifter till oss.
+UndermenyAnsökan
+Aktuellt

@@ -1,0 +1,32 @@
+{
+  "school_id": "95057356",
+  "school_name": "Uppgårdskolan",
+  "registered_url": "http://www.ekero.se/uppgardskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/uppgardskolan-7-9",
+      "source_url": "https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/uppgardskolan-7-9",
+      "page_title": "Uppgårdskolan 7-9 - Ekerö kommun",
+      "accessed_at": "2026-10-21T17:44:20.344340+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "95057356_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/uppgardskolan-7-9",
+          "robots_url": "https://www.ekero.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:37:12.230117+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

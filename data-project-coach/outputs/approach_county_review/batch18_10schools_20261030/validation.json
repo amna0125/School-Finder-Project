@@ -1,0 +1,16 @@
+{
+  "schema_valid": true,
+  "exact_quote_matches": 13,
+  "quote_match_scope": "Each quotation matched normalized text of its own saved source, not a different page.",
+  "evidence": 13,
+  "codes": 8,
+  "schools": 10,
+  "validated_at": "2026-10-30T09:31:01.577955+00:00",
+  "source_access_date_basis": "Public fetches recorded in active task on2026-10-30, not page-update or load date.",
+  "caveats": [
+    "Robots checks after initial fetches",
+    "Stockholm robots control-byte uncertainty",
+    "Terms not exhaustively reviewed",
+    "No inferred county representativeness"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "school_unit_code": "64736967",
+  "school_name": "Västbergaskolan",
+  "registered_url": "http://www.vastbergaskolan.se",
+  "attempted_at": "2026-10-21T09:22:36.750514+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vastbergaskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:45.192197+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vastbergaskolan.se",
+          "robots_url": "http://vastbergaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:38.606286+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vastbergaskolan.se/",
+          "robots_url": "https://vastbergaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:40.462111+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "64736967_0.txt"
+    },
+    {
+      "source_url": "https://vastbergaskolan.se/verksamhet/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:45.229919+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vastbergaskolan.se/verksamhet/grundskola/",
+          "robots_url": "https://vastbergaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:40.462111+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "64736967_1.txt"
+    },
+    {
+      "source_url": "https://vastbergaskolan.se/verksamhet/anpassad-grundskola/",
+      "retrieved_at": "2026-10-21T09:22:45.270267+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vastbergaskolan.se/verksamhet/anpassad-grundskola/",
+          "robots_url": "https://vastbergaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:40.462111+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "64736967_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Eleverna läser enligt anpassade grundskolans kursplaner med inriktning mot ämnesområden (estetisk verksamhet, verklighetsuppfattning, kommunikation, motorik och vardagsaktiviteter).",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "87dde118bd122daae19d88b298024d76b5c596d8cc8c704b1e33a345f543cfb5",
+      "school_unit_code": "64736967",
+      "school_name": "Västbergaskolan",
+      "source_url": "https://vastbergaskolan.se/verksamhet/anpassad-grundskola/",
+      "retrieved_at": "2026-10-21T09:22:45.270267+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

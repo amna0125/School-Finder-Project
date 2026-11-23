@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 8,
+  "scoped_no_clear_schools": 1,
+  "requires_review_schools": 1,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 15,
+  "new_code_rows": 14,
+  "database_evidence_total": 186,
+  "database_codes_total": 143,
+  "first_load_flow": "acrid-terrier",
+  "replay_flow": "stirring-jackrabbit",
+  "replay_inserted_rows": 0,
+  "tests": "13 tests passed: tests.test_duckdb, tests.test_website_county, tests.test_website_focus"
+}

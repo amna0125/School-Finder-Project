@@ -1,0 +1,32 @@
+{
+  "school_id": "75401552",
+  "school_name": "Turebergsskolan",
+  "registered_url": "https://www.sollentuna.se/uweb/turebergsskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/turebergsskolan/",
+      "source_url": "https://www.sollentuna.se/uweb/turebergsskolan/",
+      "page_title": "Turebergsskolan",
+      "accessed_at": "2026-10-21T17:40:40.909862+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "75401552_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/turebergsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:25.959945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

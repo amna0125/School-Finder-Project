@@ -1,0 +1,17 @@
+{
+  "school_id": "60570294",
+  "school_name": "Brunnsängskolan",
+  "registered_url": "http://www.sodertalje.se/brunnsangskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.sodertalje.se/brunnsangskolan",
+      "error": "Too many redirects",
+      "attempted_at": "2026-10-21T17:38:41.137958+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

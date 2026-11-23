@@ -1,0 +1,30 @@
+{
+  "school_unit_code": "70329261",
+  "school_name": "Hägerstensåsens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstensasens-skola",
+  "attempted_at": "2026-10-21T09:16:50.721527+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstensasens-skola",
+      "retrieved_at": "2026-10-21T09:16:56.661619+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstensasens-skola",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "70329261_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

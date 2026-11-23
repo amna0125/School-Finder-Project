@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "55508705",
+  "school_name": "Stiftelsen Josefinaskolan",
+  "registered_url": "http://www.josefinaskolan.se",
+  "attempted_at": "2026-10-21T09:16:33.290664+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.josefinaskolan.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "school_unit_code": "57106833",
+  "school_name": "Vendestigens Förskola och Skola AB",
+  "registered_url": "http://www.vendestigen.se",
+  "attempted_at": "2026-10-21T09:22:12.951769+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vendestigen.se/",
+      "retrieved_at": "2026-10-21T09:22:24.509816+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vendestigen.se",
+          "robots_url": "http://vendestigen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:17.823962+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vendestigen.se/",
+          "robots_url": "https://vendestigen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:20.537860+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "57106833_0.txt"
+    },
+    {
+      "source_url": "https://vendestigen.se/kontakta-oss/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:24.559591+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vendestigen.se/kontakta-oss/om-oss/",
+          "robots_url": "https://vendestigen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:20.537860+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "57106833_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Ca 60 barn i åldrarna 6-10 år. Vi samarbetar med skolan, erbjuder läxhjälp, undervisning i programmering en gång per vecka, idrott/rörelse, utedagar, pyssel, dans och mycket annat.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5ee871a3b70eff684c39e36ac852fe6d1d4e22a69611cbb3bd842ac7808f65ae",
+      "school_unit_code": "57106833",
+      "school_name": "Vendestigens Förskola och Skola AB",
+      "source_url": "https://vendestigen.se/",
+      "retrieved_at": "2026-10-21T09:22:24.509816+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "usa, fina lokaler med stimulerande arbetsmiljö och en närhet till härliga grönområden. Vi nyttjar vår omgivning dagligen med promenader, utflykter och utomhusundervisning. Matsal, musiksal, syslöjds- och träslöjdssalar ligger i närliggande byggnader.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "948847443fb60ed8c1ff8751e2e0eaab4a56c11761a7c46e0fa51cbc3ca2de23",
+      "school_unit_code": "57106833",
+      "school_name": "Vendestigens Förskola och Skola AB",
+      "source_url": "https://vendestigen.se/",
+      "retrieved_at": "2026-10-21T09:22:24.509816+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Sedan hösten 2020 finns vi på Vendevägen 30 A i rymliga lokaler med närhet till idrottshall, simhall, slöjd- och musiksalar.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ec2db213420dbaaa0654648a8d51e20008913de320faf5e23fa7f5ed996ff43f",
+      "school_unit_code": "57106833",
+      "school_name": "Vendestigens Förskola och Skola AB",
+      "source_url": "https://vendestigen.se/kontakta-oss/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:24.559591+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

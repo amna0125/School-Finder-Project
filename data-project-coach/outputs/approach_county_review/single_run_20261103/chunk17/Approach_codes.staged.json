@@ -1,0 +1,211 @@
+[
+  {
+    "code_id": "ac_sr_92689250_01",
+    "school_id": "92689250",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_92689250_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_92750123_01",
+    "school_id": "92750123",
+    "category": "Arts and creative learning",
+    "subcategory": "Drama on timetable",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_92750123_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Single added subject.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_92750123_02",
+    "school_id": "92750123",
+    "category": "Other stated profile",
+    "subcategory": "Literary reading each term",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_92750123_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per reading-emphasis precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_93301103_01",
+    "school_id": "93301103",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_93301103_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per resource-school precedent; site shared by two units.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_93968806_01",
+    "school_id": "93968806",
+    "category": "Other stated profile",
+    "subcategory": "Bornholmsmodellen (förskoleklass)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_93968806_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per Bornholm precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_93968806_02",
+    "school_id": "93968806",
+    "category": "Other stated profile",
+    "subcategory": "Language-developing priority",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_93968806_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per language-developing precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94301041_01",
+    "school_id": "94301041",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Thematic work",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_94301041_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94600352_01",
+    "school_id": "94600352",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Friluftsprofil",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_94600352_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency for teaching not stated; fritids monthly.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94677983_01",
+    "school_id": "94677983",
+    "category": "Other stated profile",
+    "subcategory": "Reading promotion via library",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_94677983_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per reading-emphasis precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94791997_01",
+    "school_id": "94791997",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Hälsans skola (health profile)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_94791997_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per health-profile precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94836092_01",
+    "school_id": "94836092",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Språk och kommunikation (English, rhetoric)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_94836092_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94836092_02",
+    "school_id": "94836092",
+    "category": "Other stated profile",
+    "subcategory": "Bornholmsmodellen",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_94836092_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94836092_03",
+    "school_id": "94836092",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_94836092_03",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94902263_01",
+    "school_id": "94902263",
+    "category": "Arts and creative learning",
+    "subcategory": "Aesthetic forms of expression in learning",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_94902263_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94902263_02",
+    "school_id": "94902263",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Täppan small-group setting",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_94902263_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per on-site special group precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94943347_01",
+    "school_id": "94943347",
+    "category": "Other stated profile",
+    "subcategory": "Catholic profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_94943347_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Subject teaching stated as non-confessional.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_94943347_02",
+    "school_id": "94943347",
+    "category": "Other stated profile",
+    "subcategory": "Language-developing in all subjects",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_94943347_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_95057356_01",
+    "school_id": "95057356",
+    "category": "Other stated profile",
+    "subcategory": "Entrepreneurial learning",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_95057356_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No concrete practice described.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_96330648_01",
+    "school_id": "96330648",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Erasmus accredited",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_96330648_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per Erasmus precedent.",
+    "review_status": "Reviewed"
+  }
+]

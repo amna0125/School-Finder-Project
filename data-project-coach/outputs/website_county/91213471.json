@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "91213471",
+  "school_name": "Klockargårdens skola",
+  "registered_url": "https://www.lidingo.se/klockargardensskola",
+  "attempted_at": "2026-10-21T09:23:47.828434+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/",
+      "retrieved_at": "2026-10-21T09:23:51.756484+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lidingo.se/klockargardensskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.556963+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/klockargardensskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "91213471_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/fritidshem-klockargardens-skola/",
+      "retrieved_at": "2026-10-21T09:23:51.811167+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/fritidshem-klockargardens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "91213471_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/elev-och-foraldrainflytande-klockargardens-skola/",
+      "retrieved_at": "2026-10-21T09:23:51.871145+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/elev-och-foraldrainflytande-klockargardens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "91213471_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "ta skola, ligger på en lummig kulle med utsikt mot Kyrkviken. Det gamla skolhuset renoverades 2009 och är idag ihoplänkat med vår nybyggnation. På vår stora fina skolgård har även musikskolan sina lokaler.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "41283006ed728832bf8ed8cd9676601da813092949e2ca99344864fdb239b198",
+      "school_unit_code": "91213471",
+      "school_name": "Klockargårdens skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/",
+      "retrieved_at": "2026-10-21T09:23:51.756484+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

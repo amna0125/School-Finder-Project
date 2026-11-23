@@ -1,0 +1,72 @@
+{
+  "school_id": "13954336",
+  "school_name": "Martinskolan Söders Waldorfskola",
+  "registered_url": "http://www.martinskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://martinskolan.se/",
+      "source_url": "https://martinskolan.se/",
+      "page_title": "Martinskolan",
+      "accessed_at": "2026-10-21T17:27:51.585200+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "13954336_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://martinskolan.se/",
+          "robots_url": "https://martinskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.767075+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://martinskolan.se/grundskola",
+      "source_url": "https://martinskolan.se/grundskola",
+      "page_title": "Martinskolan",
+      "accessed_at": "2026-10-21T17:27:52.514297+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "13954336_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://martinskolan.se/grundskola",
+          "robots_url": "https://martinskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.767075+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://martinskolan.se/om-oss",
+      "source_url": "https://martinskolan.se/om-oss",
+      "page_title": "Martinskolan",
+      "accessed_at": "2026-10-21T17:27:53.592188+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "13954336_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://martinskolan.se/om-oss",
+          "robots_url": "https://martinskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.767075+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

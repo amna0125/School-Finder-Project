@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "57370453",
+  "school_name": "Karbyskolan",
+  "registered_url": "http://www.vallentuna.se/karby",
+  "attempted_at": "2026-10-21T09:22:15.501877+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.vallentuna.se/karby",
+      "error": "HTTP 404"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "school_id": "57106833",
+  "school_name": "Vendestigens Förskola och Skola AB",
+  "registered_url": "http://www.vendestigen.se",
+  "pages": [
+    {
+      "requested_url": "https://vendestigen.se/",
+      "source_url": "https://vendestigen.se/",
+      "page_title": "Vendestigen",
+      "accessed_at": "2026-10-21T17:38:14.313450+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "57106833_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vendestigen.se/",
+          "robots_url": "https://vendestigen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:11.814810+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vendestigen.se/kontakta-oss/om-oss/",
+      "source_url": "https://vendestigen.se/kontakta-oss/om-oss/",
+      "page_title": "Om oss – Vendestigen",
+      "accessed_at": "2026-10-21T17:38:16.062282+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "57106833_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vendestigen.se/kontakta-oss/om-oss/",
+          "robots_url": "https://vendestigen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:11.814810+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

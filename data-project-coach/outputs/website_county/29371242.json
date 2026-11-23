@@ -1,0 +1,76 @@
+{
+  "school_unit_code": "29371242",
+  "school_name": "Campus Manilla Utbildning AB",
+  "registered_url": "http://www.campusmanilla.se",
+  "attempted_at": "2026-10-21T09:20:55.386655+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://campusmanilla.se/",
+      "retrieved_at": "2026-10-21T09:21:14.344468+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.campusmanilla.se",
+          "robots_url": "https://campusmanilla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:01.924449+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.campusmanilla.se/",
+          "robots_url": "https://campusmanilla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:07.056386+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://campusmanilla.se/",
+          "robots_url": "https://campusmanilla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:11.398517+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29371242_0.txt"
+    },
+    {
+      "source_url": "https://campusmanilla.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:21:14.388201+00:00",
+      "robots_checks": [
+        {
+          "url": "https://campusmanilla.se/grundskola/",
+          "robots_url": "https://campusmanilla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:11.398517+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29371242_1.txt"
+    },
+    {
+      "source_url": "https://campusmanilla.se/grundskola/om-skolan/",
+      "retrieved_at": "2026-10-21T09:21:14.433036+00:00",
+      "robots_checks": [
+        {
+          "url": "https://campusmanilla.se/grundskola/om-skolan/",
+          "robots_url": "https://campusmanilla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:11.398517+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29371242_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

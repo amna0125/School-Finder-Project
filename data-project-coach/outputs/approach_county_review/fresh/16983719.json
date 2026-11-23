@@ -1,0 +1,17 @@
+{
+  "school_id": "16983719",
+  "school_name": "Broskolan",
+  "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/broskolan.html",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/broskolan.html",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:29:03.697940+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

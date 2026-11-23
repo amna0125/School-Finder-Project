@@ -1,0 +1,17 @@
+{
+  "school_id": "46165232",
+  "school_name": "Mälarhöjdens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:35:16.737170+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

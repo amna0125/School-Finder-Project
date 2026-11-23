@@ -1,0 +1,78 @@
+{
+  "school_unit_code": "36066067",
+  "school_name": "Lilla Akademien Musikgymnasium",
+  "registered_url": "http://www.lillaakademien.se",
+  "attempted_at": "2026-10-21T09:21:13.644414+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lillaakademien.se/",
+      "retrieved_at": "2026-10-21T09:21:18.680699+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.lillaakademien.se",
+          "robots_url": "https://www.lillaakademien.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:15.213882+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lillaakademien.se/",
+          "robots_url": "https://lillaakademien.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:16.762308+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "36066067_0.txt"
+    },
+    {
+      "source_url": "https://lillaakademien.se/grundskola",
+      "retrieved_at": "2026-10-21T09:21:18.718108+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lillaakademien.se/grundskola",
+          "robots_url": "https://lillaakademien.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:16.762308+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "36066067_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "”Jag är övertygad om att Lilla Akademien blir en föregångare för både konstnärlig och akademisk briljans. Världen är i stort behov av ett sådant himmelrike där musik spelas för att den är älskad.”",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "7082def7eb885ab7d38e8b6fbe5d54624fc84eddacf87f6a65060aefad5c9241",
+      "school_unit_code": "36066067",
+      "school_name": "Lilla Akademien Musikgymnasium",
+      "source_url": "https://lillaakademien.se/",
+      "retrieved_at": "2026-10-21T09:21:18.680699+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "För att ytterligare förstärka den konstnärliga prägeln får alla elever undervisning i skapande ämnen som dans och konst, i syfte att ge fördjupad kontakt med andra kreativa uttrycksformer.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5ea8253634f7fae95619ef755a9dab26f87ab115836701703e7cdd2363b11171",
+      "school_unit_code": "36066067",
+      "school_name": "Lilla Akademien Musikgymnasium",
+      "source_url": "https://lillaakademien.se/grundskola",
+      "retrieved_at": "2026-10-21T09:21:18.718108+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

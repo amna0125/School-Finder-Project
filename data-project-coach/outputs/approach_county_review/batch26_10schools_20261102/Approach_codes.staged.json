@@ -1,0 +1,79 @@
+[
+  {
+    "code_id": "ac_b26_41507895_01",
+    "school_id": "41507895",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Noblakoden structured learning environment",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b26_41507895_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website preschool through year3; only compulsory-school F–3 page and common Noblakoden context used. Target overlap years1–3. Outdoor pedagogy explicitly stated, frequency unspecified. Promotional attainment claims excluded; no effectiveness inference. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b26_41507895_02",
+    "school_id": "41507895",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor pedagogy, years1–3 overlap",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b26_41507895_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website preschool through year3; only compulsory-school F–3 page and common Noblakoden context used. Target overlap years1–3. Outdoor pedagogy explicitly stated, frequency unspecified. Promotional attainment claims excluded; no effectiveness inference. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b26_41554150_01",
+    "school_id": "41554150",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "IBIS, years1–3 overlap",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b26_41554150_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–3; target overlap1–3. IBIS named as preventive model. Research/evidensbaserad wording is school self-description, not verified effectiveness. University assessment collaboration not a profile. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b26_41584790_01",
+    "school_id": "41584790",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori-inspired",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b26_41584790_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–9; explicit Montessori-inspired rather than certified/full Montessori. Outdoor didactics explicitly integrated into teaching. About page references 2024 anniversary, so pupil count/current implementation not independently verified. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b26_41584790_02",
+    "school_id": "41584790",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor didactics integrated into teaching",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b26_41584790_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–9; explicit Montessori-inspired rather than certified/full Montessori. Outdoor didactics explicitly integrated into teaching. About page references 2024 anniversary, so pupil count/current implementation not independently verified. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b26_41888515_01",
+    "school_id": "41888515",
+    "category": "Other stated profile",
+    "subcategory": "Cooperative learning and elevhälsa i varje vrå, developing",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b26_41888515_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–6; cooperative learning and elevhälsa i varje vrå are developing step-by-step, not verified fully implemented. Trivselledare starts year2; recurring activities two days/week. Separate municipal tal/språk learning studio not generalized. Impact assertions excluded. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b26_41888515_02",
+    "school_id": "41888515",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare, from year2",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b26_41888515_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Website F–6; cooperative learning and elevhälsa i varje vrå are developing step-by-step, not verified fully implemented. Trivselledare starts year2; recurring activities two days/week. Separate municipal tal/språk learning studio not generalized. Impact assertions excluded. School wording, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

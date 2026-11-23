@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "40631085",
+  "school_name": "Fittjaskolan",
+  "registered_url": "http://www.botkyrka.se/fittjaskolanbotkyrkanorra",
+  "attempted_at": "2026-10-21T09:21:26.069902+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/fittjaskolanbotkyrkanorra",
+      "error": "HTTP 404"
+    }
+  ]
+}

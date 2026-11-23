@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "59266692",
+  "school_name": "Vittra Rösjötorp",
+  "registered_url": "http://www.vittra.se/rosjotorp",
+  "attempted_at": "2026-10-21T09:16:39.638748+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.vittra.se/rosjotorp",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

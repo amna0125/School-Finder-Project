@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "57510246",
+  "school_name": "Snitz Grundskola",
+  "registered_url": "https://snitz.se/grundskola/",
+  "attempted_at": "2026-10-21T09:16:37.406491+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://snitz.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:43.049543+00:00",
+      "robots_checks": [
+        {
+          "url": "https://snitz.se/grundskola/",
+          "robots_url": "https://snitz.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:38.727201+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "57510246_0.txt"
+    },
+    {
+      "source_url": "https://snitz.se/grundskola/om-skolan/",
+      "retrieved_at": "2026-10-21T09:16:43.075141+00:00",
+      "robots_checks": [
+        {
+          "url": "https://snitz.se/grundskola/om-skolan/",
+          "robots_url": "https://snitz.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:38.727201+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "57510246_1.txt"
+    },
+    {
+      "source_url": "https://snitz.se/grundskola/om-skolan/specialpedagogik/",
+      "retrieved_at": "2026-10-21T09:16:43.109792+00:00",
+      "robots_checks": [
+        {
+          "url": "https://snitz.se/grundskola/om-skolan/specialpedagogik/",
+          "robots_url": "https://snitz.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:38.727201+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "57510246_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

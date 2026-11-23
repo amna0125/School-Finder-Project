@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "57368693",
+  "school_name": "Sickla skola",
+  "registered_url": "http://www.sickla.nacka.se",
+  "attempted_at": "2026-10-21T09:22:15.061938+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/sickla-skola/",
+      "retrieved_at": "2026-10-21T09:22:20.566114+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sickla.nacka.se",
+          "robots_url": "https://www.nacka.se/valfard-skola/sickla-skola/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:17.273857+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "http://www.nacka.se/valfard-skola/sickla-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.175460+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/sickla-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "57368693_0.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/sickla-skola/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:20.607783+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/sickla-skola/om-oss/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "57368693_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vår nyrenoverade skola har specialsalar för NO, hemkunskap och teknik, ett inspirerande bibliotek och kreativa estetiska salar. I musiksalen, som har en egen scen, kan elevernas kreativitet flöda! Dessutom får alla elever egna skåp och tillgång till ett elevkafé, som de kan vara med och driva.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "7b2d9d5f7f50e1bd612191844586c9d8a547917e3230a851f53f7e7e7ae14ada",
+      "school_unit_code": "57368693",
+      "school_name": "Sickla skola",
+      "source_url": "https://www.nacka.se/valfard-skola/sickla-skola/",
+      "retrieved_at": "2026-10-21T09:22:20.566114+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Vår nyrenoverade skola har specialsalar för NO, hemkunskap och teknik, ett inspirerande bibliotek och kreativa estetiska salar. I musiksalen, som har en egen scen, kan elevernas kreativitet flöda! Dessutom får alla elever egna skåp och tillgång till ett elevkafé, som de kan vara med och driva.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "4554b2992b4c017a52c229025cf8f9ff2efcea0396e0c0c3afc854d22b4ffe8b",
+      "school_unit_code": "57368693",
+      "school_name": "Sickla skola",
+      "source_url": "https://www.nacka.se/valfard-skola/sickla-skola/",
+      "retrieved_at": "2026-10-21T09:22:20.566114+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

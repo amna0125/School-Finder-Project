@@ -1,0 +1,74 @@
+{
+  "school_unit_code": "19983531",
+  "school_name": "Rodrets friskola",
+  "registered_url": "http://www.rodret.nu",
+  "attempted_at": "2026-10-21T09:20:25.780005+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://rodret.nu/",
+      "retrieved_at": "2026-10-21T09:20:37.157559+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.rodret.nu",
+          "robots_url": "https://rodret.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.770670+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.rodret.nu/",
+          "robots_url": "https://rodret.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:33.318551+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://rodret.nu/",
+          "robots_url": "https://rodret.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:35.110139+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "19983531_0.txt"
+    },
+    {
+      "source_url": "https://rodret.nu/om-rodret/profil/",
+      "retrieved_at": "2026-10-21T09:20:37.173894+00:00",
+      "robots_checks": [
+        {
+          "url": "https://rodret.nu/om-rodret/profil/",
+          "robots_url": "https://rodret.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:35.110139+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "19983531_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Förskolan och skolan ger möjlighet till upplevelser i bland annat form av utflykter, teater, museibesök, konserter, skogsvistelse, idrotter arrangerade av lokala föreningar.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1fa331303b90589aa30a8afd7121c9a9b2768eb9a50fd30cb6c880309e8ead0e",
+      "school_unit_code": "19983531",
+      "school_name": "Rodrets friskola",
+      "source_url": "https://rodret.nu/om-rodret/profil/",
+      "retrieved_at": "2026-10-21T09:20:37.173894+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

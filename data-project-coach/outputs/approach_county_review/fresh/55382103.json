@@ -1,0 +1,17 @@
+{
+  "school_id": "55382103",
+  "school_name": "Björngårdsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjorngardsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjorngardsskolan",
+      "error": "The read operation timed out",
+      "attempted_at": "2026-10-21T17:38:00.900884+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

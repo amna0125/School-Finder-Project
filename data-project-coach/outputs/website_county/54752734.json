@@ -1,0 +1,64 @@
+{
+  "school_unit_code": "54752734",
+  "school_name": "Västra Ekoskolan",
+  "registered_url": "http://www.ekoskolan.se",
+  "attempted_at": "2026-10-21T09:22:07.899509+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.ekoskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:14.985408+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.ekoskolan.se",
+          "robots_url": "https://www.ekoskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:09.830082+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.ekoskolan.se/",
+          "robots_url": "https://www.ekoskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:11.742809+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "54752734_0.txt"
+    },
+    {
+      "source_url": "https://www.ekoskolan.se/om-skolan",
+      "retrieved_at": "2026-10-21T09:22:15.025040+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.ekoskolan.se/om-skolan",
+          "robots_url": "https://www.ekoskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:11.742809+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "54752734_1.txt"
+    },
+    {
+      "source_url": "https://www.ekoskolan.se/om-skolan/pedagogik",
+      "retrieved_at": "2026-10-21T09:22:15.059850+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.ekoskolan.se/om-skolan/pedagogik",
+          "robots_url": "https://www.ekoskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:11.742809+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "54752734_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

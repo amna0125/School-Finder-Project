@@ -1,0 +1,92 @@
+[
+  {
+    "evidence_id": "ae_b21_35933721_01",
+    "school_id": "35933721",
+    "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+    "page_title": "Rudboda skola F-6 - Lidingö",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Fokus på kunskaper och med rörelse som profil",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit movement profile; pedagogy page states health/movement permeates school. Not evidence of effects on learning."
+  },
+  {
+    "evidence_id": "ae_b21_35933721_02",
+    "school_id": "35933721",
+    "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+    "page_title": "Rudboda skola F-6 - Lidingö",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi undervisar ämnesintegrerat och innovativt i ämnena teknik, slöjd och bild under samlingsnamnet ArtLab.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "ArtLab is an explicit ongoing subject-integrated arts/technology teaching approach, not an isolated event or ordinary subject list."
+  },
+  {
+    "evidence_id": "ae_b21_35933721_03",
+    "school_id": "35933721",
+    "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/var-pedagogik-rudboda-skola/",
+    "page_title": "Vår pedagogik, Rudboda skola - Lidingö",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Friluftsliv och uteliv i vår fina närmiljö berikar undervisningen i flertalet ämnen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit outdoor learning across multiple subjects; no inferred implementation or effectiveness."
+  },
+  {
+    "evidence_id": "ae_b21_36021631_01",
+    "school_id": "36021631",
+    "source_url": "https://www.ahavaxthuset.se/v%C3%A4xthuset/",
+    "page_title": "Växthuset",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Som har en kvalitativ undervisning som bygger på montessoripedagogiken, forskning och beprövad erfarenhet",
+    "evidence_type": "School webpage",
+    "interpretation_note": "School-specific Montessori statement, not inferred from name or preschool homepage. Promotional quality clause not endorsed."
+  },
+  {
+    "evidence_id": "ae_b21_36185466_01",
+    "school_id": "36185466",
+    "source_url": "https://iurochskur.friluftsframjandet.se/i-ur-och-skur-forskola--skola/i-ur-och-skurs-verksamheter/i-ur-och-skur-utsikten-skola/",
+    "page_title": "Utsiktens skola, Lidingö - I Ur och Skur",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi arbetar ämnesintegrerat i projekt där mycket av det praktiska lärandet sker ute och det teoretiska inne.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "School-specific project statement, not provider footer. Practical outdoor learning explicitly part of projects; separate outdoor code uses same short evidence."
+  },
+  {
+    "evidence_id": "ae_b21_36232577_01",
+    "school_id": "36232577",
+    "source_url": "https://brommaenskilda.se/",
+    "page_title": "Bromma Enskilda Skola - BES",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi tror att våra extra fokusområden på språklig utveckling, matematik och rörelse bidrar till både skolglädje och ett livslångt lärande.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit combined school priorities. Movement corroborated by separate school section of Puls för lärande; preschool and F-class outdoor descriptions not transferred. Language development alone is not international/intercultural profile."
+  },
+  {
+    "evidence_id": "ae_b21_36276828_01",
+    "school_id": "36276828",
+    "source_url": "https://futuraskolan.se/schools/kottla/",
+    "page_title": "Kottla 7-9 – Futuraskolan",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Futuraskolan International Kottla is a grade 7-9 school that follows the Swedish National curriculum, but with a strong international focus.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official ID directory confirms Kottla7–9, Lidingö, despite DB name Futuraskolan AB. Campus page states Swedish national curriculum plus IMYC. Separate International School of Stockholm curriculum/permit not transferred; no rankings used."
+  },
+  {
+    "evidence_id": "ae_b21_36281817_01",
+    "school_id": "36281817",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+    "page_title": "Höglandsskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Skolan har en lång historia och en tydlig estetisk inriktning.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Teaching section describes practical/aesthetic integration with theory, multiple expression modes and annual whole-school theatre. Explicit sustained aesthetic orientation, not isolated activity. Causal benefits not endorsed."
+  },
+  {
+    "evidence_id": "ae_b21_36350546_01",
+    "school_id": "36350546",
+    "source_url": "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/tunaskolan",
+    "page_title": "Tunaskolan i Tumba - Botkyrka kommun - Botkyrka kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "På Tunaskolan är det språkutvecklande arbetet i fokus, liksom vårt elevhälsoarbete.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Broad language-development and student-health focus; ordinary whole-curriculum language work, generic relationships and statutory student-health staffing insufficient for firm language/inclusion category. Not evidence of an international profile. Retain uncertainty without code."
+  }
+]

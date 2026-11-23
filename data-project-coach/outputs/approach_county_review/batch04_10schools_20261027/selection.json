@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "14121892",
+    "official_directory_name": "Bredängsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bredangsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "14261356",
+    "official_directory_name": "Ekillaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sigtuna.se/ekillaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "14440920",
+    "official_directory_name": "Visättraskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.huddinge.se/visattraskolan",
+    "note": ""
+  },
+  {
+    "school_id": "14472068",
+    "official_directory_name": "Kristna skolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.kristnaskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "14479858",
+    "official_directory_name": "Tallkrogens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tallkrogens-skola",
+    "note": ""
+  },
+  {
+    "school_id": "14845171",
+    "official_directory_name": "Eviaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.eviagruppen.se",
+    "note": ""
+  },
+  {
+    "school_id": "14872951",
+    "official_directory_name": "Magelungens Grundskola Södertälje",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.magelungen.com",
+    "note": ""
+  },
+  {
+    "school_id": "15049834",
+    "official_directory_name": "Lilla Alby skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sundbyberg.se/lillaalbyskola",
+    "note": ""
+  },
+  {
+    "school_id": "15080815",
+    "official_directory_name": "Fjällenskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarfalla.se",
+    "note": ""
+  },
+  {
+    "school_id": "15171331",
+    "official_directory_name": "Nordic International School, Stockholm",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://nordicinternational.se/essingen",
+    "note": ""
+  }
+]

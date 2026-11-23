@@ -1,0 +1,72 @@
+{
+  "school_id": "39907811",
+  "school_name": "Sofielundsskolan",
+  "registered_url": "http://www.sollentuna.se/sv/uweb/sofielundsskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/sofielundsskolan/",
+      "source_url": "https://www.sollentuna.se/uweb/sofielundsskolan/",
+      "page_title": "Sofielundsskolan",
+      "accessed_at": "2026-10-21T17:33:15.248645+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "39907811_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/sofielundsskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:46.701930+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/",
+      "source_url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/",
+      "page_title": "Om skolan",
+      "accessed_at": "2026-10-21T17:33:16.091565+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "39907811_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:46.701930+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/elevhalsan/",
+      "source_url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/elevhalsan/",
+      "page_title": "Elevhälsan",
+      "accessed_at": "2026-10-21T17:33:16.893626+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "39907811_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/sofielundsskolan/om-oss/elevhalsan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:46.701930+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

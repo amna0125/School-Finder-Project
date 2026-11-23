@@ -1,0 +1,29 @@
+--- county_progress_20261030_after_batch17.csv
++++ county_progress_20261030_after_batch18.csv
+@@ -180,16 +180,16 @@
+ 31528772,Mariaskolan,Reviewed claim,batch17_10schools_20261030,contextually_reviewed_followups_retained,http://www.mariaskolan.nu,Mariaskolan Järna F–9; official1–9. Stale lgr11 wording; general Waldorf F–12 passage not unit scope; events/gallery/preschool excluded.
+ 31608087,Urfjälls Montessoriskola,Reviewed claim,batch17_10schools_20261030,contextually_reviewed_followups_retained,http://www.urfjall.se,"Urfjäll Kungsängen F–3; official1–3. Successful access supersedes older inaccessible status. Montessori values school-wide, materials specifically F-class. Preschool excluded."
+ 31758556,Margretelundsskolan,Reviewed claim,batch17_10schools_20261030,contextually_reviewed_followups_retained,http://www.osteraker.se,Margretelund F–6; official1–6. Reading page2024 remains dated claim; junior safety team page2026. Ordinary library/support provision not independently added as profile.
+-31851256,Roslagsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+-31903219,Magelungsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan,
+-32231541,Täby Friskola-Enhagen,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tabyfriskola.se,
+-32479095,Vaxmoraskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.edu.sollentuna.se/vax/,
+-32585503,Grisslehamns skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+-32886383,Mörtviksskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/mortviksskolan,
+-32965692,Noblaskolan Saltsjö-Boo,Not yet contextually reviewed,,fetched_requires_context_review,https://noblaskolan.se/saltsjo-boo/,
+-32993837,Ursvikskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sundbyberg.se/ursvikskolan,
+-33159363,Munsö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/munsoskola,
+-33455004,Njupkärrs skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
++31851256,Roslagsskolan,Reviewed claim,batch18_10schools_20261030,contextually_reviewed_followups_retained,http://www.norrtalje.se,Music classes7–9 only. No additional unit identity question; claims remain unverified.
++31903219,Magelungsskolan,Reviewed claim,batch18_10schools_20261030,contextually_reviewed_followups_retained,https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan,Farsta municipalF–6; official1–6. Current200 supersedes inaccessible historical status; Stockholm robots control-byte uncertainty. Farsta municipalF–6; official1–6. Current200 supersedes inaccessible historical status; Stockholm robots control-byte uncertainty.
++32231541,Täby Friskola-Enhagen,Reviewed claim,batch18_10schools_20261030,contextually_reviewed_followups_retained,http://www.tabyfriskola.se,Current Enhagen6–9; official DB name Täby Friskola vs ledger Täby Friskola-Enhagen.2027 F–9 expansion excluded. Current Enhagen6–9; official DB name Täby Friskola vs ledger Täby Friskola-Enhagen.2027 F–9 expansion excluded.
++32479095,Vaxmoraskolan,Reviewed claim,batch18_10schools_20261030,contextually_reviewed_followups_retained,http://www.edu.sollentuna.se/vax/,F–6 vs official1–6; current official URL200 replaces old registered edu.sollentuna URL; no assumption about old URL status. No additional unit identity question; claims remain unverified.
++32585503,Grisslehamns skola,Reviewed claim,batch18_10schools_20261030,contextually_reviewed_followups_retained,http://www.norrtalje.se,SchoolF–6 vs official1–6; orchestra participants only. No additional unit identity question; claims remain unverified.
++32886383,Mörtviksskolan,Unclear evidence; requires review,batch18_10schools_20261030,contextually_reviewed_followups_retained,http://www.huddinge.se/mortviksskolan,SchoolF–6; regional F–9 is not local provision. Nature-school/fritids scope unclear. SchoolF–6; regional F–9 is not local provision. Nature-school/fritids scope unclear.
++32965692,Noblaskolan Saltsjö-Boo,Reviewed claim,batch18_10schools_20261030,contextually_reviewed_followups_retained,https://noblaskolan.se/saltsjo-boo/,School1–9; preschool excluded; upper-grade detail scoped. No additional unit identity question; claims remain unverified.
++32993837,Ursvikskolan,Scoped no clear evidence,batch18_10schools_20261030,contextually_reviewed_followups_retained,http://www.sundbyberg.se/ursvikskolan,Current schoolF–6; old registered URL not tested; successful current official source supersedes inaccessible historical classification. No additional unit identity question; claims remain unverified.
++33159363,Munsö skola,Reviewed claim,batch18_10schools_20261030,contextually_reviewed_followups_retained,http://www.ekero.se/munsoskola,SchoolF–3; official1–3. SAM preschool context retained; precise CPS implementation not independently verified. SchoolF–3; official1–3. SAM preschool context retained; precise CPS implementation not independently verified.
++33455004,Njupkärrs skola,Reviewed claim,batch18_10schools_20261030,contextually_reviewed_followups_retained,http://www.tyreso.se,F–6 vs official1–6; existing pavilion separate from future school. No additional unit identity question; claims remain unverified.
+ 33565539,Gustav Vasaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.skolor.vallentuna.se/gustavvasa/,
+ 33624606,Måsöskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+ 33733966,International School of Kungsholmen,Not yet contextually reviewed,,inaccessible_requires_review,https://www.internationalschoolofkungsholmen.com/,

@@ -1,0 +1,76 @@
+{
+  "school_unit_code": "81680693",
+  "school_name": "HagaLyckebyskolan",
+  "registered_url": "http://haninge.se/forskola-och-skola/grundskola/",
+  "attempted_at": "2026-10-21T09:23:20.433562+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.haninge.se/skola-och-forskola/grundskola/",
+      "retrieved_at": "2026-10-21T09:23:25.696145+00:00",
+      "robots_checks": [
+        {
+          "url": "http://haninge.se/forskola-och-skola/grundskola/",
+          "robots_url": "https://www.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:53.002842+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.haninge.se/forskola-och-skola/grundskola/",
+          "robots_url": "https://www.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.667929+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.haninge.se/skola-och-forskola/grundskola/",
+          "robots_url": "https://www.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.667929+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81680693_0.txt"
+    },
+    {
+      "source_url": "https://www.haninge.se/skola-och-forskola/grundskola/hitta-grundskola/",
+      "retrieved_at": "2026-10-21T09:23:25.730764+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.haninge.se/skola-och-forskola/grundskola/hitta-grundskola/",
+          "robots_url": "https://www.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.667929+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81680693_1.txt"
+    },
+    {
+      "source_url": "https://www.haninge.se/skola-och-forskola/grundskola/ansoka-eller-byta-skola/",
+      "retrieved_at": "2026-10-21T09:23:25.771391+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.haninge.se/skola-och-forskola/grundskola/ansoka-eller-byta-skola/",
+          "robots_url": "https://www.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.667929+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "81680693_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "11442396",
+  "school_name": "Stockholm International Academy Hägersten",
+  "registered_url": "https://siaskolan.se",
+  "attempted_at": "2026-10-21T09:15:17.389973+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "https://siaskolan.se",
+      "error": "Explicit crawl delay requires manual scheduling"
+    }
+  ]
+}

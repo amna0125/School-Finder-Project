@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "11496096",
+  "school_name": "Kunskapsskolan Saltsjöbaden",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+  "attempted_at": "2026-10-21T09:15:17.923393+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+      "retrieved_at": "2026-10-21T09:15:24.039051+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11496096_0.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/kontakta-oss",
+      "retrieved_at": "2026-10-21T09:15:24.064938+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11496096_1.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:24.275912+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11496096_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "3c24f435db3cc3e08dc1c506e565578a93e5e68175ee5c4286a3401c8b4b63ae",
+      "school_unit_code": "11496096",
+      "school_name": "Kunskapsskolan Saltsjöbaden",
+      "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:24.275912+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Musik skapad av elever i åttan spelades upp av Västerås symfoniorkester",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "b534679ab0757a3075324019c7a0fa17eed4e4544e4d3bd11a33368b925a8b72",
+      "school_unit_code": "11496096",
+      "school_name": "Kunskapsskolan Saltsjöbaden",
+      "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:15:24.275912+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

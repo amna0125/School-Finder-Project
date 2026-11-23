@@ -1,0 +1,46 @@
+[
+{"sid":"56867397","o":"R","note":"Silverbäcken Dibber F–9: stated outdoor-pedagogy orientation, especially younger pupils.","ev":[
+ {"p":0,"q":"Vi har en inriktning kring utepedagogik vilket innebär att vi är ute mycket med våra elever både under skoldagen samt på fritids på eftermiddagarna.","i":"Explicit outdoor-pedagogy orientation; profile page says much time outdoors mainly for younger pupils.","c":[["Outdoor, nature, or place-based learning","Outdoor pedagogy orientation","E"]],"cn":"Emphasis on younger years."}]},
+{"sid":"56949296","o":"N","note":"Blackeberg F–6: renovation/relocation 2028–2030, SVA teachers, safety team and values themes. Generic; no distinctive approach."},
+{"sid":"57034070","o":"R","note":"Magelungen Grundskola Södermalm: provider-level resource school description; unit page not separately reached.","ev":[
+ {"p":0,"q":"Skola för elever i omfattande behov av särskilt stöd med eller utan behandling.","i":"All Magelungen grundskolor are resource schools; applies to registered unit.","t":"Provider webpage","c":[["Support, inclusion, or wellbeing emphasis","Resource school; extensive special support","E"]],"cn":"Provider-level."}]},
+{"sid":"57106833","o":"R","note":"Vendestigen (Djursholm, small F–6 with preschool): daily movement and daily outdoor teaching/walks; preschool text excluded.","ev":[
+ {"p":0,"q":"Vi nyttjar vår omgivning dagligen med promenader, utflykter och utomhusundervisning.","i":"Daily use of surroundings including outdoor teaching; page mixes preschool and school.","c":[["Outdoor, nature, or place-based learning","Daily walks, excursions and outdoor teaching","S"]],"cn":"Shared preschool/school page."}]},
+{"sid":"57184925","o":"N","note":"Hökaräng F–9: library, elevhälsa, large anpassad grundskola. Generic for the grundskola unit."},
+{"sid":"57206066","o":"R","note":"Vallatorp F–6 (Täby): Pep-certified movement and healthy eating.","ev":[
+ {"p":0,"q":"Vi är också Pep-certifierade och arbetar aktivt med rörelse och hälsosamma matvanor under dagen.","i":"Health/movement emphasis; certification is school claim.","c":[["Support, inclusion, or wellbeing emphasis","Generation Pep: movement and food habits","E"]],"cn":"Not independently checked."}]},
+{"sid":"57228484","o":"B","why":"source inaccessible","note":"Registered Botkyrka URL returns HTTP 404."},
+{"sid":"57317316","o":"R","note":"JENSEN Långholmen 6–9: health profile; traditional teacher-led/handwriting profile. Other JENSEN schools' pages excluded.","ev":[
+ {"p":0,"q":"Vår skola präglas av studier i fokus, trygghet och studiero. Skolan har också en tydlig hälsoprofil.","i":"Stated health profile.","c":[["Support, inclusion, or wellbeing emphasis","Health profile","E"]],"cn":"No detail on health activities."},
+ {"p":0,"q":"Vi är en traditionell skola fri från trender.","i":"Traditional teacher-led profile; handwriting/literature emphasis.","c":[["Other stated profile","Traditional teacher-led; handwriting emphasis","E"]],"cn":"Self-description."}]},
+{"sid":"57329777","o":"R","note":"Konradsberg 4–9: current focus areas mathematics and reading development; museums used in teaching and inclusion wording not separately coded.","ev":[
+ {"p":0,"q":"Våra fokusområden just nu är matematik och läsutveckling.","i":"Current development focus; dated ('just nu').","c":[["Other stated profile","Current focus: mathematics and reading development","S"]],"cn":"Time-limited focus."}]},
+{"sid":"57368693","o":"R","note":"Sickla skola (Nacka): Trivselprogrammet member; outdoor classroom mention not coded.","ev":[
+ {"p":0,"q":"Sickla skola är en Trivselskola, vi är med i Trivselprogrammet för mer aktivitet och ökad trivsel på rasterna.","i":"Named Trivselprogrammet.","c":[["Support, inclusion, or wellbeing emphasis","Trivselprogrammet","E"]],"cn":"Named programme."}]},
+{"sid":"57370453","o":"B","why":"source inaccessible","note":"Registered Vallentuna URL returns HTTP 404."},
+{"sid":"57467562","o":"R","note":"Freinetskolan Mimer Tingshuset: unit of Freinetskolan Mimer; shared site's Freinet pedagogy page.","ev":[
+ {"p":1,"q":"I Sverige finns också flera friskolor som arbetar med Freinetpedagogik. Freinetskolan Mimer och Freinetskolan Hugin i Norrtälje är två av dessa.","i":"Shared Mimer site; Tingshuset is a Mimer unit, so Freinet framing applies.","c":[["Alternative pedagogy","Freinet","E"]],"cn":"Unit-specific Tingshuset page not separately reviewed."}]},
+{"sid":"57510246","o":"R","note":"Snitz Grundskola 7–9: resource school with NPF orientation, small classes.","ev":[
+ {"p":0,"q":"Vi är en liten högstadieskola i Stockholm som främst vänder sig till elever med neuropsykiatriska funktionsvariationer, som till exempel AST och ADHD.","i":"Explicit resource school for pupils with NPF.","c":[["Support, inclusion, or wellbeing emphasis","Resource school; NPF orientation","E"]],"cn":"School-level target group."}]},
+{"sid":"57755652","o":"R","note":"Neptuni F–6 (Järfälla): visual support in all classrooms and known routines.","ev":[
+ {"p":1,"q":"Alla klassrum har bildstöd, alla elever vet vad som händer under skoldagen.","i":"Concrete accessibility practice school-wide.","c":[["Support, inclusion, or wellbeing emphasis","Visual support and predictable routines","S"]],"cn":"School description."}]},
+{"sid":"57850353","o":"R","note":"Sverigefinska skolan Botkyrka: Finnish–Swedish bilingual school.","ev":[
+ {"p":0,"q":"Sverigefinska skolan i Botkyrka är en tvåspråkig friskola med bra resultat.","i":"Explicit bilingual Finnish–Swedish school with study trips.","c":[["Language, international, or intercultural profile","Finnish–Swedish bilingual","E"]],"cn":"Results claim not verified."}]},
+{"sid":"58004018","o":"B","why":"no registered website","note":"No registered website in official data."},
+{"sid":"58102266","o":"U","why":"isolated / generic claim","note":"Vittra Sollentuna F–9: single 'verklighetsnära arbetssätt' mention; annual adventure day is an occasional event. No firm code (cf. other Vittra units).","ev":[
+ {"p":0,"q":"Genom verklighetsnära arbetssätt blir undervisningen både rolig och meningsfull.","i":"Isolated provider-style statement."}]},
+{"sid":"58173761","o":"N","note":"Olovslund F–6 (Järfälla): thin page with size/organisation facts only. No approach content in reviewed page."},
+{"sid":"58286716","o":"B","why":"substantive page not reached","note":"Sigtuna landing page lists sections (incl. 'Arbetssätt och kvalitetsarbete') but collected text has no school description."},
+{"sid":"58294404","o":"R","note":"Tellusborg 6–9: thematic, cross-subject and cultural working method with two fixed themes per year; optional extra art/music/theatre in 7–9.","ev":[
+ {"p":0,"q":"På Tellusborgsskolan arbetar vi tematiskt och kulturellt för att ge eleverna en helhetssyn över ämnesgränserna.","i":"Explicit thematic cross-subject approach with fixed themes and public presentations.","c":[["Project- or inquiry-based learning","Thematic cross-subject work with fixed themes","E"]],"cn":"Two themes per year group."},
+ {"p":0,"q":"Dessa elever läser då ytterligare en timme i veckan bild, musik eller teater.","i":"Optional cultural deepening years 7–9, plus cultural expression in themes.","c":[["Arts and creative learning","Cultural expression in themes; optional art/music/theatre, 7–9","E"]],"cn":"Optional, limited places."}]},
+{"sid":"58294981","o":"R","note":"Rösjö F–6 (Sollentuna): certified Generation Pep school; language-developing approach from preschool class. Anpassad grundskola page excluded.","ev":[
+ {"p":0,"q":"Certifierad Generation PEP-skola","i":"Health/movement certification stated on school home page.","c":[["Support, inclusion, or wellbeing emphasis","Generation Pep","E"]],"cn":"Not independently checked."},
+ {"p":2,"q":"Redan i förskoleklass läggs grunden genom vårt språkutvecklande arbetssätt.","i":"Language-developing approach tied to reading habits.","c":[["Other stated profile","Language-developing approach","S"]],"cn":"School description."}]},
+{"sid":"58310322","o":"B","why":"source inaccessible","note":"Registered Botkyrka URL returns HTTP 404."},
+{"sid":"58338225","o":"B","why":"school-specific source not found","note":"Registered URL is Vaxholm home page; no page naming the school found."},
+{"sid":"58385274","o":"R","note":"Skogsäng (Salem): friluftsliv experiences across years as part of learning; small teaching groups not coded.","ev":[
+ {"p":0,"q":"På Skogsängsskolan tror vi att vistelse ute i naturen skapar trygga elevgrupper och stärker lärandet eftersom eleverna har möjlighet att uppleva det vi läser om i böckerna på riktigt.","i":"Stated outdoor/friluftsliv approach with skiing, canoeing and multi-day hikes.","c":[["Outdoor, nature, or place-based learning","Friluftsliv experiences across years","E"]],"cn":"Frequency per year unspecified."}]},
+{"sid":"58653522","o":"R","note":"Roslags-Kulla F–6 (Österåker): forest and nature used in many subjects.","ev":[
+ {"p":1,"q":"Som kontrast till tekniken använder vi oss även av skogen och naturen i många olika ämnen.","i":"Nature used across subjects.","c":[["Outdoor, nature, or place-based learning","Nature used across subjects","E"]],"cn":"No frequency claimed."}]}
+]

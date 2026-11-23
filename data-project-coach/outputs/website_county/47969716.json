@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "47969716",
+  "school_name": "SSHL Sigtunaskolan Humanistiska Läroverket",
+  "registered_url": "http://www.sshl.se",
+  "attempted_at": "2026-10-21T09:21:51.841794+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://sshl.se/",
+      "retrieved_at": "2026-10-21T09:21:56.886351+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sshl.se",
+          "robots_url": "https://sshl.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:53.320441+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://sshl.se/",
+          "robots_url": "https://sshl.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:54.738718+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "47969716_0.txt"
+    },
+    {
+      "source_url": "https://sshl.se/svenska-utbildningar/grundskola/",
+      "retrieved_at": "2026-10-21T09:21:56.919278+00:00",
+      "robots_checks": [
+        {
+          "url": "https://sshl.se/svenska-utbildningar/grundskola/",
+          "robots_url": "https://sshl.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:54.738718+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "47969716_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

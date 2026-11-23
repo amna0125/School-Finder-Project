@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "87920455",
+  "school_name": "Skönstaholmsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skonstaholmsskolan",
+  "attempted_at": "2026-10-21T09:17:20.886132+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skonstaholmsskolan",
+      "retrieved_at": "2026-10-21T09:17:24.589335+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skonstaholmsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "87920455_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": " med moderna möbler och allt som behövs för en lärmiljö som stödjer dagens undervisning. Eleverna har hemklassrum och med stigande ålder används också ämnessalar för praktiska och estetiska ämnen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c46bc1bca5d9a9b66e1c5cf8c8575395f44970db10c65f3a7f29f193dcc16659",
+      "school_unit_code": "87920455",
+      "school_name": "Skönstaholmsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skonstaholmsskolan",
+      "retrieved_at": "2026-10-21T09:17:24.589335+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

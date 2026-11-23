@@ -1,0 +1,45 @@
+{
+  "school_unit_code": "14845171",
+  "school_name": "Eviaskolan",
+  "registered_url": "http://www.eviagruppen.se",
+  "attempted_at": "2026-10-21T09:20:08.605668+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://wemind.se/hvb/hvb-evia/",
+      "retrieved_at": "2026-10-21T09:20:16.078478+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.eviagruppen.se",
+          "robots_url": "https://wemind.se/hvb-och-skola/hvb-evia/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:11.545037+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://wemind.se/hvb-och-skola/hvb-evia/",
+          "robots_url": "https://wemind.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:13.234007+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://wemind.se/hvb/hvb-evia/",
+          "robots_url": "https://wemind.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:13.234007+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "14845171_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,75 @@
+{
+  "school_unit_code": "35547286",
+  "school_name": "Föreningen för Carlssons Skola",
+  "registered_url": "http://www.carlssonsskola.se",
+  "attempted_at": "2026-10-21T09:21:11.898512+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.carlssonsskola.se/",
+      "retrieved_at": "2026-10-21T09:21:16.921828+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.carlssonsskola.se",
+          "robots_url": "https://www.carlssonsskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:13.479904+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.carlssonsskola.se/",
+          "robots_url": "https://www.carlssonsskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:15.108723+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "35547286_0.txt"
+    },
+    {
+      "source_url": "https://www.carlssonsskola.se/om/Pedagogik",
+      "retrieved_at": "2026-10-21T09:21:16.936417+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.carlssonsskola.se/om/Pedagogik",
+          "robots_url": "https://www.carlssonsskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:15.108723+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "35547286_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Baskunskaperna tala, lyssna, läsa, skriva och räkna är centrala. Vid sidan av dessa stimulerar vi olika intelligenser. Musik, estetisk och skapande verksamhet spelar en viktig roll för utvecklingen. Lika viktigt i dagens som framtidens samhälle är social kompetens. Vi månar därför om att träna barnens förmåga att fungera i kontakt med olika människor och i olika miljöer.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "233955691246fa1b7e27f93c8cd5b23c4774cf91dbc168e4b4735a738fa49557",
+      "school_unit_code": "35547286",
+      "school_name": "Föreningen för Carlssons Skola",
+      "source_url": "https://www.carlssonsskola.se/om/Pedagogik",
+      "retrieved_at": "2026-10-21T09:21:16.936417+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Baskunskaperna tala, lyssna, läsa, skriva och räkna är centrala. Vid sidan av dessa stimulerar vi olika intelligenser. Musik, estetisk och skapande verksamhet spelar en viktig roll för utvecklingen. Lika viktigt i dagens som framtidens samhälle är social kompetens. Vi månar därför om att träna barnens förmåga att fungera i kontakt med olika människor och i olika miljöer.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "add7bcd4a03c614071999ae224f5554c275a048b9a737a3174f06f14ceb1860f",
+      "school_unit_code": "35547286",
+      "school_name": "Föreningen för Carlssons Skola",
+      "source_url": "https://www.carlssonsskola.se/om/Pedagogik",
+      "retrieved_at": "2026-10-21T09:21:16.936417+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

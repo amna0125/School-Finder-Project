@@ -1,0 +1,22 @@
+{
+  "school_id": "42601396",
+  "school_name": "Trångsundsskolan",
+  "registered_url": "http://www.huddinge.se/trangsundsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.huddinge.se/trangsundsskolan",
+      "error": "The read operation timed out",
+      "attempted_at": "2026-10-21T17:34:13.326840+00:00"
+    },
+    {
+      "url": "https://www.huddinge.se/trangsundsskolan/om-skolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:34:14.273319+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

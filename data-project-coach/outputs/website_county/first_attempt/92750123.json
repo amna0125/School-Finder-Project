@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "92750123",
+  "school_name": "Enskilda Gymnasiet",
+  "registered_url": "http://www.enskildagymnasiet.se",
+  "attempted_at": "2026-10-21T09:17:28.246055+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.enskildagymnasiet.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

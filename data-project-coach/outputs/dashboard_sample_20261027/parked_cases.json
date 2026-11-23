@@ -1,0 +1,37 @@
+[
+  {
+    "school_id": "10311303",
+    "school": "Lilla Kulturama",
+    "decision": "Park outside provisional sample",
+    "reason": "Register 4–5 cannot yet be mapped to shared campus profiles.",
+    "reopen_when": "Current unit-specific official wording or attributable school document links profile to ID/year group."
+  },
+  {
+    "school_id": "11364996",
+    "school": "Lemshaga Akademi",
+    "decision": "Park outside provisional sample",
+    "reason": "Aspirational/historical profile does not establish current implementation.",
+    "reopen_when": "Current substantive official description clarifies current application."
+  },
+  {
+    "school_id": "12407147",
+    "school": "Röllingbyskolan",
+    "decision": "Park outside provisional sample",
+    "reason": "F–6 identity resolved; substantive approach source not found in scoped review.",
+    "reopen_when": "School-specific accessible source located; do not infer absence."
+  },
+  {
+    "school_id": "23498302",
+    "school": "Anne Frank",
+    "decision": "Park outside provisional sample",
+    "reason": "Pilot register year-range discrepancy still unresolved.",
+    "reopen_when": "Unit/year scope reconciled with official register."
+  },
+  {
+    "school_id": "36066067",
+    "school": "Musikskolan Lilla Akademien",
+    "decision": "Park outside provisional sample",
+    "reason": "Pilot directory/detail name conflict still unresolved.",
+    "reopen_when": "Confirm compulsory-school identity against conflicting detail record."
+  }
+]

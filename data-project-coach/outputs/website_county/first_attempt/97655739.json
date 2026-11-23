@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "97655739",
+  "school_name": "Eneskolan",
+  "registered_url": "http://www.sodertalje.se/eneskolan",
+  "attempted_at": "2026-10-21T09:17:36.059134+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.sodertalje.se/eneskolan",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

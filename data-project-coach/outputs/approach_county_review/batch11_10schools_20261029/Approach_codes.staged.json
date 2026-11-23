@@ -1,0 +1,112 @@
+[
+  {
+    "code_id": "ac_b11_23066257_01",
+    "school_id": "23066257",
+    "category": "Arts and creative learning",
+    "subcategory": "Musical, music/singing and visual-art profile pathways",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_23066257_01",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Hammarby unit Virkesvägen21, stored official4–9. Actual body/facts4–9 matches register, meta-description6–9 discrepancy retained. Named substantive arts profiles with practical instruction; musical/music require skills tests, Bild/Form queue route. No quality or career-outcome claims verified; exclude provider adult/gymnasium courses and Sundbyberg school. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_23312767_01",
+    "school_id": "23312767",
+    "category": "Other stated profile",
+    "subcategory": "Optional upper-secondary mathematics course, year9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_23312767_01",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Täby F–9 unit; this category applies optional advanced mathematics opportunity in year9, not entire school or formally designated selective spets. English provision separately coded from same quote. Provider results rhetoric not evidence of effectiveness. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_23312767_02",
+    "school_id": "23312767",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Optional upper-secondary English course, year9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_23312767_02",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Täby unit optional English5 opportunity year9 only, not schoolwide bilingual teaching or international curriculum. Participant eligibility/coverage not specified. Do not transfer provider other-campus spets. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_23414344_01",
+    "school_id": "23414344",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource teaching in small groups and individualised support",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_23414344_01",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Shared page explicitly names both Aspdammskolan and Skolgrunden. Fresh official23414344 resource flag,6–9,Hammarby Fabriksväg61 matches contact page which distinguishes Skolgrunden floors3–4 from Aspdamm floor5. Enhanced elevhälsa/adapted settings directly described; no numerical class size or independent practice verification. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_23828958_01",
+    "school_id": "23828958",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource-school adapted environments and enhanced support",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_23828958_01",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Resource-unit-specific page4–9, fresh23828958resource flag/name/grades/Centralvägen37 matched. School lies in ordinary Näsbyparksskolan premises but is separate official unit. Local-residency/need-based admissions recorded, not personalised diagnosis data or quality judgement; staffing density self-reported not pupil/teacher statistic. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_23886554_01",
+    "school_id": "23886554",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "I Ur och Skur outdoor pedagogy, F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_23886554_01",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Unit page explicitly names F–3 school alongside Mullebo preschool. Fresh23886554Mårtensbergsvägen64/Vendelsö and1–3+F match. Current school moved from Lötkärr2023; location/ownership differences historical retained, no overwrite. Named implemented outdoor method, not nearby-nature inference; no frequency invented. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_23886554_02",
+    "school_id": "23886554",
+    "category": "Other stated profile",
+    "subcategory": "Experiential learning and sustainability in practice, F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_23886554_02",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Page applies experiential model to continuous preschool-to-year3education, with explicit school section. Restrict this codeF–3school; curriculum determines what and I Ur och Skur model how, described on same page. Other stated experiential profile, not automatically Montessori/alternative or inquiry; no quantified effects. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_24142153_01",
+    "school_id": "24142153",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "International IMYC/Global Citizenship and up-to-half English,6–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_24142153_01",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Fresh official24142153 displayName Bergtorp resolves generic stored schoolNameFuturaskolanAB; exactViggbyholmsvägen59 and6–9match. Unit page explicitly states internationally focused IMYC thematic/topic integration, Erasmus and up-to50%English; not foreign-curriculum-only school or fixed50/50. Future4–5August2027excluded from current scope. No effect/merit claims accepted. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_24142153_02",
+    "school_id": "24142153",
+    "category": "Arts and creative learning",
+    "subcategory": "Creative Arts enrichment: music, drama and dance pathway",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_24142153_03",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Unit6–9 CreativeArts enrichment/profile programme only, not all pupils assumed arts pathway. Year9musical scope explicit, dance collaboration mentioned separately. Not derived from school name or one-off event alone. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b11_24142153_03",
+    "school_id": "24142153",
+    "category": "Other stated profile",
+    "subcategory": "Sports, fitness and wellness enrichment pathway",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b11_24142153_04",
+    "coder_note": "Assistant contextual review, codebook v1,2026-10-29. Unit6–9 named Sports&Wellness enrichment/profile option with extra sports lessons described. Not all pupils/specified sports frequency or verified health effect. No download of old2023PDF needed for claim; future2027expansion excluded. Public self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

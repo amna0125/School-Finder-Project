@@ -1,0 +1,45 @@
+{
+  "review_date": "2026-10-26",
+  "scope": "20-school contextual saved-source review, not exhaustive websites",
+  "schools_review_decisions": 20,
+  "schools_exhaustive_website_review_complete": 0,
+  "pages_in_scope": 40,
+  "evidence": 15,
+  "codes": 15,
+  "claim_status_counts": {
+    "Reviewed": 10,
+    "Requires review": 5
+  },
+  "schools_with_reviewed_claims": 6,
+  "school_dispositions": {
+    "source_discovery_required": 4,
+    "reviewed_claims_coverage_limited": 6,
+    "no_clear_evidence_in_scoped_pages": 2,
+    "unit_identity_requires_review": 5,
+    "unit_scope_requires_review": 1,
+    "dated_claim_requires_review": 2
+  },
+  "exact_quotes_and_metadata_match_saved_sources": true,
+  "official_ids_valid": true,
+  "errors": [],
+  "live_counts": {
+    "schools": 762,
+    "statistics": 45868,
+    "survey_observations": 84610,
+    "source_coverage": 3048,
+    "Approach_evidence": 4,
+    "Approach_codes": 4
+  },
+  "quick_check": [
+    [
+      "ok"
+    ]
+  ],
+  "database_sha256_before": "a74cf420289743e4979a9a3cbf87a3a30e2e6f7c745a845966adf24ad12ec389",
+  "database_sha256_after": "a74cf420289743e4979a9a3cbf87a3a30e2e6f7c745a845966adf24ad12ec389",
+  "database_modified": false,
+  "fresh_web_requests": 0,
+  "source_access_dates": [
+    "2026-10-21"
+  ]
+}

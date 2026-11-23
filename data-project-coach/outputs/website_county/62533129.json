@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "62533129",
+  "school_name": "Bobergsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bobergsskolan",
+  "attempted_at": "2026-10-21T09:16:42.898451+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bobergsskolan",
+      "retrieved_at": "2026-10-21T09:16:44.553830+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bobergsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62533129_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "De konstnärliga gestaltningarna har skapats av Åsa Stjerna, Helene Billgren och Anders Sletvold Moe. De olikartade verken håller sig till varsitt formspråk och är helt oberoende av varandra. Naturen är temat som binder dem samman.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "e9318ee649aa9ffc0e769ceeb327203af55229e98c8f1071521626f55636a1cc",
+      "school_unit_code": "62533129",
+      "school_name": "Bobergsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bobergsskolan",
+      "retrieved_at": "2026-10-21T09:16:44.553830+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

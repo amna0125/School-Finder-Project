@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "23066257",
+    "official_directory_name": "Kulturama gr. Hammarby Sjöstad",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.kulturama.se",
+    "note": ""
+  },
+  {
+    "school_id": "23312767",
+    "official_directory_name": "Noblaskolan Täby",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://noblaskolan.se/taby/",
+    "note": ""
+  },
+  {
+    "school_id": "23414344",
+    "official_directory_name": "Skolgrunden",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.skolgrunden.se",
+    "note": ""
+  },
+  {
+    "school_id": "23617768",
+    "official_directory_name": "Katarina Norra skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-norra-skola",
+    "note": ""
+  },
+  {
+    "school_id": "23756252",
+    "official_directory_name": "Sjökarbyskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.osteraker.se",
+    "note": ""
+  },
+  {
+    "school_id": "23828958",
+    "official_directory_name": "Näsbypark resursskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "www.taby.se/nasbyparksskolan",
+    "note": ""
+  },
+  {
+    "school_id": "23886554",
+    "official_directory_name": "I Ur och Skur Mullebo Mårtensbergsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.iurochskur.se",
+    "note": ""
+  },
+  {
+    "school_id": "24046791",
+    "official_directory_name": "Innovitaskolan Farstaäng",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://innovitaskolan.se/farstaang/",
+    "note": ""
+  },
+  {
+    "school_id": "24142153",
+    "official_directory_name": "Futuraskolan International Bergtorp",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.futuraskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "24146389",
+    "official_directory_name": "Hallsta skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.norrtalje.se",
+    "note": ""
+  }
+]

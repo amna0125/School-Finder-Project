@@ -1,0 +1,61 @@
+{
+  "school_unit_code": "82838118",
+  "school_name": "Alla Nationers Fria Skola",
+  "registered_url": "http://www.anfs.se",
+  "attempted_at": "2026-10-21T09:23:23.569350+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://anfs.se/",
+      "retrieved_at": "2026-10-21T09:23:37.598938+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.anfs.se",
+          "robots_url": "https://anfs.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:28.650562+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.anfs.se/",
+          "robots_url": "https://anfs.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:32.497731+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://anfs.se/",
+          "robots_url": "https://anfs.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:35.013255+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "82838118_0.txt"
+    },
+    {
+      "source_url": "https://anfs.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:23:37.615816+00:00",
+      "robots_checks": [
+        {
+          "url": "https://anfs.se/om-oss/",
+          "robots_url": "https://anfs.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:35.013255+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "82838118_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

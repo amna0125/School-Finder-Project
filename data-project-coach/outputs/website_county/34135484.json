@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "34135484",
+  "school_name": "Montessori Mondial Nacka",
+  "registered_url": "https://montessorimondial.se/nacka/",
+  "attempted_at": "2026-10-21T09:15:54.624436+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://montessorimondial.se/nacka/",
+      "retrieved_at": "2026-10-21T09:15:59.108565+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/nacka/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "34135484_0.txt"
+    },
+    {
+      "source_url": "https://montessorimondial.se/nacka/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:59.131244+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/nacka/om/grundskola/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "34135484_1.txt"
+    },
+    {
+      "source_url": "https://montessorimondial.se/nacka/montessoripedagogik/",
+      "retrieved_at": "2026-10-21T09:15:59.158603+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/nacka/montessoripedagogik/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "34135484_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

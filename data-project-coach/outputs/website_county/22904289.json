@@ -1,0 +1,45 @@
+{
+  "school_unit_code": "22904289",
+  "school_name": "Vilans skola",
+  "registered_url": "http://www.vilan.nacka.se",
+  "attempted_at": "2026-10-21T09:20:36.504089+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/vilans-skola/",
+      "retrieved_at": "2026-10-21T09:20:43.013293+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vilan.nacka.se",
+          "robots_url": "https://www.nacka.se/valfard-skola/vilans-skola/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:40.665126+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "http://www.nacka.se/valfard-skola/vilans-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.175460+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/vilans-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "22904289_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

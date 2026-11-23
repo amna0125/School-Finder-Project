@@ -1,0 +1,52 @@
+[
+  {
+    "evidence_id": "ae_b24_39130058_01",
+    "school_id": "39130058",
+    "source_url": "https://www.montessoriskolan.nu/skolor/lunden-f-6/",
+    "page_title": "Lunden F-6 | Montessori i Norrtälje",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "För att möta eleven i sin kunskapsutveckling har vi många olika arbetsmaterial i klassrummet: konkret montessorimaterial, lärplattor (ikt), läroböcker, biblioteksböcker, material från naturen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Unresolved identity/applicability: directory Vigelsjö, official DB Montessoriskolan i Norrtälje years1–4; current provider page Lunden F–6/F–4 and5–6 at Sveagatan18. Montessori materials and working methods explicit for Lunden; no current official-ID bridge established. Provider history/pedagogy not assigned as a firm unit code. Template USA/contact junk excluded. Requires review of current unit mapping."
+  },
+  {
+    "evidence_id": "ae_b24_39171821_01",
+    "school_id": "39171821",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/orbyskolan",
+    "page_title": "Örbyskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi har programmering som en röd tråd och ditt barn får lära sig programmera på ett lustfyllt sätt. Varje läsår genomför vi en gemensam programmeringsdag i samarbete med Tekniska museet.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Current school page explicitly F–6 from2026/27 after7–9 move to Nya Enskede; official1–6 consistent. Programming stated as a continuous thread, with annual shared programming day in collaboration with Tekniska museet. Other stated profile, not alternative or inquiry pedagogy. No effectiveness inference."
+  },
+  {
+    "evidence_id": "ae_b24_39453214_01",
+    "school_id": "39453214",
+    "source_url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/sofiebergsskolan.html",
+    "page_title": "Sofiebergsskolan - Tyresö kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Till skolan hör även en lärstudio (central särskild undervisningsgrupp) som erbjuder stödinsatser och familjebehandling.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "F–3 website vs official1–3. Support code restricted to attached lärstudio, explicitly a central special teaching group offering support and family intervention; not every pupil. Grön Flagg and nearby nature descriptions retained as context, not automatically an outdoor approach code. No quality/staffing verification."
+  },
+  {
+    "evidence_id": "ae_b24_39907811_01",
+    "school_id": "39907811",
+    "source_url": "https://www.sollentuna.se/uweb/sofielundsskolan/sa-har-arbetar-vi/trygghet-och-studiero/vart-arbete-mot-mobbning/",
+    "page_title": "Vårt arbete mot mobbning genom Olweusprogrammet",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Alla kommunala skolor i Sollentuna arbetar utifrån Olweusprogrammet. Det är en serie samordnade, forskningsbaserade åtgärder som går ut på att skapa en skolmiljö där eleverna kan lära, trivas och känna sig trygga.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "F–9 vs official1–9. School-specific navigation hosts explicit Olweus programme description with coordinated routines and pupil/staff/guardian participation; municipal-wide programme, not unique to this school. STL abbreviation/visitors alone not sufficient alternative/inquiry category. School wording, no independently verified impact."
+  },
+  {
+    "evidence_id": "ae_b24_40175889_01",
+    "school_id": "40175889",
+    "source_url": "https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor/soldalaskolan/",
+    "page_title": "Soldalaskolan - Södertälje kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Tack vare detta samarbete får elever i årskurs F–2 fördjupa sig i musik och lära sig spela olika instrument tillsammans – en upplevelse som stärker både självkänsla och gemenskap.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "F–9 website vs official1–9. Explicit El Sistema opportunity for F–2 only (within official compulsory scope years1–2); no universal music profile. Generic multimodal/creative wording not separately coded. Outdoor opportunities in woodland not evidence of implemented outdoor approach. Named staff/social content excluded."
+  }
+]

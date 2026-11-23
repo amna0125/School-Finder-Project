@@ -1,0 +1,33 @@
+{
+  "status": "PASSED",
+  "ledger_rows": 762,
+  "unique_ids": 762,
+  "changed_rows": 10,
+  "documented_outcomes": 213,
+  "pending": 549,
+  "next_selection_ids": [
+    "35890890",
+    "35933721",
+    "36021631",
+    "36031993",
+    "36185466",
+    "36232577",
+    "36262199",
+    "36276828",
+    "36281817",
+    "36350546"
+  ],
+  "append_flow": "indigo-aardvark",
+  "replay_flow": "silky-squid",
+  "unit_tests_passed": 22,
+  "official_fingerprints_preserved": true,
+  "db_counts": {
+    "schools": 762,
+    "statistics": 45868,
+    "survey_observations": 84610,
+    "source_coverage": 3048,
+    "approach_evidence": 250,
+    "approach_codes": 180
+  },
+  "source_hashes_verified": true
+}

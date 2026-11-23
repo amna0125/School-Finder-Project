@@ -1,0 +1,443 @@
+<!DOCTYPE HTML>
+<html >
+<head>
+	<title>
+		Pedagogiken som konst - Kristofferskolan	</title>		
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+
+	<!--[if lte IE 8]> <link href="https://kristofferskolan.se/wp-content/themes/Kulturhuset/ie.css" rel="stylesheet" type="text/css"> <![endif]-->
+	<!--[if lte IE 7]> <link href="https://kristofferskolan.se/wp-content/themes/Kulturhuset/ie7.css" rel="stylesheet" type="text/css"> <![endif]-->
+
+	
+
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/" />
+	<meta property="og:locale" content="sv_SE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Pedagogiken som konst - Kristofferskolan" />
+	<meta property="og:description" content="PEDAGOGIKEN SOM KONST Vad är waldorfpedagogik? Meningsfullhet, bildning och frihet  Waldorfpedagogik bygger på en helhetssyn på världen och människan. Den vill bidra till  att varje individ upplever lärandet som meningsfullt [&hellip;]" />
+	<meta property="og:url" content="https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/" />
+	<meta property="og:site_name" content="Kristofferskolan" />
+	<meta property="article:modified_time" content="2025-04-16T07:36:04+00:00" />
+	<meta property="og:image" content="https://kristofferskolan.se/wp-content/uploads/2015/08/IMG-7471-e1760099680475.jpg" />
+	<meta property="og:image:width" content="709" />
+	<meta property="og:image:height" content="401" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Beräknad lästid" />
+	<meta name="twitter:data1" content="7 minuter" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/","url":"https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/","name":"Pedagogiken som konst - Kristofferskolan","isPartOf":{"@id":"https://kristofferskolan.se/#website"},"primaryImageOfPage":{"@id":"https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/#primaryimage"},"image":{"@id":"https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/#primaryimage"},"thumbnailUrl":"https://kristofferskolan.se/wp-content/uploads/2015/08/IMG-7471-300x262.jpg","datePublished":"2016-01-25T21:19:34+00:00","dateModified":"2025-04-16T07:36:04+00:00","breadcrumb":{"@id":"https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/#breadcrumb"},"inLanguage":"sv-SE","potentialAction":[{"@type":"ReadAction","target":["https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/"]}]},{"@type":"ImageObject","inLanguage":"sv-SE","@id":"https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/#primaryimage","url":"https://kristofferskolan.se/wp-content/uploads/2015/08/IMG-7471-e1760099680475.jpg","contentUrl":"https://kristofferskolan.se/wp-content/uploads/2015/08/IMG-7471-e1760099680475.jpg","width":709,"height":401},{"@type":"BreadcrumbList","@id":"https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Hem","item":"https://kristofferskolan.se/"},{"@type":"ListItem","position":2,"name":"Waldorfpedagogik","item":"https://kristofferskolan.se/waldorfpedagogik/"},{"@type":"ListItem","position":3,"name":"Pedagogiken som konst"}]},{"@type":"WebSite","@id":"https://kristofferskolan.se/#website","url":"https://kristofferskolan.se/","name":"Kristofferskolan","description":"Waldorf sedan 1949","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kristofferskolan.se/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"sv-SE"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/kristofferskolan.se\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.11"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='front-css-css' href='https://kristofferskolan.se/wp-content/plugins/fully-background-manager/assets/css/fbm_front.css?ver=6.8.11' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://kristofferskolan.se/wp-includes/css/dist/block-library/style.min.css?ver=6.8.11' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='outermost-icon-block-style-inline-css' type='text/css'>
+.wp-block-outermost-icon-block{display:flex;line-height:0}.wp-block-outermost-icon-block.has-border-color{border:none}.wp-block-outermost-icon-block .has-icon-color svg,.wp-block-outermost-icon-block.has-icon-color svg{color:currentColor}.wp-block-outermost-icon-block .has-icon-color:not(.has-no-icon-fill-color) svg,.wp-block-outermost-icon-block.has-icon-color:not(.has-no-icon-fill-color) svg{fill:currentColor}.wp-block-outermost-icon-block .icon-container{box-sizing:border-box}.wp-block-outermost-icon-block a,.wp-block-outermost-icon-block svg{height:100%;transition:transform .1s ease-in-out;width:100%}.wp-block-outermost-icon-block a:hover{transform:scale(1.1)}.wp-block-outermost-icon-block svg{transform:rotate(var(--outermost--icon-block--transform-rotate,0deg)) scaleX(var(--outermost--icon-block--transform-scale-x,1)) scaleY(var(--outermost--icon-block--transform-scale-y,1))}.wp-block-outermost-icon-block .rotate-90,.wp-block-outermost-icon-block.rotate-90{--outermost--icon-block--transform-rotate:90deg}.wp-block-outermost-icon-block .rotate-180,.wp-block-outermost-icon-block.rotate-180{--outermost--icon-block--transform-rotate:180deg}.wp-block-outermost-icon-block .rotate-270,.wp-block-outermost-icon-block.rotate-270{--outermost--icon-block--transform-rotate:270deg}.wp-block-outermost-icon-block .flip-horizontal,.wp-block-outermost-icon-block.flip-horizontal{--outermost--icon-block--transform-scale-x:-1}.wp-block-outermost-icon-block .flip-vertical,.wp-block-outermost-icon-block.flip-vertical{--outermost--icon-block--transform-scale-y:-1}.wp-block-outermost-icon-block .flip-vertical.flip-horizontal,.wp-block-outermost-icon-block.flip-vertical.flip-horizontal{--outermost--icon-block--transform-scale-x:-1;--outermost--icon-block--transform-scale-y:-1}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='reset_kh_css-css' href='https://kristofferskolan.se/wp-content/themes/Kulturhuset/reset.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts_google_css-css' href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600' type='text/css' media='all' />
+<link rel='stylesheet' id='colors_kh_css-css' href='https://kristofferskolan.se/wp-content/themes/Kulturhuset/colors.css' type='text/css' media='all' />
+<link rel='stylesheet' id='styles_kh_css-css' href='https://kristofferskolan.se/wp-content/themes/Kulturhuset/style.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://kristofferskolan.se/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://kristofferskolan.se/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://kristofferskolan.se/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://kristofferskolan.se/wp-json/wp/v2/pages/50" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kristofferskolan.se/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.11" />
+<link rel='shortlink' href='https://kristofferskolan.se/?p=50' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://kristofferskolan.se/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkristofferskolan.se%2Fwaldorfpedagogik%2Fpedagogiken-som-konst%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://kristofferskolan.se/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkristofferskolan.se%2Fwaldorfpedagogik%2Fpedagogiken-som-konst%2F&#038;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://kristofferskolan.se"><link rel="alternate" href="https://kristofferskolan.se/wp-json/tribe/events/v1/" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #e6e6e6; background-image: url("https://kristofferskolan.se/wp-content/uploads/2015/08/IMG-7471-e1760099680475.jpg"); background-position: center top; background-size: auto; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+	<link rel="icon" href="https://kristofferskolan.se/wp-content/uploads/2025/10/cropped-kslogo-2-e1760347852114-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://kristofferskolan.se/wp-content/uploads/2025/10/cropped-kslogo-2-e1760347852114-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://kristofferskolan.se/wp-content/uploads/2025/10/cropped-kslogo-2-e1760347852114-180x180.png" />
+<meta name="msapplication-TileImage" content="https://kristofferskolan.se/wp-content/uploads/2025/10/cropped-kslogo-2-e1760347852114-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+.home .oppet-hus-banner {
+    margin-top: -80px;
+}
+.oppet-hus-banner img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .home .oppet-hus-banner {
+        display: block !important;
+        visibility: visible !important;
+        margin-top: 0 !important;
+    }
+}		</style>
+		
+	<script type="text/javascript">
+
+		jQuery( document ).ready(function() {
+			jQuery('.nav').narrowNavMenu();
+
+		});
+
+	</script>
+
+</head>
+
+<body class="wp-singular page-template-default page page-id-50 page-child parent-pageid-47 custom-background wp-theme-Kulturhuset tribe-no-js page-template-kulturhuset fully-background">
+
+
+	<div id="wrapper"><aside class="aside" >
+	<h1 id="branding-logo">
+		<a href="/">
+			<img src="https://kristofferskolan.se/wp-content/themes/Kulturhuset/images/empty-logo.png" alt="Kristofferskolan logo">
+		</a>
+	</h1>
+
+	<ul id="menu-meny" class="nav"><li id="menu-item-7" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7"><a href="https://kristofferskolan.se/">Start</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-104"><a href="https://kristofferskolan.se/ar-for-ar/en-helhetssyn/">Grundskolan</a>
+<ul class="sub-menu">
+	<li id="menu-item-6700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6700"><a href="https://kristofferskolan.se/ar-for-ar/en-helhetssyn/soka-till-kristofferskolan/">Sök till grundskolan</a></li>
+	<li id="menu-item-8155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8155"><a href="https://kristofferskolan.se/ar-for-ar/en-helhetssyn/nobel/">Nobel</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://kristofferskolan.se/ar-for-ar/en-helhetssyn/">Grundskolan</a></li>
+	<li id="menu-item-8159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8159"><a href="https://kristofferskolan.se/ar-for-ar/en-helhetssyn/julkalendern/">Julkalendern</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://kristofferskolan.se/ar-for-ar/forskoleklass/">Förskoleklass</a></li>
+	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://kristofferskolan.se/ar-for-ar/klass-1/">Klass 1</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="https://kristofferskolan.se/ar-for-ar/klass-2/">Klass 2</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="https://kristofferskolan.se/ar-for-ar/klass-3/">Klass 3</a></li>
+	<li id="menu-item-148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://kristofferskolan.se/ar-for-ar/klass-4/">Klass 4</a></li>
+	<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://kristofferskolan.se/ar-for-ar/klass-5/">Klass 5</a></li>
+	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://kristofferskolan.se/ar-for-ar/klass-6/">Klass 6</a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://kristofferskolan.se/ar-for-ar/klass-7/">Klass 7</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://kristofferskolan.se/ar-for-ar/klass-8/">Klass 8</a></li>
+	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://kristofferskolan.se/ar-for-ar/klass-9/">Klass 9</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://kristofferskolan.se/ar-for-ar/klass-10/">Klass 10</a></li>
+	<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="https://kristofferskolan.se/ar-for-ar/klass-11/">Klass 11</a></li>
+	<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://kristofferskolan.se/ar-for-ar/klass-12/">Klass 12</a></li>
+	<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-150"><a href="https://kristofferskolan.se/vara-amnen/">Våra ämnen</a>
+	<ul class="sub-menu">
+		<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://kristofferskolan.se/vara-amnen/">Våra ämnen</a></li>
+		<li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-164"><a href="https://kristofferskolan.se/vara-amnen/naturvetenskapliga/biologi/">Naturvetenskap</a>
+		<ul class="sub-menu">
+			<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://kristofferskolan.se/vara-amnen/naturvetenskapliga/biologi/">Biologi</a></li>
+			<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="https://kristofferskolan.se/vara-amnen/naturvetenskapliga/fysik/">Fysik</a></li>
+			<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="https://kristofferskolan.se/vara-amnen/naturvetenskapliga/kemi/">Kemi</a></li>
+			<li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="https://kristofferskolan.se/vara-amnen/naturvetenskapliga/matematik/">Matematik</a></li>
+			<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="https://kristofferskolan.se/vara-amnen/naturvetenskapliga/teknik/">Teknik</a></li>
+		</ul>
+</li>
+		<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-204"><a href="https://kristofferskolan.se/vara-amnen/samhallsvetenskapliga/historia/">Samhällsvetenskap</a>
+		<ul class="sub-menu">
+			<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://kristofferskolan.se/vara-amnen/samhallsvetenskapliga/historia/">Historia</a></li>
+			<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://kristofferskolan.se/vara-amnen/samhallsvetenskapliga/religion/">Religion</a></li>
+			<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="https://kristofferskolan.se/vara-amnen/samhallsvetenskapliga/samhallskunskap/">Samhällskunskap</a></li>
+		</ul>
+</li>
+		<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-208"><a href="https://kristofferskolan.se/vara-amnen/konstnarliga/arkitektur/">Konstnärliga</a>
+		<ul class="sub-menu">
+			<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="https://kristofferskolan.se/vara-amnen/konstnarliga/arkitektur/">Arkitektur</a></li>
+			<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="https://kristofferskolan.se/vara-amnen/konstnarliga/bildkonst/">Bildkonst</a></li>
+			<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="https://kristofferskolan.se/vara-amnen/konstnarliga/eurytmi/">Eurytmi</a></li>
+			<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="https://kristofferskolan.se/vara-amnen/konstnarliga/musik/">Musik</a></li>
+			<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://kristofferskolan.se/vara-amnen/konstnarliga/skulptur/">Skulptur</a></li>
+		</ul>
+</li>
+		<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-223"><a href="https://kristofferskolan.se/vara-amnen/srpak/engelska/">Språk</a>
+		<ul class="sub-menu">
+			<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://kristofferskolan.se/vara-amnen/srpak/engelska/">Engelska</a></li>
+			<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://kristofferskolan.se/vara-amnen/srpak/moderna-sprak/">Moderna språk</a></li>
+			<li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https://kristofferskolan.se/vara-amnen/srpak/svenska/">Svenska</a></li>
+			<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://kristofferskolan.se/vara-amnen/srpak/litteratur/">Litteratur</a></li>
+		</ul>
+</li>
+		<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-236"><a href="https://kristofferskolan.se/vara-amnen/hantverk/">Hantverk</a>
+		<ul class="sub-menu">
+			<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://kristofferskolan.se/vara-amnen/hantverk/bokbindning/">Bokbindning</a></li>
+			<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="https://kristofferskolan.se/vara-amnen/hantverk/keramik/">Keramik</a></li>
+			<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://kristofferskolan.se/vara-amnen/hantverk/metallslojd/">Metallslöjd</a></li>
+			<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="https://kristofferskolan.se/vara-amnen/hantverk/textilslojd/">Textilslöjd</a></li>
+			<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://kristofferskolan.se/vara-amnen/hantverk/traslojd/">Träslöjd</a></li>
+		</ul>
+</li>
+		<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="https://kristofferskolan.se/vara-amnen/hemkunskap/">Hemkunskap</a></li>
+		<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://kristofferskolan.se/vara-amnen/idrott-och-halsa/">Idrott och hälsa</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-721"><a href="https://kristofferskolan.se/gymnasiet-bromma/">Gymnasiet</a>
+<ul class="sub-menu">
+	<li id="menu-item-6702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6702"><a href="https://gymnasieantagningen.storsthlm.se">Sök till gymnasiet</a></li>
+	<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="https://kristofferskolan.se/gymnasiet-bromma/">Gymnasiet</a></li>
+	<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="https://kristofferskolan.se/gymnasiet-bromma/naturvetenskaps-programmet/">Naturvetenskaps programmet</a></li>
+	<li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="https://kristofferskolan.se/gymnasiet-bromma/samhallsvetenskaps-programmet/">Samhällsvetenskaps programmet</a></li>
+	<li id="menu-item-734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="https://kristofferskolan.se/gymnasiet-bromma/estetiska-programmet/">Estetiska programmet</a></li>
+	<li id="menu-item-723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723"><a href="https://kristofferskolan.se/gymnasiet-bromma/poangplan/">Poängplan</a></li>
+	<li id="menu-item-722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="https://kristofferskolan.se/gymnasiet-bromma/antagningsprov-kristofferskolans-gymnasium/">Antagningsprov</a></li>
+	<li id="menu-item-725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-725"><a target="_blank" href="https://gymnasieantagningen.storsthlm.se/">Sök till gymnasiet</a></li>
+</ul>
+</li>
+<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-378"><a href="https://kristofferskolan.se/fritidshem/">Fritidshem</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-31"><a href="https://kristofferskolan.se/om-kristofferskolan/">Om Kristofferskolan</a>
+<ul class="sub-menu">
+	<li id="menu-item-7933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7933"><a href="https://kristofferskolan.se/om-kristofferskolan/ideburen-skola/">Kristofferskolan en idéburen skola</a></li>
+	<li id="menu-item-458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458"><a href="https://kristofferskolan.se/om-kristofferskolan/">Om Waldorfskolan</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="https://kristofferskolan.se/om-kristofferskolan/organissation/">Organissation</a>
+	<ul class="sub-menu">
+		<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://kristofferskolan.se/om-kristofferskolan/organissation/stiftelse-och-styrelse/">Stiftelse och styrelse</a></li>
+		<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://kristofferskolan.se/om-kristofferskolan/organissation/kollegiearbete/">Kollegiearbete</a></li>
+		<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://kristofferskolan.se/om-kristofferskolan/organissation/mandatgruppen/">Mandatgruppen</a></li>
+	</ul>
+</li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="https://kristofferskolan.se/om-kristofferskolan/fester/">Fester</a></li>
+	<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://kristofferskolan.se/om-kristofferskolan/skolans-historia/">Skolans historia</a></li>
+	<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-266"><a href="https://kristofferskolan.se/projekt/">Projekt</a>
+	<ul class="sub-menu">
+		<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://kristofferskolan.se/projekt/">Projekt</a></li>
+		<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://kristofferskolan.se/projekt/husbygge-klass-3/">Husbygge klass 3</a></li>
+		<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="https://kristofferskolan.se/projekt/temaveckor/">Temaveckor</a></li>
+	</ul>
+</li>
+	<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-282"><a href="https://kristofferskolan.se/drama/">Drama</a>
+	<ul class="sub-menu">
+		<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="https://kristofferskolan.se/drama/">Drama</a></li>
+		<li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a href="https://kristofferskolan.se/drama/8ans-spel/">8:ans spel</a></li>
+		<li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="https://kristofferskolan.se/drama/12ans-spel/">12:ans spel</a></li>
+	</ul>
+</li>
+	<li id="menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-447"><a href="https://kristofferskolan.se/resor/orkesterresa/">Resor</a>
+	<ul class="sub-menu">
+		<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="https://kristofferskolan.se/resor/faltmatning/">Fältmätning</a></li>
+		<li id="menu-item-444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-444"><a href="https://kristofferskolan.se/resor/geologiresa/">Geologiresa</a></li>
+		<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="https://kristofferskolan.se/resor/biologiresa/">Biologiresa</a></li>
+		<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="https://kristofferskolan.se/resor/arkitekturresa/">Arkitekturresa</a></li>
+	</ul>
+</li>
+	<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-50 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-53"><a href="https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/" aria-current="page">Waldorfpedagogik</a>
+	<ul class="sub-menu">
+		<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-50 current_page_item menu-item-54"><a href="https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/" aria-current="page">Pedagogiken som konst</a></li>
+		<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://kristofferskolan.se/waldorfpedagogik/en-vag-till-frihet/en-utvecklingsvag/">En väg till frihet</a></li>
+		<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://kristofferskolan.se/waldorfpedagogik/elevarbeten/">Elevarbeten</a></li>
+	</ul>
+</li>
+	<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://kristofferskolan.se/om-kristofferskolan/maten/">Maten</a></li>
+	<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="https://kristofferskolan.se/om-kristofferskolan/press/">Press</a></li>
+	<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="https://kristofferskolan.se/om-kristofferskolan/lediga-tjanster/">Lediga Tjänster</a></li>
+	<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-305"><a href="https://kristofferskolan.se/skolmiljo/">Skolmiljö</a>
+	<ul class="sub-menu">
+		<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="https://kristofferskolan.se/skolmiljo/">Skolmiljö</a></li>
+		<li id="menu-item-409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-409"><a href="http://www.kristofferbs.se/">Byggnadsstiftelsen</a></li>
+		<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="https://kristofferskolan.se/skolmiljo/byggnader/">Byggnader</a></li>
+		<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="https://kristofferskolan.se/skolmiljo/salar-och-rum/">Salar och rum</a></li>
+	</ul>
+</li>
+	<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-308"><a href="https://kristofferskolan.se/for-elever/">För elever</a>
+	<ul class="sub-menu">
+		<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="https://kristofferskolan.se/for-elever/">För elever</a></li>
+		<li id="menu-item-406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-406"><a href="https://sms6.schoolsoft.se/kristoffer/jsp/Login.jsp?action=logout">Schoolsoft</a></li>
+		<li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="https://kristofferskolan.se/for-elever/ljusgruppen/">Scengruppen</a></li>
+		<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://kristofferskolan.se/for-elever/elevradet/">Elevrådet</a></li>
+		<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="https://kristofferskolan.se/for-elever/studieteknik/">Studieteknik</a></li>
+		<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="https://kristofferskolan.se/for-elever/prao/">Prao</a></li>
+		<li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704"><a href="https://kristofferskolan.se/for-elever/bildgalleri/">Bildgalleri</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7939"><a href="https://kristofferskolan.se/om-kristofferskolan/boktips/">Boktips</a></li>
+</ul>
+</li>
+<li id="menu-item-7314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7314"><a href="https://kristofferskolan.se/kalendarium/">Kalendarium</a></li>
+<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-352"><a href="https://kristofferskolan.se/kontakt-kristoffecskolan/">Kontakt</a>
+<ul class="sub-menu">
+	<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="https://kristofferskolan.se/kontakt-kristoffecskolan/">Kontakt</a></li>
+	<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="https://kristofferskolan.se/kontakt-kristoffecskolan/elevhalsa-2/">Elevhälsa</a></li>
+	<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="https://kristofferskolan.se/kontakt-kristoffecskolan/hitta-hit/">Hitta hit</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="https://kristofferskolan.se/kontakt-kristoffecskolan/lankar/">Länkar</a></li>
+	<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="https://kristofferskolan.se/foraldraforeningen/">Föräldraföreningen</a></li>
+	<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a href="https://kristofferskolan.se/kontakt-kristoffecskolan/synpunkter-och-klagomal/">Synpunkter och klagomål</a></li>
+</ul>
+</li>
+<li id="menu-item-6695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6695"><a href="https://sms.schoolsoft.se/kristoffer/jsp/Login.jsp?action=logout">Schoolsoft</a></li>
+<li id="menu-item-7952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7952"><a href="https://mail.google.com/mail/u/0/#inbox">Webbmail</a></li>
+</ul>
+	<div id="widget-contact">			<div class="textwidget"></div>
+		</div>
+</aside>
+	
+
+		<div id="scroll" class="nosubmenu">
+		</div>
+		
+		<div id="full-content">
+			
+			
+				<article>
+					
+					<h1>PEDAGOGIKEN SOM KONST</h1>
+<p><a href="https://kristofferskolan.se/wp-content/uploads/2015/08/IMG-7471.jpg"><img fetchpriority="high" decoding="async" class="alignnone  wp-image-5039" src="https://kristofferskolan.se/wp-content/uploads/2015/08/IMG-7471-300x262.jpg" alt="" width="516" height="451" /></a></p>
+<h1>Vad är waldorfpedagogik?</h1>
+<h3><strong>Meningsfullhet, bildning och frihet </strong></h3>
+<p><span style="font-weight: 400;">Waldorfpedagogik bygger på en helhetssyn på världen och människan. Den vill bidra till  att varje individ upplever lärandet som meningsfullt och sig själv som värdefull.  Delaktighet och gemenskap mellan elever, lärare, föräldrar och med verksamheter  utanför skolan ligger till grund för att eleverna utvecklar en förmåga att känna  samhörighet med världen. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Bildning är ett centralt begrepp för att förstå undervisningens värde och mening i  waldorfskolan. Att inhämta kunskap och fördjupa sin förståelse och sina färdigheter kan  ge eleven möjlighet att växa som människa. Skolan ska även främja ett livslångt lärande,  väcka elevernas nyfikenhet och utveckla deras fantasi genom konst, lek och  utforskande. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Waldorfpedagogiken syftar till att ge förutsättningar för fritt och kritiskt tänkande som  kan hjälpa individen att göra självständiga val. Eleven ska ges möjlighet att utveckla sitt  eget omdöme så att den kan ta ansvar för sitt liv. Målet är att ge individen möjligheter att  förstå sin omvärld, förmågor att verka i samhället och en känsla av att hon tillsammans  med andra kan bidra till dess utveckling. Människans frihet att gestalta sitt liv på ett  ansvarsfullt sätt är den övergripande målsättningen i waldorfskolan. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Läs mer om waldorfpedagogikens mål och kunskapssyn här: </span></p>
+<p><span style="font-weight: 400;">Rawson, M. (2021). </span><i><span style="font-weight: 400;">Steiner Waldorf Pedagogy in Schools. A Critical Introduction</span></i><span style="font-weight: 400;">. </span><i><span style="font-weight: 400;">Steiner  Waldorf Pedagogy in Schools</span></i><span style="font-weight: 400;">. Routledge. </span></p>
+<p><span style="font-weight: 400;">Tyson, R. (2025). </span><i><span style="font-weight: 400;">Waldorfpedagogik. En kritisk introduktion. </span></i><span style="font-weight: 400;">Liber. </span></p>
+<p><span style="font-weight: 400;">Waldorfskolefederationen. (2016). </span><i><span style="font-weight: 400;">En väg till frihet</span></i><span style="font-weight: 400;">. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">En bred utbildning med utrymme för fördjupning </span></p>
+<p><span style="font-weight: 400;">Waldorfpedagogiken syftar till att ge varje individ en bred kompetens inom livets olika  områden. Målet är att utveckla elevernas intellekt, deras empatiska förmågor och deras  handlingskraft. Att utveckla sina praktiska och konstnärliga färdigheter ses som lika  viktigt som att utveckla teoretisk förståelse. Konsten utgör ett förhållningssätt som  genomsyrar alla ämnen, även själva undervisningen är att betrakta som en konst.  </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Waldorfskolan eftersträvar att ge förståelse för helhet och sammanhang, för att undvika  fragmentarisk kunskap. Detta uppnås bland annat genom att varje skoldag inleds med  </span><i><span style="font-weight: 400;">morgonperiod </span></i><span style="font-weight: 400;">– ett längre lektionspass där undervisningen ger eleverna möjlighet att  fördjupa sig i ett tema varje dag under 2–4 veckor. Genom att integrera teoretiska, </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">konstnärliga och praktiska moment i undervisningen kan eleverna närma sig kunskapen  på olika sätt och får tillgång till varierande uttrycksmöjligheter. </span></p>
+<p><a href="https://kristofferskolan.se/wp-content/uploads/2015/08/EEEF0003-69BC-4F46-B36C-5DCDACDCCDF6.jpg"><img decoding="async" class="alignnone  wp-image-5486" src="https://kristofferskolan.se/wp-content/uploads/2015/08/EEEF0003-69BC-4F46-B36C-5DCDACDCCDF6-300x300.jpg" alt="" width="508" height="508" srcset="https://kristofferskolan.se/wp-content/uploads/2015/08/EEEF0003-69BC-4F46-B36C-5DCDACDCCDF6-300x300.jpg 300w, https://kristofferskolan.se/wp-content/uploads/2015/08/EEEF0003-69BC-4F46-B36C-5DCDACDCCDF6-150x150.jpg 150w, https://kristofferskolan.se/wp-content/uploads/2015/08/EEEF0003-69BC-4F46-B36C-5DCDACDCCDF6-768x768.jpg 768w, https://kristofferskolan.se/wp-content/uploads/2015/08/EEEF0003-69BC-4F46-B36C-5DCDACDCCDF6-1024x1024.jpg 1024w, https://kristofferskolan.se/wp-content/uploads/2015/08/EEEF0003-69BC-4F46-B36C-5DCDACDCCDF6.jpg 1440w" sizes="(max-width: 508px) 100vw, 508px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Waldorfskolorna i Sverige praktiserar waldorfpedagogik inom ramen för de nationella  läroplanerna. För att skapa progression i elevernas lärande och utveckling läggs stor vikt  vid vilken kunskap som presenteras när och på vilket sätt. Varje årskurs har några  specifika teman som återkommer i periodundervisning och i övriga lektioner. I  waldorfskolan arbetar man utifrån en ämnesprogression som sträcker sig från  förskoleklass till gymnasiet där olika ämnen samverkar. Det som grundläggs i tidiga  årskurser fördjupas i högre årskurser så att eleverna utvecklar ett alltmer självständigt  förhållande till sitt kunskapande. </span><span style="font-weight: 400;">Detta beskrivs i </span><i><span style="font-weight: 400;">En väg till frihet </span></i><span style="font-weight: 400;">som waldorfskolorna  använder som ett komplement till aktuell nationell läroplan. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Läs mer om morgonperioden, årstematiken och progressionen här: </span></p>
+<p><span style="font-weight: 400;">Liebendörfer, C., &amp; Liebendörfer, Ö. (2013). </span><i><span style="font-weight: 400;">Waldorfpedagogik</span></i><span style="font-weight: 400;">. Lund: Studentlitteratur. Rawson, M. (2021). </span><i><span style="font-weight: 400;">Steiner Waldorf Pedagogy in Schools. A Critical Introduction</span></i><span style="font-weight: 400;">. </span><i><span style="font-weight: 400;">Steiner  Waldorf Pedagogy in Schools</span></i><span style="font-weight: 400;">. Routledge. </span></p>
+<p><span style="font-weight: 400;">Waldorfskolefederationen. (2016). </span><i><span style="font-weight: 400;">En väg till frihet</span></i><span style="font-weight: 400;">. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Undervisningsformer </span></p>
+<p><span style="font-weight: 400;">I waldorfskolan får eleverna utveckla sina sinnesförmågor samtidigt som de får begrepp  för olika fenomen. Vägen till kunskap går genom både teoretiska och praktiska  erfarenheter där eleverna får möjlighet att utforska olika material och företeelser  enskilt, tillsammans med sina klasskamrater och med läraren. Övande i olika former är  avgörande för att befästa kunskaper och utveckla färdigheter och förmågor. Genom att  integrera närmiljön i undervisningen får eleverna möjlighet att uppleva livet utanför  klassrummet.  </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Lärare spelar en stor roll som förmedlare av kunskap i waldorfskolan. Undervisningen  blir levande genom berättelser, bilder och andra konstuttryck, där läraren själv gestaltar  det som förmedlas till eleverna. Det läraren förmedlar bearbetas av eleverna muntligt,  skriftligt och praktiskt till exempel i bild och form. Genom att ta hänsyn till elevernas  utveckling i val av innehåll och metodik gestaltas undervisningen för att tilltala  elevernas lust att lära och mogna i frihet utifrån sina förutsättningar.  </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Waldorfpedagogiken strävar efter att ha en hälsofrämjande inverkan samt att motverka  stress och skoltrötthet. Dags-, vecko- och årsrytmen har återkommande moment som  skapar förutsägbarhet och något att se fram emot tillsammans. Lektionerna innehåller en regelbunden variation mellan att lyssna och observera, uttrycka och reflektera, öva  och interagera. Växlandet mellan olika teman i morgonperioderna skapar utrymme för  kunskapen att mogna. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Teateruppsättningar och gemensamma högtidsfiranden, där eleverna skapar något  tillsammans och tar del av varandras arbete, kan främja både klassgemenskapen och </span><span style="font-weight: 400;">samhörigheten i hela skolan. En central del i pedagogiken är också klasslärarskapet, där  samma lärare följer eleverna under en längre tid, kompletterad av ämneslärare.  Tillsammans med de tydliga rytmerna ger det en trygg bas för eleverna där de vågar  prova, misslyckas, lyckas och utforska världen tillsammans med sina klasskamrater  och lärare. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Läs mer om undervisningsformer här: </span></p>
+<p><a href="https://www.waldorf.se/wp-content/uploads/2023/06/hundra-ar-av-erfarenhet-s.-gerber.pdf"><span style="font-weight: 400;">Gerber, S. (2023). </span><i><span style="font-weight: 400;">Hundra år av erfarenhet. Waldorfpedagogiska kärnkvaliteter i</span></i><i><span style="font-weight: 400;">  p</span></i><i><span style="font-weight: 400;">raktiken</span></i><span style="font-weight: 400;">. Waldorfskolefederationen. </span></a></p>
+<p><span style="font-weight: 400;">Liebendörfer, C., &amp; Liebendörfer, Ö. (2013). </span><i><span style="font-weight: 400;">Waldorfpedagogik</span></i><span style="font-weight: 400;">. Lund: Studentlitteratur. Waldorfskolefederationen. (2016). </span><i><span style="font-weight: 400;">En väg till frihet</span></i><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">Rawson, M. (2021). </span><i><span style="font-weight: 400;">Steiner Waldorf Pedagogy in Schools. A Critical Introduction</span></i><span style="font-weight: 400;">. </span><i><span style="font-weight: 400;">Steiner  Waldorf Pedagogy in Schools</span></i><span style="font-weight: 400;">. Routledge. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Waldorfpedagogikens ursprung </span></p>
+<p><span style="font-weight: 400;">Den waldorfpedagogiska idén föddes 1919 då Rudolf Steiner och fabrikören Emil Molt  tillsammans med en grupp lärare grundade den första waldorfskolan i Tyskland. Den  inrättades för barnen till arbetarna på fabriken Waldorf-Astoria i Stuttgart, varifrån  pedagogiken fått sitt namn. </span></p>
+<p><span style="font-weight: 400;">Pedagogiken hämtade inspiration ur antroposofi samt andra kulturella och filosofiska  strömningar. Utgångspunkten var att varje barn har en inneboende potential och att det  är skolans uppgift att hjälpa eleven att blomstra så rikt som möjligt utifrån sina  förutsättningar. Waldorfskolan var radikal genom att den i samma klass inkluderade  både flickor och pojkar samt barn ur alla samhällsklasser. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Läs mer om waldorfpedagogikens framväxt här: </span></p>
+<p><span style="font-weight: 400;">Rawson, M. (2021). </span><i><span style="font-weight: 400;">Steiner Waldorf Pedagogy in Schools. A Critical Introduction</span></i><span style="font-weight: 400;">. </span><i><span style="font-weight: 400;">Steiner  Waldorf Pedagogy in Schools</span></i><span style="font-weight: 400;">. Routledge. </span></p>
+<p><span style="font-weight: 400;">Tyson, R. (2025). </span><i><span style="font-weight: 400;">Waldorfpedagogik. En kritisk introduktion. </span></i><span style="font-weight: 400;">Liber. </span></p>
+<p><span style="font-weight: 400;">Waldorfskolefederationen. (2016). </span><i><span style="font-weight: 400;">En väg till frihet</span></i><span style="font-weight: 400;">. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Waldorfskolorna idag </span></p>
+<p><span style="font-weight: 400;">Under de senaste 100 åren har waldorfpedagogiken spridits till skolor över hela världen  och utvecklats av lärare utifrån skilda miljöer. I Sverige var Kristofferskolan i Stockholm  en av de tidigaste skolorna med start 1949. </span></p>
+<p><span style="font-weight: 400;">Waldorfskolor strävar efter att vara en kulturplats och att delta aktivt i lokalsamhället. Vårdnadshavare kan stödja skolan genom att engagera sig i olika aktiviteter på skolan. Skolans ledning och medarbetare samverkar kring utvecklingen av verksamheten.</span></p>
+<p><span style="font-weight: 400;">Idag finns ca 40 waldorfskolor och 80 waldorfförskolor i Sverige. De är idéburna, icke konfessionella och icke-vinstutdelande. Sveriges waldorfskolor, som alla drivs av  enskilda huvudmän, är samlade i Waldorfskolefederationen. En förteckning över alla  waldorfskolor och waldorfförskolor finns på: </span><span style="font-weight: 400;">www.waldorf.se. </span></p>
+<p><span style="font-weight: 400;">Den offentligt finansierade och granskade waldorflärarutbildningen ligger i Bromma,  Stockholm. Där utbildas förskollärare, klasslärare, ämneslärare och fritidslärare till  Sveriges waldorfförskolor och waldorfskolor. Läs mer om utbildningarna på: </span><a href="https://www.waldorf.se/"><span style="font-weight: 400;">www.wlh.se.</span></a></p>
+<p>&nbsp;</p>
+<h1><strong><a href="https://www.waldorfportalen.se">Läs mera om waldorfpedagogiken på </a><a href="https://www.waldorfportalen.se"> waldorfportalen.se</a></strong><strong><a href="https://www.waldorfportalen.se"> här&#8230;</a></strong></h1>
+<p><a href="https://kristofferskolan.se/wp-content/uploads/2024/02/IMG-4071-scaled.jpg"><img decoding="async" class="alignnone wp-image-6584" src="https://kristofferskolan.se/wp-content/uploads/2024/02/IMG-4071-300x255.jpg" alt="" width="591" height="502" srcset="https://kristofferskolan.se/wp-content/uploads/2024/02/IMG-4071-300x255.jpg 300w, https://kristofferskolan.se/wp-content/uploads/2024/02/IMG-4071-1024x870.jpg 1024w, https://kristofferskolan.se/wp-content/uploads/2024/02/IMG-4071-768x653.jpg 768w, https://kristofferskolan.se/wp-content/uploads/2024/02/IMG-4071-1536x1305.jpg 1536w, https://kristofferskolan.se/wp-content/uploads/2024/02/IMG-4071-2048x1740.jpg 2048w" sizes="(max-width: 591px) 100vw, 591px" /></a></p>
+<!-- /wp:post-content -->
+
+<!-- wp:image {"id":5537,"linkDestination":"custom"} /-->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.waldorfportalen.se">&#8221;Waldorfportalen.se presenterar waldorfpedagogik för dig som redan vet mycket om waldorfpedagogik, för dig som vill veta mer och för dig som kanske aldrig besökt en waldorfskola och är nyfiken på att veta mer&#8221; (Redaktion: Makz Bjuggfält och Anna Ljungkvist).</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} /-->
+
+<!-- wp:image {"id":5819,"linkDestination":"custom"} /-->
+
+<!-- wp:paragraph /-->
+
+<!-- wp:image {"id":5739,"linkDestination":"custom"} /-->
+
+<!-- wp:paragraph /-->
+
+<!-- wp:image {"id":5819,"linkDestination":"custom"} /-->
+
+<!-- wp:paragraph /-->
+
+<!-- wp:image {"id":5739,"linkDestination":"custom"} /-->
+
+<!-- wp:paragraph /-->
+
+<!-- wp:image {"id":5827,"width":838,"height":1184,"sizeSlug":"full","linkDestination":"media"} /-->
+
+<!-- wp:heading {"level":1} /-->
+
+<!-- wp:heading {"level":1} /-->
+
+<!-- wp:image {"id":5819,"linkDestination":"custom"} /-->
+
+<!-- wp:paragraph /-->
+
+<!-- wp:image {"id":5739,"linkDestination":"custom"} /-->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<h3>Se filmen om Kristofferskolan av<strong>  Hej Produktion!</strong></h3>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/LtWlYzF9mys?rel=0&amp;showinfo=0" width="590" height="332" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  </p>					
+				</article>
+			
+						
+		</div>
+		
+		
+			
+	
+
+
+	</div>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/Kulturhuset\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["s\u00f6ndag","m\u00e5ndag","tisdag","onsdag","torsdag","fredag","l\u00f6rdag"],"dayNamesShort":["s\u00f6n","m\u00e5n","tis","ons","tor","fre","l\u00f6r"],"dayNamesMin":["S","M","T","O","T","F","L"],"monthNames":["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"monthNamesShort":["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"monthNamesMin":["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script type="text/javascript" src="https://kristofferskolan.se/wp-content/plugins/the-events-calendar/common/build/js/user-agent.js?ver=da75d0bdea6dde3898df" id="tec-user-agent-js"></script>
+<script type="text/javascript" src="https://kristofferskolan.se/wp-content/themes/Kulturhuset/mobile.nav.js" id="mobile_nav-js"></script>
+
+</body>
+</html>

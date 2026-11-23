@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "49631077",
+  "school_name": "Högsätra skola",
+  "registered_url": "https://www.lidingo.se/hogsatraskola",
+  "attempted_at": "2026-10-21T09:16:23.355142+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "https://www.lidingo.se/hogsatraskola",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

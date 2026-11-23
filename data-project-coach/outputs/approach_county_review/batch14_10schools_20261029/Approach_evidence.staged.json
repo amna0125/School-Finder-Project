@@ -1,0 +1,112 @@
+[
+  {
+    "evidence_id": "ae_b14_26742346_01",
+    "school_id": "26742346",
+    "source_url": "https://bma.nu/solna-enskilda-skola/sa-har-arbetar-vi/",
+    "page_title": "Så här arbetar vi - Barnens Montessori Akademi",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vårt förhållningssätt är inspirerat av Maria Montessoris pedagogik.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Unit-specific SolnaEnskilda methods page applies to school/preschool; schoolF–3page independently confirms mixed-ageclasses/concretematerials. ExactofficialID/Industrivägen16/grades1–3+Fmatch. Preserve inspired qualifier, not certified fidelity; no preschool-only transfer."
+  },
+  {
+    "evidence_id": "ae_b14_26804905_01",
+    "school_id": "26804905",
+    "source_url": "https://www.morapark.se/skola",
+    "page_title": "Skola | Mora Park",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi varvar teori med musik och konst i olika former vilket fördjupar barnens lärande och sociala färdigheter.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: exactofficial26804905displayNameMoraParks versus storedStiftelsenMoraPark resolves identity, but officialGRandGRAN1–9 while page explicitly headed adaptedgrundskola. Support/arts/themes apply to adaptedform on source, cannot automatically code ordinaryGRunit in county scope. LSSresidential provision excluded; effects unverified. No firm code pending form reconciliation."
+  },
+  {
+    "evidence_id": "ae_b14_26808959_01",
+    "school_id": "26808959",
+    "source_url": "https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/parkskolan",
+    "page_title": "Parkskolan \n\n - Solna stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi samarbetar med Röda korset där volontärer är läsfaddrar för elever i årskurs 2 och 3.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: F–3ParkskolanSolna, not NorrtäljeformerParkskolan. Concretevolunteerreadingbuddy2–3/gen erationalproject stated but frequency/structured model detail limited. Co-locatedkulturskola not artsprofile by itself; retain uncertain lead not firm supportcode."
+  },
+  {
+    "evidence_id": "ae_b14_26852132_01",
+    "school_id": "26852132",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+    "page_title": "Solhemsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Skolan har ett samarbete med Kulturskolans orkesterskola. Här får elever i yngre åldrar uttrycka sig genom musik.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "SolhemF–6school page sustained named orchestra-school partnership, younger-year coverage exactyears/frequencyunspecified. Supportedartsinterpretation alongside concrete culturallearningcontext, not artfacilities or visitsalone. SharedschoolorganisationSolhemsängen not sameofficialID assumed."
+  },
+  {
+    "evidence_id": "ae_b14_26852132_02",
+    "school_id": "26852132",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+    "page_title": "Solhemsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "I årskurs 1–6 arbetar alla klasser med NTA, Naturvetenskap och Teknik för Alla.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Contextual note: named NTA programme applies1–6 but reviewedpage lacks pupil-question/experimentalcycle detail needed for inquiry code under codebook. Do not infer inquiry automatically from acronym or teacher research partnerships. No second firm code."
+  },
+  {
+    "evidence_id": "ae_b14_26878879_01",
+    "school_id": "26878879",
+    "source_url": "https://www.stalletsskola.com/v%C3%A5ra-verksamheter/skolan",
+    "page_title": "Stallet - Skolan",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "I vårt Vänskapsarbete får eleverna träna på att förstå och hantera sina egna samt bemöta andras känslor. Genom dramalek och kamratövningar kan de få tekniker för hur de kan hantera olika sociala situationer t.ex. hur de kan göra för att komma med i en lek.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "F–3StalletsSollentuna, exactfreshID/Landsvägen24/name/gradesmatch, postalcodewebsite19270vsregister19272retained. Concreteemotional/socialinclusion exercises under namedfriendshipwork. Drama used as socialtool, not artsprofile. Public.comschoolpages replace.se redirect; robotsdestination404uncertainty retained."
+  },
+  {
+    "evidence_id": "ae_b14_27181501_01",
+    "school_id": "27181501",
+    "source_url": "https://vrskolor.se/grundskolor/vrs-nacka/",
+    "page_title": "Viktor Rydbergs grundskola förskoleklass till årskurs 6 i Fisksätra, Nacka",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi ser skapande och undersökande arbete och lek som väsentliga delar i det aktiva lärandet.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: VRSNackaF–6Brantvägen1. Broadunitwordingandproviderart/scienceslogan insufficient sustained arts/inquirymethod; mixedcampustestimonials and gymnasiumprofiles excluded. No firm category from promotional quality claims."
+  },
+  {
+    "evidence_id": "ae_b14_27323097_01",
+    "school_id": "27323097",
+    "source_url": "https://noblaskolan.se/solna/",
+    "page_title": "En skola i Solna med höga ambitioner | Noblaskolan Solna",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Därför har vi skapat Noblakoden – ett gemensamt förhållningssätt kring lektionsstruktur, ordning, mentorsrollen och andra saker som är viktiga för en bra skolmiljö.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: NoblaSolnaF–9formerlyAlfaskolan. Model named but reviewedunitpages largely routine/academicmarketing with limited distinctive mechanism. Do not transfer Täbyadvancedcourses, no artsfromclassicalbackgroundmusic or ordinary artsclasses. Uncertainnote, nofirmcode."
+  },
+  {
+    "evidence_id": "ae_b14_27344011_01",
+    "school_id": "27344011",
+    "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/friluftslivsprofil/",
+    "page_title": "Friluftslivspedagogik | Nacka kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vår naturvetenskapliga utomhusprofil är kompletterad med friluftslivspedagogik genom att vi återkommande erbjuder ett arbetssätt som bygger på upplevelsebaserat lärande utomhus med utgångspunkten friluftsliv.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "NeglingeF–5ordinaryunit. Specificpageupdated2023-10-03/currentlinkedmethodspagerestatesprofile: record publicdescriptionnotverifycurrentimplementation. All-yearoutdoordaysstated; weeklyforestmorningexplicitFonly, fritidsmonthlyF–3separate. Schoolforestpedagogy describedunderdevelopment, not completed."
+  },
+  {
+    "evidence_id": "ae_b14_27344011_02",
+    "school_id": "27344011",
+    "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/inlarning-genom-rorelse/",
+    "page_title": "Inlärning genom rörelse | Nacka kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vår naturvetenskapliga utomhusprofil är kompletterad med vår pedagogiska inriktning Inlärning med rörelse, där vi arbetar aktivt för att skapa många tillfällen till rörelse under skoldagen, både i klassrum och under raster.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Explicitnamedmovementapproach, updated2026-09-28; concreteFmotoricscreening/needbasedweeklygymnastics/extraswimsupport and classroom/recessmovement. No claim allpupilsreceiveweeklyextra gymnastics, health/brainclaimsnotverified. Teacherresearchnotpupilinquirycode."
+  },
+  {
+    "evidence_id": "ae_b14_27357778_01",
+    "school_id": "27357778",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/oxhagsskolan",
+    "page_title": "Oxhagsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi använder även närområdet som en del av undervisningen, där eleverna får utforska, lära och röra sig i naturen.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: OxhagenF–6Helsingforsgatan4. Nature-use statement under-specified recurringstructure/frequency. Genericaccesssupport and scheduledhomeworkalone not distinctiveinclusionmodel; no firm outdoor/supportcode. Notabsence."
+  }
+]

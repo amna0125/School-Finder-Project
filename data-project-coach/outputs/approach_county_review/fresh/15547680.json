@@ -1,0 +1,72 @@
+{
+  "school_id": "15547680",
+  "school_name": "Vibyskolan",
+  "registered_url": "http://www.vibyskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.vibyskolan.se/",
+      "source_url": "https://www.vibyskolan.se/",
+      "page_title": "Vibyskolan",
+      "accessed_at": "2026-10-21T17:28:37.997903+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "15547680_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vibyskolan.se/",
+          "robots_url": "https://www.vibyskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:28:36.995087+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.vibyskolan.se/om-oss/",
+      "source_url": "https://www.vibyskolan.se/om-oss/",
+      "page_title": "Om oss – Vibyskolan",
+      "accessed_at": "2026-10-21T17:28:39.003502+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "15547680_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vibyskolan.se/om-oss/",
+          "robots_url": "https://www.vibyskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:28:36.995087+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.vibyskolan.se/om-oss/evenemang/",
+      "source_url": "https://www.vibyskolan.se/om-oss/evenemang/",
+      "page_title": "Evenemang – Vibyskolan",
+      "accessed_at": "2026-10-21T17:28:39.977633+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "15547680_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vibyskolan.se/om-oss/evenemang/",
+          "robots_url": "https://www.vibyskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:28:36.995087+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

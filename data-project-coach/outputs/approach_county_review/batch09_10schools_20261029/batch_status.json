@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 5,
+  "scoped_no_clear_schools": 2,
+  "requires_review_schools": 2,
+  "inaccessible_schools": 1,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 12,
+  "new_code_rows": 6,
+  "database_evidence_total": 108,
+  "database_codes_total": 82,
+  "first_load_flow": "educational-flamingo",
+  "replay_flow": "brass-uakari",
+  "replay_inserted_rows": 0,
+  "tests": "22 existing tests passed"
+}

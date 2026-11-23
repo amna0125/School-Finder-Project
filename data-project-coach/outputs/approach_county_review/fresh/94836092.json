@@ -1,0 +1,72 @@
+{
+  "school_id": "94836092",
+  "school_name": "Borgvallaskolan",
+  "registered_url": "https://www.nacka.se/valfard-skola/ektorps-skolenhet/borgvallaskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/",
+      "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/",
+      "page_title": "Borgvallaskolan | Nacka kommun",
+      "accessed_at": "2026-10-21T17:44:08.289458+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94836092_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/borgvallaskolan/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:02.860105+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+      "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+      "page_title": "Om oss | Nacka kommun",
+      "accessed_at": "2026-10-21T17:44:09.153438+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94836092_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:02.860105+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/lasarsdata/",
+      "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/lasarsdata/",
+      "page_title": "Läsårsdata | Nacka kommun",
+      "accessed_at": "2026-10-21T17:44:09.956789+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94836092_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/lasarsdata/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:02.860105+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,17 @@
+{
+  "school_id": "78801570",
+  "school_name": "Raoul Wallenbergskolan Jungfrusund",
+  "registered_url": "www.rws.se",
+  "pages": [],
+  "errors": [
+    {
+      "url": "www.rws.se",
+      "error": "Unsafe URL",
+      "attempted_at": "2026-10-21T17:41:09.779177+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

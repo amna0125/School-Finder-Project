@@ -1,0 +1,17 @@
+{
+  "school_id": "58310322",
+  "school_name": "Trädgårdsstadsskolan",
+  "registered_url": "http://www.botkyrka.se/tradgardsstadsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/tradgardsstadsskolan",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:38:25.788584+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

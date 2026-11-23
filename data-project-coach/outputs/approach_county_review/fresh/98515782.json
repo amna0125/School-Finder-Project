@@ -1,0 +1,52 @@
+{
+  "school_id": "98515782",
+  "school_name": "Stiftelsen nya Ängkärrskolan",
+  "registered_url": "http://www.angkarrskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://angkarrskolan.se/",
+      "source_url": "https://angkarrskolan.se/",
+      "page_title": "Ängkärrskolan – Skola med specialinriktning dyslexi och neuropsykiatriska funktionsnedsättningar",
+      "accessed_at": "2026-10-21T17:45:34.832292+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "98515782_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://angkarrskolan.se/",
+          "robots_url": "https://angkarrskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:33.377806+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://angkarrskolan.se/specialpedagoger/",
+      "source_url": "https://angkarrskolan.se/specialpedagoger/",
+      "page_title": "Specialpedagoger – Ängkärrskolan",
+      "accessed_at": "2026-10-21T17:45:36.046982+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "98515782_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://angkarrskolan.se/specialpedagoger/",
+          "robots_url": "https://angkarrskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:33.377806+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

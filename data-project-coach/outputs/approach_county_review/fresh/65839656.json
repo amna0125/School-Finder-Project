@@ -1,0 +1,69 @@
+{
+  "school_id": "65839656",
+  "school_name": "Byängsskolan AB",
+  "registered_url": "http://www.byangsskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.byangsskolan.se/",
+      "source_url": "https://www.byangsskolan.se/",
+      "page_title": "Startsida",
+      "accessed_at": "2026-10-21T17:39:12.221090+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "65839656_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.byangsskolan.se/",
+          "robots_url": "https://www.byangsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:39:10.690141+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.byangsskolan.se/om-oss",
+      "source_url": "https://www.byangsskolan.se/om-oss",
+      "page_title": "Om oss",
+      "accessed_at": "2026-10-21T17:39:14.170380+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "65839656_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.byangsskolan.se/om-oss",
+          "robots_url": "https://www.byangsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:39:10.690141+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.byangsskolan.se/om-oss/om-oss",
+      "source_url": "https://www.byangsskolan.se/om-oss/om-oss",
+      "page_title": "Om oss",
+      "accessed_at": "2026-10-21T17:39:15.853486+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "65839656_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.byangsskolan.se/om-oss/om-oss",
+          "robots_url": "https://www.byangsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:39:10.690141+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

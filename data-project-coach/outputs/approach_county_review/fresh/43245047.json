@@ -1,0 +1,17 @@
+{
+  "school_id": "43245047",
+  "school_name": "Saltängens skola",
+  "registered_url": "https://www.nacka.se/valfard-skola/saltsjo-duvnas-skola/",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.nacka.se/valfard-skola/saltsjo-duvnas-skola/",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:34:15.126927+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

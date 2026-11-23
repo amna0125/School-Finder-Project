@@ -1,0 +1,72 @@
+{
+  "school_id": "90537318",
+  "school_name": "Vikingaskolan",
+  "registered_url": "http://haninge.se/forskola-och-skola/grundskola/",
+  "pages": [
+    {
+      "requested_url": "https://www.haninge.se/skola-och-forskola/grundskola/",
+      "source_url": "https://www.haninge.se/skola-och-forskola/grundskola/",
+      "page_title": "Haninge kommun - kommunala och fristående grundskolor - Haninge kommun",
+      "accessed_at": "2026-10-21T17:43:46.550237+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90537318_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.haninge.se/skola-och-forskola/grundskola/",
+          "robots_url": "https://www.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.467153+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.haninge.se/skola-och-forskola/grundskola/hitta-grundskola/",
+      "source_url": "https://www.haninge.se/skola-och-forskola/grundskola/hitta-grundskola/",
+      "page_title": "Hitta grundskola - Haninge kommun",
+      "accessed_at": "2026-10-21T17:43:47.553174+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90537318_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.haninge.se/skola-och-forskola/grundskola/hitta-grundskola/",
+          "robots_url": "https://www.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.467153+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.haninge.se/skola-och-forskola/grundskola/ansoka-eller-byta-skola/",
+      "source_url": "https://www.haninge.se/skola-och-forskola/grundskola/ansoka-eller-byta-skola/",
+      "page_title": "Ansöka eller byta skola - Haninge kommun",
+      "accessed_at": "2026-10-21T17:43:48.374538+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90537318_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.haninge.se/skola-och-forskola/grundskola/ansoka-eller-byta-skola/",
+          "robots_url": "https://www.haninge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.467153+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

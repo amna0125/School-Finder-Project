@@ -1,0 +1,72 @@
+{
+  "school_id": "81857869",
+  "school_name": "Skärsätra skola",
+  "registered_url": "https://www.lidingo.se/skarsatraskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/",
+      "page_title": "Skärsätra skola F-6 - Lidingö",
+      "accessed_at": "2026-10-21T17:41:43.300165+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81857869_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/fritidshem-och-fritidsklubb-skarsatra-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/fritidshem-och-fritidsklubb-skarsatra-skola/",
+      "page_title": "Fritidshem och fritidsklubb, Skärsätra skola - Lidingö",
+      "accessed_at": "2026-10-21T17:41:45.372416+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81857869_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/fritidshem-och-fritidsklubb-skarsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/elevhalsa-skarsatra-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/elevhalsa-skarsatra-skola/",
+      "page_title": "Elevhälsa, Skärsätra skola - Lidingö",
+      "accessed_at": "2026-10-21T17:41:47.192788+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81857869_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/elevhalsa-skarsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

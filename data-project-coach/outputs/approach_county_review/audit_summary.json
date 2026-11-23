@@ -1,0 +1,12 @@
+{
+  "remaining_units": 759,
+  "saved_pages": 1175,
+  "coverage": {
+    "saved_pages_awaiting_context_review": 667,
+    "missing_registered_website": 8,
+    "collection_failed_needs_access_review": 84
+  },
+  "units_with_old_candidates": 215,
+  "old_candidates_promoted_automatically": 0,
+  "fresh_source_requests": 0
+}

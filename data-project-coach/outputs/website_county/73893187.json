@@ -1,0 +1,86 @@
+{
+  "school_unit_code": "73893187",
+  "school_name": "Maria Elementarskola",
+  "registered_url": "http://www.mariaelementar.se",
+  "attempted_at": "2026-10-21T09:23:00.123958+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.mariaelementarskola.se/",
+      "retrieved_at": "2026-10-21T09:23:08.705789+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.mariaelementar.se",
+          "robots_url": "https://www.mariaelementar.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:01.561660+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.mariaelementar.se/",
+          "robots_url": "https://www.mariaelementar.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:03.093399+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.mariaelementarskola.se/",
+          "robots_url": "https://www.mariaelementarskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:04.598458+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "73893187_0.txt"
+    },
+    {
+      "source_url": "https://www.mariaelementarskola.se/pedagogisk-resurs-till-skola-och-fritids",
+      "retrieved_at": "2026-10-21T09:23:08.751234+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.mariaelementarskola.se/pedagogisk-resurs-till-skola-och-fritids",
+          "robots_url": "https://www.mariaelementarskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:04.598458+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "73893187_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "ser gärna att du har utbildning inom fritidshem, pedagogik, barn och fritid eller socialt arbete. Även särskilda kunskaper inom exempelvis idrott, skapande verksamhet, musik eller drama är värdefulla.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c11ed8ed67b9250baca53793a24f65ac2ae1dc32c1c0cdf5d8aa19f15c35b0a7",
+      "school_unit_code": "73893187",
+      "school_name": "Maria Elementarskola",
+      "source_url": "https://www.mariaelementarskola.se/pedagogisk-resurs-till-skola-och-fritids",
+      "retrieved_at": "2026-10-21T09:23:08.751234+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "terande. Vi ser gärna att du har utbildning inom fritidshem, pedagogik, barn och fritid eller socialt arbete. Även särskilda kunskaper inom exempelvis idrott, skapande verksamhet, musik eller drama är värdefulla.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a65c90cabe6ae1ba8539f5d11a5e0bf4a5e4302c54f2074a86bfa635eb269057",
+      "school_unit_code": "73893187",
+      "school_name": "Maria Elementarskola",
+      "source_url": "https://www.mariaelementarskola.se/pedagogisk-resurs-till-skola-och-fritids",
+      "retrieved_at": "2026-10-21T09:23:08.751234+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

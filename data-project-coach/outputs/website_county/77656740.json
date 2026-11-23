@@ -1,0 +1,45 @@
+{
+  "school_unit_code": "77656740",
+  "school_name": "Rosholmen Education Academy AB",
+  "registered_url": "http://www.rosholmen.se",
+  "attempted_at": "2026-10-21T09:17:06.915986+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "http://www.rosholmen.se",
+      "retrieved_at": "2026-10-21T09:17:10.839303+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.rosholmen.se",
+          "robots_url": "http://www.rosholmen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:08.359887+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "77656740_0.txt"
+    },
+    {
+      "source_url": "http://www.rosholmen.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:10.853459+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.rosholmen.se/om-oss/",
+          "robots_url": "http://www.rosholmen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:08.359887+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "77656740_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

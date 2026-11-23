@@ -1,0 +1,72 @@
+{
+  "school_id": "21576764",
+  "school_name": "Söderfjärdsskolan",
+  "registered_url": "http://www.vaxholm.se",
+  "pages": [
+    {
+      "requested_url": "https://www.vaxholm.se/",
+      "source_url": "https://www.vaxholm.se/",
+      "page_title": "Vaxholms stad - Vaxholms stad",
+      "accessed_at": "2026-10-21T17:29:53.452797+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "21576764_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vaxholm.se/",
+          "robots_url": "https://www.vaxholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:52.183570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.vaxholm.se/barn--utbildning/forskola-och-pedagogisk-omsorg",
+      "source_url": "https://www.vaxholm.se/barn--utbildning/forskola-och-pedagogisk-omsorg",
+      "page_title": "Förskola och pedagogisk omsorg - Vaxholms stad",
+      "accessed_at": "2026-10-21T17:29:54.770814+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "21576764_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vaxholm.se/barn--utbildning/forskola-och-pedagogisk-omsorg",
+          "robots_url": "https://www.vaxholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:52.183570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.vaxholm.se/barn--utbildning/grundskola-och-fritidshem",
+      "source_url": "https://www.vaxholm.se/barn--utbildning/grundskola-och-fritidshem",
+      "page_title": "Grundskola och fritidshem - Vaxholms stad",
+      "accessed_at": "2026-10-21T17:29:55.927036+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "21576764_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vaxholm.se/barn--utbildning/grundskola-och-fritidshem",
+          "robots_url": "https://www.vaxholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:52.183570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

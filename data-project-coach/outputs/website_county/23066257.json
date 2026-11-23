@@ -1,0 +1,105 @@
+{
+  "school_unit_code": "23066257",
+  "school_name": "Kulturama gr. Hammarby Sjöstad",
+  "registered_url": "http://www.kulturama.se",
+  "attempted_at": "2026-10-21T09:20:36.782904+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kulturama.se/",
+      "retrieved_at": "2026-10-21T09:20:42.512152+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.kulturama.se",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:53.060712+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.kulturama.se/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.690431+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "23066257_0.txt"
+    },
+    {
+      "source_url": "https://www.kulturama.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:20:42.571822+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kulturama.se/grundskola/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.690431+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "23066257_1.txt"
+    },
+    {
+      "source_url": "https://www.kulturama.se/grundskola/ansokan/",
+      "retrieved_at": "2026-10-21T09:20:42.610252+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kulturama.se/grundskola/ansokan/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.690431+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "23066257_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Våra högskoleförberedande program öppnar dörrar till många olika framtider. I din klass finns framtida författare, konstnärer, musiker, sjuksköterskor och ingenjörer.Läs mer",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ca93ace5415bcf43b19049862b6c3b9f88b1095a4dbefed69510cb93de4ef361",
+      "school_unit_code": "23066257",
+      "school_name": "Kulturama gr. Hammarby Sjöstad",
+      "source_url": "https://www.kulturama.se/",
+      "retrieved_at": "2026-10-21T09:20:42.512152+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "g i Stockholm och välkomnar barn med estetiskt intresse i årskurs 4-9. Hos oss får eleverna en kvalitativ utbildning samtidigt som de utforskar skapandet och fördjupar sig i bild, musik, sång, teater och dans. Vi är en estetisk grundskola med övertygelsen om att kreativt arbete ger välmående elever med en bredd av verktyg som kan användas framgångsrikt i alla skolämnen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d4c4ab7c89da6ebbd5ec9f4d6d09fb4aa18608f4c64070480e34e849cfeb6932",
+      "school_unit_code": "23066257",
+      "school_name": "Kulturama gr. Hammarby Sjöstad",
+      "source_url": "https://www.kulturama.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:20:42.571822+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Kulturama har två grundskolor i Stockholms län: Kulturama Grundskola Sundbyberg åk 4-9 och Kulturama Grundskola Hammarby Sjöstad åk 4-9. Hos oss finns inriktningarna Bild & form, Musik & sång samt Musikal.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "759b02b55e1d706e962f76f0da1617dbdc650ab3d5c885e332cf79e088214867",
+      "school_unit_code": "23066257",
+      "school_name": "Kulturama gr. Hammarby Sjöstad",
+      "source_url": "https://www.kulturama.se/grundskola/ansokan/",
+      "retrieved_at": "2026-10-21T09:20:42.610252+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

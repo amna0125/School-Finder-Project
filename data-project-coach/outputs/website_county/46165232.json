@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "46165232",
+  "school_name": "Mälarhöjdens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola",
+  "attempted_at": "2026-10-21T09:16:18.102206+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola",
+      "retrieved_at": "2026-10-21T09:16:20.653730+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46165232_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "itt på skolgården står skolans äldsta hus, Röda stugan från 1905. Vår expedition finns i den största byggnaden som är från 1925. Vid centrum finns Pärlan där vi har undervisning i musik och bild.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "6f4d514cf1dee7836b4e5db33edb6e814f259d158b27a8b4dff26bbc56466ab8",
+      "school_unit_code": "46165232",
+      "school_name": "Mälarhöjdens skola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola",
+      "retrieved_at": "2026-10-21T09:16:20.653730+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,32 @@
+{
+  "school_id": "99022046",
+  "school_name": "Sköndalsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skondalsskolan",
+  "pages": [
+    {
+      "requested_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skondalsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skondalsskolan",
+      "page_title": "Sköndalsskolan, F–6 - Stockholms stad",
+      "accessed_at": "2026-10-21T17:45:55.189293+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "99022046_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skondalsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:24.841382+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

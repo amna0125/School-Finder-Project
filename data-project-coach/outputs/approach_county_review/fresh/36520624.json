@@ -1,0 +1,17 @@
+{
+  "school_id": "36520624",
+  "school_name": "Nybohovsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nybohovsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nybohovsskolan",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:32:27.607889+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

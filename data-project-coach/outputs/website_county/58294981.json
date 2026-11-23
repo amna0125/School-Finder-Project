@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "58294981",
+  "school_name": "Rösjöskolan",
+  "registered_url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+  "attempted_at": "2026-10-21T09:16:38.180124+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+      "retrieved_at": "2026-10-21T09:16:40.650206+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.194286+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58294981_0.txt"
+    },
+    {
+      "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:16:40.668238+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.194286+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58294981_1.txt"
+    },
+    {
+      "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/anpassadgrundskola/",
+      "retrieved_at": "2026-10-21T09:16:40.686574+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/anpassadgrundskola/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.194286+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58294981_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

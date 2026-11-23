@@ -1,0 +1,72 @@
+{
+  "school_id": "42328518",
+  "school_name": "Franska Skolan/Ecole francaise",
+  "registered_url": "http://www.franskaskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.franskaskolan.se/",
+      "source_url": "https://www.franskaskolan.se/",
+      "page_title": "Franska Skolan – Franska Skolan i StockholmFöregåendeNästaScroll to top",
+      "accessed_at": "2026-10-21T17:33:57.514763+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "42328518_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.franskaskolan.se/",
+          "robots_url": "https://www.franskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:33:56.255744+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.franskaskolan.se/grundskolan/",
+      "source_url": "https://www.franskaskolan.se/grundskolan/",
+      "page_title": "Grundskolan – Franska SkolanScroll to top",
+      "accessed_at": "2026-10-21T17:33:58.704484+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "42328518_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.franskaskolan.se/grundskolan/",
+          "robots_url": "https://www.franskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:33:56.255744+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.franskaskolan.se/grundskolan/ansokan-grundskolan/",
+      "source_url": "https://www.franskaskolan.se/grundskolan/ansokan-grundskolan/",
+      "page_title": "Ansökan grundskolan – Franska SkolanScroll to top",
+      "accessed_at": "2026-10-21T17:33:59.854243+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "42328518_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.franskaskolan.se/grundskolan/ansokan-grundskolan/",
+          "robots_url": "https://www.franskaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:33:56.255744+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

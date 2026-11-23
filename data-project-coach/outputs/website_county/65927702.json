@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "65927702",
+  "school_name": "Innovitaskolan Vendelsö",
+  "registered_url": "https://innovitaskolan.se/vendelso/",
+  "attempted_at": "2026-10-21T09:16:45.717012+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://innovitaskolan.se/vendelso/",
+      "retrieved_at": "2026-10-21T09:16:50.416911+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/vendelso/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "65927702_0.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/vendelso/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:16:50.441896+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/vendelso/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "65927702_1.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/vendelso/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:50.468672+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/vendelso/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "65927702_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Genom lek, bild och musik kan barnens fantasi och uttrycksförmåga komma fram på olika sätt. De uppmuntras till att testa själva med pedagogernas stöttning, för genom att testa utvecklas vi.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "86b31498f016c0d2a6f3d832f35432d3f66f854be638d02fcd70db73d3bf6a88",
+      "school_unit_code": "65927702",
+      "school_name": "Innovitaskolan Vendelsö",
+      "source_url": "https://innovitaskolan.se/vendelso/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:16:50.441896+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

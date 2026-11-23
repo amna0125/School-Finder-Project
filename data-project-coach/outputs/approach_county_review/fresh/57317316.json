@@ -1,0 +1,32 @@
+{
+  "school_id": "57317316",
+  "school_name": "JENSEN grundskola Långholmen",
+  "registered_url": "https://www.jensengrundskola.se/langholmen",
+  "pages": [
+    {
+      "requested_url": "https://www.jensengrundskola.se/langholmen",
+      "source_url": "https://www.jensengrundskola.se/langholmen",
+      "page_title": "JENSEN grundskola Långholmen | Jensen Grundskola",
+      "accessed_at": "2026-10-21T17:38:09.976016+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "57317316_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.jensengrundskola.se/langholmen",
+          "robots_url": "https://www.jensengrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:37:24.561160+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

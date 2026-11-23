@@ -1,0 +1,56 @@
+diff --git a/outputs/approach_county_review/checkpoint_batch19.py b/outputs/approach_county_review/checkpoint_batch19.py
+new file mode 100755
+index 0000000..9905fcf
+--- /dev/null
++++ b/outputs/approach_county_review/checkpoint_batch19.py
+@@ -0,0 +1,50 @@
++"""One-time Batch19 checkpoint after successful append/replay; do not rerun."""
++from pathlib import Path
++import csv,json,difflib
++import duckdb
++P=Path('outputs/approach_county_review');B=P/'batch19_10schools_20261030'
++def read(p):return json.loads(p.read_text())
++def dump(p,x):p.write_text(json.dumps(x,ensure_ascii=False,indent=2)+'\n')
++new=P/'county_progress_20261030_after_batch19.csv';assert not new.exists()
++loads=[read(p) for p in sorted((B/'loads').glob('*/validation.json'))];assert len(loads)==2
++assert [(x['inserted_evidence'],x['inserted_codes']) for x in loads]==[(12,4),(0,0)]
++assert all(x['status']=='PASSED' and x['existing_records_preserved'] and x['exact_target_comparison'] and x['exact_staging_comparison'] for x in loads)
++assert loads[0]['official_fingerprints']==loads[1]['official_fingerprints']
++old=P/'county_progress_20261030_after_batch18.csv';rows=list(csv.DictReader(old.open()));before={x['school_id']:dict(x) for x in rows};sel=read(B/'selection.json');ids={x['school_id'] for x in sel};reviews=list(csv.DictReader((B/'review_log.csv').open()));rev={x['school_id']:x for x in reviews}
++assert len(rows)==len(before)==762 and len(ids)==len(rev)==10
++assert ids=={x['school_id'] for x in sorted((x for x in rows if x['review_state']=='Not yet contextually reviewed'),key=lambda x:x['school_id'])[:10]}
++with duckdb.connect('.state/schools.duckdb',read_only=True) as db:
++ counts={t:db.execute('select count(*) from '+t).fetchone()[0] for t in ['schools','statistics','survey_observations','source_coverage','approach_evidence','approach_codes']}
++ assert counts==dict(schools=762,statistics=45868,survey_observations=84610,source_coverage=3048,approach_evidence=238,approach_codes=175)
++ assert {str(r[0]) for r in db.execute('select school_unit_code from schools').fetchall()}==set(before)
++for x in rows:
++ if x['school_id'] in ids:
++  r=rev[x['school_id']];x.update(review_state=r['outcome'],batch_reference=B.name,collection_status='contextually_reviewed_followups_retained',note=r['unit_scope']+' '+r['follow_up'])
++assert {x['school_id'] for x in rows if x!=before[x['school_id']]}==ids
++with new.open('w',newline='') as f:
++ w=csv.DictWriter(f,fieldnames=rows[0].keys());w.writeheader();w.writerows(rows)
++(B/'ledger.diff').write_text(''.join(difflib.unified_diff(old.read_text().splitlines(True),new.read_text().splitlines(True),fromfile=old.name,tofile=new.name)))
++remaining=sorted((x for x in rows if x['review_state']=='Not yet contextually reviewed'),key=lambda x:x['school_id']);assert len(remaining)==559
++assert len(rows)-len(remaining)==203
++dump(P/'next_batch_after_batch19.json',remaining[:10])
++campaign=read(P/'campaign_200_status.json');dump(B/'campaign_before_batch19.json',campaign)
++(B/'workflow_before_batch19.md').write_text((P/'CURRENT_WORKFLOW.md').read_text())
++campaign.update(latest_committed_batch=B.name,committed_contextual_reviews=203,campaign_status='CHECKPOINTED_MINIMUM_REACHED_COUNTY_INCOMPLETE',target_reached=True,latest_ledger=new.name,remaining_minimum=0,remaining_whole_batches_to_203=0,next_selection='next_batch_after_batch19.json',continuation_note='203 documented outcomes including unresolved cases, not203 resolved schools. Minimum200 reached;559 units remain pending. Continue on demand in batches of10.',target_remaining_minimum=0,planned_batches_remaining=0,note='203 documented outcomes; county incomplete, unresolved follow-ups retained.')
++dump(P/'campaign_200_status.json',campaign)
++(P/'CURRENT_WORKFLOW.md').write_text('''# Current checkpoint — Batch19,2026-10-30
++
++Batch19 append mature-crocodile +12 evidence/+4 codes; replay modern-ibis +0/+0. Totals238 evidence/175 codes (not school counts). Exact staging/target comparisons, official fingerprints and prior records preserved;22 unittest tests passed.
++
++Ledger county_progress_20261030_after_batch19.csv:203 documented outcomes/559 pending/762 unique official IDs. Minimum200 reached, NOT county complete or203 resolved schools. Exactly10 rows changed. Next selection next_batch_after_batch19.json, ascending pending official IDs; on-demand batches of10.
++
++Batch19 follow-ups: Gustav Vasaskolan pageF–9 vs official1–6; ISK IB authorization self-reported, PYP age/year scope; Sandvik co-located resource/adapted-school scope; Smedslätt robots control-byte permission uncertainty and underdescribed Erasmus projects; Nytida mainstream/adapted population and self-reported group sizes. ISK www TLS mismatch not bypassed; non-www valid host used. Montessori guessed detail404 retained. Terms not exhaustively reviewed. Prior reviews and follow-ups preserved in earlier artifacts.
++
++Do not rerun one-time builders/checkpoints, including build_batch19.py/checkpoint_batch19.py. Dashboard deferred. No unattended schedule.
++''')
++for r in reviews:r['load_state']='Loaded; exact comparison and zero-insert replay passed'
++with (B/'review_log.csv').open('w',newline='') as f:
++ w=csv.DictWriter(f,fieldnames=reviews[0].keys());w.writeheader();w.writerows(reviews)
++dump(B/'batch_status.json',dict(status='LOADED_REPLAY_VERIFIED_RECONCILED',schools=10,evidence_added=12,codes_added=4,documented_outcomes=203,pending=559,remaining_followups='See review_log.csv/decision_log.md; processed is not resolved.'))
++with (B/'REPORT.md').open('a') as f:f.write('\n## Persistence verified\nAppend mature-crocodile +12/+4; replay modern-ibis +0/+0. Official fingerprints/prior records preserved, exact staging/target comparisons passed;22 tests passed. Reconciled203 outcomes/559 pending, exactly10 ledger rows changed. Minimum200 reached, not county completion or all schools resolved.\n')
++dump(B/'checkpoint_validation.json',dict(status='PASSED',ledger_rows=762,unique_ids=762,changed_rows=10,documented_outcomes=203,pending=559,next_selection_ids=[x['school_id'] for x in remaining[:10]],append_flow='mature-crocodile',replay_flow='modern-ibis',unit_tests_passed=22,official_fingerprints_preserved=True,db_counts=counts))
++print('Checkpoint reconciled:203 documented outcomes,559 pending; exactly10 changed rows; next IDs',[x['school_id'] for x in remaining[:10]])

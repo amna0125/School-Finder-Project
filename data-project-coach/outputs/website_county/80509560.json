@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "80509560",
+  "school_name": "Engelska Språkskolan",
+  "registered_url": "http://www.sprakskolanvasby.se",
+  "attempted_at": "2026-10-21T09:23:17.866358+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://sprakskolanvasby.se/",
+      "retrieved_at": "2026-10-21T09:23:21.680905+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sprakskolanvasby.se",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:46.674174+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://sprakskolanvasby.se/",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:48.167096+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "80509560_0.txt"
+    },
+    {
+      "source_url": "https://sprakskolanvasby.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:23:21.697941+00:00",
+      "robots_checks": [
+        {
+          "url": "https://sprakskolanvasby.se/om-oss/",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:48.167096+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "80509560_1.txt"
+    },
+    {
+      "source_url": "https://sprakskolanvasby.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:23:21.710700+00:00",
+      "robots_checks": [
+        {
+          "url": "https://sprakskolanvasby.se/om-oss",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:48.167096+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://sprakskolanvasby.se/om-oss/",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:48.167096+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "80509560_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Språkskolan i Upplands Väsby - Grundskolor och förskola med språkprofil",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "b8f704a268483028d9324619f9aee0d9a6f575f58702406df56c5f50cae88083",
+      "school_unit_code": "80509560",
+      "school_name": "Engelska Språkskolan",
+      "source_url": "https://sprakskolanvasby.se/",
+      "retrieved_at": "2026-10-21T09:23:21.680905+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

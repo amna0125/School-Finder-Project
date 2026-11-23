@@ -1,0 +1,72 @@
+{
+  "school_id": "60131588",
+  "school_name": "Sticklinge skola",
+  "registered_url": "https://www.lidingo.se/sticklingeskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/",
+      "page_title": "Sticklinge skola F-6 - Lidingö",
+      "accessed_at": "2026-10-21T17:38:32.955641+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "60131588_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/var-pedagogik-sticklinge-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/var-pedagogik-sticklinge-skola/",
+      "page_title": "Vår pedagogik, Sticklinge skola - Lidingö",
+      "accessed_at": "2026-10-21T17:38:34.843470+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "60131588_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/var-pedagogik-sticklinge-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/fritidshem-och-fritidsklubb-sticklinge-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/fritidshem-och-fritidsklubb-sticklinge-skola/",
+      "page_title": "Fritidshem och fritidsklubb, Sticklinge skola - Lidingö",
+      "accessed_at": "2026-10-21T17:38:36.999763+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "60131588_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/sticklinge-skola/fritidshem-och-fritidsklubb-sticklinge-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,72 @@
+{
+  "school_id": "67662754",
+  "school_name": "Vittra Telefonplan",
+  "registered_url": "http://www.vittra.se/telefonplan",
+  "pages": [
+    {
+      "requested_url": "https://vittra.se/telefonplan/",
+      "source_url": "https://vittra.se/telefonplan/",
+      "page_title": "Vittra | Skola vid Telefonplan",
+      "accessed_at": "2026-10-21T17:39:21.442697+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "67662754_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/telefonplan/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/telefonplan/om/grundskola/",
+      "source_url": "https://vittra.se/telefonplan/om/grundskola/",
+      "page_title": "Vittra | Grundskola vid Telefonplan",
+      "accessed_at": "2026-10-21T17:39:22.889989+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "67662754_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/telefonplan/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/telefonplan/artikel/pedagoger/",
+      "source_url": "https://vittra.se/telefonplan/artikel/pedagoger/",
+      "page_title": "Lär känna våra pedagoger | Vittra Telefonplan",
+      "accessed_at": "2026-10-21T17:39:24.774512+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "67662754_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/telefonplan/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

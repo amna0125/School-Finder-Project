@@ -1,0 +1,8 @@
+{
+  "selection_note": "Purposeful, non-representative three-school pilot; not all Stockholm County schools. Website evidence and unit-scope reconciliation remain required.",
+  "schools": [
+    {"code": "98760751", "name": "Kristofferskolan"},
+    {"code": "36066067", "name": "Musikskolan Lilla Akademien"},
+    {"code": "23498302", "name": "Stockholms Montessoriskola Anne Frank", "scope_note": "Register 1–6 vs website 4–6 unresolved; website covers multiple units."}
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "school_unit_code": "23498302",
+  "school_name": "Stockholms Montessoriskola Anne Frank",
+  "registered_url": "http://www.stockholmsmontessoriskola.se",
+  "attempted_at": "2026-10-21T09:20:38.343297+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.stockholmsmontessoriskola.se/",
+      "retrieved_at": "2026-10-21T09:20:45.117517+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.stockholmsmontessoriskola.se",
+          "robots_url": "https://www.stockholmsmontessoriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:40.221206+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.stockholmsmontessoriskola.se/",
+          "robots_url": "https://www.stockholmsmontessoriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:42.062811+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "23498302_0.txt"
+    },
+    {
+      "source_url": "https://www.stockholmsmontessoriskola.se/stockholms-montessoriskola",
+      "retrieved_at": "2026-10-21T09:20:45.153077+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.stockholmsmontessoriskola.se/stockholms-montessoriskola",
+          "robots_url": "https://www.stockholmsmontessoriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:42.062811+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "23498302_1.txt"
+    },
+    {
+      "source_url": "https://www.stockholmsmontessoriskola.se/skolan/montessoripedagogiken",
+      "retrieved_at": "2026-10-21T09:20:45.185790+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.stockholmsmontessoriskola.se/skolan/montessoripedagogiken",
+          "robots_url": "https://www.stockholmsmontessoriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:42.062811+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "23498302_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

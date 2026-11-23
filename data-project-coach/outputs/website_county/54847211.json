@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "54847211",
+  "school_name": "Entréskolan Stockholm",
+  "registered_url": "http://www.entreskolan.se",
+  "attempted_at": "2026-10-21T09:22:09.662002+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://entreskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:18.278412+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.entreskolan.se",
+          "robots_url": "https://entreskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:11.858250+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.entreskolan.se/",
+          "robots_url": "https://entreskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:13.982510+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://entreskolan.se/",
+          "robots_url": "https://entreskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:15.527058+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "54847211_0.txt"
+    },
+    {
+      "source_url": "https://entreskolan.se/profiler",
+      "retrieved_at": "2026-10-21T09:22:18.312819+00:00",
+      "robots_checks": [
+        {
+          "url": "https://entreskolan.se/profiler",
+          "robots_url": "https://entreskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:15.527058+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "54847211_1.txt"
+    },
+    {
+      "source_url": "https://entreskolan.se/profiler/dans",
+      "retrieved_at": "2026-10-21T09:22:18.333911+00:00",
+      "robots_checks": [
+        {
+          "url": "https://entreskolan.se/profiler/dans",
+          "robots_url": "https://entreskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:15.527058+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "54847211_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Inom dansprofilen får du fördjupa dig i dansens olika uttrycksformer och utveckla din dansteknik, musikalitet och sceniska förmåga. Undervisningen ger möjlighet att utforska olika dansstilar och upptäcka hur rörelse kan användas för att uttrycka känslor, idéer och berättelser. Genom praktisk träning och kreativt skapande utvecklas både kroppskännedom, självförtroende och förmågan att samspela med andra.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "3a95dbf4005e6fe6666174bb9e68e11c674e8d0d360080fe409f4b3fc101f38c",
+      "school_unit_code": "54847211",
+      "school_name": "Entréskolan Stockholm",
+      "source_url": "https://entreskolan.se/profiler/dans",
+      "retrieved_at": "2026-10-21T09:22:18.333911+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

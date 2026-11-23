@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "12092203",
+  "school_name": "Brage- skola och språkförskola",
+  "registered_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+  "attempted_at": "2026-10-21T09:15:18.276691+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:15:21.717052+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.194286+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12092203_0.txt"
+    },
+    {
+      "source_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/sveriges-basta-skolkommun/",
+      "retrieved_at": "2026-10-21T09:15:21.771198+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/sveriges-basta-skolkommun/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.194286+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12092203_1.txt"
+    },
+    {
+      "source_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/oppet-hus/",
+      "retrieved_at": "2026-10-21T09:15:21.802975+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/oppet-hus/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.194286+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "12092203_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

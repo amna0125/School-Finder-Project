@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 7,
+  "scoped_no_clear_schools": 1,
+  "requires_review_schools": 2,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 17,
+  "new_code_rows": 14,
+  "database_evidence_total": 151,
+  "database_codes_total": 115,
+  "first_load_flow": "aquamarine-baboon",
+  "replay_flow": "burrowing-boobook",
+  "replay_inserted_rows": 0,
+  "tests": "22 existing tests passed"
+}

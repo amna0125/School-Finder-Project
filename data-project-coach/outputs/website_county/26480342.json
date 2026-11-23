@@ -1,0 +1,63 @@
+{
+  "school_unit_code": "26480342",
+  "school_name": "Nordanskolan",
+  "registered_url": "http://www.upplandsvasby.se",
+  "attempted_at": "2026-10-21T09:20:46.536770+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.upplandsvasby.se/",
+      "retrieved_at": "2026-10-21T09:20:50.320608+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.upplandsvasby.se",
+          "robots_url": "https://www.upplandsvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:47.932957+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.upplandsvasby.se/",
+          "robots_url": "https://www.upplandsvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:49.476462+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26480342_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Prova konst, film eller musik under hösten. För dig som är 8–20 år. Gratis och drop-in.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ae9705b0f304691cca2671fa99c6cb02ce07eb97dc82a6949a1ca69f86ebb5ce",
+      "school_unit_code": "26480342",
+      "school_name": "Nordanskolan",
+      "source_url": "https://www.upplandsvasby.se/",
+      "retrieved_at": "2026-10-21T09:20:50.320608+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Prova konst, film eller musik under hösten. För dig som är 8–20 år. Gratis och drop-in.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "485592bae20de961799a12598cc84c14761e2b075c0b4b7951006e6ab9913a86",
+      "school_unit_code": "26480342",
+      "school_name": "Nordanskolan",
+      "source_url": "https://www.upplandsvasby.se/",
+      "retrieved_at": "2026-10-21T09:20:50.320608+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

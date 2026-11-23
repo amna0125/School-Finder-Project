@@ -1,0 +1,20 @@
+# Batch09 decisions
+
+Assistant codebookv1 review2026-10-29; claims not verified practice. No material codebook changes.
+
+- 20561651: Scoped no clear approach evidence; F–6 Konvaljestigen15. Full municipal page reviewed: generic access/safety, ordinary homework, buddy tradition and walking school bus; nearby nature only opportunity, not stated implemented outdoor model. No inference from results or facilities.
+- 20563782: Reviewed claim; F–6 Sorunda Kyrkgatan15, exact fresh official match. Old F–3 path404; current F–6 page, differentiated teaching/movement. Years5–6 temporary Lillbacka accommodation spring2026, return pavilions autumn2026; planned2027 Sunnerby not current replacement.
+- 20683111: Uncertain evidence; Requires review; Ordinary F–9; adapted7–9 excluded. Broad movement-learning emphasis lacks specific method/frequency, retain note, no firm code.
+- 21346638: Uncertain evidence; Requires review; Järla F–6 official21346638; Nacka musikklasser separating autumn2026. Current school pages generic; cookie-blocked YouTube not accessed or assumed reviewed. Music not attached to Järla. Attributed outdoor article concrete but undated/current coverage unconfirmed. No firm code.
+- 21576764: Scoped no clear approach evidence; Ordinary F–6 Vaxön; integrated adapted school excluded. Scoped main and support pages: ordinary statutory safety/elevhälsa, councils, integrated fritids and generic ambitions insufficient distinctive approach.
+- 21724208: Reviewed claim; Ordinary F–9 Bogsätravägen46; Mathivation higher years7–9 only. Named OLIKA plus mentoring context; sustained Mathivation peer-teaching. No whole-school maths spets or inquiry code from project name; fritids-only language/outdoor claims not generalised.
+- 21871265: Reviewed claim; 4–9 music-profile unit, distinct from co-located Häggviksskolan. Current municipal replacement for old edu URL. Extended music/choir; selective tests, current2027 admission dates context only, not universal access.
+- 21997077: Reviewed claim; F–9 Sollentuna Kärleksbacken3 exact fresh match. Elmemodellen with concrete unit inclusion/Trivselledar; UDL-inspired introduced autumn2026 qualifier. Angered school dog not transferred.
+- 22019000: Inaccessible source; access assessment unresolved; 6–9 Södertörns friskola Björnkullaringen42 municipal listing. Registered frisko.la robots500, server/access assessment incomplete; no school-host collection attempted or bypass. Official municipal listing confirms identity only, insufficient contextual approach coverage. Follow-up not scoped no-clear.
+- 22030561: Reviewed claim; F–6 Östberga, official1–6. Movement breaks, extraPE/swimming and structured physical activity collectively support wellbeing. Staffing/results not approach inference, LEGO values not robotics.
+
+Consistency: statutory duties/promotional safety alone excluded. Kyrk and Östberga multiple concrete recurring inclusive/movement practices support wellbeing, Bäckahagen broad statement does not. Vilja unit explicitly applies named model; UDL inspired/new qualifier kept, no dog from other campus. Sätra Mathivation named sustained peer teaching scoped higher years, not project pedagogy just because project. Järla music split and undated external article remain follow-ups. Södertörn blocker is not evidence absence.
+
+Robots checked before school collection; readable rules do not block selected paths. Stockholm malformed control bytes uncertainty retained. frisko.la robots500: defer host and use municipal identity listing only. Terms not comprehensively audited; no blanket permission claimed. Minimal faithful quotations, public sources, no controls bypassed. Järla embeds blocked by cookies left unreviewed.
+
+Actual access dates2026-10-29, actual titles and exact quote substrings preserved. Publication date absent on Järla article not invented; access date not publication date. Fresh officialJSON separate from unchanged official tables. Personal employee/child data excluded from evidence quotes; no ratings/causality/county representativeness or class-size substitution.

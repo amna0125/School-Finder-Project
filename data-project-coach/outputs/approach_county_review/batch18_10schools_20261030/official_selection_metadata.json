@@ -1,0 +1,72 @@
+[
+  {
+    "school_id": "31851256",
+    "name": "Roslagsskolan",
+    "municipality_code": "0188",
+    "grades_json": "[\"7\", \"8\", \"9\"]",
+    "website": "http://www.norrtalje.se"
+  },
+  {
+    "school_id": "31903219",
+    "name": "Magelungsskolan",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan"
+  },
+  {
+    "school_id": "32231541",
+    "name": "Täby Friskola",
+    "municipality_code": "0160",
+    "grades_json": "[\"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.tabyfriskola.se"
+  },
+  {
+    "school_id": "32479095",
+    "name": "Vaxmoraskolan",
+    "municipality_code": "0163",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.edu.sollentuna.se/vax/"
+  },
+  {
+    "school_id": "32585503",
+    "name": "Grisslehamns skola",
+    "municipality_code": "0188",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.norrtalje.se"
+  },
+  {
+    "school_id": "32886383",
+    "name": "Mörtviksskolan",
+    "municipality_code": "0126",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.huddinge.se/mortviksskolan"
+  },
+  {
+    "school_id": "32965692",
+    "name": "Noblaskolan Saltsjö-Boo",
+    "municipality_code": "0182",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://noblaskolan.se/saltsjo-boo/"
+  },
+  {
+    "school_id": "32993837",
+    "name": "Ursvikskolan",
+    "municipality_code": "0183",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.sundbyberg.se/ursvikskolan"
+  },
+  {
+    "school_id": "33159363",
+    "name": "Munsö skola",
+    "municipality_code": "0125",
+    "grades_json": "[\"1\", \"2\", \"3\"]",
+    "website": "http://www.ekero.se/munsoskola"
+  },
+  {
+    "school_id": "33455004",
+    "name": "Njupkärrs skola",
+    "municipality_code": "0138",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.tyreso.se"
+  }
+]

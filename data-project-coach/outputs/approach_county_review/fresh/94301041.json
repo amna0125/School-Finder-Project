@@ -1,0 +1,72 @@
+{
+  "school_id": "94301041",
+  "school_name": "Innovitaskolan Myrängen",
+  "registered_url": "https://innovitaskolan.se/myrangen/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/myrangen/",
+      "source_url": "https://innovitaskolan.se/myrangen/",
+      "page_title": "Innovitaskolan Myrängen | Grundskola i Huddinge",
+      "accessed_at": "2026-10-21T17:44:08.837201+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94301041_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/myrangen/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/myrangen/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/myrangen/om/grundskola/",
+      "page_title": "Vår grundskola | Innovitaskolan Myrängen | Om skolan",
+      "accessed_at": "2026-10-21T17:44:10.062543+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94301041_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/myrangen/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/myrangen/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/myrangen/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Myrängen | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:44:11.389347+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94301041_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/myrangen/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

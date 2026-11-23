@@ -1,0 +1,86 @@
+{
+  "school_unit_code": "84585645",
+  "school_name": "Djurgårdens Waldorfskoleförening, Hagaskolan",
+  "registered_url": "http://www.hagaskolan.se",
+  "attempted_at": "2026-10-21T09:23:29.619084+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://hagaskolan.se/",
+      "retrieved_at": "2026-10-21T09:23:49.614513+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.hagaskolan.se",
+          "robots_url": "https://hagaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:37.535086+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.hagaskolan.se/",
+          "robots_url": "https://hagaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:44.300302+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://hagaskolan.se/",
+          "robots_url": "https://hagaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:46.538088+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "84585645_0.txt"
+    },
+    {
+      "source_url": "https://hagaskolan.se/waldorf/",
+      "retrieved_at": "2026-10-21T09:23:49.640856+00:00",
+      "robots_checks": [
+        {
+          "url": "https://hagaskolan.se/waldorf/",
+          "robots_url": "https://hagaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:46.538088+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "84585645_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Glöm inte höstfesten på Hagaskolan!Snart är det dags för höstfest och i år blir det ett extra spännande och varierat program.Skolans klasser ordnar bland annat teater, lotteri, fiskdamm, matförsäljning och mycket mer. Dessutom får vi i år besök av flera externa aktörer.🕺 Dansmuseet bjuder in till dansworkshop📚 Biblioteket Solna Centrum ordnar sagostund🎭 vi får också besök av Solna Kulturskola⚽️@Hagalunds fotbollsklubb och🐝 Hagalunds bigardOch fler aktiviteter kan tillkomma!Välkommen till Hagaskolan på Hagalundsgatan 26 den 17 oktober klockan 11 – 15.Hjälp oss gärna att sprida ordet genom att dela inlägget, så att ännu fler i närområdet hittar",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "01299746dffd2976ccf9d1548d8c091ed76ee1ebb23a60ed6d3b06ab7805f7cf",
+      "school_unit_code": "84585645",
+      "school_name": "Djurgårdens Waldorfskoleförening, Hagaskolan",
+      "source_url": "https://hagaskolan.se/",
+      "retrieved_at": "2026-10-21T09:23:49.614513+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "åelse och sina färdigheter kan ge eleven möjlighet att växa som människa. Skolan ska även främja ett livslångt lärande, väcka elevernas nyfikenhet och utveckla deras fantasi genom konst, lek och utforskande.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0a726155ba4d28ac2d5caec7a1d47e3053d39fd20797a4b33e29b3bb12a9ab2f",
+      "school_unit_code": "84585645",
+      "school_name": "Djurgårdens Waldorfskoleförening, Hagaskolan",
+      "source_url": "https://hagaskolan.se/waldorf/",
+      "retrieved_at": "2026-10-21T09:23:49.640856+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

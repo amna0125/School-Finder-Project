@@ -1,0 +1,1 @@
+{"robots_url": "https://www.rydbofriskola.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:23:01.041345+00:00", "state": "parsed", "crawl_delay": 0, "body": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://www.rydbofriskola.se/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"}

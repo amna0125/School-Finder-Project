@@ -1,0 +1,51 @@
+{
+  "school_unit_code": "67731691",
+  "school_name": "Lunaskolan Södra",
+  "registered_url": "https://www.up.se/lunaskolansodra/",
+  "attempted_at": "2026-10-21T09:16:46.486101+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.up.se/skola/lunaskolan-sodra/",
+      "retrieved_at": "2026-10-21T09:16:49.019336+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.up.se/lunaskolansodra/",
+          "robots_url": "https://www.up.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:35.766044+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.up.se/skola/lunaskolan-sodra/",
+          "robots_url": "https://www.up.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:35.766044+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67731691_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "”Att lära och att bli lärd ska bidra till något positivt. Vi samlas dagligen kring matematikutmaningar, skönlitteratur, rörelsepauser, musik och målning. Vi samlas kring frågorna om världen, om oss, om dig och om händelser i stort och smått. Vi samlas kring hur man kan göra, tänka och lära. För mig är det värdefullt att varje dag får vara en del av den resa våra elever gör hos oss.”",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d126dee32013b0bc267dc89b5f7ed4a1f5ff497e18ac53ab645c7bee6b94d1b4",
+      "school_unit_code": "67731691",
+      "school_name": "Lunaskolan Södra",
+      "source_url": "https://www.up.se/skola/lunaskolan-sodra/",
+      "retrieved_at": "2026-10-21T09:16:49.019336+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

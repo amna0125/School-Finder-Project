@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "58338225",
+  "school_name": "Rindö skola",
+  "registered_url": "http://www.vaxholm.se",
+  "attempted_at": "2026-10-21T09:16:38.221996+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.vaxholm.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

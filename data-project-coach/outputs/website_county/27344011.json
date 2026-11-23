@@ -1,0 +1,112 @@
+{
+  "school_unit_code": "27344011",
+  "school_name": "Neglinge skola",
+  "registered_url": "http://www.neglinge.nacka.se",
+  "attempted_at": "2026-10-21T09:20:48.976031+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/",
+      "retrieved_at": "2026-10-21T09:20:55.301645+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.neglinge.nacka.se",
+          "robots_url": "https://www.nacka.se/valfard-skola/neglinge-skola/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:51.268643+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "http://www.nacka.se/valfard-skola/neglinge-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.175460+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/neglinge-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27344011_0.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogiska-modellen/",
+      "retrieved_at": "2026-10-21T09:20:55.335391+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogiska-modellen/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27344011_1.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogisk-profil/",
+      "retrieved_at": "2026-10-21T09:20:55.384494+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogisk-profil/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27344011_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": " friluftsliv kombineras med många besök i närområdet i samarbete med lokal museer, bibliotek och föreningsliv. Varje år går skolan in i ett ”Skapande Skola” projekt som handlar om dans, sång, film eller konst. Dessutom samarbetar vi med Kulturhuset Dieselverkstaden i Sickla som erbjuder scenkonst, filmvisning, workshops och kulturvandringar.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "4ce9dfface4ee5c49ad4b8c88d0e1f7c783cb7ebe51ac010e786ab298e583545",
+      "school_unit_code": "27344011",
+      "school_name": "Neglinge skola",
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogiska-modellen/",
+      "retrieved_at": "2026-10-21T09:20:55.335391+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Redan från förskoleklass arbetar vi på Neglinge skola med estetiska lärprocesser och från årskurs 3 har vi en utbildad musik- och bildlärare med schemalagd undervisning. Varje år går skolan in i ett ”Skapande Skola” projekt där vi samarbetar med de stora muséerna i Stockholm. Vi samarbetar även med Nacka Kultur som ger eleverna kulturupplevelser i form av scenkonst, skolbio och lokalhistoriska vandringar. Den skapande verksamheten i olika former anser vi är viktiga för att stimulera till lärande och utveckling i ett större perspektiv.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "19bf0663971d6a8422a3dae56a103fa8ccb734c0e2012d190d534132df6052db",
+      "school_unit_code": "27344011",
+      "school_name": "Neglinge skola",
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogisk-profil/",
+      "retrieved_at": "2026-10-21T09:20:55.384494+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Redan från förskoleklass arbetar vi på Neglinge skola med estetiska lärprocesser och från årskurs 3 har vi en utbildad musik- och bildlärare med schemalagd undervisning. Varje år går skolan in i ett ”Skapande Skola” projekt där vi samarbetar med de stora muséerna i Stockholm. Vi samarbetar även med Nacka Kultur som ger eleverna kulturupplevelser i form av scenkonst, skolbio och lokalhistoriska vandringar. Den skapande verksamheten i olika former anser vi är viktiga för att stimulera till lärande och utveckling i ett större perspektiv.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d1d509d2b30fa68542bab1700bd8c00d58809aa317f73ddbddf42c07caeb4b1a",
+      "school_unit_code": "27344011",
+      "school_name": "Neglinge skola",
+      "source_url": "https://www.nacka.se/valfard-skola/neglinge-skola/vara-utbildningar/pedagogisk-profil/",
+      "retrieved_at": "2026-10-21T09:20:55.384494+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

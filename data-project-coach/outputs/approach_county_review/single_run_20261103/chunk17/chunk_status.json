@@ -1,0 +1,25 @@
+{
+  "chunk": 17,
+  "schools": 25,
+  "evidence": 22,
+  "codes": 19,
+  "outcomes": {
+    "Reviewed claim": 13,
+    "Blocked - requires review": 4,
+    "Uncertain evidence - requires review": 3,
+    "No clear evidence in scoped review": 5
+  },
+  "ledger": "county_progress_20261103_after_chunk17.csv",
+  "county": {
+    "No clear evidence in scoped review": 166,
+    "Reviewed claim": 396,
+    "Blocked - requires review": 83,
+    "Uncertain evidence - requires review": 83,
+    "Not yet reviewed": 34
+  },
+  "db_totals": {
+    "evidence": 646,
+    "codes": 528
+  },
+  "loaded": true
+}

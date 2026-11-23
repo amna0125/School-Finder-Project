@@ -1,0 +1,72 @@
+{
+  "school_id": "95676943",
+  "school_name": "Kevingeskolan",
+  "registered_url": "https://www.danderyd.se/skolor/kevingeskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.danderyd.se/skolor/kevingeskolan/",
+      "source_url": "https://www.danderyd.se/skolor/kevingeskolan/",
+      "page_title": "Kevingeskolan – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:44:30.655218+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "95676943_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/kevingeskolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.536226+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/",
+      "source_url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/",
+      "page_title": "Om oss - Kevingeskolan - Danderyds kommun – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:44:31.407153+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "95676943_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.536226+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/sa-arbetar-vi/",
+      "source_url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/sa-arbetar-vi/",
+      "page_title": "Vårt arbetssätt - Kevingeskolan – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:44:32.156656+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "95676943_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/sa-arbetar-vi/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.536226+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

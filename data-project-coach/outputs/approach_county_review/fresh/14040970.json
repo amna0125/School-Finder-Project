@@ -1,0 +1,52 @@
+{
+  "school_id": "14040970",
+  "school_name": "Stavsborgsskolan",
+  "registered_url": "http://www.stavsborg.nacka.se",
+  "pages": [
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/stavsborgsskolan/",
+      "source_url": "https://www.nacka.se/valfard-skola/stavsborgsskolan/",
+      "page_title": "Stavsborgsskolan | Nacka kommun",
+      "accessed_at": "2026-10-21T17:27:51.482395+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "14040970_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/stavsborgsskolan/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/stavsborgsskolan/om-oss/",
+      "source_url": "https://www.nacka.se/valfard-skola/stavsborgsskolan/om-oss/",
+      "page_title": "Om oss | Nacka kommun",
+      "accessed_at": "2026-10-21T17:27:52.491822+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "14040970_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/stavsborgsskolan/om-oss/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

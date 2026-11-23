@@ -1,0 +1,72 @@
+{
+  "school_id": "48760074",
+  "school_name": "Vittra Frösunda",
+  "registered_url": "http://www.vittra.se/frosunda",
+  "pages": [
+    {
+      "requested_url": "https://vittra.se/frosunda/",
+      "source_url": "https://vittra.se/frosunda/",
+      "page_title": "Vittra Frösunda | Skola i Solna",
+      "accessed_at": "2026-10-21T17:36:47.130195+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "48760074_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/frosunda/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/frosunda/om/grundskola/",
+      "source_url": "https://vittra.se/frosunda/om/grundskola/",
+      "page_title": "Vittra Frösunda | Grundskola i Solna",
+      "accessed_at": "2026-10-21T17:36:47.976166+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "48760074_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/frosunda/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/frosunda/artikel/pedagoger/",
+      "source_url": "https://vittra.se/frosunda/artikel/pedagoger/",
+      "page_title": "Lär känna våra pedagoger | Vittra Frösunda",
+      "accessed_at": "2026-10-21T17:36:48.755052+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "48760074_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/frosunda/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

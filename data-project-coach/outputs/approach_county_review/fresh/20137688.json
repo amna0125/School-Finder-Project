@@ -1,0 +1,72 @@
+{
+  "school_id": "20137688",
+  "school_name": "Käppala skola",
+  "registered_url": "https://www.lidingo.se/kappalaskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/",
+      "page_title": "Käppala skola F-9 - Lidingö",
+      "accessed_at": "2026-10-21T17:29:48.258482+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "20137688_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/var-pedagogik-fotbollsprofil-kappala-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/var-pedagogik-fotbollsprofil-kappala-skola/",
+      "page_title": "Vår pedagogik - fotbollsprofil, Käppala skola - Lidingö",
+      "accessed_at": "2026-10-21T17:29:50.030347+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "20137688_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/var-pedagogik-fotbollsprofil-kappala-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/fritidshem-och-fritidsklubb-kappala-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/fritidshem-och-fritidsklubb-kappala-skola/",
+      "page_title": "Fritidshem och fritidsklubb, Käppala skola - Lidingö",
+      "accessed_at": "2026-10-21T17:29:50.853108+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "20137688_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/kappala-skola/fritidshem-och-fritidsklubb-kappala-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

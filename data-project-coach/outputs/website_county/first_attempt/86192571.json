@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "86192571",
+  "school_name": "Banslättskolan",
+  "registered_url": "http://www.botkyrka.se/banslattskolan",
+  "attempted_at": "2026-10-21T09:17:17.028836+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/banslattskolan",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

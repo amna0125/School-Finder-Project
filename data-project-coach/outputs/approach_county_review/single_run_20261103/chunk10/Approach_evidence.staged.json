@@ -1,0 +1,202 @@
+[
+  {
+    "evidence_id": "ae_sr_71754599_01",
+    "school_id": "71754599",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gustav-vasa-skola",
+    "page_title": "Gustav Vasa skola, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Därför erbjuder vi också en särskild undervisningsgrupp, där de elever som mår bäst i mindre sammanhang kan tillbringa delar av sin dag.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "On-site special teaching group; accessibility emphasis."
+  },
+  {
+    "evidence_id": "ae_sr_71992738_01",
+    "school_id": "71992738",
+    "source_url": "https://www.sodertalje.se/fornbackaskolan",
+    "page_title": "Fornbackaskolan - Södertälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi är delaktiga i trivselprogrammet, som är ett program för aktivitet och inkludering, där vänliga och respektfulla trivselledare i årskurs 3-6 skapar möjligheter för ökad aktivitet på rasterna.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named wellbeing programme."
+  },
+  {
+    "evidence_id": "ae_sr_71992738_02",
+    "school_id": "71992738",
+    "source_url": "https://www.sodertalje.se/fornbackaskolan",
+    "page_title": "Fornbackaskolan - Södertälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi arbetar utifrån ett språk- och kunskapsutvecklande arbetssätt.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Language-developing approach with cooperative structures."
+  },
+  {
+    "evidence_id": "ae_sr_72120589_01",
+    "school_id": "72120589",
+    "source_url": "https://www.sodertalje.se/stalhamraskolan",
+    "page_title": "Stålhamraskolan - Södertälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Om man har finska som ett levande språk i hemmet kan man på Stålhamraskolan få viss del av sin undervisning på finska.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Finnish-language teaching option."
+  },
+  {
+    "evidence_id": "ae_sr_72345466_01",
+    "school_id": "72345466",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kvarnbyskolan",
+    "page_title": "Kvarnbyskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Redan från förskoleklass läser ditt barn engelska.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Early English."
+  },
+  {
+    "evidence_id": "ae_sr_72378947_01",
+    "school_id": "72378947",
+    "source_url": "https://www.vallentunafriskola.se/",
+    "page_title": "Startsida",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Genom samarbeten med lokala idrottsföreningar gör vi fysisk aktivitet till en självklar del av skoldagen",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Sport orientations chosen by all pupils."
+  },
+  {
+    "evidence_id": "ae_sr_72509254_01",
+    "school_id": "72509254",
+    "source_url": "https://www.up.se/skola/lunaskolan-bromma/",
+    "page_title": "Resursgrundskola och anpassad grundskola | Lunaskolan Bromma | Utvecklingspedagogik",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Lunaskolan Bromma är en resursskola med",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Resource school."
+  },
+  {
+    "evidence_id": "ae_sr_72624886_01",
+    "school_id": "72624886",
+    "source_url": "https://engelska.se/sv/",
+    "page_title": "Internationella Engelska Skolan – En trygg skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Network-level bilingual profile; unit not confirmed."
+  },
+  {
+    "evidence_id": "ae_sr_72627865_01",
+    "school_id": "72627865",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/",
+    "page_title": "Alviksskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Förutom undervisning i årskurserna F–9 tar Alviksskolan emot elever med hörselnedsättning i hörselklasser.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Specialised support provision."
+  },
+  {
+    "evidence_id": "ae_sr_72627865_02",
+    "school_id": "72627865",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/",
+    "page_title": "Alviksskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vår skola är en certifierad Generation pep-skola.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named health programme."
+  },
+  {
+    "evidence_id": "ae_sr_72672270_01",
+    "school_id": "72672270",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/aspuddens-skola",
+    "page_title": "Aspuddens skola, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Aspuddens skola har en inriktning med särskilda fotbollsklasser i årskurs 7–9, som du kan välja när du söker skola för ditt barn.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Sport profile."
+  },
+  {
+    "evidence_id": "ae_sr_72769342_01",
+    "school_id": "72769342",
+    "source_url": "https://tabyfriskola.se/",
+    "page_title": "Skola i Täby - Täby Friskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Höstterminen 2027 får Ljungmyr nya lokaler vid Enhagen och blir en del av Täby Friskola Enhagen.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Unit mentioned only in merger news."
+  },
+  {
+    "evidence_id": "ae_sr_73075913_01",
+    "school_id": "73075913",
+    "source_url": "https://www.mikaelgarden.se/",
+    "page_title": "Mikaelgården - Där alla får en chans",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Här finns såväl boende som Waldorfskola och fritidsverksamhet.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Waldorf school."
+  },
+  {
+    "evidence_id": "ae_sr_73075913_02",
+    "school_id": "73075913",
+    "source_url": "https://www.mikaelgarden.se/",
+    "page_title": "Mikaelgården - Där alla får en chans",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Verksamheten har som målsättning att hjälpa barn och unga med olika funktionsvariationer att stärka självkänslan och ta till vara och utveckla de egna förmågorna.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Special-needs provision."
+  },
+  {
+    "evidence_id": "ae_sr_73083470_01",
+    "school_id": "73083470",
+    "source_url": "https://www.rydbofriskola.se/",
+    "page_title": "Start - Rydbo friskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi arbetar utifrån Maria Montessoris pedagogik",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Montessori."
+  },
+  {
+    "evidence_id": "ae_sr_73581523_01",
+    "school_id": "73581523",
+    "source_url": "https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/tallbackaskolan",
+    "page_title": "Tallbackaskolan - Solna stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Internationellt arbete löper som en röd tråd genom verksamheten och vi har flera utbildade EU-skolambassadörer.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "International orientation."
+  },
+  {
+    "evidence_id": "ae_sr_73893187_01",
+    "school_id": "73893187",
+    "source_url": "https://www.mariaelementarskola.se/",
+    "page_title": "Maria Elementarskola | undervisning | Kvarngatan 18, 118 47 Stockholm, Sverige",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Maria Elementar är en traditionell F-9 skola med fritidshem. Undervisningen är lärarledd och alla elever har hemklassrum, med egna bänkar och läroböcker.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Traditional teacher-led profile."
+  },
+  {
+    "evidence_id": "ae_sr_73893187_02",
+    "school_id": "73893187",
+    "source_url": "https://www.mariaelementarskola.se/",
+    "page_title": "Maria Elementarskola | undervisning | Kvarngatan 18, 118 47 Stockholm, Sverige",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Skolan deltar aktivt i programmet Erasmus+ och planerar fler utbyten och internationella kontakter som berikar undervisningen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "International exchange."
+  },
+  {
+    "evidence_id": "ae_sr_73926940_01",
+    "school_id": "73926940",
+    "source_url": "https://www.deltaskolan.se/",
+    "page_title": "En skola för livet och framtiden - Deltaskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Deltaskolan är en skola med idrott och hälsa som profil.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Sport profile with extra sport twice weekly."
+  },
+  {
+    "evidence_id": "ae_sr_73926940_02",
+    "school_id": "73926940",
+    "source_url": "https://www.deltaskolan.se/hem/om-skolan/pedagogiken/",
+    "page_title": "Pedagogiken - Deltaskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "använda ett undersökande och forskande arbetssätt",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Inquiry-based working listed in pedagogy."
+  }
+]

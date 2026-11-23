@@ -1,0 +1,113 @@
+{
+  "school_unit_code": "35933721",
+  "school_name": "Rudboda skola",
+  "registered_url": "https://www.lidingo.se/rudbodaskola",
+  "attempted_at": "2026-10-21T09:21:12.696172+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+      "retrieved_at": "2026-10-21T09:21:16.555712+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lidingo.se/rudbodaskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.556963+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/rudbodaskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "35933721_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/fritidshem-och-fritidsklubb-rudboda-skola-2/",
+      "retrieved_at": "2026-10-21T09:21:16.602453+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/fritidshem-och-fritidsklubb-rudboda-skola-2/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "35933721_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/var-pedagogik-rudboda-skola/",
+      "retrieved_at": "2026-10-21T09:21:16.670824+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/var-pedagogik-rudboda-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "35933721_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "De praktisk-estetiska salarna för idrott, bild, slöjd, hemkunskap och musik är en självklarhet i Rudboda. Vi undervisar ämnesintegrerat och innovativt i ämnena teknik, slöjd och bild under samlingsnamnet ArtLab.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "40480992703789dd88a87e5324c152add72f8a0da1ea7acabfbf618b447d8819",
+      "school_unit_code": "35933721",
+      "school_name": "Rudboda skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+      "retrieved_at": "2026-10-21T09:21:16.555712+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "De praktisk-estetiska salarna för idrott, bild, slöjd, hemkunskap och musik är en självklarhet i Rudboda. Vi undervisar ämnesintegrerat och innovativt i ämnena teknik, slöjd och bild under samlingsnamnet ArtLab.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "e3b74674162df5ceb6ed0967a484c4aa8f5fab7dac090368f9c3220f0c359127",
+      "school_unit_code": "35933721",
+      "school_name": "Rudboda skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+      "retrieved_at": "2026-10-21T09:21:16.555712+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vi planerar aktiviteter utifrån läroplanens riktlinjer som språk och kommunikation, skapande och estetiska uttrycksformer, natur och samhälle samt lekar, fysisk aktivitet och utevistelse. Exempel på valbara aktiviteter är skolorkester, ArtLab för skapande, programmering, fritidsgympa, friluftsliv, löpträning, bakning med mera.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0498af143151f978bf71b85d426f61cff01e87638e2a2cfb75189f48cdae9931",
+      "school_unit_code": "35933721",
+      "school_name": "Rudboda skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/fritidshem-och-fritidsklubb-rudboda-skola-2/",
+      "retrieved_at": "2026-10-21T09:21:16.602453+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

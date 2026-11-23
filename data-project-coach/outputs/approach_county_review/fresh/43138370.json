@@ -1,0 +1,72 @@
+{
+  "school_id": "43138370",
+  "school_name": "Vittra Brotorp",
+  "registered_url": "http://www.vittra.se/brotorp",
+  "pages": [
+    {
+      "requested_url": "https://vittra.se/brotorp/",
+      "source_url": "https://vittra.se/brotorp/",
+      "page_title": "Vittra Brotorp | Skola i Sundbyberg",
+      "accessed_at": "2026-10-21T17:34:15.202218+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "43138370_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/brotorp/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.139442+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/brotorp/om/grundskola/",
+      "source_url": "https://vittra.se/brotorp/om/grundskola/",
+      "page_title": "Vittra Brotorp | Grundskola i Sundbyberg",
+      "accessed_at": "2026-10-21T17:34:16.071744+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "43138370_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/brotorp/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.139442+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/brotorp/artikel/pedagoger/",
+      "source_url": "https://vittra.se/brotorp/artikel/pedagoger/",
+      "page_title": "pedagoger – Brotorp",
+      "accessed_at": "2026-10-21T17:34:16.908745+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "43138370_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/brotorp/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.139442+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

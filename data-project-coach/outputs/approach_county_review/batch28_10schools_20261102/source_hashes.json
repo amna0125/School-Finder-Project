@@ -1,0 +1,132 @@
+[
+  {
+    "file": "sources/bergshamra.html",
+    "bytes": 329958,
+    "sha256": "e3b4a6f1b1e4752952727d99b8470ba42317222f3b0a2e02756aefceba788d00"
+  },
+  {
+    "file": "sources/bjorkhagen.html",
+    "bytes": 148742,
+    "sha256": "2fbdad7319b018f17a71eff5ee2960dd5f1f61ed1a0ce713c39304886283a0cb"
+  },
+  {
+    "file": "sources/farentuna.html",
+    "bytes": 92728,
+    "sha256": "ad15d63a3c2f05d44302bc16a41dd212fb9ff2e96fce33b9326571cc92202fa0"
+  },
+  {
+    "file": "sources/nakter.html",
+    "bytes": 40618,
+    "sha256": "3342c273257b25b8c59e6c2e392de01eda1628d5f1793050dcda1ae469a4542e"
+  },
+  {
+    "file": "sources/nakter_method.html",
+    "bytes": 29900,
+    "sha256": "c8c76686c67acc3c0992044dce518743aa08dafee51745f18d161b208075da7c"
+  },
+  {
+    "file": "sources/nakter_work.html",
+    "bytes": 29265,
+    "sha256": "6cb16e121c13bfe65e6e7032929854ef22e1532938a76ef4ab23893bfbd704d5"
+  },
+  {
+    "file": "sources/nalsta.html",
+    "bytes": 141034,
+    "sha256": "693d0db44b6574f82dd8fd8d1214acf1186f7f27b8ae8b5fd183a61620bb7039"
+  },
+  {
+    "file": "sources/ralsen.html",
+    "bytes": 152801,
+    "sha256": "91744992c5e7f84769b23252d6004bf7c0d667d4568e2fa3bca38506130c5c28"
+  },
+  {
+    "file": "sources/ralsen49.html",
+    "bytes": 154093,
+    "sha256": "2f3098ed8ab3e682f2a031cef82df1ebcd7fc86a7d2ec650a8552a4139dd2a49"
+  },
+  {
+    "file": "sources/robots_danderyd.txt",
+    "bytes": 62,
+    "sha256": "c510d4ff4e2fe58f0b04878aabae148b10b0ada757fc3a5b2b945cb9cbaee327"
+  },
+  {
+    "file": "sources/robots_ekero.txt",
+    "bytes": 495,
+    "sha256": "564b4ab0c2da8ba358e64127df1ab334e730d63172d51fc4637aaad11666ce42"
+  },
+  {
+    "file": "sources/robots_haninge.txt",
+    "bytes": 123,
+    "sha256": "a850f5e0a814baa47b223ef6c9b006a5d0af99d70c860d82308356e8950e5df0"
+  },
+  {
+    "file": "sources/robots_nacka.txt",
+    "bytes": 90,
+    "sha256": "64fe41969e11ec84b6931292db50ef815df7f9d69b40957717f3836cfc06a702"
+  },
+  {
+    "file": "sources/robots_ralsen.txt",
+    "bytes": 119391,
+    "sha256": "b6830a89fa97bc6b335a4a75ed455cd41a0b2ed68ff2674fe4f36573d5cd3667"
+  },
+  {
+    "file": "sources/robots_ralsen49.txt",
+    "bytes": 137047,
+    "sha256": "92d8a890b07fbad9d0b153e58ce83e8d660b2585373a12ae05afe99e0404ed3a"
+  },
+  {
+    "file": "sources/robots_solna.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "sources/robots_stockholm.txt",
+    "bytes": 68,
+    "sha256": "884a702f28cae7691d050d58f687e2d29412b1e5a799000e5769742bc5818d17"
+  },
+  {
+    "file": "sources/robots_vittra.txt",
+    "bytes": 2971,
+    "sha256": "4a388d6fa38b8f8aade48f9fd2add9fbd68a8bd599fea742124e54897e9253dc"
+  },
+  {
+    "file": "sources/saltangen.html",
+    "bytes": 20017,
+    "sha256": "78266ade5aab79284c26a37506e22f62e3d9553d6eeae1b340d77997e6d6977d"
+  },
+  {
+    "file": "sources/saltangen_current.html",
+    "bytes": 30170,
+    "sha256": "c3590bf67c54a9d76ea00925c43201998deb455e57d0e57c7470866e9f40b307"
+  },
+  {
+    "file": "sources/saltangen_method.html",
+    "bytes": 35991,
+    "sha256": "2c66af8a359708f1ebcedd17f7a94b529a8b905bac303950f19ef746d410e86e"
+  },
+  {
+    "file": "sources/vasa_nta.html",
+    "bytes": 53489,
+    "sha256": "76251a6a61b64db5f94a69689329b29ff3ffe3d1098ad9058ec1668c21af84ab"
+  },
+  {
+    "file": "sources/vasa_reading.html",
+    "bytes": 43977,
+    "sha256": "90863c1a63eb8555bed11a50e9ce9d992c5e2f8c1c0e92614c5bf0c64a1a6f6b"
+  },
+  {
+    "file": "sources/vasaskolan.html",
+    "bytes": 50079,
+    "sha256": "3626c27cdbca94a0b02890c971b8c5ed9b10bd8aaeee662d8143e3f04711f988"
+  },
+  {
+    "file": "sources/vittra.html",
+    "bytes": 253544,
+    "sha256": "ed1455bc2570b6f53bbf8b3fb8bbaa4e59c0082a82181ff02e45f7c5159ffbe0"
+  },
+  {
+    "file": "sources/vittra_school.html",
+    "bytes": 69801,
+    "sha256": "017e1d6bbf306808d8cd6c37c9f6712235d08c086a2e1fd9c6504e0323a1fcaf"
+  }
+]

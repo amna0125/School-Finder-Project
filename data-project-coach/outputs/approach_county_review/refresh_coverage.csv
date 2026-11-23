@@ -1,0 +1,760 @@
+school_id,school_name,registered_url,collection_status,fresh_page_count,missing_page_titles,errors
+10035236,Söderbymalmsskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+10063280,Lärande Grundskola Skapa,https://www.larandegrundskola.se/skolor/huddinge/skapa,fetched_requires_context_review,1,0,
+10184517,Eleonoraskolan,,missing_registered_website,0,0,
+10225038,Solfagraskolan,http://www.huddinge.se/solfagraskolan,fetched_requires_context_review,1,0,Remote end closed connection without response
+10230535,Innovitaskolan Vällingby Park,https://innovitaskolan.se/vallingby-park/,fetched_requires_context_review,3,0,
+10311303,Lilla Kulturama,http://www.kulturama.se,fetched_requires_context_review,3,0,
+10495223,Tullingebergsskolan,http://www.botkyrka.se/tullingebergsskolan,inaccessible_requires_review,0,0,HTTP 404
+10657244,Skogsbacksskolan,https://www.botkyrka.se/barn--utbildning/skolbarn/grundskolor-i-kommunal-regi/skogsbacksskolan.html,terms_review_required,0,0,
+10661388,Örjanskolan grund,http://www.orjanskolan.se,fetched_requires_context_review,2,0,
+10682125,Magitaskolan,http://www.magitaskolan.se,fetched_requires_context_review,1,0,
+10715898,Akers Friskola,http://www.akersfriskola.se,fetched_requires_context_review,3,0,
+10735290,Stocksundsskolan,https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/,fetched_requires_context_review,1,0,
+10998117,Råbergsskolan,http://www.sigtuna.se/rabergsskolan,fetched_requires_context_review,1,0,
+11018018,Pops Academy Stockholm,https://www.popsacademy.se,fetched_requires_context_review,2,0,
+11025388,Stenhamraskolan,http://www.ekero.se/stenhamraskola,inaccessible_requires_review,0,0,HTTP 404
+11193969,Karlslundsskolan,http://www.vallentuna.se/karlslundsskolan,fetched_requires_context_review,1,0,
+11364996,Lemshaga Akademi,http://www.lemshaga.se,fetched_requires_context_review,3,0,
+11442396,Stockholm International Academy Hägersten,https://siaskolan.se,inaccessible_requires_review,0,0,Explicit crawl delay requires manual scheduling
+11496096,Kunskapsskolan Saltsjöbaden,https://www.kunskapsskolan.se/skolor/saltsjobaden,fetched_requires_context_review,3,0,
+11777750,Saltsjöbadens samskola,http://www.samskolan.org,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+11914814,Rosenborgskolan,http://www.sodertalje.se/rosenborgskolan,fetched_requires_context_review,1,0,
+12092203,Brage- skola och språkförskola,https://www.sollentuna.se/uweb/brageskolan/om-oss/,fetched_requires_context_review,3,0,
+12187987,Katarina Södra skola,https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-sodra-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+12259212,Internationella Engelska Skolan Solna,http://www.engelska.se,fetched_requires_context_review,1,0,
+12332278,Internationella Engelska Skolan Täby,http://www.engelska.se,fetched_requires_context_review,1,0,
+12407147,Röllingbyskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+12757193,Vittra Östertälje,http://www.vittra.se/ostertalje,fetched_requires_context_review,3,0,
+12801932,Ulvsättraskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+13124830,Sjöängsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+13301127,Ekens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+13384795,Raoul Wallenbergskolan Bagartorp,http://www.raoulwallenbergskolan.se,fetched_requires_context_review,3,0,
+13493243,Viktor Rydberg samskola Djursholm,http://www.vrskolor.se,fetched_requires_context_review,2,0,
+13579948,S:t Olofs skola,http://www.sigtuna.se/stolofsskola,fetched_requires_context_review,1,0,
+13582062,Järvaskolan,http://www.jarvaskolan.se,fetched_requires_context_review,2,0,
+13654969,Balingsnässkolan,http://www.huddinge.se/balingsnasskolan,inaccessible_requires_review,0,0,Remote end closed connection without response; Remote end closed connection without response
+13665610,Brinkskolan,http://www.taby.se/Brinkskolan,inaccessible_requires_review,0,0,Remote end closed connection without response
+13679897,Bagarmossens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/bagarmossens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+13954336,Martinskolan Söders Waldorfskola,http://www.martinskolan.se,fetched_requires_context_review,3,0,
+14040970,Stavsborgsskolan,http://www.stavsborg.nacka.se,fetched_requires_context_review,2,0,
+14115670,Friskolan & Fritidshemmet Hästens,http://www.friskolanhastens.se,fetched_requires_context_review,3,0,
+14121892,Bredängsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/bredangsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+14261356,Ekillaskolan,http://www.sigtuna.se/ekillaskolan,fetched_requires_context_review,1,0,
+14440920,Visättraskolan,http://www.huddinge.se/visattraskolan,inaccessible_requires_review,0,0,Remote end closed connection without response; Remote end closed connection without response
+14472068,Kristna skolan,http://www.kristnaskolan.se,fetched_requires_context_review,2,0,
+14479858,Tallkrogens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/tallkrogens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+14845171,Eviaskolan,http://www.eviagruppen.se,fetched_requires_context_review,1,0,
+14872951,Magelungen grundskola Södertälje,http://www.magelungen.com,fetched_requires_context_review,3,0,
+15049834,Lilla Alby skola,http://www.sundbyberg.se/lillaalbyskola,fetched_requires_context_review,1,0,
+15080815,Fjällenskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+15171331,"Nordic International School, Stockholm",https://nordicinternational.se/essingen,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+15218794,Glömstaskolan,https://www.huddinge.se/glomstaskolan,fetched_requires_context_review,1,0,The read operation timed out
+15331669,Sjöstadsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/sjostadsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+15339442,Runbackaskolan,http://www.sollentuna.se/sv/uweb/runbacka-skolor/,fetched_requires_context_review,1,0,
+15483394,Segeltorpsskolan,http://www.huddinge.se/segeltorpsskolan,fetched_requires_context_review,1,0,Remote end closed connection without response
+15547680,Vibyskolan,http://www.vibyskolan.se,fetched_requires_context_review,3,0,
+15594566,Äppelviksskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/appelviksskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+15620768,Eklidsskolan,http://www.botkyrka.se/eklidsskolan,inaccessible_requires_review,0,0,HTTP 404
+15697742,Galaxskolan,http://www.sigtuna.se/galaxskolan,fetched_requires_context_review,1,0,
+15968847,Olaus Petriskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/olaus-petri-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+16061350,Apolloniosskolan,https://www.apolloniosskolan.se/,fetched_requires_context_review,2,0,
+16068461,Nyckelskolan,http://www.knippan.se,fetched_requires_context_review,3,0,
+16348406,Matteusskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+16394249,Ellen Key skolan,http://www.eks.se,fetched_requires_context_review,2,0,
+16426165,Kunskapsskolan Enskede,https://www.kunskapsskolan.se/skolor/enskede,fetched_requires_context_review,3,0,
+16762245,Edessaskolan,http://www.edessaskolan.se,fetched_requires_context_review,1,0,
+16914123,Tavestaskolan,http://sodertalje.se/tavestaskolan,fetched_requires_context_review,1,0,
+16969143,Hagnässkolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/hagnasskolan.html,inaccessible_requires_review,0,0,HTTP 404
+16983719,Broskolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/broskolan.html,inaccessible_requires_review,0,0,HTTP 404
+17165481,Brotorpsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/brotorpsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+17287315,Källtorpskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+17526606,Fryshuset Grundskola Akalla,http://www.fryshuset.se,fetched_requires_context_review,1,0,
+17640364,Spånga grundskola,https://grundskola.stockholm/hitta-grundskola/grundskola/spanga-grundskola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+17737193,Granbackaskolan,http://www.solna.se,fetched_requires_context_review,3,0,
+17957898,Innovitaskolan Rudan,https://innovitaskolan.se/rudan/,fetched_requires_context_review,3,0,
+18053776,Djurö skola,http://varmdo.se,fetched_requires_context_review,1,0,
+18064456,Söderholmsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/soderholmsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+18193338,Svandammsskolan,https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/svandammsskolan-f-6,inaccessible_requires_review,0,0,HTTP 404
+18595907,Edsbergsskolan,http://www.sollentuna.se/sv/uweb/edsbergsskolan/,fetched_requires_context_review,3,0,
+19089469,Montessoriskolan Fredsduvan,http://www.fredsduvan.com,fetched_requires_context_review,1,0,
+19353396,Fruängens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/fruangens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+19377571,Karlbergs skola,https://grundskola.stockholm/hitta-grundskola/grundskola/karlbergs-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+19593535,JENSEN grundskola Bro-Mälarstrand  4-9,http://www.jensengrundskola.se/bro-malarstrand,fetched_requires_context_review,1,0,
+19657993,Fryshuset Grundskola Hammarby Sjöstad,http://www.fryshuset.se/,fetched_requires_context_review,1,0,
+19704413,Åkerstorpsskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+19733028,Lärande Grundskola Oden,http://www.larandegrundskola.se,fetched_requires_context_review,2,0,
+19942197,Sandåkraskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/sandakraskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+19983531,Rodrets friskola,http://www.rodret.nu,fetched_requires_context_review,2,0,
+20054868,Odensala skola,http://www.sigtuna.se/odensalaskolan,inaccessible_requires_review,0,0,HTTP 404
+20137688,Käppala skola,https://www.lidingo.se/kappalaskola,fetched_requires_context_review,3,0,
+20253736,Tegelhagens skola,https://www.sollentuna.se/uweb/tegelhagens-skola/,fetched_requires_context_review,3,0,
+20561651,Herrängens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/herrangens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+20563782,Kyrkskolan,https://nynashamn.se/service/forskola--skola/grundskola/grundskolor-i-nynashamns-kommun/kyrkskolan-f-3,inaccessible_requires_review,0,0,HTTP 404
+20683111,Bäckahagens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/backahagens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+21346638,Järla skola,http://www.jarla.nacka.se,fetched_requires_context_review,3,0,
+21576764,Söderfjärdsskolan,http://www.vaxholm.se,fetched_requires_context_review,3,0,
+21724208,Sätraskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/satraskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+21871265,Sollentuna musikklasser,http://www.edu.sollentuna.se/smk,inaccessible_requires_review,0,0,[Errno -2] Name does not resolve
+21997077,Viljaskolan Sollentuna,https://viljaskolan.se/viljaskolan-sollentuna/,fetched_requires_context_review,1,0,
+22019000,Södertörns friskola,http://www.frisko.la,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+22030561,Östbergaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/ostbergaskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+22127801,Internationella Engelska Skolan Länna,http://www.engelska.se,fetched_requires_context_review,1,0,
+22174435,Björnbodaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/bjornbodaskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+22202915,Tyresö Montessoriskola,http://www.tmsv.se,fetched_requires_context_review,3,0,
+22472689,Jarlabergs skola,http://www.jarlaberg.nacka.se,fetched_requires_context_review,1,0,
+22513261,Kista grundskola,https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-f-3,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+22531873,Norrgärdsskolan,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+22777703,Johannes skola,https://grundskola.stockholm/hitta-grundskola/grundskola/johannes-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+22807677,Näsbydalskolan,http://www.taby.se/nasbydalskolan,inaccessible_requires_review,0,0,Remote end closed connection without response
+22847273,Ängskolan,http://www.sundbyberg.se/angskolan,fetched_requires_context_review,1,0,
+22904289,Vilans skola,http://www.vilan.nacka.se,fetched_requires_context_review,1,0,
+23066257,Kulturama gr. Hammarby Sjöstad,http://www.kulturama.se,fetched_requires_context_review,3,0,
+23312767,Noblaskolan Täby,https://noblaskolan.se/taby/,fetched_requires_context_review,2,0,
+23414344,Skolgrunden,http://www.skolgrunden.se,fetched_requires_context_review,1,0,
+23617768,Katarina Norra skola,https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-norra-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+23756252,Sjökarbyskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+23828958,Näsbypark resursskola,www.taby.se/nasbyparksskolan,inaccessible_requires_review,0,0,Unsafe URL
+23886554,I Ur och Skur Mårtensbergsskolan,http://www.iurochskur.se,fetched_requires_context_review,3,0,
+24046791,Innovitaskolan Farstaäng,https://innovitaskolan.se/farstaang/,fetched_requires_context_review,3,0,
+24142153,Futuraskolan AB,http://www.futuraskolan.se,fetched_requires_context_review,1,0,
+24146389,Hallsta skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+24172067,Kulturskolan Raketen,http://www.kulturskolanraketen.se,fetched_requires_context_review,2,0,
+24199792,Da Vinciskolan,http://www.davinciskolan.com,inaccessible_requires_review,0,0,[Errno -2] Name does not resolve
+24374886,Vittra Väsby,http://www.vittra.se/vasby,fetched_requires_context_review,3,0,
+24402537,Internationella Engelska Skolan Upplands Väsby,http://www.engelska.se,fetched_requires_context_review,1,0,
+24561769,Hemmestaskolan,http://www.varmdo.se,fetched_requires_context_review,1,0,
+24606968,Härneviskolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/harneviskolan.html,inaccessible_requires_review,0,0,HTTP 404
+24671487,Kunskapsskolans Resursskola,https://www.kunskapsskolan.se,fetched_requires_context_review,3,0,
+24716970,Högalidsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/hogalidsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+24754913,Knutbyskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/knutbyskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+25090415,Fågelviks skola,http://www.varmdo.se,fetched_requires_context_review,1,0,
+25253749,Albatross Montessoriskola,http://www.albatross-montessori.se,fetched_requires_context_review,3,0,
+25309669,Kunskapsskolan Täby,https://www.kunskapsskolan.se/skolor/taby,fetched_requires_context_review,3,0,
+25506439,Kassmyraskolan,http://www.botkyrka.se/kassmyraskolan,inaccessible_requires_review,0,0,HTTP 404
+25555358,Eiraskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/eiraskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+25772114,Vaxö skola,http://www.vaxholm.se,fetched_requires_context_review,3,0,
+25918983,Hammerstaskolan,http://www.botkyrka.se/hammerstaskolan,inaccessible_requires_review,0,0,HTTP 404
+26138955,Skå Skola,http://www.ekero.se/skaskola,fetched_requires_context_review,1,0,
+26172429,International School of the Stockholm Region,http://www.internationalschoolofthestockholmregion.stockholm.se/,inaccessible_requires_review,0,0,<urlopen error timed out>
+26281697,Montessoriskolan i Norrtälje,http://www.montessoriskolan.nu,fetched_requires_context_review,3,0,
+26480342,Nordanskolan,http://www.upplandsvasby.se,fetched_requires_context_review,1,0,
+26742346,Solna Enskilda Skola,http://www.bma.nu,fetched_requires_context_review,3,0,
+26804905,Stiftelsen Mora Park,http://www.morapark.se,fetched_requires_context_review,2,0,
+26808959,Parkskolan,https://www.solna.se,fetched_requires_context_review,3,0,
+26852132,Solhemsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+26878879,Stallets skola,http://www.stalletsskola.se,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+27181501,Viktor Rydbergs skola Nacka,http://www.vrskolor.se,fetched_requires_context_review,2,0,
+27273328,Årstadalsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/arstadalsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+27323097,Noblaskolan Solna,https://noblaskolan.se/solna/,fetched_requires_context_review,2,0,
+27344011,Neglinge skola,http://www.neglinge.nacka.se,fetched_requires_context_review,3,0,
+27357778,Oxhagsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/oxhagsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+27595656,Birkaskolan,http://www.birkaskolan.se,fetched_requires_context_review,3,0,
+27830075,Ljungbackens skola,https://www.lidingo.se/ljungbackensskola,fetched_requires_context_review,3,0,
+28138418,Vintertullsskolan,http://www.vintertullsskolan.se,fetched_requires_context_review,1,0,
+28145722,Aktiviaskolan Hus 6,http://www.aktiviaskolan.se,fetched_requires_context_review,3,0,
+28184857,Lundaskolan,http://lundaskolan.se,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+28231215,Drottningholmskolan,http://www.drottningholmskolan.se,fetched_requires_context_review,1,0,
+28313791,Tomtbergaskolan,http://www.huddinge.se/tomtbergaskolan,inaccessible_requires_review,0,0,Remote end closed connection without response; Remote end closed connection without response
+28799594,Kärrdalsskolan,http://sites.google.com/a/edu.sollentuna.se/kdl/,fetched_requires_context_review,1,0,
+28845963,Majtorpskolan,http://www.sodertalje.se/rosenborgskolan,fetched_requires_context_review,1,0,
+29096335,Bergsundsskolan,http://www.bergsundsskolan.se,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+29158808,Observatorielundens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/observatorielundens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+29270748,Vanadisskolan,http://www.iofi.se,fetched_requires_context_review,2,0,
+29278599,Lovisedalsskolan,http://www.vallentuna.se/lovisedal/,inaccessible_requires_review,0,0,HTTP 404
+29371242,Campus Manilla Utbildning AB,http://www.campusmanilla.se,fetched_requires_context_review,3,0,
+29410344,Kungsholmens grundskola,https://grundskola.stockholm/hitta-grundskola/grundskola/kungsholmens-grundskola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+29497099,Internationella Engelska Skolan Södertälje,http://www.engelska.se,fetched_requires_context_review,1,0,
+29524966,,http://www.kastanjen.nu,fetched_requires_context_review,3,0,
+29585072,Innovitaskolan Enskede,https://innovitaskolan.se/enskede/,fetched_requires_context_review,3,0,
+29705473,Snösätraskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+29725531,Engelska skolan norr,http://www.esn.se,fetched_requires_context_review,2,0,
+29796042,Engelska skolan Gondolen,https://www.esgondolen.se/,fetched_requires_context_review,2,0,
+29998540,Sagaskolan,http://www.sigtuna.se/sagaskolan,fetched_requires_context_review,1,0,
+30255409,JENSEN grundskola Tungelsta,http://www.jensengrundskola.se/tungelsta,fetched_requires_context_review,1,0,
+30270791,Åbyskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+30490775,Riala skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+31018677,Väsby skola,http://www.upplandsvasby.se/vasbyskola,fetched_requires_context_review,1,0,
+31281674,Nyboda skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+31528772,Mariaskolan,http://www.mariaskolan.nu,fetched_requires_context_review,3,0,
+31608087,Urfjälls Montessoriskola,http://www.urfjall.se,inaccessible_requires_review,0,0,<urlopen error [Errno 111] Connection refused>
+31758556,Margretelundsskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+31851256,Roslagsskolan,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+31903219,Magelungsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+32231541,Täby Friskola,http://www.tabyfriskola.se,fetched_requires_context_review,1,0,
+32479095,Vaxmoraskolan,http://www.edu.sollentuna.se/vax/,inaccessible_requires_review,0,0,[Errno -2] Name does not resolve
+32585503,Grisslehamns skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+32886383,Mörtviksskolan,http://www.huddinge.se/mortviksskolan,fetched_requires_context_review,1,0,Remote end closed connection without response
+32965692,Noblaskolan Saltsjö-Boo,https://noblaskolan.se/saltsjo-boo/,fetched_requires_context_review,3,0,
+32993837,Ursvikskolan,http://www.sundbyberg.se/ursvikskolan,inaccessible_requires_review,0,0,HTTP 404
+33159363,Munsö skola,http://www.ekero.se/munsoskola,fetched_requires_context_review,1,0,
+33455004,Njupkärrs skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+33565539,Gustav Vasaskolan,http://www.skolor.vallentuna.se/gustavvasa/,inaccessible_requires_review,0,0,<urlopen error timed out>
+33624606,Måsöskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+33733966,International School of Kungsholmen,https://www.internationalschoolofkungsholmen.com/,inaccessible_requires_review,0,0,"<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.internationalschoolofkungsholmen.com'. (_ssl.c:1010)>"
+33794207,Sandvikskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+33922950,Smedslättsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/smedslattsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+33951941,Råsunda centralskola,www.solna.se,inaccessible_requires_review,0,0,Unsafe URL
+34125463,Nytorpsskolan,https://nytida.se/skola/vara-skolor/nytorpsskolan/,fetched_requires_context_review,1,0,
+34135484,Montessori Mondial Nacka,https://montessorimondial.se/nacka/,fetched_requires_context_review,3,0,
+34148887,Blombackaskolan,http://www.sodertalje.se/blombackaskolan,inaccessible_requires_review,0,0,Too many redirects
+34225123,Furuborgskolan,http://www.nykvarn.se,fetched_requires_context_review,2,0,
+34540901,Estniska Skolan i Stockholm,http://www.estniskaskolan.se,fetched_requires_context_review,3,0,
+34625544,Raoul Wallenbergskolan Källberga,http://www.raoulwallenbergskolan.se,fetched_requires_context_review,3,0,
+34671128,Solbergaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/solbergaskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+34672217,Stavsborgsskolan,https://www.nacka.se/altaresursskola,fetched_requires_context_review,1,0,
+34946479,Runmarö skola,http://varmdo.se,fetched_requires_context_review,1,0,
+35008423,Skolan Bergius,http://www.skolanbergius.se,fetched_requires_context_review,1,0,
+35129114,Internationella Engelska Skolan Årsta,http://www.engelska.se,fetched_requires_context_review,1,0,
+35311563,Lilla Nacka skola,lillanacka.se,inaccessible_requires_review,0,0,Unsafe URL
+35547286,Föreningen för Carlssons Skola,http://www.carlssonsskola.se,fetched_requires_context_review,2,0,
+35784391,Distra IRS,http://www.distraresursskolor.se,fetched_requires_context_review,1,0,
+35890890,Västerholms friskola,http://www.vasterholm.se,fetched_requires_context_review,2,0,
+35933721,Rudboda skola,https://www.lidingo.se/rudbodaskola,fetched_requires_context_review,3,0,
+36021631,Montessoriskolan Växthuset,http://www.ahavaxthuset.se,fetched_requires_context_review,2,0,
+36031993,Vällingbyskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+36185466,I Ur och Skur Utsikten,https://iurochskur.friluftsframjandet.se/i-ur-och-skur-forskola--skola/i-ur-och-skurs-verksamheter/i-ur-och-skur-utsikten-skola/,fetched_requires_context_review,2,0,
+36232577,Bromma Enskilda Skola,http://www.brommaenskilda.se,fetched_requires_context_review,2,0,
+36262199,Nytorpsskolan,https://salem.se/forskolaochskola/grundskola/nytorpsskolan.4.335d63281936795eddcd07c.html,inaccessible_requires_review,0,0,<urlopen error _ssl.c:993: The handshake operation timed out>
+36276828,Futuraskolan AB,http://www.futuraskolan.se,fetched_requires_context_review,1,0,
+36281817,Höglandsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+36350546,Tunaskolan,http://www.botkyrka.se/tunaskolan,inaccessible_requires_review,0,0,HTTP 404
+36513280,Futuraskolan AB,http://www.futuraskolan.se,fetched_requires_context_review,1,0,
+36520624,Nybohovsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/nybohovsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+36628382,Iljansbodaskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+37112288,Kulturama Grundsk. Sundbyberg,http://www.kulturama.se,fetched_requires_context_review,3,0,
+37147254,Kumla skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+37328635,Montessori Mondial Lidingö,https://montessorimondial.se/lidingo/,fetched_requires_context_review,3,0,
+37416253,Rinkebyskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/rinkebyskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+37472911,Stenmoskolan,https://www.huddinge.se/stenmoskolan,inaccessible_requires_review,0,0,Remote end closed connection without response; Remote end closed connection without response
+37556682,Kista International School,http://www.kistaschool.se,fetched_requires_context_review,1,0,
+37796564,Akalla grundskola F-9,https://grundskola.stockholm/hitta-grundskola/grundskola/akalla-grundskola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+37887150,Nordic International School Nacka,https://nordicinternational.se/nacka,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+38096510,Magelungens Grundskola Älvsjö,http://www.magelungen.com,fetched_requires_context_review,3,0,
+38394561,Södertälje friskola,https://www.sodertaljefriskola.se,fetched_requires_context_review,1,0,
+38526011,Eddaskolan,http://www.sigtuna.se/eddaskolan,fetched_requires_context_review,1,0,
+38653015,Pershagenskolan,http://www.sodertalje.se/pershagenskolan.,inaccessible_requires_review,0,0,HTTP 404
+38661388,Broängsskolan,http://www.botkyrka.se/broangsskolan,inaccessible_requires_review,0,0,HTTP 404
+38758770,Farsta grundskola,https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+38854084,Steningehöjdens skola,http://www.sigtuna.se,fetched_requires_context_review,3,0,
+38935587,Internationella Engelska Skolan Enskede,http://www.engelska.se,fetched_requires_context_review,1,0,
+38975788,Tungelsta skola,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+39130058,Montessoriskolan i Norrtälje,http://www.montessoriskolan.nu,fetched_requires_context_review,3,0,
+39171821,Örbyskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/orbyskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+39195819,Sanduddens skola,http://www.ekero.se/sanduddensskola,fetched_requires_context_review,1,0,
+39229061,Östra grundskolan,http://www.huddinge.se/ostragrundskolan,inaccessible_requires_review,0,0,Remote end closed connection without response
+39351914,Norrsundsskolan,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+39453214,Sofiebergsskolan,http://www.tyreso.se,fetched_requires_context_review,1,0,
+39568857,Berghemskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+39907811,Sofielundsskolan,http://www.sollentuna.se/sv/uweb/sofielundsskolan/,fetched_requires_context_review,3,0,
+39923451,SverigefinskaSkolan i Kista,http://www.sverigefinskaskolanikista.se,fetched_requires_context_review,1,1,
+40175889,Soldalaskolan,http://www.sodertalje.se/soldalaskolan,fetched_requires_context_review,1,0,
+40383398,Bromma kyrkskola,https://grundskola.stockholm/hitta-grundskola/grundskola/bromma-kyrkskola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+40467992,Futuraskolan AB,http://www.futuraskolan.se,fetched_requires_context_review,1,0,
+40610606,"Lycée Francais Saint Louis, gr",http://www.lfsl.net,fetched_requires_context_review,2,0,
+40618486,Råsunda skola,http://solna.se,fetched_requires_context_review,3,0,
+40631085,Fittjaskolan,http://www.botkyrka.se/fittjaskolanbotkyrkanorra,inaccessible_requires_review,0,0,HTTP 404
+40847752,Björkebyskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+40904373,Närlundaskolan,http://www.ekero.se/narlundaskolan,fetched_requires_context_review,1,0,
+40978257,Futuraskolan AB,http://www.futuraskolaninternational.se,fetched_requires_context_review,1,0,
+41176931,Gärdesskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/gardesskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+41181908,Hägerneholmsskolan,https://www.taby.se/hagerneholmsskolan,inaccessible_requires_review,0,0,Remote end closed connection without response
+41213404,Källbrinksskolan,https://www.huddinge.se/kallbrinksskolan,fetched_requires_context_review,1,0,Remote end closed connection without response
+41285467,Adolfsbergsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/adolfsbergsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+41357379,Skogsbacksskolan Trampolinen,https://www.botkyrka.se/skola-och-forskola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan,terms_review_required,0,0,
+41377165,Sundby skola,http://www.ekero.se/sundbyskola,fetched_requires_context_review,1,0,
+41405700,Storkyrkoskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/storkyrkoskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+41507895,Noblaskolan Nacka Strand,https://noblaskolan.se/nacka-strand/,fetched_requires_context_review,2,0,
+41554150,Slottsparksskolan,http://www.taby.se/slottsparksskolan,inaccessible_requires_review,0,0,Remote end closed connection without response
+41584790,Järna Friskola,http://www.jarnafriskola.se,fetched_requires_context_review,3,0,
+41764666,Långbrodalsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+41888515,Fårdala skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+41955701,Järvastadens skola,www.solna.se,inaccessible_requires_review,0,0,Unsafe URL
+42149666,Husbygårdsskolan F-9,https://grundskola.stockholm/hitta-grundskola/grundskola/husbygardsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+42179975,Farsta Strandskolan,http://www.mavatterosen.se,fetched_requires_context_review,3,0,
+42202683,Kungsholmens friskola,http://www.kungsholmens-friskola.se,inaccessible_requires_review,0,0,Explicit crawl delay requires manual scheduling
+42215279,S:t Pers skola,http://www.sigtuna.se/stpersskola,fetched_requires_context_review,1,0,
+42328518,Franska Skolan/Ecole francaise,http://www.franskaskolan.se,fetched_requires_context_review,3,0,
+42434583,Brunns skola,http://www.varmdo.se,fetched_requires_context_review,1,0,
+42601396,Trångsundsskolan,http://www.huddinge.se/trangsundsskolan,inaccessible_requires_review,0,0,The read operation timed out; Remote end closed connection without response
+42912378,Vinsta grundskola östra,https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-ostra,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+42986451,Fribergaskolan,https://www.danderyd.se/skolor/fribergaskolan/,fetched_requires_context_review,3,0,
+43038662,Färentuna skola,http://www.ekero.se/farentunaskola,fetched_requires_context_review,1,0,
+43088454,Björkhagens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/bjorkhagens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+43133926,Bergshamraskolan,http://www.solna.se,fetched_requires_context_review,3,0,
+43138370,Vittra Brotorp,http://www.vittra.se/brotorp,fetched_requires_context_review,3,0,
+43140379,Nakterhusskolan,https://www.haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+43166282,Nälstaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/nalstaskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+43238662,Björkhaga Skola,http://www.botkyrka.se/bjorkhagaskola,terms_review_required,0,0,
+43245047,Saltängens skola,https://www.nacka.se/valfard-skola/saltsjo-duvnas-skola/,inaccessible_requires_review,0,0,HTTP 404
+43289917,Vasaskolan,https://www.danderyd.se/skolor/vasaskolan/,fetched_requires_context_review,3,0,
+43375546,Rälsen 4-9,http://www.ralsen.se,fetched_requires_context_review,1,0,
+43403496,Mariekällskolan,https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor/mariekallskolan/,fetched_requires_context_review,1,0,
+43632318,Enbacksskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/enbacksskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+43802065,Lilla Parkskolan,http://www.lillaparkskolan.se,inaccessible_requires_review,0,0,<urlopen error [Errno 101] Network unreachable>; <urlopen error [Errno 101] Network unreachable>
+43869172,Fredsborgskolan,http://www.fredsborgskolan.se,fetched_requires_context_review,2,0,
+44002887,Ellagårdsskolan,http://www.taby.se/ellagardsskolan,inaccessible_requires_review,0,0,Remote end closed connection without response
+44031601,Höglundaskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+44046131,Sundbyskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/sundbyskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+44175786,Boo Gårds skola,http://www.boogard.nacka.se,fetched_requires_context_review,2,0,
+44227469,Grimsta skola,http://www.upplandsvasby.se/grimstaskolan,fetched_requires_context_review,1,0,
+44373961,Idunskolan,http://www.idunskolan.se,fetched_requires_context_review,2,0,
+44673074,Abrahamsbergsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/abrahamsbergsskolan,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+44836298,Sigfridsborgs skola,http://www.skolor.nacka.se/sigfridsborg,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+45104329,Torsviks skola,https://lidingo.se/torsviksskola,fetched_requires_context_review,3,0,
+45133950,Freinetskolan Mimer,http://www.mimer.org,fetched_requires_context_review,3,0,
+45279651,Bergshöjdens skola,,missing_registered_website,0,0,
+45364437,Bandhagens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/bandhagens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+45436515,Sofia skola,https://grundskola.stockholm/hitta-grundskola/grundskola/sofia-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+45553352,Montessori Mondial Kungsholmen,https://montessorimondial.se/kungsholmen,fetched_requires_context_review,3,0,
+45757947,Tallidsskolan,http://www.botkyrka.se/tallidsskolan,terms_review_required,0,0,
+45882318,Töjnaskolan,http://www.edu.sollentuna.se/ton/,inaccessible_requires_review,0,0,[Errno -2] Name does not resolve
+45984740,Helleborusskolan,http://www.helleborusskolan.se,fetched_requires_context_review,1,0,
+45986032,Vega skola,https://vegaskola.haninge.se/,fetched_requires_context_review,1,0,
+45994471,Solvikskolan,http://solvikskolan.se,fetched_requires_context_review,3,0,
+46097781,Christinaskolan,http://www.christinaskolan.se,fetched_requires_context_review,1,0,
+46165232,Mälarhöjdens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+46206050,Vittra Vallentuna,http://www.vittra.se/vallentuna,fetched_requires_context_review,3,0,
+46239244,Kolarängskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+46518352,Elmsta skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+46581319,Lillholmsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/lillholmsskolan,inaccessible_requires_review,0,0,The read operation timed out
+46616391,Beckombergaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/beckombergaskolan,fetched_requires_context_review,1,0,
+46646143,Innovitaskolan Joriel,https://innovitaskolan.se/joriel/,fetched_requires_context_review,3,0,
+46706680,Ulriksdalsskolan,http://www.solna.se,fetched_requires_context_review,3,0,
+46796995,Kunskapsskolan Spånga,https://www.kunskapsskolan.se/skolor/spanga,fetched_requires_context_review,3,0,
+47034991,Muskö skola,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+47140640,Utö skola,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+47204443,Mölnboskolan,http://www.sodertalje.se/molnboskolan,fetched_requires_context_review,1,0,
+47243834,Eklidens skola,http://www.ekliden.nacka.se,fetched_requires_context_review,2,0,
+47244612,Ornö skola,http://www.haninge.se/sv/Barn--Utbildning/Grundskola/Kommunala-grundskolor/,inaccessible_requires_review,0,0,HTTP 404
+47273038,Klastorpsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/klastorpsskolan,fetched_requires_context_review,1,0,
+47290443,Rälsen Viby,http://www.ralsen.se,fetched_requires_context_review,1,0,
+47462120,Dibber International School Sollentuna,https://dibber.se/skola/international-school-sollentuna/,fetched_requires_context_review,2,0,
+47640376,Dalarö skola,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+47705565,Munkmoraskolan,http://www.varmdo.se,fetched_requires_context_review,1,0,
+47727629,Skärsta friskola,,missing_registered_website,0,0,
+47969716,SSHL Sigtunaskolan Humanistiska Läroverket,http://www.sshl.se,fetched_requires_context_review,2,0,
+47979659,Backluraskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/backluraskolan,fetched_requires_context_review,1,0,
+47986219,Futuraskolan AB,http://www.futuraskolan.se,fetched_requires_context_review,1,0,
+48184058,Aktiviaskolan,http://www.aktiviaskolan.se,fetched_requires_context_review,3,0,
+48312263,Hanvikens skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+48328583,Årstaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/arstaskolan,inaccessible_requires_review,0,0,The read operation timed out
+48363218,Solhemsängens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola,inaccessible_requires_review,0,0,The read operation timed out
+48724676,Kronängsskolan,http://vaxholm.se,fetched_requires_context_review,3,0,
+48760074,Vittra Frösunda,http://www.vittra.se/frosunda,fetched_requires_context_review,3,0,
+48791751,Magelungens Grundskola Solna,http://www.magelungen.com,fetched_requires_context_review,3,0,
+49021135,Södervikskolan AB,http://www.sodervikskolan.se,fetched_requires_context_review,1,0,
+49631077,Högsätra skola,https://www.lidingo.se/hogsatraskola,fetched_requires_context_review,3,0,
+49669037,Vätö skola,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/,fetched_requires_context_review,3,0,
+49741755,Lugnets skola,https://grundskola.stockholm/hitta-grundskola/grundskola/lugnets-skola,fetched_requires_context_review,1,0,
+49762104,Viksbergskolan,http://www.sodertalje.se/viksbergskolan,fetched_requires_context_review,1,0,
+49862579,Fagersjöskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/fagersjoskolan,inaccessible_requires_review,0,0,The read operation timed out
+50060022,Smedshagsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/smedshagsskolan,fetched_requires_context_review,1,0,
+50783450,Vistaskolan,http://www.huddinge.se/vistaskolan,inaccessible_requires_review,0,0,Remote end closed connection without response; Remote end closed connection without response
+50848996,Raoul Wallenbergskolan Bromma,http://www.raoulwallenbergskolan.se,fetched_requires_context_review,3,0,
+50905672,Rådmansö skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+51041954,Rälsen Norrviken,http://www.ralsen.se,fetched_requires_context_review,1,0,
+51100048,Kymlingeskolan,http://www.sundbyberg.se,fetched_requires_context_review,1,0,
+51210001,Ronnaskolan,http://www.sodertalje.se/ronnaskolan,inaccessible_requires_review,0,0,Too many redirects
+51305351,Tråsättraskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+51341279,Grimstaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/grimstaskolan,fetched_requires_context_review,1,0,
+51863294,Parkhemsskolan,http://www.botkyrka.se/parkhemsskolan,inaccessible_requires_review,0,0,HTTP 404
+52064811,Skederids skola,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/,fetched_requires_context_review,3,0,
+52217632,Tappströmsskolan,http://www.ekero.se/tappstromsskolan,fetched_requires_context_review,1,0,
+52293921,Bällstabergsskolan,http://www.skolor.vallentuna.se/ballstaberg/,inaccessible_requires_review,0,0,<urlopen error timed out>
+52423184,Bo skola,http://www.lidingo.se/boskola,fetched_requires_context_review,3,0,
+52479822,Nockebyhovsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/nockebyhovsskolan,fetched_requires_context_review,1,0,
+52531425,Stimmets skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+52863414,Vasa Real,https://grundskola.stockholm/hitta-grundskola/grundskola/vasa-real,fetched_requires_context_review,1,0,
+52866214,Myrängsskolan,http://www.taby.se/Myrangsskolan,inaccessible_requires_review,0,0,Remote end closed connection without response
+52885189,Ektorps skola,http://www.ektorp.nacka.se,fetched_requires_context_review,2,0,
+52925821,JENSEN grundskola Sickla,http://www.jensengrundskola.se/sickla,fetched_requires_context_review,1,0,
+52965560,Vasa International School of Stockholm/F-9,http://www.vasainternationalschoolofstockholm.com,fetched_requires_context_review,1,0,
+53075005,Skarpnäcks skola,https://grundskola.stockholm/hitta-grundskola/grundskola/skarpnacks-skola,inaccessible_requires_review,0,0,The read operation timed out
+53133366,Orminge skola,http://www.orminge.se,inaccessible_requires_review,0,0,[Errno -3] Try again
+53147557,Stefanskolan,http://www.stefanskolan.se,fetched_requires_context_review,3,0,
+53175499,Tyska Skolan,http://www.tyskaskolan.se,fetched_requires_context_review,1,0,
+53259263,Ingridskolan,http://www.ingridskolan.se,fetched_requires_context_review,3,0,
+53319802,Ljusterö skola,http://www.osteraker.se,fetched_requires_context_review,3,0,
+53352683,Viggbyskolan,http://www.taby.se/viggbyskolan,inaccessible_requires_review,0,0,Remote end closed connection without response
+53576482,Eklidens skola,,missing_registered_website,0,0,
+54067262,Fågelsångens skola,https://salem.se/forskolaochskola/grundskola/fagelsangensskola.4.71690677193678e483bfa6.html,fetched_requires_context_review,1,0,
+54332921,Mellansjö skola,https://nytida.se/skola/vara-skolor/mellansjoskolan/,fetched_requires_context_review,1,0,
+54348763,Nacka Idrottsgrundskola,https://idrottsgrundskolannacka.se/,fetched_requires_context_review,1,0,
+54516737,Kvarnbergsskolan,http://www.huddinge.se/kvarnbergsskolan,inaccessible_requires_review,0,0,Remote end closed connection without response; Remote end closed connection without response
+54752734,Västra Ekoskolan,http://www.ekoskolan.se,fetched_requires_context_review,3,0,
+54806839,Ogenholts friskola AB,http://www.vibyfriskola.se,fetched_requires_context_review,3,0,
+54847211,Entréskolan Stockholm,http://www.entreskolan.se,fetched_requires_context_review,3,0,
+55233055,Innovitaskolan Söderby,https://innovitaskolan.se/soderby/,fetched_requires_context_review,3,0,
+55267088,Täby Friskola,http://www.tabyfriskola.se,fetched_requires_context_review,1,0,
+55382103,Björngårdsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/bjorngardsskolan,inaccessible_requires_review,0,0,The read operation timed out
+55508705,Stiftelsen Josefinaskolan,http://www.josefinaskolan.se,fetched_requires_context_review,2,0,
+55512387,Breddenskolan,http://www.upplandsvasby.se/breddenskolan,fetched_requires_context_review,1,0,
+55690064,Resursskolan Ängsrosen,www.osteraker.se,inaccessible_requires_review,0,0,Unsafe URL
+56130729,Dalskolan,http://www.tyreso.se,fetched_requires_context_review,1,0,
+56299553,Bergaskolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/bergaskolan.html,inaccessible_requires_review,0,0,HTTP 404
+56315778,Brunnaskolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/brunnaskolan.html,inaccessible_requires_review,0,0,HTTP 404
+56417100,Kvarnhagsskolan,http://www.botkyrka.se/kvarnhagsskolan,inaccessible_requires_review,0,0,HTTP 404
+56501561,Essingeskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/essingeskolan,fetched_requires_context_review,1,0,
+56568612,Wasaskolan,http://www.sodertalje.se/wasaskolan,fetched_requires_context_review,1,0,
+56662185,Balderskolan,https://www.up.se/balderskolan/,fetched_requires_context_review,1,0,
+56858061,Söderby Friskola,http://www.soderbyfriskola.se,fetched_requires_context_review,3,0,
+56867397,Silverbäcken Dibber,https://dibber.se/skola/silverbacken-dibber/,fetched_requires_context_review,3,0,
+56949296,Blackebergsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/blackebergsskolan,fetched_requires_context_review,1,0,
+57034070,Magelungens Grundskola Södermalm,http://www.magelungen.com,fetched_requires_context_review,3,0,
+57106833,Vendestigens Förskola och Skola AB,http://www.vendestigen.se,fetched_requires_context_review,2,0,
+57184925,Hökarängsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/hokarangsskolan,fetched_requires_context_review,1,0,
+57206066,Vallatorpsskolan,http://www.taby.se/vallatorpsskolan,fetched_requires_context_review,1,0,
+57228484,Grindtorpsskolan,http://www.botkyrka.se/grindtorpsskolan,inaccessible_requires_review,0,0,HTTP 404
+57317316,JENSEN grundskola Långholmen,https://www.jensengrundskola.se/langholmen,fetched_requires_context_review,1,0,
+57329777,Konradsbergsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/konradsbergsskolan,fetched_requires_context_review,1,1,
+57368693,Sickla skola,http://www.sickla.nacka.se,fetched_requires_context_review,2,0,
+57370453,Karbyskolan,http://www.vallentuna.se/karby,inaccessible_requires_review,0,0,HTTP 404
+57467562,Freinetskolan Mimer Tingshuset,http://www.mimer.org,inaccessible_requires_review,0,0,<urlopen error [Errno 111] Connection refused>; <urlopen error [Errno 111] Connection refused>; <urlopen error [Errno 111] Connection refused>
+57510246,Snitz Grundskola,https://snitz.se/grundskola/,fetched_requires_context_review,3,0,
+57755652,Neptuniskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+57850353,Sverigefinskaskolan i Botkyrka,http://www.sverigefinskaskolan.com,fetched_requires_context_review,1,0,
+58004018,Noraskolan,,missing_registered_website,0,0,
+58102266,Vittra Sollentuna,http://www.vittra.se/sollentuna,fetched_requires_context_review,3,0,
+58173761,Olovslundskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+58286716,Norrbackaskolan,http://www.sigtuna.se/norrbackaskolan,fetched_requires_context_review,1,0,
+58294404,Tellusborgsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/tellusborgsskolan,fetched_requires_context_review,1,0,
+58294981,Rösjöskolan,https://www.sollentuna.se/uweb/rosjoskolan/,fetched_requires_context_review,3,0,
+58310322,Trädgårdsstadsskolan,http://www.botkyrka.se/tradgardsstadsskolan,inaccessible_requires_review,0,0,HTTP 404
+58338225,Rindö skola,http://www.vaxholm.se,fetched_requires_context_review,3,0,
+58385274,Skogsängsskolan,https://salem.se/forskolaochskola/grundskola/skogsangsskolan.4.335d63281936795eddcd74f.html,fetched_requires_context_review,1,0,
+58653522,Roslags Kulla skola,http://www.osteraker.se,fetched_requires_context_review,3,0,
+58747846,Midsommarkransens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/midsommarkransens-skola,fetched_requires_context_review,1,0,
+58862351,Bergfotens skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+58994357,Innovitaskolan Segeltorp,https://innovitaskolan.se/segeltorp/,fetched_requires_context_review,3,0,
+59249600,Eriksdalsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/eriksdalsskolan,fetched_requires_context_review,1,0,
+59266692,Vittra Rösjötorp,http://www.vittra.se/rosjotorp,fetched_requires_context_review,3,0,
+59457803,Helleborusskolan Österåker AB,http://www.helleborusskolan.se,fetched_requires_context_review,1,0,
+59468219,Slättgårdsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/slattgardsskolan,fetched_requires_context_review,1,0,
+59497255,Ribbyskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+59848694,Danderyds Montessoriskola,http://www.dmskola.se,fetched_requires_context_review,3,0,
+59900714,Vittra Södermalm,http://www.vittra.se/sodermalm,fetched_requires_context_review,3,0,
+59975651,Svanberga skola,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/,fetched_requires_context_review,3,0,
+60131588,Sticklinge skola,https://www.lidingo.se/sticklingeskola,fetched_requires_context_review,3,0,
+60211862,Lärande Grundskola Vira,http://www.larandegrundskola.se,fetched_requires_context_review,2,0,
+60308449,Filosofiska,http://www.filosofiska.nu,fetched_requires_context_review,1,0,
+60382920,Rågsveds grundskola,https://grundskola.stockholm/hitta-grundskola/grundskola/ragsveds-grundskola,fetched_requires_context_review,1,0,
+60521412,Igelbäckskolan,https://www.sundbyberg.se/forskola-utbildning/grundskola-och-grundsarskola/sundbybergs-resursskola.html,inaccessible_requires_review,0,0,HTTP 404
+60570294,Brunnsängskolan,http://www.sodertalje.se/brunnsangskolan,inaccessible_requires_review,0,0,Too many redirects
+60904587,Internationella Engelska Skolan Tyresö,http://www.engelska.se,fetched_requires_context_review,1,0,
+61043089,Ekensbergsskolan,http://www.solna.se,fetched_requires_context_review,3,0,
+61056172,Centralskolan,http://www.sigtuna.se/centralskolan,fetched_requires_context_review,1,0,
+61061763,Finnstaskolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/finnstaskolan.html,inaccessible_requires_review,0,0,HTTP 404
+61184554,Eviaskolan Söder,https://wemind.se/hvb-och-skola/eviaskolan-soder/,fetched_requires_context_review,1,0,
+61686233,Rålambshovsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/ralambshovsskolan,fetched_requires_context_review,1,0,
+61980418,I Ur och Skur skolan Skarpnäck,http://www.iurochskur.com,fetched_requires_context_review,1,0,
+62004466,Stensängsskolan,https://www.huddinge.se/stensangsskolan,fetched_requires_context_review,2,0,
+62078083,Lärande Grundskola Fresta,http://www.larandegrundskola.se,fetched_requires_context_review,2,0,
+62288230,Lina grundskola,http://www.sodertalje.se/linagrundskola,fetched_requires_context_review,1,0,
+62518360,Resursskola Annersta,http://www.huddinge.se/annerstaskolan,fetched_requires_context_review,2,0,
+62533129,Bobergsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/bobergsskolan,fetched_requires_context_review,1,0,
+62544265,Fria Maria Barnskola,http://www.friamaria.com,fetched_requires_context_review,2,0,
+62569730,Internationella Engelska Skolan Värmdö,http://www.engelska.se,fetched_requires_context_review,1,0,
+62707060,Skälbyskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+62862066,Helenelundsskolan,http://www.sollentuna.se/sv/uweb/helenelundsskolan/,fetched_requires_context_review,3,0,
+63111806,Källskolan,http://www.kallskolan.se,fetched_requires_context_review,2,0,
+63150475,Sjumilaskolan,https://www.upplandsvasby.se/4.4888d21515e5a932a771172.html,fetched_requires_context_review,1,0,
+63300625,Duvboskolan,http://www.sundbyberg.se/duvboskolan,fetched_requires_context_review,1,0,
+63321041,Kungliga Svenska Balettskolan,http://www.kungligasvenskabalettskolan.se/grundskolan,inaccessible_requires_review,0,0,Robots disallowed
+63329692,Sörgårdsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/sorgardsskolan,fetched_requires_context_review,1,0,
+63542436,Sätunaskolan,http://www.sigtuna.se/satunaskolan,fetched_requires_context_review,1,0,
+63581692,Enebybergs skola,https://www.danderyd.se/skolor/enebybergs-skola/,fetched_requires_context_review,1,0,
+63592981,Internationella Engelska Skolan Sigtuna,http://www.engelska.se,fetched_requires_context_review,1,0,
+63682476,Grantomta Montessoriskola,http://www.grantomta.se,fetched_requires_context_review,3,0,
+63742407,Rosendalsskolan,http://www.vallentuna.se,fetched_requires_context_review,1,0,
+63954028,Kunskapsskolan Fruängen,https://www.kunskapsskolan.se/skolor/fruangen,fetched_requires_context_review,3,0,
+64065082,Fredrikshovs slotts skola,http://www.fredrikshov.se,fetched_requires_context_review,3,0,
+64081877,Snättringeskolan,http://www.huddinge.se/snattringeskolan,fetched_requires_context_review,2,0,
+64285853,Duvnäs skola,http://www.duvnas.nacka.se,fetched_requires_context_review,3,0,
+64732323,The Tanto International School,https://www.tantoschool.se,fetched_requires_context_review,1,0,
+64736967,Västbergaskolan,http://www.vastbergaskolan.se,fetched_requires_context_review,3,0,
+64836806,Vallaskolan,http://www.sodertalje.se/vallaskolan,inaccessible_requires_review,0,0,Too many redirects
+64949601,Vårbyskolan,http://www.huddinge.se/varbyskolan,fetched_requires_context_review,2,0,
+65487837,Futuraskolan AB,http://www.futuraskolan.se,fetched_requires_context_review,1,0,
+65545391,Täby Friskola,http://www.tabyfriskola.se,fetched_requires_context_review,1,0,
+65717061,Gröndalsskolan,https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/grondalsskolan-f-9,inaccessible_requires_review,0,0,HTTP 404
+65839656,Byängsskolan AB,http://www.byangsskolan.se,fetched_requires_context_review,3,0,
+65927702,Innovitaskolan Vendelsö,https://innovitaskolan.se/vendelso/,fetched_requires_context_review,3,0,
+66161099,Internationella Engelska Skolan Österåker,http://www.engelska.se,fetched_requires_context_review,1,0,
+66283082,Hammarbyskolan Norra,https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-norra,fetched_requires_context_review,1,0,
+66383692,Sjötorpsskolan,http://www.huddinge.se/sjotorpsskolan,fetched_requires_context_review,2,0,
+66455663,Engelska skolan Novia,https://www.engelskaskolannovia.se,fetched_requires_context_review,2,0,
+66475520,Träkvista skolan,http://www.ekero.se/trakvista,inaccessible_requires_review,0,0,HTTP 404
+66620411,British International School,http://www.bisstockholm.se,fetched_requires_context_review,1,0,
+66634449,Vittra Jakobsberg,http://www.vittra.se/jakobsberg,fetched_requires_context_review,3,0,
+66851849,Olovslundsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/olovslundsskolan,fetched_requires_context_review,1,0,
+67662754,Vittra Telefonplan,http://www.vittra.se/telefonplan,fetched_requires_context_review,3,0,
+67731691,Lunaskolan Södra,https://www.up.se/lunaskolansodra/,fetched_requires_context_review,1,0,
+67742754,Karsby International School,http://www.botkyrka.se/karsbyinternationalschool,terms_review_required,0,0,
+67743631,Internationella Engelska Skolan Norrtälje,https://engelska.se/our-schools/norrtalje/,fetched_requires_context_review,1,0,
+67788311,Noblaskolan Sundbyberg,https://noblaskolan.se/sundbyberg/,fetched_requires_context_review,2,0,
+67809355,Innovitaskolan Norrtälje,https://innovitaskolan.se/norrtalje/,fetched_requires_context_review,3,0,
+67926479,Norra Lagnö Skola,lagnovallen.se,inaccessible_requires_review,0,0,Unsafe URL
+68361133,Vanstaskolan,https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/vanstaskolan-f-9,inaccessible_requires_review,0,0,HTTP 404
+68403656,Sverigefinska Språkskolan,http://www.sprakskolanvasby.se,fetched_requires_context_review,2,0,
+68422076,Björkestaskolan,http://www.nykvarn.se,fetched_requires_context_review,2,0,
+68602166,Hammarbyskolan Södra,https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-sodra,inaccessible_requires_review,0,0,The read operation timed out
+68812584,Askebyskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/askebyskolan,fetched_requires_context_review,1,0,
+68893390,Ulvsundaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/ulvsundaskolan,fetched_requires_context_review,1,0,
+68939834,Hillelskolan,http://www.hillel.nu,fetched_requires_context_review,2,0,
+69004747,Fryshuset Grundskola Husby,https://fryshuset.se/,fetched_requires_context_review,1,0,
+69043808,Byleskolan,http://www.taby.se/byleskolan,fetched_requires_context_review,1,0,
+69088221,Skolhagenskolan,http://www.taby.se/skolhagenskolan,fetched_requires_context_review,1,0,
+69195602,Silverdalsskolan,http://www.sollentuna.se/sv/uweb/utbildning-silverdal/,fetched_requires_context_review,3,0,
+69266159,Hjulsta grundskola F-9,https://grundskola.stockholm/hitta-grundskola/grundskola/hjulsta-grundskola,fetched_requires_context_review,1,0,
+69329486,Källängens skola,https://www.lidingo.se/kallangensskola,fetched_requires_context_review,3,0,
+69895255,Mariaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/mariaskolan,fetched_requires_context_review,1,0,
+69909271,Resarö skola,http://www.vaxholm.se,fetched_requires_context_review,3,0,
+70089804,Loviselundsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/loviselundsskolan,fetched_requires_context_review,1,0,
+70182130,Drottningdals skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+70201551,Gärdesskolan,http://www.sollentuna.se/sv/uweb/gardesskolan-med-forskolor/,fetched_requires_context_review,1,0,
+70329261,Hägerstensåsens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstensasens-skola,inaccessible_requires_review,0,0,The read operation timed out
+70398560,Kämpetorpsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/kampetorpsskolan,fetched_requires_context_review,1,0,
+70481988,Svartsö skola,http://varmdo.se,fetched_requires_context_review,1,0,
+70592143,Sjöviksskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/sjoviksskolan,fetched_requires_context_review,1,0,
+70803136,Kyrkskolan,http://www.varmdo.se,fetched_requires_context_review,1,0,
+71078874,Fornuddens skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+71363923,Djurgårdsskolan,http://www.djurgardsskolan.se,fetched_requires_context_review,2,0,
+71375812,Vallentuna Internationella Montessoriskola,http://www.vallentunaims.se,fetched_requires_context_review,3,0,
+71638763,Norskolan,http://www.taby.se/norskolan,fetched_requires_context_review,1,0,
+71669600,Vittra Luma Park,http://www.vittra.se/luma-park,fetched_requires_context_review,3,0,
+71677992,Rönninge skola,https://salem.se/forskolaochskola/grundskola/ronningeskola.4.335d63281936795eddcda10.html,fetched_requires_context_review,1,0,
+71754599,Gustav Vasa skola,https://grundskola.stockholm/hitta-grundskola/grundskola/gustav-vasa-skola,fetched_requires_context_review,1,0,
+71992738,Fornbackaskolan,http://www.sodertalje.se/fornbackaskolan,fetched_requires_context_review,1,0,
+72009890,Lilla Adolf Fredriks skola,https://grundskola.stockholm/hitta-grundskola/grundskola/lilla-adolf-fredriks-skola,fetched_requires_context_review,1,0,
+72074288,Rydbo skola,http://www.osteraker.se,fetched_requires_context_review,3,0,
+72120589,Stålhamraskolan,http://www.sodertalje.se/stalhamraskolan,fetched_requires_context_review,1,0,
+72266104,Vendelsömalmsskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+72345466,Kvarnbyskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/kvarnbyskolan,fetched_requires_context_review,1,0,
+72370577,Stocksundsskolan,https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/,fetched_requires_context_review,1,0,
+72378947,Vallentuna Friskola,http://www.vallentunafriskola.se,fetched_requires_context_review,3,0,
+72392930,Ängsnässkolan,http://www.huddinge.se/angsnasskolan,fetched_requires_context_review,2,0,
+72471883,Länna skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+72509254,Lunaskolan Bromma,https://www.up.se/lunaskolanbromma/,fetched_requires_context_review,1,0,
+72584192,Nya Enskede skola,https://grundskola.stockholm/hitta-grundskola/grundskola/enskede-skola,fetched_requires_context_review,1,0,
+72624886,Internationella Engelska Skolan Liljeholmen,http://www.engelska.se,fetched_requires_context_review,1,0,
+72627865,Alviksskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/,fetched_requires_context_review,1,0,
+72672270,Aspuddens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/aspuddens-skola,fetched_requires_context_review,1,0,
+72769342,Täby Friskola,http://www.tabyfriskola.se,fetched_requires_context_review,1,0,
+73075913,Mikaelgårdens Skola,http://www.mikaelgarden.se,fetched_requires_context_review,2,0,
+73083470,Rydbo Friskola,http://www.rydbofriskola.se,fetched_requires_context_review,3,0,
+73184968,Brandbergsskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+73272488,Skärgårdsstadsskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+73581523,Tallbackaskolan,http://www.solna.se,fetched_requires_context_review,3,0,
+73629371,Gillbo-Gröndalsskolan,http://www.sollentuna.se/sv/uweb/utbildning-rotebro,fetched_requires_context_review,1,0,
+73893187,Maria Elementarskola,http://www.mariaelementar.se,fetched_requires_context_review,2,0,
+73926940,Deltaskolan,http://www.deltaskolan.se,fetched_requires_context_review,3,0,
+74174879,Bollstanäs skola,http://www.upplandsvasby.se/bollstanasskola,fetched_requires_context_review,1,0,
+74358019,Internationella Engelska Skolan Nacka,http://www.engelska.se,fetched_requires_context_review,1,0,
+74396596,Kvarnbackaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/kvarnbackaskolan,fetched_requires_context_review,1,0,
+74482611,Internationella Engelska skolan Hässelby,http://www.engelska.se,fetched_requires_context_review,1,0,
+74489639,Innovitaskolan Södertälje,https://innovitaskolan.se/sodertalje/,fetched_requires_context_review,3,0,
+74631147,Enskedefältets skola,https://grundskola.stockholm/hitta-grundskola/grundskola/enskedefaltets-skola,fetched_requires_context_review,1,0,
+74706113,Danaskolan,,missing_registered_website,0,0,
+74723082,Gullingeskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/gullingeskolan,fetched_requires_context_review,1,0,
+74920766,Mariehällsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/mariehallsskolan,fetched_requires_context_review,1,0,
+75017455,Skytteholmsskolan,http://www.solna.se,fetched_requires_context_review,3,0,
+75109796,Lillåkers skola,https://lidingo.se/lillakersskola,fetched_requires_context_review,3,0,
+75255864,Pilgrimsskolan,http://www.pilgrimsskolan.se,fetched_requires_context_review,1,0,
+75387026,Vårbackaskolan,http://www.huddinge.se/varbackaskolan,fetched_requires_context_review,2,0,
+75401552,Turebergsskolan,https://www.sollentuna.se/uweb/turebergsskolan/,fetched_requires_context_review,1,0,
+75505688,Igelsta grundskola,http://www.sodertalje.se/igelstagrundskola,fetched_requires_context_review,1,0,
+75527289,Västerhaninge Montessoriskola Ugglan,http://www.ugglan.net,terms_review_required,0,0,
+75565366,Myrstugubergets Friskola,http://www.myrstuguskolan.se,fetched_requires_context_review,3,0,
+75580959,Rikstens skola,http://www.botkyrka.se/rikstensskola,terms_review_required,0,0,
+75614609,Södermalmsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/sodermalmsskolan,fetched_requires_context_review,1,0,
+75656508,Vasastans Montessoriskola,http://www.vasastansmontessoriskola.se,fetched_requires_context_review,1,0,
+75834458,Björknässkolan,http://www.bjorknas.nacka.se,fetched_requires_context_review,2,0,
+76033436,Barkarbyskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+76222592,Innovitaskolan Rönninge,https://innovitaskolan.se/ronninge/,fetched_requires_context_review,3,0,
+76440567,Kvarnbäcksskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+76550010,Tjustaskolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/tjustaskolan.html,inaccessible_requires_review,0,0,HTTP 404
+76557608,Lindeskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/lindeskolan,fetched_requires_context_review,1,0,
+76952966,Skanskvarnsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/skanskvarnsskolan,fetched_requires_context_review,1,0,
+77002828,Skebo skola,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/,fetched_requires_context_review,3,0,
+77314942,Norra Ängby skola,https://grundskola.stockholm/hitta-grundskola/grundskola/norra-angby-skola,fetched_requires_context_review,1,0,
+77370320,Ytterbyskolan,http://www.taby.se/ytterbyskolan,inaccessible_requires_review,0,0,IncompleteRead(61440 bytes read)
+77624936,Runby skola,http://www.upplandsvasby.se/runbyskolor,fetched_requires_context_review,1,0,
+77656740,Rosholmen Education Academy AB,http://www.rosholmen.se,fetched_requires_context_review,2,0,
+77763178,Kvarnskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+78491090,Tingvallaskolan,http://www.sigtuna.se/tingvallaskolan,fetched_requires_context_review,1,0,
+78508835,Sverigefinska skolan i Stockholm,http://www.sverigefinskaskolan.eu,fetched_requires_context_review,3,0,
+78801570,Raoul Wallenbergskolan Jungfrusund,www.rws.se,inaccessible_requires_review,0,0,Unsafe URL
+78808043,Ösbyskolan AB,http://www.osbyskolan.se,fetched_requires_context_review,1,0,
+78918091,Kyrkskolan,http://www.taby.se/kyrkskolan,fetched_requires_context_review,1,0,
+79004521,Viaskolan,https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/viaskolan-f-9,inaccessible_requires_review,0,0,HTTP 404
+79012683,Annerstaskolan,http://www.huddinge.se/annerstaskolan,fetched_requires_context_review,2,0,
+79034924,Haninge resursskola,,missing_registered_website,0,0,
+79093755,Internationella Engelska Skolan Järfälla,http://www.engelska.se,fetched_requires_context_review,1,0,
+79466321,Hölöskolan,http://www.sodertalje.se/holoskolan,fetched_requires_context_review,1,0,
+79626756,Hästhagsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/hasthagsskolan,fetched_requires_context_review,1,0,
+79708334,Viktor Rydbergs skola Sundbyberg,http://www.vrskolor.se,fetched_requires_context_review,2,0,
+79969356,Europaskolan,http://www.europaskolan.nu,fetched_requires_context_review,1,0,
+80274643,Skepptuna skola,http://www.sigtuna.se/skepptunaskola,fetched_requires_context_review,1,0,
+80378022,Botkyrka Friskola,http://www.botfri.se,fetched_requires_context_review,3,0,
+80509560,Engelska Språkskolan,http://www.sprakskolanvasby.se,fetched_requires_context_review,2,0,
+80561156,Ektorps skola,nacka.se/valfard-skola/skuru-duvnasresursskola,inaccessible_requires_review,0,0,Unsafe URL
+80612612,Kristinebergsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan,fetched_requires_context_review,1,0,
+80731562,JENSEN grundskola Kvarnsjön,http://www.jensengrundskola.se/kvarnsjon,fetched_requires_context_review,1,0,
+80746043,Ribbybergsskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+80752058,JENSEN grundskola Steninge,https://www.jensengrundskola.se/steninge,fetched_requires_context_review,1,0,
+81021363,Herrestaskolan,http://www.jarfalla.se/underwebbar/herrestaskolan/valkommen-till-herrestaskolan.html,fetched_requires_context_review,1,0,
+81266343,Kunskapsskolan Tyresö,https://www.kunskapsskolan.se/skolor/tyreso,fetched_requires_context_review,3,0,
+81396509,Innovitaskolan Banérporten,https://innovitaskolan.se/banerporten/,fetched_requires_context_review,3,0,
+81453817,Lärande Grundskola Magneten,http://www.larandegrundskola.se,fetched_requires_context_review,2,0,
+81611939,Grindstuskolan,https://www.huddinge.se/grindstuskolan,fetched_requires_context_review,2,0,
+81680693,HagaLyckebyskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+81857869,Skärsätra skola,https://www.lidingo.se/skarsatraskola,fetched_requires_context_review,3,0,
+81903519,Långsjöskolan,https://www.huddinge.se/langsjoskolan,fetched_requires_context_review,2,0,
+82047013,Älta skola,http://www.alta.nacka.se,fetched_requires_context_review,1,0,
+82075850,Skarpatorpsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/skarpatorpsskolan,fetched_requires_context_review,1,0,
+82110758,Hagsätraskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/hagsatraskolan,fetched_requires_context_review,1,0,
+82137009,Hovsjöskolan,http://www.sodertalje.se/hovsjoskolor,inaccessible_requires_review,0,0,HTTP 404
+82212978,Stockholms Montessoriskola Färgargårdstorget,www.stockholmsmontessoriskola.se,inaccessible_requires_review,0,0,Unsafe URL
+82408375,Montessori Mondial Kista,https://montessorimondial.se/kista/,fetched_requires_context_review,3,0,
+82624830,Solskiftesskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+82757734,Lundskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+82838118,Alla Nationers Fria Skola,http://www.anfs.se,fetched_requires_context_review,2,1,
+82854505,Martinskolan Söders Waldorfskola,http://www.martinskolan.se,fetched_requires_context_review,3,0,
+82962565,Hörningsnässkolan,http://www.huddinge.se/horningsnasskolan,fetched_requires_context_review,2,0,
+82982309,Internationella Engelska Skolan Kista,http://www.engelska.se,fetched_requires_context_review,1,0,
+83020784,Tyresö skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+83454509,Skarpängsskolan,http://www.taby.se/skarpangsskolan,fetched_requires_context_review,1,0,
+83584296,Internationella Engelska Skolan Älvsjö,http://www.engelska.se,fetched_requires_context_review,1,0,
+83623446,Rösjöskolan,http://www.taby.se/rosjoskolan,fetched_requires_context_review,1,0,
+83735665,Stockholm International Academy Häggvik,https://siaskolan.se,inaccessible_requires_review,0,0,Explicit crawl delay requires manual scheduling
+83810698,Elinsborgsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/elinsborgsskolan,fetched_requires_context_review,1,0,
+83828066,Nya Elementar,https://grundskola.stockholm/hitta-grundskola/grundskola/nya-elementar,fetched_requires_context_review,1,0,
+84103650,Kårstaskolan,http://www.vallentuna.se/karsta/,inaccessible_requires_review,0,0,HTTP 404
+84230778,Svalnäs skola,http://www.svalnas.se,fetched_requires_context_review,1,0,
+84520303,Hagaskolan,http://vallentuna.se/haga,inaccessible_requires_review,0,0,HTTP 404
+84584068,Frötuna skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+84585645,"Djurgårdens Waldorfskoleförening, Hagaskolan",http://www.hagaskolan.se,fetched_requires_context_review,2,0,
+84704913,Krusboda skola,http://www.tyreso.se,fetched_requires_context_review,1,0,
+84884375,Myrsjöskolan,http://www.myrsjo.nacka.se,fetched_requires_context_review,3,0,
+85200474,Magelungens Grundskola Långbropark,http://www.magelungen.com,fetched_requires_context_review,3,0,
+85440729,Häggvik- Skälbyskolan,http://www.sollentuna.se/sv/skola--forskola/grundskola/skolor/haggviks-skolor/,fetched_requires_context_review,1,0,
+85558618,Falkbergsskolan,http://www.botkyrka.se/falkbergsskolan,inaccessible_requires_review,0,0,HTTP 404
+85670099,Stift. Sthlm Intern. School gr,http://www.intsch.se,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+85759071,Lillsjöskolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/lillsjoskolan.html,inaccessible_requires_review,0,0,HTTP 404
+85777315,Mikaelskolan,http://www.mikaelskolan.se,fetched_requires_context_review,2,0,
+85796724,Källskolan,http://www.kallskolan.se,fetched_requires_context_review,2,0,
+86086213,Sofiaängens skola,http://www.sofiaangen.se,fetched_requires_context_review,3,0,
+86117924,Gamla Enskede skola,https://grundskola.stockholm/hitta-grundskola/grundskola/enskede-skola,fetched_requires_context_review,1,0,
+86192571,Banslättskolan,http://www.botkyrka.se/banslattskolan,inaccessible_requires_review,0,0,HTTP 404
+86271166,Vattmyraskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+86337537,Maltesholmsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/maltesholmsskolan,fetched_requires_context_review,1,0,
+86363147,Sjöängsskolan,www.varmdo.se,inaccessible_requires_review,0,0,Unsafe URL
+86440798,,http://www.haningemontessoriskola.se,fetched_requires_context_review,1,0,
+86597125,Hässelby Villastads skola,https://grundskola.stockholm/hitta-grundskola/grundskola/hasselby-villastads-skola,fetched_requires_context_review,1,0,
+86758230,Viktor Rydbergs skola Jarlaplan,http://www.vrskolor.se,fetched_requires_context_review,2,0,
+86917350,Köpmanholms skola,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/,fetched_requires_context_review,3,0,
+86937935,Sågtorpsskolan,http://www.sagtorp.nacka.se,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+86985859,Malmsjö skola,http://www.botkyrka.se/malmsjoskola,inaccessible_requires_review,0,0,HTTP 404
+87382179,Väringaskolans föräldraförening,http://www.varingaskolan.se,fetched_requires_context_review,3,0,
+87412084,Skolan LÄR,http://www.skolanlar.nu,fetched_requires_context_review,1,0,
+87425546,Kunskapsskolan Nacka,https://www.kunskapsskolan.se/skolor/nacka,fetched_requires_context_review,3,0,
+87521048,Engelbrektsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/engelbrektsskolan,fetched_requires_context_review,1,0,
+87665835,Strandskolan,http://www.tyreso.se,fetched_requires_context_review,1,0,
+87719096,Ålstensskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/alstensskolan,fetched_requires_context_review,1,0,
+87838841,Hässelbygårdsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/hasselbygardsskolan,fetched_requires_context_review,1,0,
+87920455,Skönstaholmsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/skonstaholmsskolan,fetched_requires_context_review,1,0,
+87967939,Noblaskolan Lännersta,https://noblaskolan.se/lannersta/,fetched_requires_context_review,2,0,
+87999453,Tellusskolan Thea Bromma,https://tellusskolan.se/skolor/thea-bromma/,fetched_requires_context_review,1,0,
+88207732,Blommensbergsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/blommensbergsskolan,fetched_requires_context_review,1,0,
+88283203,Ösbyskolan,http://www.varmdo.se,fetched_requires_context_review,1,0,
+88454421,Aspnässkolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+88712672,Söraskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+88795871,Södra Ängby skola,https://grundskola.stockholm/hitta-grundskola/grundskola/sodra-angby-skola,fetched_requires_context_review,1,0,
+89053805,Fastebolskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+89317818,Kyrkskolan,https://www.danderyd.se/skolor/kyrkskolan/,fetched_requires_context_review,1,0,
+89424201,Spirande Lärande i Täby AB,http://www.spiraskolan.se,fetched_requires_context_review,3,0,
+89510449,Kungsklippeskolan,http://www.huddinge.se/kungsklippeskolan,fetched_requires_context_review,2,0,
+89605548,Trollbodaskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/trollbodaskolan,fetched_requires_context_review,1,0,
+89615900,Bålbroskolan,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/,fetched_requires_context_review,3,0,
+89692072,Freinetskolan Hugin,http://www.freinetskolanhugin.se,fetched_requires_context_review,3,0,
+89701816,Kästaskolan,http://grundskolor.huddinge.se/kastaskola/,inaccessible_requires_review,0,0,[Errno -2] Name does not resolve
+89751941,Drakskeppsskolan,http://www.taby.se/drakskeppsskolan,fetched_requires_context_review,1,0,
+89847413,Skansbergsskolan,https://www.huddinge.se/skansbergsskolan,fetched_requires_context_review,2,0,
+89851619,JENSEN grundskola Bro Mälarstrand F-3,http://www.jensengrundskola.se/bro-malarstrand,fetched_requires_context_review,1,0,
+89893224,Svedenskolan Bergshamra,https://www.up.se/svedenskolanbergshamra/,fetched_requires_context_review,1,0,
+90207041,Orminge skola,nacka.se/valfard-skola/myrsjoresursskola,inaccessible_requires_review,0,0,Unsafe URL
+90537318,Vikingaskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+90561266,Hedvig Eleonora skola,https://grundskola.stockholm/hitta-grundskola/grundskola/hedvig-eleonora-skola,fetched_requires_context_review,1,0,
+90719952,Edsbro skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+90732940,Internationella Engelska Skolan Bromma,http://www.engelska.se,fetched_requires_context_review,1,0,
+90850620,Grundskolan Metapontum,http://www.metapontum.se,fetched_requires_context_review,3,0,
+90879048,Raoul Wallenbergskolan Järvastaden,http://www.raoulwallenbergskolan.se,fetched_requires_context_review,3,0,
+90886859,Utsäljeskolan,http://www.huddinge.se/utsaljeskolan,fetched_requires_context_review,2,0,
+91067048,Ebba Braheskolan,http://www.ebbabraheskolan.se,fetched_requires_context_review,2,0,
+91213471,Klockargårdens skola,https://www.lidingo.se/klockargardensskola,fetched_requires_context_review,3,0,
+91816093,Sturebyskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/sturebyskolan,fetched_requires_context_review,1,0,
+92007673,Västertorpsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/vastertorpsskolan,fetched_requires_context_review,1,0,
+92127007,Norrbyskolan,http://www.norrbyskolan.se,fetched_requires_context_review,1,0,
+92284588,Ekhammarskolan,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/ekhammarskolan.html,inaccessible_requires_review,0,0,HTTP 404
+92347699,Bromstensskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/bromstensskolan,fetched_requires_context_review,1,0,
+92416778,Hjorthagens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/hjorthagens-skola,fetched_requires_context_review,1,0,
+92689250,Montessori Mondial Mälarhöjden,https://montessorimondial.se/malarhojden/,fetched_requires_context_review,3,0,
+92750123,Enskilda Gymnasiet,http://www.enskildagymnasiet.se,fetched_requires_context_review,3,0,
+93301103,Aspdammskolan,http://www.aspdammskolan.se,fetched_requires_context_review,1,0,
+93320132,S:ta Gertruds skola,http://www.sigtuna.se/stagertrudsskola,fetched_requires_context_review,1,0,
+93412255,Gubbängsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/gubbangsskolan,fetched_requires_context_review,1,0,
+93844270,Turingeskolan,http://www.nykvarn.se,fetched_requires_context_review,2,0,
+93968806,Grönkullaskolan,http://www.sundbyberg.se/gronkullaskolan,fetched_requires_context_review,1,0,
+94113162,Österskärsskolan,http://www.osteraker.se,fetched_requires_context_review,3,0,
+94279206,Resursskola Sjötorp,http://www.huddinge.se/sjotorpsskolan,fetched_requires_context_review,2,0,
+94301041,Innovitaskolan Myrängen,https://innovitaskolan.se/myrangen/,fetched_requires_context_review,3,0,
+94600352,Ekedalsskolan,http://varmdo.se,fetched_requires_context_review,1,0,
+94677983,Tullgårdsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/tullgardsskolan,fetched_requires_context_review,1,0,
+94791997,Svartbäcksskolan,http://haninge.se/forskola-och-skola/grundskola/,fetched_requires_context_review,3,0,
+94836092,Borgvallaskolan,https://www.nacka.se/valfard-skola/ektorps-skolenhet/borgvallaskolan/,fetched_requires_context_review,3,0,
+94864296,Åsö grundskola,https://grundskola.stockholm/hitta-grundskola/grundskola/aso-grundskola,fetched_requires_context_review,1,0,
+94902263,Viks skola,http://www.varmdo.se,fetched_requires_context_review,1,0,
+94943347,S:t Eriks katolska skola,http://www.sterikskatolskaskola.se,fetched_requires_context_review,3,0,
+94987345,Ekebyskolan,https://www.danderyd.se/skolor/ekebyskolan/,fetched_requires_context_review,1,0,
+95057356,Uppgårdskolan,http://www.ekero.se/uppgardskolan,fetched_requires_context_review,1,0,
+95432644,Kyrkskolan,http://www.danderyd.se,inaccessible_requires_review,0,0,<urlopen error timed out>
+95676943,Kevingeskolan,https://www.danderyd.se/skolor/kevingeskolan/,fetched_requires_context_review,3,0,
+95747197,Noblaskolan Brevik,https://noblaskolan.se/brevik/,fetched_requires_context_review,2,0,
+95869861,Kvisthamraskolan,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+95940425,Elevverket,http://www.elevverket.se,fetched_requires_context_review,2,0,
+96330648,Näsbyparksskolan,http://www.taby.se/nasbyparksskolan,fetched_requires_context_review,1,0,
+96622957,Backeboskolan ekonomisk förening,http://www.backeboskolan.se,fetched_requires_context_review,3,0,
+96646603,Lommarskolan,www.norrtalje.se,inaccessible_requires_review,0,0,Unsafe URL
+96653388,Robinson Valsjön,https://tellusskolan.se/skolor/robinson-valsjon/,fetched_requires_context_review,1,0,
+96671986,Väsjöskolan,,missing_registered_website,0,0,
+96689751,Kräpplaskolan,http://www.huddinge.se/krapplaskolan,fetched_requires_context_review,2,0,
+96984023,Östermalmsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/ostermalmsskolan,fetched_requires_context_review,1,0,
+97174070,Mörbyskolan,http://www.morbyskolan.se,inaccessible_requires_review,0,0,Robots disallowed
+97184063,Högbyskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+97400863,Vinsta grundskola västra,https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-vastra,fetched_requires_context_review,1,0,
+97402564,Kvarnbergskolan,http://varmdo.se,fetched_requires_context_review,1,0,
+97655739,Eneskolan,http://www.sodertalje.se/eneskolan,fetched_requires_context_review,1,0,
+97683561,Johan Skytteskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/johan-skytteskolan,fetched_requires_context_review,1,0,
+97686250,Rödabergsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/rodabergsskolan,fetched_requires_context_review,1,0,
+97718207,Gottsta skola,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+97762139,Sandbergska skolan Upplands Väsby,http://www.thorenframtid.se,inaccessible_requires_review,0,0,Robots unresolved; manual review required
+97777849,Tallbohovskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+97927760,Noblaskolan Rönninge,https://noblaskolan.se/ronninge/,fetched_requires_context_review,2,0,
+97942210,Internationella Engelska Skolan Huddinge,http://www.engelska.se,fetched_requires_context_review,1,0,
+97966458,Ormkärrsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/ormkarrsskolan,fetched_requires_context_review,1,0,
+98070480,Hägerstenshamnens skola,https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstenshamnens-skola,fetched_requires_context_review,1,0,
+98239828,Ekebyholmsskolan AB,http://www.ekebyholm.se,fetched_requires_context_review,3,0,
+98477278,Edboskolan,http://www.huddinge.se/edboskolan,fetched_requires_context_review,2,0,
+98515782,Stiftelsen nya Ängkärrskolan,http://www.angkarrskolan.se,fetched_requires_context_review,2,0,
+98531789,Rånäs skola,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/,fetched_requires_context_review,3,0,
+98666483,Ålstaskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+98753011,Internationella Engelska Skolan Sundbyberg,http://www.engelska.se,fetched_requires_context_review,1,0,
+98780182,Bodals skola,https://www.lidingo.se/bodalsskola,fetched_requires_context_review,3,0,
+98925408,Viksjöskolan,http://www.jarfalla.se,fetched_requires_context_review,3,0,
+99022046,Sköndalsskolan,https://grundskola.stockholm/hitta-grundskola/grundskola/skondalsskolan,fetched_requires_context_review,1,0,
+99373839,Ekebyhovskolan,http://www.ekero.se/ekebyhovskolan,fetched_requires_context_review,1,0,
+99640618,Lillhagaskolan,http://www.nykvarn.se,fetched_requires_context_review,2,0,
+99648792,Adolf Fredriks musikklasser,https://grundskola.stockholm/hitta-grundskola/grundskola/adolf-fredriks-musikklasser,fetched_requires_context_review,1,0,
+99749462,Långsjöskolan,http://www.norrtalje.se,fetched_requires_context_review,1,0,
+99842607,Oxbacksskolan,http://www.sodertalje.se/oxbacksskolan,fetched_requires_context_review,1,0,

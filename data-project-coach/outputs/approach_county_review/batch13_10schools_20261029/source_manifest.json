@@ -1,0 +1,172 @@
+[
+  {
+    "file": "albatross.html",
+    "bytes": 165984,
+    "sha256": "533d3ac04bbb02d300e42a14ec1d9562ca2708205a7362d579d693acf2efdc1f"
+  },
+  {
+    "file": "albatross_methods.html",
+    "bytes": 122542,
+    "sha256": "04caf17db354ea5d652a26284c3da0720553d248f875845d07a87abde26f8bea"
+  },
+  {
+    "file": "albatross_montessori.html",
+    "bytes": 122411,
+    "sha256": "28f9cb804c552d9a9e681165b100b15a2723ec0619b214a34556a87baf473b9f"
+  },
+  {
+    "file": "albatross_official.json",
+    "bytes": 1532,
+    "sha256": "db7b83d492a27e8d5e296e3a1204a341890ff6214498869a82e87c9f5b26b7c6"
+  },
+  {
+    "file": "eira.html",
+    "bytes": 144148,
+    "sha256": "31fe3e08f6f1843394f7d19127f808fa8cdc06530f5291d21bdea3bf661dee9b"
+  },
+  {
+    "file": "gustafslund.html",
+    "bytes": 182847,
+    "sha256": "489f59ca6a9bd996b8d97604fe2b0072d7a3c7f1c12830063b4a42350d72adcc"
+  },
+  {
+    "file": "gustafslund_method.html",
+    "bytes": 183019,
+    "sha256": "38b303745b330285f5c7f8cf6c2570e205f3568ea0616dd1557b1b6373ac9a74"
+  },
+  {
+    "file": "gustafslund_official.json",
+    "bytes": 1539,
+    "sha256": "d40c04ce6a9936f606c03c837640fda4a338e42efd15f11487e6351eb8b70ee2"
+  },
+  {
+    "file": "hammersta.html",
+    "bytes": 369558,
+    "sha256": "0b7ae7ee93f09ba32af25da94cd773328dda4b6705a3331e59fec670a59ad21a"
+  },
+  {
+    "file": "hammersta_old.html",
+    "bytes": 313455,
+    "sha256": "3934793c633742d20d0c149e1ab2418c6caa75ebae814bd06a9cd26164af62f0"
+  },
+  {
+    "file": "issr.html",
+    "bytes": 112998,
+    "sha256": "d8dc82cbc900c2c28d52cdc15e582bd4716ac035655baae2143689dcedddc648"
+  },
+  {
+    "file": "issr_myp.html",
+    "bytes": 106417,
+    "sha256": "9bc22359300fafb73481e6c5603836b5f7832268d012fa4cb3c471450a56c58f"
+  },
+  {
+    "file": "issr_official.json",
+    "bytes": 1607,
+    "sha256": "16a2a0f5ee9e84fdee629302c948e31f957565ce3913b4f21f2eb2201c2daaf4"
+  },
+  {
+    "file": "issr_pyp.html",
+    "bytes": 110830,
+    "sha256": "57f84af3cb19765479163c0ccb82547586a6f335f333db2c18c49266e6e518db"
+  },
+  {
+    "file": "kassmyra.html",
+    "bytes": 369189,
+    "sha256": "988c8d103858448b52f3f52fa4695be1ed6f585714e227275c8a7188a2dccaa1"
+  },
+  {
+    "file": "kassmyra_old.html",
+    "bytes": 313453,
+    "sha256": "476fcb77c005c926435ef3ad30fb3f0f7e2e58d9d9a49baae10a51e9b0f5e4fb"
+  },
+  {
+    "file": "kunskap.html",
+    "bytes": 130691,
+    "sha256": "a0d31de4c46a18364687e2c85c011ccc2bbd802bc59e89d403c00e6d6e41193a"
+  },
+  {
+    "file": "kunskap_model.html",
+    "bytes": 89885,
+    "sha256": "b8ef15aa81d1b9d288bd02147dba0ab0d385b16c44014d5decc59e3ef4b9166d"
+  },
+  {
+    "file": "nordan.html",
+    "bytes": 67801,
+    "sha256": "39151cbd299cc4d2d84d47b4e9befd7c5f1c5cf5ebfc501fe392d8a4a25f4783"
+  },
+  {
+    "file": "nordan_about.html",
+    "bytes": 69770,
+    "sha256": "e898e4013681351f26d9474f4c5d6b928da9ba0221c23bcb9b4e2f96fe727ddf"
+  },
+  {
+    "file": "nordan_official.json",
+    "bytes": 1472,
+    "sha256": "583aea8b77850f1f22aef82190911b867ba2edc8592dda385157b05cbfd22b42"
+  },
+  {
+    "file": "robots_albatross.txt",
+    "bytes": 185,
+    "sha256": "dea9a968a7e6c347d65c925994bd129f826fe99cf2f9dd7b53824631b232b725"
+  },
+  {
+    "file": "robots_botkyrka.txt",
+    "bytes": 498,
+    "sha256": "9a6d0397134362acfbea7b9441efcab3539a4fa25f93402d946ee093f9591e77"
+  },
+  {
+    "file": "robots_ekero.txt",
+    "bytes": 495,
+    "sha256": "564b4ab0c2da8ba358e64127df1ab334e730d63172d51fc4637aaad11666ce42"
+  },
+  {
+    "file": "robots_issr.txt",
+    "bytes": 96,
+    "sha256": "11093021e9b3f7bac99e96640823b6abb70f5a2aeda6e8a21cdc9206eb9e6aa3"
+  },
+  {
+    "file": "robots_kunskap.txt",
+    "bytes": 541,
+    "sha256": "a02ee8c8f6f6779fa77841a8ac6fed80e69014c43ba222594434d58da1c84b7f"
+  },
+  {
+    "file": "robots_montessori.txt",
+    "bytes": 181,
+    "sha256": "bc0e79c21567fb7fc5c7691d9b4bc0d2efafa7627870b0c53bcc446d894ff43d"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 63,
+    "sha256": "944c34fa915945519607a73d2b3e5ee74d7ffcd061747c40f5cbdad4d0ef051e"
+  },
+  {
+    "file": "robots_vasby.txt",
+    "bytes": 735,
+    "sha256": "392174139ecef31e13a1eba9bbfdb2892d5c42ad824a5b0744565e1b2cb053f2"
+  },
+  {
+    "file": "robots_vaxholm.txt",
+    "bytes": 514,
+    "sha256": "85d3b2ec632f9f574ec79715a6e4300a78f4367ce2188192cd154d4938b2768e"
+  },
+  {
+    "file": "ska.html",
+    "bytes": 93251,
+    "sha256": "ecca2e10bcceed3bcf292f3d2ac14e27fc4533d674af62a90829b89e25d4ba79"
+  },
+  {
+    "file": "vaxo.html",
+    "bytes": 56150,
+    "sha256": "25dd2c25f53d92c3667a6ee5b02be8d3de07019e09363579bb7bb8789c416853"
+  },
+  {
+    "file": "vaxo_quality.html",
+    "bytes": 56493,
+    "sha256": "1b986f61e485356f05ab2b8b6450d5a67de920800731485ba344ed0ef8a44c3c"
+  },
+  {
+    "file": "vaxo_support.html",
+    "bytes": 56418,
+    "sha256": "d6108ebd7b684ff6344edbea44ee31282e64d7ab88075ba79f9560e4749b7cde"
+  }
+]

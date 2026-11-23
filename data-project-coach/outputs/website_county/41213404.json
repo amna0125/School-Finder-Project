@@ -1,0 +1,45 @@
+{
+  "school_unit_code": "41213404",
+  "school_name": "Källbrinksskolan",
+  "registered_url": "https://www.huddinge.se/kallbrinksskolan",
+  "attempted_at": "2026-10-21T09:16:04.558565+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.huddinge.se/kallbrinksskolan",
+      "retrieved_at": "2026-10-21T09:16:06.236771+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/kallbrinksskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:24.620901+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "41213404_0.txt"
+    },
+    {
+      "source_url": "https://www.huddinge.se/kallbrinksskolan/om-skolan",
+      "retrieved_at": "2026-10-21T09:16:06.268449+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/kallbrinksskolan/om-skolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:24.620901+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "41213404_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

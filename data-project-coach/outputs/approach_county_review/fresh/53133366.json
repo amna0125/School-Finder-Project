@@ -1,0 +1,17 @@
+{
+  "school_id": "53133366",
+  "school_name": "Orminge skola",
+  "registered_url": "http://www.orminge.se",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.orminge.se",
+      "error": "[Errno -3] Try again",
+      "attempted_at": "2026-10-21T17:37:42.431878+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

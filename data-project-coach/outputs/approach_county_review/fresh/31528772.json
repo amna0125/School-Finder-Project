@@ -1,0 +1,72 @@
+{
+  "school_id": "31528772",
+  "school_name": "Mariaskolan",
+  "registered_url": "http://www.mariaskolan.nu",
+  "pages": [
+    {
+      "requested_url": "https://mariaskolan.nu/",
+      "source_url": "https://mariaskolan.nu/",
+      "page_title": "Waldorfskola i Järna - Mariaskolan - Waldorfskolan mitt i byn",
+      "accessed_at": "2026-10-21T17:31:49.302821+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "31528772_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://mariaskolan.nu/",
+          "robots_url": "https://mariaskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:48.175558+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://mariaskolan.nu/om-skolan/",
+      "source_url": "https://mariaskolan.nu/om-skolan/",
+      "page_title": "Om skolan | Mariaskolan",
+      "accessed_at": "2026-10-21T17:31:50.369184+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "31528772_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://mariaskolan.nu/om-skolan/",
+          "robots_url": "https://mariaskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:48.175558+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://mariaskolan.nu/om-skolan/bibliotek/",
+      "source_url": "https://mariaskolan.nu/om-skolan/bibliotek/",
+      "page_title": "Bibliotek | Mariaskolan",
+      "accessed_at": "2026-10-21T17:31:51.410515+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "31528772_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://mariaskolan.nu/om-skolan/bibliotek/",
+          "robots_url": "https://mariaskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:48.175558+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

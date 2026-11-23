@@ -1,0 +1,45 @@
+{
+  "school_unit_code": "23312767",
+  "school_name": "Noblaskolan Täby",
+  "registered_url": "https://noblaskolan.se/taby/",
+  "attempted_at": "2026-10-21T09:15:36.418162+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://noblaskolan.se/taby/",
+      "retrieved_at": "2026-10-21T09:15:38.989706+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/taby/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "23312767_0.txt"
+    },
+    {
+      "source_url": "https://noblaskolan.se/taby/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:39.038375+00:00",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/taby/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:37.271895+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "23312767_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

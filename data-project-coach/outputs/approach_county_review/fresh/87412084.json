@@ -1,0 +1,32 @@
+{
+  "school_id": "87412084",
+  "school_name": "Skolan LÄR",
+  "registered_url": "http://www.skolanlar.nu",
+  "pages": [
+    {
+      "requested_url": "https://skolanlar.nu/",
+      "source_url": "https://skolanlar.nu/",
+      "page_title": "Skolan LÄR",
+      "accessed_at": "2026-10-21T17:42:43.137995+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "87412084_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://skolanlar.nu/",
+          "robots_url": "https://skolanlar.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:42:42.210291+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

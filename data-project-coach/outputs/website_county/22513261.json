@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "22513261",
+  "school_name": "Kista grundskola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-f-3",
+  "attempted_at": "2026-10-21T09:15:35.514296+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-f-3",
+      "retrieved_at": "2026-10-21T09:15:40.102964+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-f-3",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "22513261_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Vi har välutrustade salar för trä- och textilslöjd samt musik, med flera olika instrument. Genom vårt samarbete med El Sistema får alla elever möjlighet att lära sig spela stråkinstrument tillsammans i en orkester.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a2ea9875cd93d64d3b45a4d4cfd69fb0200dfabcebcec69bceaca04b4cd7944f",
+      "school_unit_code": "22513261",
+      "school_name": "Kista grundskola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-f-3",
+      "retrieved_at": "2026-10-21T09:15:40.102964+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

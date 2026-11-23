@@ -1,0 +1,161 @@
+{
+  "school_unit_code": "90850620",
+  "school_name": "Grundskolan Metapontum",
+  "registered_url": "http://www.metapontum.se",
+  "attempted_at": "2026-10-21T09:23:46.284847+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://metapontum.se/",
+      "retrieved_at": "2026-10-21T09:23:58.358422+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.metapontum.se",
+          "robots_url": "https://metapontum.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:49.172969+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.metapontum.se/",
+          "robots_url": "https://metapontum.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:52.181294+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://metapontum.se/",
+          "robots_url": "https://metapontum.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:54.237430+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "90850620_0.txt"
+    },
+    {
+      "source_url": "https://metapontum.se/grundskola-f-9/",
+      "retrieved_at": "2026-10-21T09:23:58.395176+00:00",
+      "robots_checks": [
+        {
+          "url": "https://metapontum.se/grundskola-f-9/",
+          "robots_url": "https://metapontum.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:54.237430+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "90850620_1.txt"
+    },
+    {
+      "source_url": "https://metapontum.se/profiler/",
+      "retrieved_at": "2026-10-21T09:23:58.421873+00:00",
+      "robots_checks": [
+        {
+          "url": "https://metapontum.se/profiler/",
+          "robots_url": "https://metapontum.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:54.237430+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "90850620_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "academic_subject_specialist",
+      "supporting_excerpt": "Metapontum är en grundskola med årskurserna F-9 som ligger naturskönt i vackra Långbro park i Älvsjö, Stockholm. Vi erbjuder musik- och matematikprofil där våra elever har möjlighet till bredd och fördjupning i dessa ämnen tillsammans med skickliga och behöriga lärare.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ecc9b4f3c57161b645c2ee0460d2de6650ff06d50b243f6c4a9305c15366e7ce",
+      "school_unit_code": "90850620",
+      "school_name": "Grundskolan Metapontum",
+      "source_url": "https://metapontum.se/",
+      "retrieved_at": "2026-10-21T09:23:58.358422+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vi har även en egen Kulturskola! Här erbjuder vi både interna och externa elever utrymme att stimulera och utveckla sina förmågor inom dans, sång, teater och musik efter skoltid. Ge ditt barn möjligheten att växa och blomstra genom konst och kultur på Kulturskolan på Grundskolan Metapontum. Vi tror på att främja passion och kreativitet för en framtid full av möjligheter!",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5d61547b9bfa48ea1d9fd5e7b7ba09c5b5c5085d9acade51c8bb5843beedd614",
+      "school_unit_code": "90850620",
+      "school_name": "Grundskolan Metapontum",
+      "source_url": "https://metapontum.se/",
+      "retrieved_at": "2026-10-21T09:23:58.358422+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Metapontum är en grundskola med årskurserna F-9 som ligger naturskönt i vackra Långbro park i Älvsjö, Stockholm. Vi erbjuder musik- och matematikprofil där våra elever har möjlighet till bredd och fördjupning i dessa ämnen tillsammans med skickliga och behöriga lärare.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "3d72c582c4e80b000f852a333b3f169d471497f62703cd84c0a012a345adaf01",
+      "school_unit_code": "90850620",
+      "school_name": "Grundskolan Metapontum",
+      "source_url": "https://metapontum.se/",
+      "retrieved_at": "2026-10-21T09:23:58.358422+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": " av vår spetsutbildning inom matematik, samt våra matematik- och musik-profiler finns även en egen kulturskola. Där vill vi stimulera barn och unga att utveckla sina förmågor inom dans, sång, teater och musik efter skoltid.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "b82966f7c114d7fa751c9d4d6aa84bd525875f0c1c04e15a05acfcfa748df5ce",
+      "school_unit_code": "90850620",
+      "school_name": "Grundskolan Metapontum",
+      "source_url": "https://metapontum.se/grundskola-f-9/",
+      "retrieved_at": "2026-10-21T09:23:58.395176+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Utöver möjligheten för elever att utvecklas med hjälp av vår spetsutbildning inom matematik, samt våra matematik- och musik-profiler finns även en egen kulturskola. Där vill vi stimulera barn och unga att utveckla sina förmågor inom dans, sång, teater och musik efter skoltid.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5a293e665d74d9487b32378ec23034164176d5045981cae661eb00a80f2cfb71",
+      "school_unit_code": "90850620",
+      "school_name": "Grundskolan Metapontum",
+      "source_url": "https://metapontum.se/grundskola-f-9/",
+      "retrieved_at": "2026-10-21T09:23:58.395176+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Musikprofilen omfattar medverkan i skolans körer, ensembler och projektverksamhet. Inom valtimmarna deltar de yngre barnen i dans- och rytmiklektioner samt introduceras för musikaliska begrepp och notläsning. De äldre läser musikhistoria, musikteori, gehörslära och musikpsykologi. Profilen syftar till att stödja elevernas musikaliska utveckling och allmänbildning. De flesta musikelever deltar även i den individuella instrumentundervisning som tillhandahålls av Kulturskolan Metapontum efter ordinarie skoltid",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "95748781bae0847acfe3d50144f5945f88d53387bb38cbe10b512b2ebb2238df",
+      "school_unit_code": "90850620",
+      "school_name": "Grundskolan Metapontum",
+      "source_url": "https://metapontum.se/profiler/",
+      "retrieved_at": "2026-10-21T09:23:58.421873+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Hos oss finns det möjligheter att utvecklas inom såväl matematik som musik. Elever som väljer matematik som profil får en fördjupad kunskap om matematikens roll och tillämpning. Elever som väljer musikprofilen får medverka omfattande i skolans körer, ensembler och projektverksamhet.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "102a85894f2b17238cb79c27800dac15effa263329049efdec906157c74490de",
+      "school_unit_code": "90850620",
+      "school_name": "Grundskolan Metapontum",
+      "source_url": "https://metapontum.se/profiler/",
+      "retrieved_at": "2026-10-21T09:23:58.421873+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

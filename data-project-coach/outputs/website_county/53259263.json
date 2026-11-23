@@ -1,0 +1,81 @@
+{
+  "school_unit_code": "53259263",
+  "school_name": "Ingridskolan",
+  "registered_url": "http://www.ingridskolan.se",
+  "attempted_at": "2026-10-21T09:16:30.435310+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.ingridskolan.se/",
+      "retrieved_at": "2026-10-21T09:16:37.232478+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.ingridskolan.se",
+          "robots_url": "http://www.ingridskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:31.388911+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.ingridskolan.se/",
+          "robots_url": "https://www.ingridskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:33.159060+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "53259263_0.txt"
+    },
+    {
+      "source_url": "https://www.ingridskolan.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:37.265464+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.ingridskolan.se/grundskola/",
+          "robots_url": "https://www.ingridskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:33.159060+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "53259263_1.txt"
+    },
+    {
+      "source_url": "https://www.ingridskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:16:37.309262+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.ingridskolan.se/om-oss/",
+          "robots_url": "https://www.ingridskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:33.159060+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "53259263_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": ". Våra lokaler ligger i anslutning till Bergshamraskolan i Solna kommun. Ingridskolan tillhandahåller både grundskola (åk 1-9, totalt 9 stycken klasser) samt gymnasieskola med det estetiska programmet inriktning bild och form, och naturvetenskapliga programmet inriktningarna natur och natur/samhälle.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "570c09e5661a3b2350b9cf7c5515c82ffa44ab3cd2f2c98a30849a69fae25be9",
+      "school_unit_code": "53259263",
+      "school_name": "Ingridskolan",
+      "source_url": "https://www.ingridskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:16:37.309262+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

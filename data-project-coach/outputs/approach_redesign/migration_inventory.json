@@ -1,0 +1,57 @@
+{
+  "backup": "outputs/approach_redesign/schools_before_approach_20261021T121856Z.sqlite",
+  "backup_integrity": "ok",
+  "old_tables": [
+    {
+      "table": "school_focus_evidence",
+      "rows": 4,
+      "ddl": "CREATE TABLE school_focus_evidence (\n\tschool_unit_code TEXT, \n\tschool_name TEXT, \n\tsource_url TEXT, \n\tretrieved_at DATETIME, \n\tscope_status TEXT, \n\tcollection_scope TEXT, \n\tmethod_version TEXT, \n\trobots_url TEXT, \n\tpermission_status TEXT, \n\tcategory TEXT, \n\tsupporting_excerpt TEXT, \n\treview_status TEXT, \n\tclaim_type TEXT, \n\t_dlt_load_id TEXT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL\n)"
+    },
+    {
+      "table": "school_focus_coverage",
+      "rows": 762,
+      "ddl": "CREATE TABLE school_focus_coverage (\n\tschool_unit_code TEXT, \n\tschool_name TEXT, \n\tsource_url TEXT, \n\tcollection_status TEXT, \n\t_dlt_load_id TEXT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL, \n\tretrieved_at DATETIME, \n\tscope_status TEXT, \n\tcollection_scope TEXT, \n\tmethod_version TEXT, \n\trobots_url TEXT, \n\tpermission_status TEXT, \n\tcandidate_count BIGINT, \n\terror_type TEXT\n)"
+    },
+    {
+      "table": "school_focus_profiles",
+      "rows": 4,
+      "ddl": "CREATE TABLE school_focus_profiles (\n\tschool_unit_code TEXT NOT NULL, \n\tschool_name TEXT, \n\tdatabase_school_name TEXT, \n\tcategory TEXT NOT NULL, \n\tsupporting_excerpt TEXT, \n\tsource_url TEXT, \n\tretrieved_at DATETIME, \n\treview_status TEXT, \n\tclaim_type TEXT, \n\tscope_note TEXT, \n\treview_method TEXT, \n\tpermission_note TEXT, \n\t_dlt_load_id TEXT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL\n)"
+    },
+    {
+      "table": "school_focus_county_coverage__terms_urls",
+      "rows": 7,
+      "ddl": "CREATE TABLE school_focus_county_coverage__terms_urls (\n\tvalue TEXT, \n\t_dlt_root_id TEXT NOT NULL, \n\t_dlt_parent_id TEXT NOT NULL, \n\t_dlt_list_idx BIGINT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL\n)"
+    },
+    {
+      "table": "school_focus_county_candidates",
+      "rows": 345,
+      "ddl": "CREATE TABLE school_focus_county_candidates (\n\tcategory TEXT, \n\tsupporting_excerpt TEXT, \n\treview_status TEXT, \n\tclaim_type TEXT, \n\tevidence_id TEXT NOT NULL, \n\tschool_unit_code TEXT, \n\tschool_name TEXT, \n\tsource_url TEXT, \n\tretrieved_at DATETIME, \n\tscope_status TEXT, \n\t_dlt_load_id TEXT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL\n)"
+    },
+    {
+      "table": "school_focus_county_coverage__errors",
+      "rows": 86,
+      "ddl": "CREATE TABLE school_focus_county_coverage__errors (\n\turl TEXT, \n\terror TEXT, \n\t_dlt_root_id TEXT NOT NULL, \n\t_dlt_parent_id TEXT NOT NULL, \n\t_dlt_list_idx BIGINT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL\n)"
+    },
+    {
+      "table": "school_focus_county_coverage",
+      "rows": 762,
+      "ddl": "CREATE TABLE school_focus_county_coverage (\n\tschool_unit_code TEXT NOT NULL, \n\tschool_name TEXT, \n\tregistered_url TEXT, \n\tattempted_at DATETIME, \n\treview_status TEXT, \n\tmethod_version TEXT, \n\tcollection_status TEXT, \n\t_dlt_load_id TEXT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL, \n\tterms_review_status TEXT\n)"
+    },
+    {
+      "table": "school_focus_county_coverage__pages",
+      "rows": 1183,
+      "ddl": "CREATE TABLE school_focus_county_coverage__pages (\n\tsource_url TEXT, \n\tretrieved_at DATETIME, \n\ttext_file TEXT, \n\t_dlt_root_id TEXT NOT NULL, \n\t_dlt_parent_id TEXT NOT NULL, \n\t_dlt_list_idx BIGINT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL\n)"
+    },
+    {
+      "table": "school_focus_county_coverage__pages__robots_checks",
+      "rows": 1780,
+      "ddl": "CREATE TABLE school_focus_county_coverage__pages__robots_checks (\n\turl TEXT, \n\trobots_url TEXT, \n\thttp_status BIGINT, \n\tchecked_at DATETIME, \n\tstate TEXT, \n\tcrawl_delay BIGINT, \n\t_dlt_root_id TEXT NOT NULL, \n\t_dlt_parent_id TEXT NOT NULL, \n\t_dlt_list_idx BIGINT NOT NULL, \n\t_dlt_id VARCHAR(128) NOT NULL\n)"
+    }
+  ],
+  "preserved_counts": {
+    "schools": 762,
+    "statistics": 45868,
+    "survey_observations": 84610,
+    "source_coverage": 3048
+  }
+}

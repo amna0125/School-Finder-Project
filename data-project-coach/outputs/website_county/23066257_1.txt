@@ -1,0 +1,137 @@
+Estetiska grundskolor i Stockholm | Kulturama | Kulturama
+Cookies
+Vi använder cookies
+För att du ska få en så bra upplevelse som möjligt använder vi cookies på vår webbplats. Genom att klicka på “Godkänn alla cookies” samtycker du till alla cookies i enlighet med vår cookiepolicy. För att godkänna endast nödvändiga cookies kan du klicka på “Inställningar”. Lär mer om vår cookiepolicy
+Godkänn alla cookiesNeka alla cookiesHantera cookieinställningar
+Nödvändiga (obligatoriska)Visa cookies inom Nödvändiga (obligatoriska)
+Dessa cookies är viktiga för att webbplatsen ska fungera. De stödjer viktiga funktioner, som till exempel varukorgar och den tekniska driften av webbplatsen för att säkerställa att den fungerar som förväntat.
+CookieUpphörDomänFöretagSyftecsrftoken365 dagarkulturama.seKulturamaDitt besökVisa mer information
+Används för att spara en unik identifierare för att motverka otillåtna registreringar i formulär.applicant_identifier365 dagarkulturama.seKulturamaDitt besökVisa mer information
+Används för att identifiera användaren för att reservera en plats vid anmälan.cookie-popup365 dagarkulturama.seKulturamaDitt besökVisa mer information
+Används för att komma ihåg cookie inställningar för användaren.sp[projectid]Sessionkulturama.seRek.aiDitt besökVisa mer information
+Sidor som besöktes under denna sessionlast[projectid]Sessionkulturama.seRek.aiDitt besökVisa mer information
+Senast besökta sidan i denna sessionrekOrgRefSessionkulturama.seRek.aiDitt besökVisa mer information
+Ursprunglig referensadress för denna sessionsessionstarttimeSessionkulturama.seRek.aiDitt besökVisa mer information
+Datumobjekt för när sessionen börjaderektabsSessionkulturama.seRek.aiDitt besökVisa mer information
+Lista med "sektionssidor" som användaren har besökt under den aktuella sessionen
+Marknadsföring
+Acceptera cookies inom MarknadsföringVisa cookies inom Marknadsföring
+CookieUpphörDomänFöretagSyfte_fbp3 månaderkulturama.seFacebookMarknadsföringVisa mer information
+Denna cookie är installerad av Facebook. Annonser skapas genom att cookies har placerats på domäner som tillhör Facebooks företagspartners, vars webbplats du besöker.fr3 månaderkulturama.seFacebookMarknadsföringVisa mer information
+Denna cookie installeras av Facebook för att visa relevanta annonser för användarna samt för att mäta och förbättra annonserna. Cookien spårar också användarens beteende på webbplatser som har Facebookpixel eller plugin.test_cookie15 minuterdoubleclick.netGoogle DoubleclickMarknadsföringVisa mer information
+Denna cookie är installerad av doubleclick.net. Syftet med cookien är att avgöra om användarens webbläsare stödjer cookies.IDE1 år och 24 dagardoubleclick.netGoogle DoubleclickMarknadsföringVisa mer information
+Denna cookie används av Google DoubleClick och lagrar information om hur användaren använder webbplatsen samt hur annonser används innan besöket på webbplatsen. Informationen används för att visa användare annonser som är relevanta enligt användarprofilen.sc_at1 år och 24 dagarsnapchat.comSnapchatMarknadsföringVisa mer information
+Cookien är installerad av Snapchat. Cookien används för reklamändamål. Genom att spåra användarnas beteende på Snapchat kan relevanta annonser visas för användarna.YSCSessionyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie är installerad av Youtube och används för att spåra visningar av inbäddade videor.yt-remote-device-idAldrigyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie installeras via inbäddade YouTube-filmer.yt-remote-connected-devicesAldrigyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie installeras via inbäddade YouTube-filmer.VISITOR_INFO1_LIVE5 månader och 27 dagaryoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie är installerad av YouTube. Cookien används för att spåra information om inbäddade YouTube-fimer på en webbplats.yt.innertube::requestsAldrigyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie är installerad av YouTube. Cookien registrerar ett unikt ID som lagrar data om vilka filmer användaren har sett på YouTube.yt.innertube::nextIdAldrigyoutube.comYouTubeMarknadsföringVisa mer information
+Denna cookie är installerad av YouTube. Cookien registrerar ett unikt ID som lagrar data om vilka filmer användaren har sett på YouTube._ttp1 år och 1 månadkulturama.seTikTokMarknadsföring_tt_enable_cookie1 år och 1 månadkulturama.seTikTokMarknadsföring
+Statistik
+Acceptera cookies inom StatistikVisa cookies inom Statistik
+Icke-nödvändiga cookies som samlar in data för analys av besöksstatistik.
+CookieUpphörDomänFöretagSyfte_ga2 årkulturama.seGoogle AnalyticsAnalyserVisa mer information
+Denna cookie är installerad av Google Analytics. Cookien används för att beräkna besökare, sessionioner och kampanjdata samt följa upp webbplatsanvändningen för webbplatsens analysrapport. Cookies lagrar information anonymt, unika besökare identifieras genom att tilldelas ett slumpmässigt genererat nummer._gid1 dagkulturama.seGoogle AnalyticsAnalyserVisa mer information
+Denna cookie är installerad av Google Analytics. Cookien används för att lagra information om hur besökare använder webbplatsen vilket hjälper till att skapa en analysrapport om hur webbplatsen presterar. Uppgifterna som samlats in inkluderar antalet besökare, källan varifrån de kommer och de sidor som visas anonymt._gat_UA-1044675-151 minutkulturama.seGoogle AnalyticsAnalyserVisa mer information
+Det här är en mönstertypcookie från Google Analytics, där mönsterelementet på namnet innehåller det unika identitetsnumret för kontot eller webbplatsen som det relaterar till. Det verkar vara en variant av _gat -cookien som används för att begränsa mängden data som registreras av Google på webbplatser med hög trafikvolym.X-AB1 dagsc-static.netSnapchatCONSENT16 år, 4 månader, 6 dagar och 12 timmaryoutube.comYouTubeAnalyserVisa mer information
+Denna cookie installeras via inbäddade YouTube-filmer. Den registrerar anonym statistisk om till exempel hur många gånger videon visas och vilka inställningar som används för uppspelning. Ingen känslig data samlas in om du inte loggar in på ditt Google-konto, i så fall är dina val kopplade till ditt konto, till exempel om du klickar på "gilla" i en video.
+Preferenser
+Acceptera cookies inom PreferenserVisa cookies inom Preferenser
+Icke-nödvändiga cookies som sparar information kring användarval och inställningar.
+CookieUpphörDomänFöretagSyfteapplication-formLokalkulturama.seKulturamaDitt besökVisa mer information
+Används för att underlätta vid anmälan eller navigering.application-completeLokalkulturama.seKulturamaDitt besökVisa mer information
+Används för att spara information vid fullföljd anmälan._scid1 år och 1 månadkulturama.seSnapchatFunktionVisa mer information
+Denna cookie är installerad av Snapchat. Cookien används för att visa och lagra Snapchatpixel och användarens unika ID.Bekräfta mina val
+Föregående bild
+Hammarby Sjöstad och Sundbyberg
+Sök till våra grundskolorLäs mer om våra skolor
+Hammarby Sjöstad och Sundbyberg
+Besök oss på Öppet HusLäs mer och se tider
+Hammarby Sjöstad och Sundbyberg
+Sök till våra grundskolorLäs mer om våra skolor
+Hammarby Sjöstad och Sundbyberg
+Besök oss på Öppet HusLäs mer och se tider
+Hammarby Sjöstad och Sundbyberg
+Sök till våra grundskolorLäs mer om våra skolorNästa bild
+1
+2
+Den roligaste skoldagen – varje dag
+Kulturamas grundskolor finns i Hammarby Sjöstad och Sundbyberg i Stockholm och välkomnar barn med estetiskt intresse i årskurs 4-9. Hos oss får eleverna en kvalitativ utbildning samtidigt som de utforskar skapandet och fördjupar sig i bild, musik, sång, teater och dans. Vi är en estetisk grundskola med övertygelsen om att kreativt arbete ger välmående elever med en bredd av verktyg som kan användas framgångsrikt i alla skolämnen.
+På Kulturama får eleverna sjunga, spela instrument samt arbeta med bild och form på skoltid. Hos oss finns scener, danssalar och ateljéer utrustade med allt som behövs för att utveckla det kreativa intresset. Studietakten är många gånger hög men skoltiden blir rolig, stimulerande och kunskapsrik!
+Vi lägger stor vikt vid att koppla ihop de teoretiska och estetiska ämnena. Flera gånger per läsår sätter vi upp gemensamma produktioner där elever från olika profiler och årskurser arbetar tillsammans. Bland annat arrangerar vi en gemensam julshow, utställningar och konserter. Produktionerna stärker elevernas självförtroende och lär dem att samarbeta, arbeta projektbaserat och uppträda inför publik. Dessutom leder det till en stark gemenskap och ett tryggt sammanhang på skolan, där alla känner alla.
+Två kreativa grundskolor i Stockholm
+På Kulturama Grundskola Sundbyberg går cirka 500 elever i årskurs 4–9.
+Kulturama Grundskola Hammarby sjöstad ligger i Kulturamahuset. I skolan går cirka 480 elever i årskurs 4–9.
+Våra profiler: Musikal, Musik & sång och Bild & form
+Kulturamas grundskolor i Stockholm har tre estetiska inriktningar som utgår från lusten att agera, sjunga, dansa, spela musik eller uttrycka sig i bild och form. Hos oss får eleverna träna på sitt konstnärliga uttryck samtidigt som vi ger dig en bred, stabil kunskapsbas för framtida studier.
+Musikal: för elever som vill dansa, spela teater, sjunga och gillar att stå på scen. Varje år redovisar eleverna sitt arbete i olika uppspel och produktioner. I årskurs 9 sätter eleverna upp en musikal som slutproduktion.
+Musik & sång: för elever som gillar musik, sång och att spela i band. Här får eleverna grundläggande träning på piano, bas, trummor och sång. Vi arbetar med olika genrer och med det sceniska uttrycket. Varje år redovisar eleverna sitt arbete genom olika uppspel och avslutar i årskurs 9 med en slutproduktion i form av en konsert.
+Bild & form: för elever som tycker om att skapa, rita, måla, fotografera eller filma ger denna profil möjlighet att utforska olika material och uttryckssätt. Varje år genomför vi olika produktioner och utställningar och årskurs 9 avslutas med en imponerande slututställning.
+Redo för framtiden
+Vårt mål är att vara Stockholms främsta estetiska grundskola. Kulturamas lärare är både legitimerade och välutbildade, men framför allt drivs de av ett starkt engagemang för elevernas personliga och kunskapsmässiga utveckling.
+Hos oss rustas ditt barn för vidare studier och får värdefull kunskap och erfarenhet, oavsett vilket gymnasieprogram det väljer i framtiden. Kulturamas elever bär med sig en djup förståelse för kreativa processer och en bred kunskapsbas inom samtliga grundskoleämnen. Våra tidigare elever arbetar idag med såväl konstnärliga som teoretiska och praktiska yrken och vi är övertygade om att de har användning för sin kreativa förmåga oavsett bransch.
+Vill du att ditt barn ska gå på Kulturama?
+Vad roligt! Du ansöker till den grundskola som du är intresserad av via respektive skolas ansökningsformulär. Formuläret gäller både för antagning inför kommande årskurs 4 och 7 samt pågående läsår för årskurs 4-9. Ordinarie antagning sker till årskurs 4 och 7 och ansökan ska göras läsåret innan önskad start.
+Det är många som vill gå på Kulturama och därför tillämpar vi färdighetsprov på profilerna Musikal och Musik och sång. Till Bild och form sker antagning utifrån köplats efter anmälningsdatum. Läs mer om ansökningsförfarandet och våra urvalsgrunder för skolplacering.
+Hälsa på oss under Öppet hus
+Flera gånger varje läsår har vi Öppet hus på skolan, där våra lärare och elever berättar om hur det är att gå på Kulturama och visar upp våra lokaler. Här ser du när nästa tillfälle är!
+Om Kulturama Grundskolor
+Läs vidare om "Hammarby Sjöstad"
+Årskurs 4-9
+Hammarby Sjöstad
+Läs mer om skolan och våra inriktningar Musikal, Musik & Sång och Bild & Form.
+Läs vidare om "Hammarby Sjöstad"
+Läs vidare om "Sundbyberg"
+Årskurs 4-9
+Sundbyberg
+Läs mer om skolan och våra inriktningar Musikal, Bild & Form samt Musik & Sång.
+Läs vidare om "Sundbyberg"
+Läs vidare om "Öppet hus"
+Öppet hus
+Välkommen på Öppet hus!
+Tycker du om att uttrycka dig kreativt samtidigt som du skaffar dig en bred och djup ämneskunskap i grundskolans alla ämnen? Då är Kulturama Grundskolor något för dig. Här kan du välja mellan någon av våra profiler: Musikal med dans, sång och teater, Musik & Sång eller Bild & Form. Undervisningen håller hög konstnärlig kvalitet och din skoltid blir både intensiv och rolig.
+Läs vidare om "Öppet hus"
+Läs vidare om "Ansökan"
+Ansökan
+Välkommen att söka till våra skolor!
+Kulturama har två grundskolor i Stockholms län: Kulturama Grundskola Sundbyberg åk 4-9 och Kulturama Grundskola Hammarby Sjöstad åk 4-9. Hos oss finns inriktningarna Bild & form, Musik & sång samt Musikal.
+Läs vidare om "Ansökan"
+Läs vidare om "Inriktningar"
+Inriktningar
+Inriktningar på Kulturama Grundskolor
+Läs mer om våra inriktningar Musikal, Musik & Sång och Bild & Form
+Läs vidare om "Inriktningar"
+Läs vidare om "Färdighetsprov till Kulturama Grundskolor"
+Ansökan
+Färdighetsprov till Kulturama Grundskolor
+Du som söker till Kulturama Grundskolor gör olika prov, beroende på vilken inriktning och årskurs du söker till. Provet är till för att vi ska veta att du kan följa med i undervisningen. Vårt mål är att färdighetsprovet ska bli ett roligt tillfälle för dig.
+Läs vidare om "Färdighetsprov till Kulturama Grundskolor"
+Våra skolor
+Läs vidare om "Hammarby Sjöstad"
+Årskurs 4-9
+Hammarby Sjöstad
+Läs mer om skolan och våra inriktningar Musikal, Musik & Sång och Bild & Form.
+Läs vidare om "Hammarby Sjöstad"
+Läs vidare om "Sundbyberg"
+Årskurs 4-9
+Sundbyberg
+Läs mer om skolan och våra inriktningar Musikal, Bild & Form samt Musik & Sång.
+Läs vidare om "Sundbyberg"
+Missa inte grundskolans konserter och evenemang!Till kalendariet
+Aktuellt
+En skola där gemenskapen gör skillnad
+Att känna sig välkommen, inkluderad och trygg är en viktig del av skolvardagen. På Kulturama Grundskola är gemenskapen en självklar del av vardagen, något som m...
+Grundskola
+Publicerad: 24 april 2026Läs vidare om "En skola där gemenskapen gör skillnad"
+Musikal
+När musikalen får ta plats blir skoldagen roligare
+När klasskompisarna Hjördis och Josefin, som går på profilen Musikal i årskurs 4 på Kulturama Grundskola i Hammarby Sjöstad, berättar om varför de valde musikal...
+Grundskola
+Publicerad: 6 februari 2026Läs vidare om "När musikalen får ta plats blir skoldagen roligare"
+Musik
+Unga och äldre förenas i musiken
+Erik Algert, tidigare elev och nu lärare på Kulturama grundskola i Sundbyberg, filmar en dokumentär om musikens förenande kraft över generationsgränser. Inspire...
+Grundskola
+Publicerad: 8 oktober 2024Läs vidare om "Unga och äldre förenas i musiken"
+Till alla artiklar

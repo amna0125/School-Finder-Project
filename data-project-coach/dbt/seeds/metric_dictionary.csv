@@ -1,0 +1,15 @@
+metric_key,source_metric,label,unit,year_group,keep_history
+teachers,certifiedTeachersQuota,Qualified teachers,percent,,True
+merit9,averageGradesMeritRating9thGrade,"Merit rating, year 9",points,9,True
+ma6,averageResultNationalTestsSubjectMA6thGrade,"National test maths, year 6",test points,6,True
+sv6,averageResultNationalTestsSubjectSVE6thGrade,"National test Swedish, year 6",test points,6,True
+en6,averageResultNationalTestsSubjectENG6thGrade,"National test English, year 6",test points,6,True
+ma9,averageResultNationalTestsSubjectMA9thGrade,"National test maths, year 9",test points,9,True
+sv9,averageResultNationalTestsSubjectSVE9thGrade,"National test Swedish, year 9",test points,9,True
+en9,averageResultNationalTestsSubjectENG9thGrade,"National test English, year 9",test points,9,True
+ptr,studentsPerTeacherQuota,Pupils per teacher,pupils,,False
+spec,specialEducatorsQuota,Special educators quota,quota,,False
+stp,specialTeacherPositions,Special teacher positions,quota,,False
+pass9,ratioOfPupilsIn9thGradeWithAllSubjectsPassed,"Passed all subjects, year 9",percent,9,True
+pass6,ratioOfPupilsIn6thGradeWithAllSubjectsPassed,"Passed all subjects, year 6",percent,6,False
+elig,ratioOfPupils9thGradeEligibleForNationalProgramYR,"Eligible for vocational programme, year 9",percent,9,False

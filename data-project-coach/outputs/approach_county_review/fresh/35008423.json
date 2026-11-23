@@ -1,0 +1,31 @@
+{
+  "school_id": "35008423",
+  "school_name": "Skolan Bergius",
+  "registered_url": "http://www.skolanbergius.se",
+  "pages": [
+    {
+      "requested_url": "http://skolanbergius.se/",
+      "source_url": "http://skolanbergius.se/",
+      "page_title": "Skolan Bergius",
+      "accessed_at": "2026-10-21T17:32:23.348993+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "35008423_0.txt",
+      "robots_checks": [
+        {
+          "url": "http://skolanbergius.se/",
+          "robots_url": "http://skolanbergius.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:32:22.194796+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

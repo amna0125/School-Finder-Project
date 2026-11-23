@@ -1,0 +1,42 @@
+[
+  {
+    "evidence_id": "ae_b02_10184517_01",
+    "school_id": "10184517",
+    "source_url": "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/eleonoraskolan",
+    "page_title": "Eleonoraskolan - Botkyrka kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Skolan har en matematisk och naturvetenskaplig inriktning med fokus på digital kompetens.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Page explicitly names this profile and describes extra mathematics/science teaching time. Ordinary F–9 school link identifies 10184517; adapted-school provision is not transferred. Optional After School activities do not establish an arts approach."
+  },
+  {
+    "evidence_id": "ae_b02_10657244_01",
+    "school_id": "10657244",
+    "source_url": "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan",
+    "page_title": "Skogsbacksskolan i Tumba - Botkyrka kommun - Botkyrka kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Skogsbacksskolan har två specialinriktningar för elever i årskurs 4-9, en fotboll- och en basketprofil.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Explicit optional/profile provision scoped to years 4–9, not every pupil or all years. Ordinary-school link identifies 10657244; adapted school 10921100 excluded. Generic support claims and MVP alone not coded as a separate school-wide wellbeing emphasis."
+  },
+  {
+    "evidence_id": "ae_b02_11777750_01",
+    "school_id": "11777750",
+    "source_url": "https://www.nacka.se/valfard-skola/saltsjobadens-samskola-f9/for-vardnadshavare/erasmus2/",
+    "page_title": "Erasmus+ | Nacka kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Samskolan har ett aktivt Erasmussamarbete där vi erbjuder våra elever utbytesresor till olika länder i Europa, tar emot gäster ifrån våra partnerskolor samt möjliggör för fortbildning för våra lärare.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Concrete ongoing international exchange provision, not an inference from a single news item. Official unit is F–9; page does not establish participant year groups, universal participation, language of instruction or an international curriculum. Code limited to the stated programme."
+  },
+  {
+    "evidence_id": "ae_b02_13301127_01",
+    "school_id": "13301127",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola",
+    "page_title": "Ekens skola, 7–9 - Stockholms stad",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "På Ekens skola arbetar du enligt schemamodellen ämnesveckor. Det innebär att du läser koncentrerat ett teoretiskt ämne i rullande femveckorsperioder.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Explicit named scheduling model for years 7–9, corroborated by official unit page and school link. Not classified as project/inquiry-based learning or Alternative pedagogy; does not prove either. Practical/aesthetic subjects weekly are an ordinary subject description, not an arts-learning profile."
+  }
+]

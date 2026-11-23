@@ -1,0 +1,77 @@
+{
+  "school_unit_code": "34540901",
+  "school_name": "Estniska Skolan i Stockholm",
+  "registered_url": "http://www.estniskaskolan.se",
+  "attempted_at": "2026-10-21T09:21:08.872047+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.estniskaskolan.se/",
+      "retrieved_at": "2026-10-21T09:21:14.549885+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.estniskaskolan.se",
+          "robots_url": "https://www.estniskaskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:10.438722+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.estniskaskolan.se/",
+          "robots_url": "https://www.estniskaskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:11.954647+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "34540901_0.txt"
+    },
+    {
+      "source_url": "https://www.estniskaskolan.se/sv/om-skolan/",
+      "retrieved_at": "2026-10-21T09:21:14.576106+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.estniskaskolan.se/sv/om-skolan/",
+          "robots_url": "https://www.estniskaskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:11.954647+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "34540901_1.txt"
+    },
+    {
+      "source_url": "https://www.estniskaskolan.se/sv/om-skolan/historia",
+      "retrieved_at": "2026-10-21T09:21:14.601634+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.estniskaskolan.se/sv/om-skolan/historia",
+          "robots_url": "https://www.estniskaskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:11.954647+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "34540901_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "• Utvecklingen går mot en estnisk-svensk blandkultur, undervisningen börjar bli tvåspråkig (tidigare övervägande estniskspråkig med inslag av svensk terminologi).",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0e57bd3cf62355029e4998b5ac22f02ef959a935cb981b1879219456f413e709",
+      "school_unit_code": "34540901",
+      "school_name": "Estniska Skolan i Stockholm",
+      "source_url": "https://www.estniskaskolan.se/sv/om-skolan/historia",
+      "retrieved_at": "2026-10-21T09:21:14.601634+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

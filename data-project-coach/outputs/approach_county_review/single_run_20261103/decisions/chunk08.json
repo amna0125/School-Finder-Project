@@ -1,0 +1,47 @@
+[
+{"sid":"64949601","o":"N","note":"Vårby 4–9: high expectations and structure; generic Huddinge text."},
+{"sid":"65487837","o":"U","why":"unit scope unclear","note":"Futuraskolan group homepage only; bilingual teaching stated group-wide and an English-only International School of Stockholm also exists, so which model applies to this unit is unclear.","ev":[
+ {"p":0,"q":"Our lessons are carried out in a bilingual manner, utilising both English and Swedish.","i":"Group-level bilingual statement; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"65545391","o":"U","why":"unit scope unclear","note":"Täby Friskola provider homepage only; maths spets programme is at Enhagen, not Hägernäs. No Hägernäs-specific page collected.","ev":[
+ {"p":0,"q":"På Täby Friskola Enhagen erbjuder vi en spetsutbildning i matematik för elever med ett stort intresse för ämnet och som vill utmanas lite extra.","i":"Applies to Enhagen unit, not Hägernäs.","t":"Provider webpage"}]},
+{"sid":"65717061","o":"B","why":"source inaccessible","note":"Registered Nynäshamn URL returns HTTP 404."},
+{"sid":"65839656","o":"N","note":"Byängsskolan F–9: structure, library, reading comprehension in generic triad; occasional creativity/coding events."},
+{"sid":"65927702","o":"R","note":"Innovitaskolan Vendelsö F–6: daily 15-minute silent reading in every class; Innovita concept (explore/innovate/balance) provider-level.","ev":[
+ {"p":1,"q":"Varje klass inleder dagen med en kvarts tyst läsning, en stund för ro och koncentration som hjälper eleverna att starta dagen i rätt tempo.","i":"Daily reading routine.","c":[["Other stated profile","Daily silent reading","S"]],"cn":"Routine, not a full profile."}]},
+{"sid":"66161099","o":"U","why":"provider-level source only","note":"IES Österåker: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"66283082","o":"R","note":"Hammarbyskolan norra F–6: Reggio Emilia-inspired; Agenda 2030 goal chosen by pupil council.","ev":[
+ {"p":0,"q":"I förskoleklass till årskurs 6 arbetar vi Reggio Emilia-inspirerat där barn och unga ses som kompetenta och viktiga samhällsmedborgare, väl värda att lyssna på.","i":"Reggio Emilia-inspired pedagogy.","c":[["Alternative pedagogy","Reggio Emilia-inspired","S"]],"cn":"'Inspired' rather than full model."}]},
+{"sid":"66383692","o":"R","note":"Sjötorp F–6: smaller groups from year 3 and a municipal resource school on site; accessibility and support emphasis.","ev":[
+ {"p":1,"q":"Tillsammans med skolans kommunövergripande resursskola ger det en verksamhet där tillgänglighet, stöd och individens behov står i fokus.","i":"Support emphasis linked to on-site resource school.","c":[["Support, inclusion, or wellbeing emphasis","Smaller groups; on-site resource school","S"]],"cn":"Resource school may be a separate unit."}]},
+{"sid":"66455663","o":"R","note":"Engelska skolan Novia F–9: bilingual teaching with Cambridge English curriculum years 1–9.","ev":[
+ {"p":0,"q":"Genom att kombinera den svenska läroplanen med den internationellt erkända Cambridge-läroplanen i engelska från årskurs 1 till 9 skapar vi en trygg och stimulerande språkmiljö.","i":"Bilingual/English profile.","c":[["Language, international, or intercultural profile","Bilingual; Cambridge English 1–9","E"]],"cn":"School claim."}]},
+{"sid":"66475520","o":"B","why":"source inaccessible","note":"Registered Ekerö URL returns HTTP 404."},
+{"sid":"66620411","o":"R","note":"British International School of Stockholm: international school; IPC in primary.","ev":[
+ {"p":0,"q":"BISS is an all-through international school with students from over 50 countries aged 3-18 years.","i":"International school profile.","c":[["Language, international, or intercultural profile","International school; English-medium","E"]],"cn":"School claim."},
+ {"p":0,"q":"This is exactly why we use the International Primary Curriculum (IPC) – an approach that transforms traditional subjects into an interconnected journey of discovery.","i":"Thematic cross-subject curriculum in primary.","c":[["Project- or inquiry-based learning","International Primary Curriculum (IPC)","S"]],"cn":"Primary years only."}]},
+{"sid":"66634449","o":"R","note":"Vittra Jakobsberg F–9: community-anchored real-world projects and themes (provider model stated on school page); day starts outdoors, two-teacher system.","ev":[
+ {"p":0,"q":"Det innebär att vi jobbar med verklighetsnära projekt och teman som gör lärandet motiverande och relevant.","i":"Provider model stated on school page.","c":[["Project- or inquiry-based learning","Real-world projects and themes","E"]],"cn":"Consistent with Vittra Vallentuna."}]},
+{"sid":"66851849","o":"R","note":"Olovslund F–6: solution-focused pedagogy; green areas invite outdoor pedagogy (not coded).","ev":[
+ {"p":0,"q":"Vi arbetar utifrån en lösningsinriktad pedagogik","i":"Named pedagogical stance.","c":[["Support, inclusion, or wellbeing emphasis","Solution-focused pedagogy","S"]],"cn":"List of what it means not captured."}]},
+{"sid":"67662754","o":"R","note":"Vittra Telefonplan F–9: technology profile with makerspace; Vittra real-world projects.","ev":[
+ {"p":0,"q":"Hos oss kombinerar vi teknikprofil med eget makerspace och rörelseglädje genom Skol-IF.","i":"Technology profile.","c":[["Other stated profile","Technology profile; makerspace","E"]],"cn":"School claim."},
+ {"p":0,"q":"Det innebär att vi jobbar med verklighetsnära projekt och teman som gör lärandet motiverande och relevant.","i":"Provider model stated on school page.","c":[["Project- or inquiry-based learning","Real-world projects and themes","E"]],"cn":"Consistent with Vittra Vallentuna."}]},
+{"sid":"67731691","o":"R","note":"Lunaskolan Södra 4–9: resource school (Utvecklingspedagogik); daily reading at least 15 minutes.","ev":[
+ {"p":0,"q":"Lunaskolan Södra är en resursskola som erbjuder grundskola för årskurs 4–9.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"School claim."},
+ {"p":0,"q":"Det innebär att vi planerar in att eleverna läser varje dag, minst 15 minuter.","i":"Daily reading focus.","c":[["Other stated profile","Daily reading focus","E"]],"cn":"School claim."}]},
+{"sid":"67742754","o":"B","why":"permission / terms","note":"Terms review required from earlier collection; not fetched."},
+{"sid":"67743631","o":"R","note":"IES Norrtälje: bilingual school, up to half teaching in English (unit page).","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan Norrtälje är en tvåspråkig skola som ger varje elev möjligheten att nå högt ställda kunskapsmål och orientera sig i en internationell miljö, oavsett bakgrund.","i":"Bilingual profile on unit page.","c":[["Language, international, or intercultural profile","Bilingual English/Swedish","E"]],"cn":"School claim."}]},
+{"sid":"67788311","o":"N","note":"Noblaskolan Sundbyberg: results-oriented teaching, Noblakoden structure; high expectations but no distinctive approach category."},
+{"sid":"67809355","o":"R","note":"Innovitaskolan Norrtälje F–6: thematic, subject-integrated work in years 1–3; sustainability focus.","ev":[
+ {"p":1,"q":"I årskurs 1–3 arbetar vi ofta tematiskt.","i":"Thematic work in lower years.","c":[["Project- or inquiry-based learning","Thematic work years 1–3","S"]],"cn":"Frequency hedge; lower years only."}]},
+{"sid":"67926479","o":"R","note":"Lagnövallen (F–3 with preschool): 'kropp och knopp i balans' motor-development vision; vision text largely preschool-oriented.","ev":[
+ {"p":0,"q":"Att balanserat använda kropp och knopp i aktivitet och vila är vår vision och utmaning.","i":"Movement/wellbeing vision.","c":[["Support, inclusion, or wellbeing emphasis","Body-mind balance; motor development","S"]],"cn":"Shared preschool/school vision."}]},
+{"sid":"68361133","o":"B","why":"source inaccessible","note":"Registered Nynäshamn URL returns HTTP 404."},
+{"sid":"68403656","o":"R","note":"Sverigefinska Språkskolan F–9: bilingual Swedish–Finnish pedagogy.","ev":[
+ {"p":0,"q":"Vi tillämpar en pedagogik, som leder till tvåspråkighet i svenska och finska.","i":"Bilingual Swedish–Finnish profile.","c":[["Language, international, or intercultural profile","Bilingual Swedish–Finnish","E"]],"cn":"School claim."}]},
+{"sid":"68422076","o":"B","why":"school-specific source not found","note":"Registered URL is Nykvarn municipality homepage; no school page found."},
+{"sid":"68602166","o":"R","note":"Hammarbyskolan södra F–9: all staff trained in preventive inclusive learning environments.","ev":[
+ {"p":0,"q":"För en ökad trygghet i skolan har all personal genomgått en forskningsbaserad utbildning i preventiva inkluderande lärmiljöer.","i":"Inclusion emphasis via staff training.","c":[["Support, inclusion, or wellbeing emphasis","Preventive inclusive learning environments","S"]],"cn":"Training, not a named programme."}]}
+]

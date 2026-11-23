@@ -1,0 +1,72 @@
+{
+  "school_id": "37328635",
+  "school_name": "Montessori Mondial Lidingö",
+  "registered_url": "https://montessorimondial.se/lidingo/",
+  "pages": [
+    {
+      "requested_url": "https://montessorimondial.se/lidingo/",
+      "source_url": "https://montessorimondial.se/lidingo/",
+      "page_title": "Montessori Mondial Lidingö | Med nyfikenhet som drivkraft",
+      "accessed_at": "2026-10-21T17:32:43.196668+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "37328635_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/lidingo/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:09.698327+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://montessorimondial.se/lidingo/om/grundskola/",
+      "source_url": "https://montessorimondial.se/lidingo/om/grundskola/",
+      "page_title": "Skola på Lidingö | Förskoleklass-åk 9 | Montessori Mondial Lidingö",
+      "accessed_at": "2026-10-21T17:32:44.082139+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "37328635_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/lidingo/om/grundskola/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:09.698327+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://montessorimondial.se/lidingo/montessoripedagogik/",
+      "source_url": "https://montessorimondial.se/lidingo/montessoripedagogik/",
+      "page_title": "Montessoripedagogik | Montessori Mondial Lidingö",
+      "accessed_at": "2026-10-21T17:32:44.863074+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "37328635_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/lidingo/montessoripedagogik/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:09.698327+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "evidence_id": "ae_b17_29796042_01",
+    "school_id": "29796042",
+    "source_url": "https://www.esgondolen.se/tv%C3%A5spr%C3%A5kig-utbildning",
+    "page_title": "Engelska skolan Gondolen - Tvåspråkig utbildning",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Genom tvåspråkig undervisning får våra elever mycket goda kunskaper i engelska i både tal och skrift och goda förutsättningar för framtiden i en internationell värld.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Website states bilingual F–9 provision. Current schools table names this ID Engelska skolan Gondolen; ledger uses ESF Skarpnäck AB. Registered domain and Skarpnäck location match; retain historical name discrepancy. Expanded timetable and Cambridge opportunities are claims, not outcomes."
+  },
+  {
+    "evidence_id": "ae_b17_29998540_01",
+    "school_id": "29998540",
+    "source_url": "https://www.sigtuna.se/utbildning-och-barnomsorg/grundskola/grundskolor/sagaskolan/pa-sagaskolan/valkommen-till-sagaskolan.html",
+    "page_title": "Välkommen till Sagaskolan - Sigtuna kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi ligger centralt i Valsta, med närhet till fina naturområden som vi regelbundet använder i både skola och fritids.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Unclear/Low: recurring nature use stated but no concrete curricular or structured outdoor method. School versus fritids scope not separated. No firm code; requires review."
+  },
+  {
+    "evidence_id": "ae_b17_30255409_01",
+    "school_id": "30255409",
+    "source_url": "https://www.jensengrundskola.se/tungelsta",
+    "page_title": "JENSEN grundskola Tungelsta | Jensen Grundskola",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Skolan har också en tydlig hälsoprofil.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Local F–9 health-profile self-label. Provider health page supplies context, not independently verified local routines."
+  },
+  {
+    "evidence_id": "ae_b17_30270791_01",
+    "school_id": "30270791",
+    "source_url": "https://abyskolan.haninge.se/sa-har-jobbar-vi/",
+    "page_title": "Så här jobbar vi - Åbyskolan",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Att eleverna mår bra ser vi som en förutsättning för goda prestationer och ett gott lärande, vilket är en av anledningarna till varför elever erbjuds frukost.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Page updated 17 April 2023; breakfast offer alone and generic community language do not establish a distinctive approach. No firm code; scoped no-clear-evidence outcome, not absence of an approach."
+  },
+  {
+    "evidence_id": "ae_b17_30490775_01",
+    "school_id": "30490775",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/riala-skola/",
+    "page_title": "Riala skola - Barn & skola | Norrtälje kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Riala skola",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Scoped review of school and about pages: nature as opportunity, subject provision and ordinary pupil health duties insufficient. No firm code. Website F–6 versus official grades1–5 retained as unresolved discrepancy."
+  },
+  {
+    "evidence_id": "ae_b17_31018677_01",
+    "school_id": "31018677",
+    "source_url": "https://www.upplandsvasby.se/skola/vasby-skola/om-skolan",
+    "page_title": "Om skolan - Upplands Väsby kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "På Väsby skola har vi i första hand fokuserat på social hållbarhet.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Explicit local social-sustainability focus. Preceding award criteria are criteria, not separately demonstrated practices; award claim not independently verified."
+  },
+  {
+    "evidence_id": "ae_b17_31281674_01",
+    "school_id": "31281674",
+    "source_url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/nyboda-skola/profilklass---idrott.html",
+    "page_title": "Profilklass – idrott - Tyresö kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "På Nyboda skola finns idrottsprofil från årskurs 7 till 9.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Profile classes7–9 only, not all pupils. Alternating three/five sports lessons stated. Site ordinary7–9 versus official4–9 unresolved; co-located adapted unit excluded."
+  },
+  {
+    "evidence_id": "ae_b17_31528772_01",
+    "school_id": "31528772",
+    "source_url": "https://mariaskolan.nu/",
+    "page_title": "Waldorfskola i Järna - Mariaskolan - Waldorfskolan mitt i byn",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Mariaskolan är en liten trivsam, icke vinstdrivande Waldorfskola centralt i Järna, med gångavstånd till pendeltåg och busshållplatser.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Named Waldorf school F–9. Homepage retains stale lgr11 wording; no inference of current curriculum compliance. Provider pedagogy F–12 discussion not unit grades."
+  },
+  {
+    "evidence_id": "ae_b17_31528772_02",
+    "school_id": "31528772",
+    "source_url": "https://mariaskolan.nu/",
+    "page_title": "Waldorfskola i Järna - Mariaskolan - Waldorfskolan mitt i byn",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Teoretiska, praktiska och konstnärliga ämnen integreras för att hela människan skall ha möjlighet att vara aktiv i inlärnings-processen.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Explicit integrated theoretical/practical/artistic teaching self-description. Retain homepage stale curriculum caveat."
+  },
+  {
+    "evidence_id": "ae_b17_31608087_01",
+    "school_id": "31608087",
+    "source_url": "https://urfjall.se/skolan/",
+    "page_title": "Skola - Urfjälls Montessoriskola",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Montessoripedagogikens värdegrund är en medveten del av arbetet på skolan. I förskoleklass arbetar vår erfarna montessoripedagog med montessoripedagogikens material och arbetssätt.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "F–3 school: values school-wide; concrete Montessori materials/methods specifically preschool class. Do not infer methods in every grade or transfer preschool provision."
+  },
+  {
+    "evidence_id": "ae_b17_31758556_01",
+    "school_id": "31758556",
+    "source_url": "https://www.osteraker.se/subsitegrundskolor/margretelundsskolan/omskolan/trygghetsteametjunior.4.44fe6fa019e40e754cde579.html",
+    "page_title": "Trygghetsteamet junior - Österåkers kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Trygghetsteamet junior består av elever på skolan som är ute på raster för att hålla lite extra koll så att alla har det bra och att alla som vill har någon att leka med.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Named pupil peer-support routine; scheduled team meetings described. Page updated25 September2026. No named pupils or images used."
+  },
+  {
+    "evidence_id": "ae_b17_31758556_02",
+    "school_id": "31758556",
+    "source_url": "https://www.osteraker.se/subsitegrundskolor/margretelundsskolan/omskolan/lasprojekt.4.77723db318514fad1179da7.html",
+    "page_title": "Läsprojekt - Österåkers kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi har valt att döpa vårt läsprojekt till ”På väg mot 50 000” därför att forskning säger att med 50 000 ord i bagaget har man goda förutsättningar att fungera i ett demokratiskt samhälle, ta till sig information och göra sin röst hörd!",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Named sustained reading project across classrooms and fritids plus library and staff development. Page updated23 April2024, persistence not independently verified. Not inquiry-based merely because called a project."
+  },
+  {
+    "evidence_id": "ae_b17_30255409_02",
+    "school_id": "30255409",
+    "source_url": "https://www.jensengrundskola.se/att-ga-pa-jensen/halsofokus",
+    "page_title": "Att gå på JENSEN Hälsofokus | Jensen Grundskola",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi går därför på pedagogiska promenader och praktiserar mental träning. Vi ser också till att ha pulshöjande aktiviteter flera gånger per vecka och erbjuder en hälsosam kost till våra elever.",
+    "evidence_type": "Official provider public description",
+    "interpretation_note": "Provider-wide context linked from local Tungelsta page, which explicitly states health profile. Describes walks, mental training and regular pulse-raising activities; not independently verified local practice. No claim of health or academic effects endorsed."
+  }
+]

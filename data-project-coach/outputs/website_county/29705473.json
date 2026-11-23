@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "29705473",
+  "school_name": "Snösätraskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan",
+  "attempted_at": "2026-10-21T09:15:50.590794+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan",
+      "retrieved_at": "2026-10-21T09:15:52.108886+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29705473_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Skolan satsar på ditt barns läsning och har skolbibliotekarie och ett stort skolbibliotek. Vi har även slöjdlokaler, bildsal, idrottshall och musiksal.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "339b14fa5d2646448bc72e4e19e76fa7a0e4acdc6e68058fed37b13cc06f60eb",
+      "school_unit_code": "29705473",
+      "school_name": "Snösätraskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan",
+      "retrieved_at": "2026-10-21T09:15:52.108886+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,109 @@
+{
+  "school_unit_code": "52423184",
+  "school_name": "Bo skola",
+  "registered_url": "http://www.lidingo.se/boskola",
+  "attempted_at": "2026-10-21T09:22:01.347246+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bo-skola/",
+      "retrieved_at": "2026-10-21T09:22:09.734479+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.lidingo.se/boskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:05.061396+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.lidingo.se/boskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.556963+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/boskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bo-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "52423184_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bo-skola/var-pedagogik-bo-skola/",
+      "retrieved_at": "2026-10-21T09:22:09.799046+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bo-skola/var-pedagogik-bo-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "52423184_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bo-skola/fritidshem-bo-skola/",
+      "retrieved_at": "2026-10-21T09:22:09.870327+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bo-skola/fritidshem-bo-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "52423184_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "ån Grönsta friluftsområde och Kyrkviken. Här går cirka 180 elever från förskoleklass till årskurs 3. Vår verksamhet är varierad och kreativ med möjlighet till extra undervisning i musik, sång och idrott.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0ba091b2d5f4f7ced0a4a0cb04da0cc83bf547440688f47b82274898d4276df9",
+      "school_unit_code": "52423184",
+      "school_name": "Bo skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bo-skola/",
+      "retrieved_at": "2026-10-21T09:22:09.734479+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Centralt innehåll för undervisningen på fritids är språk och kommunikation, skapande och estetiska uttrycksformer, natur och samhälle samt lekar, fysisk aktivitet och utevistelse.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "2f512eca736bb9314fec7b6d04114c76361cf20adf42cade7893d7eaba664b5d",
+      "school_unit_code": "52423184",
+      "school_name": "Bo skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bo-skola/fritidshem-bo-skola/",
+      "retrieved_at": "2026-10-21T09:22:09.870327+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

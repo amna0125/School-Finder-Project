@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "76222592",
+  "school_name": "Innovitaskolan Rönninge",
+  "registered_url": "https://innovitaskolan.se/ronninge/",
+  "attempted_at": "2026-10-21T09:17:05.992328+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://innovitaskolan.se/ronninge/",
+      "retrieved_at": "2026-10-21T09:17:09.846287+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/ronninge/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "76222592_0.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/ronninge/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:17:09.866688+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/ronninge/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "76222592_1.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/ronninge/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:09.885792+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/ronninge/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "76222592_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

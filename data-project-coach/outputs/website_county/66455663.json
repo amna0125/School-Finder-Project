@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "66455663",
+  "school_name": "Engelska skolan Novia",
+  "registered_url": "https://www.engelskaskolannovia.se",
+  "attempted_at": "2026-10-21T09:16:46.292598+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.engelskaskolannovia.se",
+      "retrieved_at": "2026-10-21T09:16:50.668629+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.engelskaskolannovia.se",
+          "robots_url": "https://www.engelskaskolannovia.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:16:47.399213+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "66455663_0.txt"
+    },
+    {
+      "source_url": "https://www.engelskaskolannovia.se/om-oss",
+      "retrieved_at": "2026-10-21T09:16:50.698019+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.engelskaskolannovia.se/om-oss",
+          "robots_url": "https://www.engelskaskolannovia.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:16:47.399213+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "66455663_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Engelska skolan Novia erbjuder elever i förskoleklass till år 9 en tvåspråkig utbildning av hög kvalitet i små klasser. Vår pedagogik präglas av ett hållbart arbetssätt där vi arbetar för att hjälpa varje elev att förverkliga sin fulla potential både akademiskt och som människa. Det är vår gåva till dem. Och när de bär det vidare i sina framtida liv, blir det deras gåva till oss.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "458c0dd522641cf2b18996ce064d51d5047c73154ebba59707a5a1a66e7bc229",
+      "school_unit_code": "66455663",
+      "school_name": "Engelska skolan Novia",
+      "source_url": "https://www.engelskaskolannovia.se",
+      "retrieved_at": "2026-10-21T09:16:50.668629+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Engelska skolan Novia - tvåspråkig utbildning och engagerade pedagoger",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "32ee9fb39338ff7860f2b496fdb7e9318796b0301a6a4637f78c45dc1aabb6e6",
+      "school_unit_code": "66455663",
+      "school_name": "Engelska skolan Novia",
+      "source_url": "https://www.engelskaskolannovia.se/om-oss",
+      "retrieved_at": "2026-10-21T09:16:50.698019+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.engelskaskolannovia.se/om-oss/elevhälsoteam",
+      "error": "'ascii' codec can't encode character '\\xe4' in position 17: ordinal not in range(128)"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "school_id": "33951941",
+  "school_name": "Råsunda centralskola",
+  "registered_url": "www.solna.se",
+  "pages": [],
+  "errors": [
+    {
+      "url": "www.solna.se",
+      "error": "Unsafe URL",
+      "attempted_at": "2026-10-21T17:32:08.858523+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

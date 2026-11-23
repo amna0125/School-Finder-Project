@@ -1,0 +1,105 @@
+{
+  "school_unit_code": "10311303",
+  "school_name": "Lilla Kulturama",
+  "registered_url": "http://www.kulturama.se",
+  "attempted_at": "2026-10-21T09:19:50.874801+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kulturama.se/",
+      "retrieved_at": "2026-10-21T09:20:00.237566+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.kulturama.se",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:53.060712+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.kulturama.se/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.690431+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10311303_0.txt"
+    },
+    {
+      "source_url": "https://www.kulturama.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:20:00.324673+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kulturama.se/grundskola/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.690431+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10311303_1.txt"
+    },
+    {
+      "source_url": "https://www.kulturama.se/grundskola/ansokan/",
+      "retrieved_at": "2026-10-21T09:20:00.420103+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kulturama.se/grundskola/ansokan/",
+          "robots_url": "https://www.kulturama.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.690431+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10311303_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Våra högskoleförberedande program öppnar dörrar till många olika framtider. I din klass finns framtida författare, konstnärer, musiker, sjuksköterskor och ingenjörer.Läs mer",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a2e3780ebb911b15f73ddccfad9f13c4def052cfa1b1431cc68006383e4d06c2",
+      "school_unit_code": "10311303",
+      "school_name": "Lilla Kulturama",
+      "source_url": "https://www.kulturama.se/",
+      "retrieved_at": "2026-10-21T09:20:00.237566+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "g i Stockholm och välkomnar barn med estetiskt intresse i årskurs 4-9. Hos oss får eleverna en kvalitativ utbildning samtidigt som de utforskar skapandet och fördjupar sig i bild, musik, sång, teater och dans. Vi är en estetisk grundskola med övertygelsen om att kreativt arbete ger välmående elever med en bredd av verktyg som kan användas framgångsrikt i alla skolämnen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "94e857e49a32be31f41d8498b2def45fbded169b9cf509edddfaf28de3ac88c1",
+      "school_unit_code": "10311303",
+      "school_name": "Lilla Kulturama",
+      "source_url": "https://www.kulturama.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:20:00.324673+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Kulturama har två grundskolor i Stockholms län: Kulturama Grundskola Sundbyberg åk 4-9 och Kulturama Grundskola Hammarby Sjöstad åk 4-9. Hos oss finns inriktningarna Bild & form, Musik & sång samt Musikal.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "7759d8a15bc9dbe2902a823e534234607ae8d16b2053e9b7fd7532f22df7fa01",
+      "school_unit_code": "10311303",
+      "school_name": "Lilla Kulturama",
+      "source_url": "https://www.kulturama.se/grundskola/ansokan/",
+      "retrieved_at": "2026-10-21T09:20:00.420103+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

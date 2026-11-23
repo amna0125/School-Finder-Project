@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "46646143",
+  "school_name": "Innovitaskolan Joriel",
+  "registered_url": "https://innovitaskolan.se/joriel/",
+  "attempted_at": "2026-10-21T09:16:18.999088+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://innovitaskolan.se/joriel/",
+      "retrieved_at": "2026-10-21T09:16:22.592356+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/joriel/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46646143_0.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/joriel/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:22.609577+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/joriel/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46646143_1.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/joriel/om/profil/",
+      "retrieved_at": "2026-10-21T09:16:22.642863+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/joriel/om/profil/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46646143_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

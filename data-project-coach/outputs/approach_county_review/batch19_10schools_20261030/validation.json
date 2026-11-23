@@ -1,0 +1,10 @@
+{
+  "schema_valid": true,
+  "exact_quote_matches": 12,
+  "quote_match_scope": "Own saved page normalized by HTMLParser, not another page.",
+  "evidence": 12,
+  "codes": 4,
+  "schools": 10,
+  "validated_at": "2026-10-30T09:45:48.073163+00:00",
+  "source_access_date_basis": "Recorded public fetches on2026-10-30, not page-update/load dates."
+}

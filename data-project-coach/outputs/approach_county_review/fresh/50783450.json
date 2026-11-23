@@ -1,0 +1,22 @@
+{
+  "school_id": "50783450",
+  "school_name": "Vistaskolan",
+  "registered_url": "http://www.huddinge.se/vistaskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.huddinge.se/vistaskolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:36:50.778966+00:00"
+    },
+    {
+      "url": "https://www.huddinge.se/vistaskolan/om-skolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:36:51.971943+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

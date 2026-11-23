@@ -1,0 +1,45 @@
+[
+{"sid":"80612612","o":"R","note":"Kristineberg F–6: Reggio Emilia-inspired; Skolverket award 'Skola för hållbar utveckling'; movement emphasis.","ev":[
+ {"p":0,"q":"Kristinebergsskolan inspireras av Reggio Emilia filosofin.","i":"Reggio Emilia-inspired.","c":[["Alternative pedagogy","Reggio Emilia-inspired","S"]],"cn":"'Inspired' rather than full model."},
+ {"p":0,"q":"Kristinebergsskolan har fått Skolverkets utmärkelse ”Skola för hållbar utveckling”' för framgångsrikt arbete med lärande för hållbar utveckling.","i":"Sustainability profile with national award.","c":[["Other stated profile","Skola för hållbar utveckling (award)","E"]],"cn":"Award not independently checked."}]},
+{"sid":"80731562","o":"R","note":"JENSEN Kvarnsjön F–9: health profile; traditional teacher-led profile with handwriting emphasis. Other JENSEN units' pages excluded.","ev":[
+ {"p":0,"q":"Vår skola präglas av studier i fokus, trygghet och studiero. Skolan har också en tydlig hälsoprofil.","i":"Stated health profile.","c":[["Support, inclusion, or wellbeing emphasis","Health profile","E"]],"cn":"Cf. JENSEN Långholmen."},
+ {"p":0,"q":"Vi är en traditionell skola fri från trender.","i":"Traditional teacher-led profile.","c":[["Other stated profile","Traditional teacher-led; handwriting emphasis","E"]],"cn":"Cf. JENSEN Långholmen."}]},
+{"sid":"80746043","o":"R","note":"Ribbyberg F–6: early reading with Bornholmsmodellen.","ev":[
+ {"p":3,"q":"Vi arbetar med tidig läsutveckling och språklig medvetenhet, där bland annat Bornholmsmodellen används.","i":"Named early-literacy method.","c":[["Other stated profile","Bornholmsmodellen","E"]],"cn":"Per precedent."}]},
+{"sid":"80752058","o":"R","note":"JENSEN Steninge F–9 (opened HT 2026): traditional teacher-led profile, handwriting, personal coach. Other JENSEN units' pages excluded.","ev":[
+ {"p":0,"q":"Vi är en traditionell skola fri från trender.","i":"Traditional teacher-led profile.","c":[["Other stated profile","Traditional teacher-led; handwriting emphasis","E"]],"cn":"Cf. JENSEN Långholmen."}]},
+{"sid":"81021363","o":"N","note":"Herresta F–6: environmentally certified building; thin page."},
+{"sid":"81266343","o":"R","note":"Kunskapsskolan Tyresö 6–9: personalised education with personal tutor.","ev":[
+ {"p":0,"q":"Därför har vi skapat en utbildning som är personligt utformad.","i":"Provider model stated on school page: personalised education.","c":[["Other stated profile","Personalised learning (Kunskapsskolan model)","E"]],"cn":"Consistent with other Kunskapsskolan units."}]},
+{"sid":"81396509","o":"R","note":"Innovitaskolan Banérporten F–6: half-class teaching most of the day in lower years; daily silent reading F–3.","ev":[
+ {"p":1,"q":"I våra lägre årskurser undervisas barnen i halvklass större delen av dagen.","i":"Organisational feature supporting literacy.","c":[["Other stated profile","Half-class teaching in lower years","S"]],"cn":"Organisational feature."}]},
+{"sid":"81453817","o":"R","note":"Lärande Grundskola Magneten: Lärandemodellen integrated assignments (provider page); Magneten listed among the provider's schools on its homepage.","ev":[
+ {"p":1,"q":"Därför arbetar vi med ämnesövergripande uppdrag där eleverna tillsammans med lärarna aktivt söker kunskap och där det alltid finns en mottagare för det eleverna gör.","i":"Year-round cross-subject assignments with real recipients.","t":"Provider webpage","c":[["Project- or inquiry-based learning","Lärandemodellen cross-subject assignments","S"]],"cn":"Provider-level; consistent with earlier Lärande coding (Supported)."}]},
+{"sid":"81611939","o":"N","note":"Grindstu F–3: generic Huddinge text."},
+{"sid":"81680693","o":"N","note":"HagaLyckeby F–9: vision and values; generic."},
+{"sid":"81857869","o":"R","note":"Skärsätra F–6 (Lidingö): approach based mainly on Universal Design for Learning; extension lessons in maths and English; choir, dance, art exhibitions.","ev":[
+ {"p":0,"q":"Vårt arbetssätt baseras på relevant forskning, i huvudsak Universal Design for Learning (UDL), som ger oss kunskap och verktyg att vara trygga och tydliga ledare.","i":"Named inclusive-design framework.","c":[["Support, inclusion, or wellbeing emphasis","Universal Design for Learning","S"]],"cn":"Framework named; practice detail limited."}]},
+{"sid":"81903519","o":"R","note":"Långsjö F–3: PAX for calm and positive relationships; nature reserve nearby.","ev":[
+ {"p":1,"q":"Genom PAX arbetar vi för att skapa studiero, trygghet och positiva relationer.","i":"Named programme.","c":[["Support, inclusion, or wellbeing emphasis","PAX","E"]],"cn":"Per precedent for named programmes."}]},
+{"sid":"82047013","o":"N","note":"Älta skola: landing page with notices only."},
+{"sid":"82075850","o":"N","note":"Skarpatorp F–9: continuity F–9, varied teaching; generic."},
+{"sid":"82110758","o":"R","note":"Hagsätra F–9: special teaching groups; values work with MVP and Agera.","ev":[
+ {"p":0,"q":"Vi arbetar också aktivt med värdegrundsfrågor utifrån olika modeller som Mentorer i våldsprevention och Agera.","i":"Named prevention models.","c":[["Support, inclusion, or wellbeing emphasis","MVP and Agera; special teaching groups","S"]],"cn":"City-wide models."}]},
+{"sid":"82137009","o":"B","why":"source inaccessible","note":"Registered Södertälje URL returns HTTP 404."},
+{"sid":"82212978","o":"R","note":"Stockholms Montessoriskola Färgargårdstorget F–3: Montessori, age-mixed; nature studies and creative work.","ev":[
+ {"p":0,"q":"Montessoripedagogik där även fritidshemmets verksamhet genomsyras av denna pedagogik.","i":"Montessori pedagogy including fritids.","c":[["Alternative pedagogy","Montessori","E"]],"cn":"Provider site names this unit (F–3)."}]},
+{"sid":"82408375","o":"R","note":"Montessori Mondial Kista F–6: Montessori, age-mixed groups.","ev":[
+ {"p":0,"q":"På Montessori Mondial Kista arbetar vi efter montessoripedagogiken.","i":"Montessori.","c":[["Alternative pedagogy","Montessori","E"]],"cn":"School claim."}]},
+{"sid":"82624830","o":"B","why":"school-specific source not found","note":"Registered URL is Österåker municipality homepage; no school page found."},
+{"sid":"82757734","o":"R","note":"Lundskolan F–6 (Järfälla): nature-near location used for outdoor teaching in several subjects; environmental certification; culture integrated.","ev":[
+ {"p":1,"q":"Lundskolans naturnära läge ger oss fina möjligheter att bedriva undervisning i olika ämnen utomhus, särskilt gynnas natur- och miljöundervisningen.","i":"Outdoor teaching opportunities.","c":[["Outdoor, nature, or place-based learning","Outdoor teaching across subjects","S"]],"cn":"Framed as opportunity; frequency not stated."}]},
+{"sid":"82838118","o":"N","note":"Alla Nationers Fria Skola: multicultural, small, emphasis on Swedish and maths; generic."},
+{"sid":"82854505","o":"R","note":"Martinskolan (Söders waldorfskola) F–9: Waldorf pedagogy with block (period) teaching and arts/crafts.","ev":[
+ {"p":1,"q":"Skolan har en waldorfpedagogisk inriktning med starkt fokus på en bred bildning utifrån waldorfskolans kompletterande läroplan ”En väg till frihet”.","i":"Waldorf.","c":[["Alternative pedagogy","Waldorf","E"]],"cn":"School claim."}]},
+{"sid":"82962565","o":"R","note":"Hörningsnäs F–3: 'children do well if they can' stance.","ev":[
+ {"p":1,"q":"På Hörningsnässkolan bygger vårt arbete på övertygelsen att barn gör rätt om de kan.","i":"Shared supportive stance.","c":[["Support, inclusion, or wellbeing emphasis","Barn gör rätt om de kan stance","S"]],"cn":"Cf. Bergfoten."}]},
+{"sid":"82982309","o":"U","why":"provider-level source only","note":"IES Kista: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"83020784","o":"B","why":"school-specific source not found","note":"Registered URL is Tyresö municipality homepage; no school page found."}
+]

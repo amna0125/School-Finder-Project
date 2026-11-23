@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "46206050",
+  "school_name": "Vittra Vallentuna",
+  "registered_url": "http://www.vittra.se/vallentuna",
+  "attempted_at": "2026-10-21T09:21:43.102690+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vittra.se/vallentuna/",
+      "retrieved_at": "2026-10-21T09:21:47.185616+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vittra.se/vallentuna",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.345093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vittra.se/vallentuna",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:03.914768+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vittra.se/vallentuna/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46206050_0.txt"
+    },
+    {
+      "source_url": "https://vittra.se/vallentuna/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:21:47.215188+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/vallentuna/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46206050_1.txt"
+    },
+    {
+      "source_url": "https://vittra.se/vallentuna/artikel/pedagoger/",
+      "retrieved_at": "2026-10-21T09:21:47.239107+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/vallentuna/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46206050_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "FN-dagen skapar stolthet hos Vittra Rösjötorps elever Vittra Rösjötorp International i Sollentuna är en tvåspråkig förskola och skola med både engelska och svenska. Här går barn och elever som inte har svenska som förstaspråk tillsammans med de som valt Vittra Rösjötorp för möjligheten att tidigt lära sig engelska. FN-dagen som i år firas torsdagen den...",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "487360feab330d73204e1614f719a3f0c008e6bec14f704a1646b675ffd941d4",
+      "school_unit_code": "46206050",
+      "school_name": "Vittra Vallentuna",
+      "source_url": "https://vittra.se/vallentuna/",
+      "retrieved_at": "2026-10-21T09:21:47.185616+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

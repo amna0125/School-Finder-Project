@@ -1,0 +1,72 @@
+{
+  "school_id": "98239828",
+  "school_name": "Ekebyholmsskolan AB",
+  "registered_url": "http://www.ekebyholm.se",
+  "pages": [
+    {
+      "requested_url": "https://www.ekebyholm.se/",
+      "source_url": "https://www.ekebyholm.se/",
+      "page_title": "Ekebyholm – en skola för alla",
+      "accessed_at": "2026-10-21T17:45:35.283951+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "98239828_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.ekebyholm.se/",
+          "robots_url": "https://www.ekebyholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:34.486536+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.ekebyholm.se/om-oss/",
+      "source_url": "https://www.ekebyholm.se/om-oss/",
+      "page_title": "Om oss | Ekebyholm",
+      "accessed_at": "2026-10-21T17:45:36.071350+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "98239828_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.ekebyholm.se/om-oss/",
+          "robots_url": "https://www.ekebyholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:34.486536+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.ekebyholm.se/om-oss/var-historia/",
+      "source_url": "https://www.ekebyholm.se/om-oss/var-historia/",
+      "page_title": "Vår historia | Ekebyholm",
+      "accessed_at": "2026-10-21T17:45:36.845437+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "98239828_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.ekebyholm.se/om-oss/var-historia/",
+          "robots_url": "https://www.ekebyholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:34.486536+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

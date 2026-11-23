@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "55512387",
+  "school_name": "Breddenskolan",
+  "registered_url": "http://www.upplandsvasby.se/breddenskolan",
+  "attempted_at": "2026-10-21T09:16:33.721994+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.upplandsvasby.se/breddenskolan",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

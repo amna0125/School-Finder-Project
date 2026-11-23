@@ -1,0 +1,69 @@
+{
+  "school_id": "10715898",
+  "school_name": "Akers Friskola",
+  "registered_url": "http://www.akersfriskola.se",
+  "pages": [
+    {
+      "requested_url": "https://www.akersfriskola.se/",
+      "source_url": "https://www.akersfriskola.se/",
+      "page_title": "Startsida",
+      "accessed_at": "2026-10-21T17:26:29.771420+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10715898_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.akersfriskola.se/",
+          "robots_url": "https://www.akersfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:26:28.816787+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.akersfriskola.se/om-oss",
+      "source_url": "https://www.akersfriskola.se/om-oss",
+      "page_title": "Om oss",
+      "accessed_at": "2026-10-21T17:26:30.805338+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10715898_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.akersfriskola.se/om-oss",
+          "robots_url": "https://www.akersfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:26:28.816787+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.akersfriskola.se/om-oss/akers-friskola",
+      "source_url": "https://www.akersfriskola.se/om-oss/akers-friskola",
+      "page_title": "Akers Friskola",
+      "accessed_at": "2026-10-21T17:26:31.814172+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "10715898_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.akersfriskola.se/om-oss/akers-friskola",
+          "robots_url": "https://www.akersfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:26:28.816787+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

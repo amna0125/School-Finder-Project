@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "39923451",
+  "school_name": "SverigefinskaSkolan i Kista",
+  "registered_url": "http://www.sverigefinskaskolanikista.se",
+  "attempted_at": "2026-10-21T09:16:02.075929+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.sverigefinskaskolanikista.se/sverigefinskaskolanikista/",
+      "retrieved_at": "2026-10-21T09:16:06.107747+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sverigefinskaskolanikista.se",
+          "robots_url": "http://www.sverigefinskaskolanikista.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:16:02.988224+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.sverigefinskaskolanikista.se/sverigefinskaskolanikista",
+          "robots_url": "https://www.sverigefinskaskolanikista.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:16:04.561341+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.sverigefinskaskolanikista.se/sverigefinskaskolanikista/",
+          "robots_url": "https://www.sverigefinskaskolanikista.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:16:04.561341+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "39923451_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

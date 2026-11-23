@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "11364996",
+  "school_name": "Lemshaga Akademi",
+  "registered_url": "http://www.lemshaga.se",
+  "attempted_at": "2026-10-21T09:15:17.352219+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.lemshaga.se/",
+      "retrieved_at": "2026-10-21T09:15:23.426203+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.lemshaga.se",
+          "robots_url": "http://www.lemshaga.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.422641+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.lemshaga.se/",
+          "robots_url": "https://www.lemshaga.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:20.147007+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11364996_0.txt"
+    },
+    {
+      "source_url": "https://www.lemshaga.se/index.php/lokala-pedagogiska-planeringar/",
+      "retrieved_at": "2026-10-21T09:15:23.457887+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lemshaga.se/index.php/lokala-pedagogiska-planeringar/",
+          "robots_url": "https://www.lemshaga.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:20.147007+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11364996_1.txt"
+    },
+    {
+      "source_url": "https://www.lemshaga.se/index.php/om-skolan/",
+      "retrieved_at": "2026-10-21T09:15:23.493863+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lemshaga.se/index.php/om-skolan/",
+          "robots_url": "https://www.lemshaga.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:20.147007+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11364996_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

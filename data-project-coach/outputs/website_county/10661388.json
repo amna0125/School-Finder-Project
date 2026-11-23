@@ -1,0 +1,98 @@
+{
+  "school_unit_code": "10661388",
+  "school_name": "Örjanskolan grund",
+  "registered_url": "http://www.orjanskolan.se",
+  "attempted_at": "2026-10-21T09:19:50.876448+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://orjanskolan.se/",
+      "retrieved_at": "2026-10-21T09:19:59.726480+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.orjanskolan.se",
+          "robots_url": "https://orjanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:53.913573+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.orjanskolan.se/",
+          "robots_url": "https://orjanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:56.376225+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://orjanskolan.se/",
+          "robots_url": "https://orjanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:58.089280+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10661388_0.txt"
+    },
+    {
+      "source_url": "https://orjanskolan.se/grundskola",
+      "retrieved_at": "2026-10-21T09:19:59.739767+00:00",
+      "robots_checks": [
+        {
+          "url": "https://orjanskolan.se/grundskola",
+          "robots_url": "https://orjanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:58.089280+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10661388_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "waldorf",
+      "supporting_excerpt": "Välkommen till Örjanskolan, en Waldorfskola i Järna. Vi erbjuder grundskola, fritidshem och gymnasium på samma plats, från F-klass till klass 12.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "15474eac61890e221813ecc6b1d88716a0f945fb040bc65abd5bba0ea3705dd2",
+      "school_unit_code": "10661388",
+      "school_name": "Örjanskolan grund",
+      "source_url": "https://orjanskolan.se/",
+      "retrieved_at": "2026-10-21T09:19:59.726480+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "- Teoretiska, praktiska och konstnärliga ämnen vävs samman och är lika viktiga.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "31a6808709806e747592cb5601c41ac5db004eee1ece3c17eb1cd4c8d2ddd790",
+      "school_unit_code": "10661388",
+      "school_name": "Örjanskolan grund",
+      "source_url": "https://orjanskolan.se/grundskola",
+      "retrieved_at": "2026-10-21T09:19:59.739767+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "waldorf",
+      "supporting_excerpt": "Örjanskolan i Järna är en Waldorfskola som rymmer grundskola, fritidshem och gymnasium. På Örjanskolan finns undervisning från förskoleklass upp till årskurs 12, med en klass i varje årskurs. En klass består vanligtvis av 20–25 elever och de organiserade intagningarna sker till förskoleklass, klass 1 och klass 7. Det är dock alltid möjligt att ställa sitt barn i kö till skolan.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "51541bab945306b5a979b1d04d7fdf4a0f8d7053db306c0600ad75c895154193",
+      "school_unit_code": "10661388",
+      "school_name": "Örjanskolan grund",
+      "source_url": "https://orjanskolan.se/grundskola",
+      "retrieved_at": "2026-10-21T09:19:59.739767+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

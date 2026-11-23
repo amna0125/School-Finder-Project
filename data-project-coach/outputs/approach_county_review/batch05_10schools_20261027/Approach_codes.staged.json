@@ -1,0 +1,101 @@
+[
+  {
+    "code_id": "ac_b05_15339442_01",
+    "school_id": "15339442",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "PIK movement/health profile and Olweus context",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b05_15339442_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Runbackaskolan F–9, stored grades 1–9. Current official-school pages replace registered soft-404 URL; fresh official record matches school name, municipality and grades. Named health profile, PIK and Pep self-description. Olweus on unit about page and linked programme page provides additional wellbeing context; certification/claimed effects not independently verified. Exclude Fenix subgroup from schoolwide resource inference. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b05_15339442_02",
+    "school_id": "15339442",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "International school exchanges; participant years unspecified",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b05_15339442_02",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. F–9 school self-description of exchanges; participating years, pupils, frequency and countries unspecified. Do not infer all pupils participate, bilingual teaching or international curriculum. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b05_15483394_01",
+    "school_id": "15483394",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "IBIS structured wellbeing and study environment",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b05_15483394_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. School-specific section, Segeltorpsskolan 4–9 matches official grades; no claims extended to other Segeltorp schools. Named IBIS method in unit context, not municipality-wide statutory wording alone. Acronym not expanded without source. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b05_15547680_01",
+    "school_id": "15547680",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Cross-subject environmental/sustainability learning",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b05_15547680_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Vibyskolan F–9 Sollentuna, Kornettvägen 44; stored official name Vibyskolan versus directory legal-name variant retained. Sustained environmental education supported by concrete garden/ecological cultivation and school environmental group on same page. Coding covers structured environmental learning, not regular outdoor lessons; year participation/frequency unspecified. Award and future compost/solar plans not verified/current implementation. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b05_15594566_01",
+    "school_id": "15594566",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Peer-supporter wellbeing work",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b05_15594566_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Äppelviksskolan 7–9, school-specific detailed peer-support practice under trygg skola, plus peer supporters organising activities. Supported interpretation of wellbeing emphasis. 44 is self-reported at access date, not verified official resource metric; survey/results and class-size claims not imported or treated as effectiveness evidence. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b05_15620768_01",
+    "school_id": "15620768",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Stated outdoor pedagogy",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b05_15620768_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Eklidsskolan F–5, Nibblevägen 9 Tullinge matches fresh official ID and grades 1–5; registered short URL 404, current official page used. Explicit outdoor pedagogy emphasis; delivery frequency unspecified. Nearby nature alone would not establish code. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b05_15620768_02",
+    "school_id": "15620768",
+    "category": "Other stated profile",
+    "subcategory": "Cooperative learning",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b05_15620768_02",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Named cooperative learning in unit Vår inriktning section. Other stated profile, not alternative named Montessori/Waldorf or inquiry/project pedagogy. Municipality-wide language/maths/breakfast wording and navigation references to other schools excluded. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b05_16061350_01",
+    "school_id": "16061350",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori-inspired",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b05_16061350_01",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. Långbro Park school page, Stora Mans Väg 11B; website F–9 teaching and stored official grades 1–9. Preserve inspired qualifier; do not describe as certified/full-fidelity Montessori. Exclude Matrix preschools and old .com search result not used. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b05_16061350_02",
+    "school_id": "16061350",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "NTA experimental inquiry themes, F–9",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b05_16061350_02",
+    "coder_note": "Assistant contextual review; codebook v1; 2026-10-27. School explicitly states NTA themes F–9 on same page; recurring 8–10-week pupil-question/experimental themes support inquiry-based category without school self-label inquiry. Not a claim of whole-curriculum project teaching. Digital multilingual book provision alone insufficient international/language profile. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

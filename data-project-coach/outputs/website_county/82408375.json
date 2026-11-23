@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "82408375",
+  "school_name": "Montessori Mondial Kista",
+  "registered_url": "https://montessorimondial.se/kista/",
+  "attempted_at": "2026-10-21T09:17:13.849885+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://montessorimondial.se/kista/",
+      "retrieved_at": "2026-10-21T09:17:16.903870+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kista/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "82408375_0.txt"
+    },
+    {
+      "source_url": "https://montessorimondial.se/kista/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:17:16.951644+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kista/om/grundskola/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "82408375_1.txt"
+    },
+    {
+      "source_url": "https://montessorimondial.se/kista/montessoripedagogik/",
+      "retrieved_at": "2026-10-21T09:17:16.982811+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kista/montessoripedagogik/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "82408375_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

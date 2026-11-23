@@ -1,0 +1,32 @@
+{
+  "school_id": "69088221",
+  "school_name": "Skolhagenskolan",
+  "registered_url": "http://www.taby.se/skolhagenskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.taby.se/skolhagenskolan",
+      "source_url": "https://www.taby.se/skolhagenskolan",
+      "page_title": "Skolhagenskolan | Täby kommun",
+      "accessed_at": "2026-10-21T17:39:51.765164+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "69088221_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.taby.se/skolhagenskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:09.873415+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

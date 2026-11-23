@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "38394561",
+  "school_name": "Södertälje friskola",
+  "registered_url": "https://www.sodertaljefriskola.se",
+  "attempted_at": "2026-10-21T09:16:01.688702+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.sodertaljefriskola.se",
+      "retrieved_at": "2026-10-21T09:16:03.361795+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.sodertaljefriskola.se",
+          "robots_url": "https://www.sodertaljefriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:02.517032+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "38394561_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Södertälje friskola har språkprofil. Du märker det genom att vi har ökat ut undervisningstiden i svenska och engelska. Språket är nyckeln till all form av inlärning och därför lägger vi stor vikt på elevernas språkutveckling.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d32940ced03e00a1bcbd220edec1e6909cbd71654be77cd6c37f9a72882f3ea3",
+      "school_unit_code": "38394561",
+      "school_name": "Södertälje friskola",
+      "source_url": "https://www.sodertaljefriskola.se",
+      "retrieved_at": "2026-10-21T09:16:03.361795+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

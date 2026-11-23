@@ -1,0 +1,1 @@
+{"robots_url": "https://sverigefinskaskolan.com/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:22:21.458594+00:00", "state": "parsed", "crawl_delay": 0, "body": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://sverigefinskaskolan.com/wp-sitemap.xml\n"}

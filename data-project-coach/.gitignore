@@ -1,0 +1,7 @@
+.venv/
+.state/
+.dlt/secrets.toml
+.env
+__pycache__/
+*.pyc
+outputs/runs/

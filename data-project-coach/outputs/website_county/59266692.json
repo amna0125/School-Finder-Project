@@ -1,0 +1,101 @@
+{
+  "school_unit_code": "59266692",
+  "school_name": "Vittra Rösjötorp",
+  "registered_url": "http://www.vittra.se/rosjotorp",
+  "attempted_at": "2026-10-21T09:22:20.694880+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vittra.se/rosjotorp/",
+      "retrieved_at": "2026-10-21T09:22:24.729347+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vittra.se/rosjotorp",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.345093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vittra.se/rosjotorp",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:03.914768+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vittra.se/rosjotorp/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "59266692_0.txt"
+    },
+    {
+      "source_url": "https://vittra.se/rosjotorp/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:24.758077+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/rosjotorp/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "59266692_1.txt"
+    },
+    {
+      "source_url": "https://vittra.se/rosjotorp/artikel/pedagoger/",
+      "retrieved_at": "2026-10-21T09:22:24.777730+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/rosjotorp/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "59266692_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Vittra Rösjötorp är en förskola och skola i Kärrdal, Sollentuna. Hos oss går barn och elever från förskolan till årskurs 6. Vittra Rösjötorps tvåspråkiga inriktning gör att ditt barn får med sig engelskan redan från tidig ålder. Eftersom vi ligger i ett naturreservat arbetar vi nära naturen, med ute-klassrum och i samarbete med Naturskolan. Vi undervisar över årskurserna vilket gör att eleverna lär känna varandra, och att vi ser alla våra elever.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "b2be48ec3e770fb1957188bb4dcd10200fc49d7b46674e6093feeeb57a721d2b",
+      "school_unit_code": "59266692",
+      "school_name": "Vittra Rösjötorp",
+      "source_url": "https://vittra.se/rosjotorp/",
+      "retrieved_at": "2026-10-21T09:22:24.729347+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Under dagen varvas teoretiska ämnen med praktiska som idrott, musik eller bild. Vi arbetar nära naturen, har utomhuslektioner och arbetar ofta med teman som knyter an till omvärlden. Varje dag har eleverna två raster.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "72048fe64ace58d375a2c721ae56a2ee054889655aa240c54d86d5b3943007a7",
+      "school_unit_code": "59266692",
+      "school_name": "Vittra Rösjötorp",
+      "source_url": "https://vittra.se/rosjotorp/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:24.758077+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

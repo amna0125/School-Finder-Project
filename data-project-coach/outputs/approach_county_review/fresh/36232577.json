@@ -1,0 +1,52 @@
+{
+  "school_id": "36232577",
+  "school_name": "Bromma Enskilda Skola",
+  "registered_url": "http://www.brommaenskilda.se",
+  "pages": [
+    {
+      "requested_url": "https://brommaenskilda.se/",
+      "source_url": "https://brommaenskilda.se/",
+      "page_title": "Bromma Enskilda Skola - BES",
+      "accessed_at": "2026-10-21T17:32:26.108698+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "36232577_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://brommaenskilda.se/",
+          "robots_url": "https://brommaenskilda.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:25.155945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://brommaenskilda.se/pedagogisk-rod-trad/",
+      "source_url": "https://brommaenskilda.se/pedagogisk-rod-trad/",
+      "page_title": "Pedagogisk röd tråd - Bromma Enskilda Skola",
+      "accessed_at": "2026-10-21T17:32:27.036846+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "36232577_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://brommaenskilda.se/pedagogisk-rod-trad/",
+          "robots_url": "https://brommaenskilda.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:25.155945+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

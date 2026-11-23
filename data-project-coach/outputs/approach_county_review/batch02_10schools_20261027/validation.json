@@ -1,0 +1,24 @@
+{
+  "status": "Passed artifact assertions",
+  "schools": 10,
+  "evidence_rows": 4,
+  "code_rows": 4,
+  "schools_with_codes": 4,
+  "scoped_no_clear_evidence": 4,
+  "requires_review": 2,
+  "ledger_rows": 762,
+  "prior_nonbatch_ledger_rows_unchanged": 752,
+  "exact_quotes_checked_against_saved_html": true,
+  "checks": [
+    "Unique school/evidence/code IDs",
+    "Official-directory membership",
+    "Code/evidence school agreement",
+    "Allowed category/level/confidence/status",
+    "Four exact quotation matches",
+    "Ten outcomes",
+    "Prior nonbatch ledger rows unchanged",
+    "Next selection disjoint"
+  ],
+  "database_validation": "Not performed; read-only quick_check raised disk I/O error",
+  "database_writes": false
+}

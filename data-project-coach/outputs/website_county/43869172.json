@@ -1,0 +1,66 @@
+{
+  "school_unit_code": "43869172",
+  "school_name": "Fredsborgskolan",
+  "registered_url": "http://www.fredsborgskolan.se",
+  "attempted_at": "2026-10-21T09:16:12.429257+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.fredsborgskolan.se/",
+      "retrieved_at": "2026-10-21T09:16:17.190172+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.fredsborgskolan.se",
+          "robots_url": "http://www.fredsborgskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:13.240689+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.fredsborgskolan.se/",
+          "robots_url": "https://www.fredsborgskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.194082+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "43869172_0.txt"
+    },
+    {
+      "source_url": "https://www.fredsborgskolan.se/om-skolan/",
+      "retrieved_at": "2026-10-21T09:16:17.214140+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.fredsborgskolan.se/om-skolan/",
+          "robots_url": "https://www.fredsborgskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.194082+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "43869172_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Hur ser det ut med modersmålsundervisning då mitt barn är tvåspråkigt?",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d9d280b90190fcb9971a35e17b98891fa01393093e8363e01d0474136a702725",
+      "school_unit_code": "43869172",
+      "school_name": "Fredsborgskolan",
+      "source_url": "https://www.fredsborgskolan.se/om-skolan/",
+      "retrieved_at": "2026-10-21T09:16:17.214140+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

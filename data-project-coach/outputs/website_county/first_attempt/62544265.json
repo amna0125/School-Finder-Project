@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "62544265",
+  "school_name": "Fria Maria Barnskola",
+  "registered_url": "http://www.friamaria.com",
+  "attempted_at": "2026-10-21T09:16:43.111112+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.friamaria.com",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

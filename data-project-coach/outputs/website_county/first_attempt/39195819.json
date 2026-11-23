@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "39195819",
+  "school_name": "Sanduddens skola",
+  "registered_url": "http://www.ekero.se/sanduddensskola",
+  "attempted_at": "2026-10-21T09:16:02.007589+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.ekero.se/sanduddensskola",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "school_id": "25253749",
+  "school_name": "Albatross Montessoriskola",
+  "registered_url": "http://www.albatross-montessori.se",
+  "pages": [
+    {
+      "requested_url": "https://www.albatross-montessori.se/",
+      "source_url": "https://www.albatross-montessori.se/",
+      "page_title": "Albatross Montessoriskola - grundskola F-6 på Lidingö",
+      "accessed_at": "2026-10-21T17:30:21.521810+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "25253749_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.albatross-montessori.se/",
+          "robots_url": "https://www.albatross-montessori.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:20.689521+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.albatross-montessori.se/om-skolan/",
+      "source_url": "https://www.albatross-montessori.se/om-skolan/",
+      "page_title": "Om skolan - Albatross Montessoriskola Lidingö",
+      "accessed_at": "2026-10-21T17:30:22.399742+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "25253749_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.albatross-montessori.se/om-skolan/",
+          "robots_url": "https://www.albatross-montessori.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:20.689521+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.albatross-montessori.se/montessoripedagogiken/",
+      "source_url": "https://www.albatross-montessori.se/montessoripedagogiken/",
+      "page_title": "Montessoripedagogiken på Albatross Montessoriskola",
+      "accessed_at": "2026-10-21T17:30:23.228632+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "25253749_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.albatross-montessori.se/montessoripedagogiken/",
+          "robots_url": "https://www.albatross-montessori.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:20.689521+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 5,
+  "scoped_no_clear_schools": 2,
+  "requires_review_schools": 3,
+  "all_followups_resolved": false,
+  "evidence_total_database": 34,
+  "codes_total_database": 31,
+  "idempotent_replay": "PASSED: zero inserts",
+  "tests": "22 existing tests passed",
+  "validation": "load_validation.json"
+}

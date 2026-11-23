@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "19377571",
+    "official_directory_name": "Karlbergs skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/karlbergs-skola",
+    "note": ""
+  },
+  {
+    "school_id": "19593535",
+    "official_directory_name": "JENSEN grundskola Bro-Mälarstrand 4-9",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jensengrundskola.se/bro-malarstrand",
+    "note": ""
+  },
+  {
+    "school_id": "19657993",
+    "official_directory_name": "Fryshuset Grundskola Hammarby Sjöstad",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.fryshuset.se/",
+    "note": ""
+  },
+  {
+    "school_id": "19704413",
+    "official_directory_name": "Åkerstorpsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.osteraker.se",
+    "note": ""
+  },
+  {
+    "school_id": "19733028",
+    "official_directory_name": "Lärande Grundskola Oden",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.larandegrundskola.se",
+    "note": ""
+  },
+  {
+    "school_id": "19942197",
+    "official_directory_name": "Sandåkraskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sandakraskolan",
+    "note": ""
+  },
+  {
+    "school_id": "19983531",
+    "official_directory_name": "Rodrets friskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.rodret.nu",
+    "note": ""
+  },
+  {
+    "school_id": "20054868",
+    "official_directory_name": "Odensala skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.sigtuna.se/odensalaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "20137688",
+    "official_directory_name": "Käppala skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.lidingo.se/kappalaskola",
+    "note": ""
+  },
+  {
+    "school_id": "20253736",
+    "official_directory_name": "Tegelhagens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.sollentuna.se/uweb/tegelhagens-skola/",
+    "note": ""
+  }
+]

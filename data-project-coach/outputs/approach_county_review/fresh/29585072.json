@@ -1,0 +1,72 @@
+{
+  "school_id": "29585072",
+  "school_name": "Innovitaskolan Enskede",
+  "registered_url": "https://innovitaskolan.se/enskede/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/enskede/",
+      "source_url": "https://innovitaskolan.se/enskede/",
+      "page_title": "Innovitaskolan Enskede | Förskoleklass–årskurs 6",
+      "accessed_at": "2026-10-21T17:31:39.910941+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29585072_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/enskede/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.527236+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/enskede/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/enskede/om/grundskola/",
+      "page_title": "Vår grundskola | Innovitaskolan Enskede | Om skolan",
+      "accessed_at": "2026-10-21T17:31:41.144037+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29585072_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/enskede/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.527236+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/enskede/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/enskede/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Enskede | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:31:42.394582+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29585072_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/enskede/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.527236+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

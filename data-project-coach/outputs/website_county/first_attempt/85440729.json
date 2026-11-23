@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "85440729",
+  "school_name": "Häggvik- Skälbyskolan",
+  "registered_url": "http://www.sollentuna.se/sv/skola--forskola/grundskola/skolor/haggviks-skolor/",
+  "attempted_at": "2026-10-21T09:17:16.077412+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.sollentuna.se/sv/skola--forskola/grundskola/skolor/haggviks-skolor/",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

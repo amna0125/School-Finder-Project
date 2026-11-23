@@ -1,0 +1,17 @@
+{
+  "school_id": "89701816",
+  "school_name": "Kästaskolan",
+  "registered_url": "http://grundskolor.huddinge.se/kastaskola/",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://grundskolor.huddinge.se/kastaskola/",
+      "error": "[Errno -2] Name does not resolve",
+      "attempted_at": "2026-10-21T17:43:34.596840+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

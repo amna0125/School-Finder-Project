@@ -1,0 +1,72 @@
+{
+  "school_id": "63682476",
+  "school_name": "Grantomta Montessoriskola",
+  "registered_url": "http://www.grantomta.se",
+  "pages": [
+    {
+      "requested_url": "https://grantomta.se/",
+      "source_url": "https://grantomta.se/",
+      "page_title": "Välkomna till Grantomta Montessoriskola på Värmdö",
+      "accessed_at": "2026-10-21T17:39:00.236133+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "63682476_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://grantomta.se/",
+          "robots_url": "https://grantomta.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.464016+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://grantomta.se/valkommen-till-grantomta-montessoriskolas-forskola/",
+      "source_url": "https://grantomta.se/valkommen-till-grantomta-montessoriskolas-forskola/",
+      "page_title": "Välkommen till Grantomta Montessoriskolas förskola",
+      "accessed_at": "2026-10-21T17:39:01.737998+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "63682476_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://grantomta.se/valkommen-till-grantomta-montessoriskolas-forskola/",
+          "robots_url": "https://grantomta.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.464016+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://grantomta.se/grundskola/",
+      "source_url": "https://grantomta.se/grundskola/",
+      "page_title": "Glädje och lust i skolarbetet - Grantomta Montessoriskola Värmdö",
+      "accessed_at": "2026-10-21T17:39:03.292401+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "63682476_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://grantomta.se/grundskola/",
+          "robots_url": "https://grantomta.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.464016+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

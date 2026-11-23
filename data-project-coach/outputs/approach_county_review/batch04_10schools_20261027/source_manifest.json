@@ -1,0 +1,167 @@
+[
+  {
+    "file": "alby.html",
+    "bytes": 94131,
+    "sha256": "88a8d920c068981355d0f7f207761471c0d6f2d751349d7a920540c1e4ca6a67"
+  },
+  {
+    "file": "bredang.html",
+    "bytes": 145843,
+    "sha256": "16202e776de3748f86de34a55702c7be17c9761826ac0a78f21473d217646702"
+  },
+  {
+    "file": "ekilla.html",
+    "bytes": 79583,
+    "sha256": "43a7f8c88ba79c666c4a99b912a46e54449664c89d92a0e8a1dbb05c930acf79"
+  },
+  {
+    "file": "ekilla_info.html",
+    "bytes": 70237,
+    "sha256": "e7d0248d4b582553dc9248a32e50715fb2447cd1f99a2996d37240191b7d460b"
+  },
+  {
+    "file": "ekilla_methods.html",
+    "bytes": 62632,
+    "sha256": "861c49b949af78187dec1605184c89a1832062c3d47d17814ea3baf99ab1e5ae"
+  },
+  {
+    "file": "ekilla_on.html",
+    "bytes": 65843,
+    "sha256": "d8b8264ac50cbaab86138c7272feeecf95e581ff5a5494d4f40b587461abb491"
+  },
+  {
+    "file": "ekilla_welcome.html",
+    "bytes": 64541,
+    "sha256": "efb6ba015c7738947d77d18452350345d513c8377b8b57e6db2aeeff04b312d4"
+  },
+  {
+    "file": "evia.html",
+    "bytes": 107565,
+    "sha256": "2a635461ccfd3b5d7a80db8bccfc25a29fd5803b11f864d762b12c851f1061ee"
+  },
+  {
+    "file": "evia_official.json",
+    "bytes": 1463,
+    "sha256": "0c7ab89a3bf5cb682f3aa59896dae564604d57ab3430878d021066f59e3cdb5f"
+  },
+  {
+    "file": "evia_school.html",
+    "bytes": 110113,
+    "sha256": "ea4eab21f5759db1425e27e1f56f9de672055e1f9c9a47f180af964493a517f1"
+  },
+  {
+    "file": "fjallen.html",
+    "bytes": 215463,
+    "sha256": "568cc0023f35e105d6b43078107a2dd6329def44cd5ea993e9279700c3de5643"
+  },
+  {
+    "file": "fjallen_official.json",
+    "bytes": 1504,
+    "sha256": "af1c37167ea0b1f5c354b9de4148b16b6245660e21e78710d0e7b7c857679a9d"
+  },
+  {
+    "file": "jarfalla_directory.html",
+    "bytes": 244551,
+    "sha256": "b9ae99d64ac7ad710141e5ca7f38d19503928928958117db6a129aaa98ce5c88"
+  },
+  {
+    "file": "kristna.html",
+    "bytes": 202810,
+    "sha256": "9dab2a01ae40cdd5be525895f019e2f87431f4cc7102c0358b6d8610a7e78d20"
+  },
+  {
+    "file": "kristna_home.html",
+    "bytes": 206897,
+    "sha256": "c52ef7516fa2dc212cf7fd9e4f80449f18097c87baabac528dec8e470e8fa0d6"
+  },
+  {
+    "file": "magelungen.html",
+    "bytes": 129694,
+    "sha256": "c45244a81d6efe9a9c7a4d1f268b90b0115ff56b4005f54786afd74d0f898d80"
+  },
+  {
+    "file": "magelungen_official.json",
+    "bytes": 1545,
+    "sha256": "8d5123b927ec7c4da0afdfc3207f6d46c0ce4d8c2ec6862213936db8586af0a1"
+  },
+  {
+    "file": "nordic.html",
+    "bytes": 222185,
+    "sha256": "bbbae9daa9d9dd223a53dac13831362b7fd84c362fb973a9b95333016aaa78df"
+  },
+  {
+    "file": "nordic_about.html",
+    "bytes": 154554,
+    "sha256": "268c8c71a2d98a51fde1f92d4a9a6759e6e989405fecb5fad076ab6637b54f44"
+  },
+  {
+    "file": "nordic_houses.html",
+    "bytes": 133732,
+    "sha256": "06a1d7c806c1520f3148d6778ce7b7cc22a78b5a7874e1b439b80c5860e7231e"
+  },
+  {
+    "file": "robots_evia.txt",
+    "bytes": 76874,
+    "sha256": "50098396b8b43ae1ffd0b681addc98c4936068cc46ed5bbc9e5148fbfb0e6ce8"
+  },
+  {
+    "file": "robots_huddinge.txt",
+    "bytes": 498,
+    "sha256": "750f760e4ee8836a23a7a276b699e579cabdbbb9acbdd73d0ec029a2175aa069"
+  },
+  {
+    "file": "robots_jarfalla.txt",
+    "bytes": 498,
+    "sha256": "b4d90ed52acd48d20eb94fee3152b49f4419f7d213af8aec29e707f91f42988e"
+  },
+  {
+    "file": "robots_kristna.txt",
+    "bytes": 24,
+    "sha256": "e1f21c9aa28d50ca112ed357f34b67c550597effd4d42fd55b4e27300dd8f9c1"
+  },
+  {
+    "file": "robots_magelungen.txt",
+    "bytes": 246,
+    "sha256": "ec185a4f7b0428bc2568de933a8a5f8145e23862690f3e5733c3b64f4acd587c"
+  },
+  {
+    "file": "robots_nordic.txt",
+    "bytes": 882,
+    "sha256": "2c447a94548ce266736560c047523c9dee1057799beaa0671eccda9a57051962"
+  },
+  {
+    "file": "robots_sigtuna.txt",
+    "bytes": 497,
+    "sha256": "3cbf4051da897b9bbc84ae86ac51c746cbdb1c62c1dc2262e9aedd4a9db0e47c"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 68,
+    "sha256": "884a702f28cae7691d050d58f687e2d29412b1e5a799000e5769742bc5818d17"
+  },
+  {
+    "file": "robots_sundbyberg.txt",
+    "bytes": 500,
+    "sha256": "f2d7dd81294d79c44c86c57bb61680c9af9fd563c76c88b69f4f7422dafb0bac"
+  },
+  {
+    "file": "robots_wemind.txt",
+    "bytes": 113,
+    "sha256": "cfc2aedb209eb7c8e6f76d1a9a429c9ad892e11fa10568f1fe974d035b8f864c"
+  },
+  {
+    "file": "tallkrogen.html",
+    "bytes": 136441,
+    "sha256": "2c30e9fd3724aa6e8613aaa65f047aaac772d9d10e452aef531815e2329ce133"
+  },
+  {
+    "file": "visattra.html",
+    "bytes": 74725,
+    "sha256": "412035816b04a749b3b0b478ef8f3696bf4014f2cfb07620a7f65b9fbcfa20a6"
+  },
+  {
+    "file": "visattra_about.html",
+    "bytes": 84065,
+    "sha256": "4483088a0d9b51861f29d524547c5952fa10e9b1b4263e3fc96eab5b2d1b6cda"
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "52064811",
+  "school_name": "Skederids skola",
+  "registered_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/",
+  "attempted_at": "2026-10-21T09:16:25.214444+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/",
+      "retrieved_at": "2026-10-21T09:16:31.548803+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "52064811_0.txt"
+    },
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/var-skola/",
+      "retrieved_at": "2026-10-21T09:16:31.574171+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/var-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "52064811_1.txt"
+    },
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/skederids-fritidshem/",
+      "retrieved_at": "2026-10-21T09:16:31.603544+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/skederids-fritidshem/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "52064811_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Att utveckla skrivandet och läsningen samt matematikkunskaperna är ständigt aktuella mål. Det är lika viktigt att ge bra förutsättningar för de praktiska estetiska ämnena vilket innebär behöriga pedagoger i dessa ämnen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "eaefba9afe06547191864a7a0215c1be63654ef54f3323a5b58dfed1b1c225f0",
+      "school_unit_code": "52064811",
+      "school_name": "Skederids skola",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/var-skola/",
+      "retrieved_at": "2026-10-21T09:16:31.574171+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

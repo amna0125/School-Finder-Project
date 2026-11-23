@@ -1,0 +1,41 @@
+[
+{"sid":"83454509","o":"N","note":"Skarpäng 7–9 (Täby): inclusive learning environment, generic Täby text."},
+{"sid":"83584296","o":"U","why":"provider-level source only","note":"IES Älvsjö: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"83623446","o":"N","note":"Rösjö F–6 (Täby): mobile-free, high staffing; generic."},
+{"sid":"83735665","o":"U","why":"provider-level source only","note":"Stockholm International Academy: shared homepage for the Hägersten and Häggvik schools; reading emphasis stated for SIA schools generally; Häggvik line is generic.","ev":[
+ {"p":1,"q":"Läsning är hjärtat i elevernas inlärning.","i":"Group-level reading emphasis; not unit-specific.","t":"Provider webpage"}]},
+{"sid":"83810698","o":"R","note":"Elinsborg F–6: collaboration with Eggeby gårds naturskola; language-developing approach across subjects; special teaching group.","ev":[
+ {"p":0,"q":"Vår skola ligger nära Järvafältet, och vi har ett uppskattat samarbete med Eggeby gårds naturskola.","i":"Nature-school collaboration for practical nature learning.","c":[["Outdoor, nature, or place-based learning","Naturskola collaboration","S"]],"cn":"Frequency not stated."},
+ {"p":0,"q":"Ett språkutvecklande arbetssätt genomsyrar alla våra ämnen.","i":"Language-developing approach.","c":[["Other stated profile","Language-developing approach","S"]],"cn":"Common municipal approach, stated as pervasive."}]},
+{"sid":"83828066","o":"R","note":"Nya Elementar F–9: nearby green areas used in teaching; also anpassad grundskola.","ev":[
+ {"p":0,"q":"Vi använder också grönområdena nära skolan i undervisningen.","i":"Local nature used in teaching.","c":[["Outdoor, nature, or place-based learning","Green areas used in teaching","S"]],"cn":"Frequency not stated."}]},
+{"sid":"84103650","o":"B","why":"source inaccessible","note":"Registered Vallentuna URL returns HTTP 404."},
+{"sid":"84230778","o":"R","note":"Svalnäs Skola & Behandling: school with day treatment for pupils with poor wellbeing/behaviour difficulties.","ev":[
+ {"p":0,"q":"Dagbehandling med praktik","i":"School combined with treatment.","c":[["Support, inclusion, or wellbeing emphasis","School with day treatment","E"]],"cn":"Site title 'Skola & Behandling'."}]},
+{"sid":"84520303","o":"B","why":"source inaccessible","note":"Registered Vallentuna URL returns HTTP 404."},
+{"sid":"84584068","o":"R","note":"Frötuna F–6: own adventure pedagogues teach F–2 outdoors in Swedish, maths, science and art; reading focus.","ev":[
+ {"p":2,"q":"All Äventyrsundervisning sker utomhus.","i":"Outdoor adventure teaching in subjects for F–2.","c":[["Outdoor, nature, or place-based learning","Adventure pedagogy outdoors (F–2)","E"]],"cn":"Lower years only."}]},
+{"sid":"84585645","o":"R","note":"Hagaskolan (Waldorfskolan i Norrort) F–9: Waldorf; monthly outdoor day and daily physical activity.","ev":[
+ {"p":0,"q":"Hagaskolan är en waldorfskola med cirka 150 elever från förskoleklass till årskurs 9.","i":"Waldorf.","c":[["Alternative pedagogy","Waldorf","E"]],"cn":"School claim."},
+ {"p":0,"q":"Med en friluftsdag i månaden samt dagliga fysiska aktiviteter stimuleras eleverna i linje med vad modern forskning stipulerar","i":"Regular outdoor days.","c":[["Outdoor, nature, or place-based learning","Monthly outdoor day; teaching with nature","S"]],"cn":"Outdoor day rather than outdoor teaching."}]},
+{"sid":"84704913","o":"R","note":"Krusboda F–6: green classroom for growing/composting; nearby woods used in teaching activities.","ev":[
+ {"p":1,"q":"Vi använder oss av närliggande skogsområden vid olika pedagogiska aktiviteter.","i":"Local woods used in teaching.","c":[["Outdoor, nature, or place-based learning","Woods and green classroom in teaching","S"]],"cn":"Frequency not stated."}]},
+{"sid":"84884375","o":"N","note":"Myrsjö F–9: nature reserve nearby, digital tools, food; generic."},
+{"sid":"85200474","o":"R","note":"Magelungens Grundskola Långbropark: provider-level resource school description; unit page not separately reached.","ev":[
+ {"p":0,"q":"Skola för elever i omfattande behov av särskilt stöd med eller utan behandling.","i":"All Magelungen grundskolor are resource schools; applies to registered unit.","t":"Provider webpage","c":[["Support, inclusion, or wellbeing emphasis","Resource school; extensive special support","E"]],"cn":"Provider-level, per Magelungen precedent."}]},
+{"sid":"85440729","o":"B","why":"source inaccessible","note":"Registered Sollentuna URL returns a 404 page."},
+{"sid":"85558618","o":"B","why":"source inaccessible","note":"Registered Botkyrka URL returns HTTP 404."},
+{"sid":"85670099","o":"B","why":"school-specific source not found","note":"Registered domain is parked (Loopia); no school content."},
+{"sid":"85759071","o":"B","why":"source inaccessible","note":"Registered Upplands-Bro URL returns HTTP 404."},
+{"sid":"85777315","o":"R","note":"Mikaelskolan F–9 (Sollentuna): Christian profile.","ev":[
+ {"p":0,"q":"Mikaelskolan är en fristående grundskola med kristen profil.","i":"Confessional profile.","c":[["Other stated profile","Christian profile","E"]],"cn":"School claim."}]},
+{"sid":"85796724","o":"R","note":"Källskolan 6–9: Christian (allkristen) profile; same site as Källskolan F–5.","ev":[
+ {"p":1,"q":"Källskolan är en fristående skola med kristen profil i Kungsängen nordväst om Stockholm.","i":"Confessional profile.","c":[["Other stated profile","Christian profile","E"]],"cn":"School-wide statement covering both units."}]},
+{"sid":"86086213","o":"R","note":"Sofiaängen 8–9: resource school with treatment (MI, CBT) for pupils with extensive support needs, school refusal.","ev":[
+ {"p":3,"q":"Sofiaängen är en resursskola som välkomnar elever med omfattande behov av särskilt stöd, där undervisningen sker i mindre grupper för att säkerställa att varje elev får optimalt stöd.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school with treatment","E"]],"cn":"School claim."}]},
+{"sid":"86117924","o":"N","note":"Gamla Enskede F–6: home classrooms, library, sustainable food; generic. Note: Nya Enskede skola's registered URL redirects here."},
+{"sid":"86192571","o":"B","why":"source inaccessible","note":"Registered Botkyrka URL returns HTTP 404."},
+{"sid":"86271166","o":"N","note":"Vattmyra F–6: student influence and parent cooperation; generic."},
+{"sid":"86337537","o":"N","note":"Maltesholm F–6: special teachers for literacy and maths support; generic."}
+]

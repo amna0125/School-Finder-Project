@@ -1,0 +1,55 @@
+{
+  "school_unit_code": "51341279",
+  "school_name": "Grimstaskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/grimstaskolan",
+  "attempted_at": "2026-10-21T09:16:25.164641+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/grimstaskolan",
+      "retrieved_at": "2026-10-21T09:16:29.632852+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/grimstaskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "51341279_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Dessutom delar vi varje år ut Benny Andersson-stipendiet till en elev som utmärkt sig inom de estetiska ämnena. Stipendiet är instiftat efter en av Sveriges största musiker. Abba-legendaren Benny Andersson har gått på Grimstaskolan och han har signerat stipendiet.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "42d8326c621c95a99f95b42de6539d04ab1af540954b83c80dacd002446bbe0f",
+      "school_unit_code": "51341279",
+      "school_name": "Grimstaskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/grimstaskolan",
+      "retrieved_at": "2026-10-21T09:16:29.632852+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Dessutom delar vi varje år ut Benny Andersson-stipendiet till en elev som utmärkt sig inom de estetiska ämnena. Stipendiet är instiftat efter en av Sveriges största musiker. Abba-legendaren Benny Andersson har gått på Grimstaskolan och han har signerat stipendiet.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c1c452fd0f094281eea632327d4d01d08ac46d41bd4bc39704e107efd8d1c007",
+      "school_unit_code": "51341279",
+      "school_name": "Grimstaskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/grimstaskolan",
+      "retrieved_at": "2026-10-21T09:16:29.632852+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

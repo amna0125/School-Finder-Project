@@ -1,0 +1,41 @@
+{
+  "statuses": {
+    "fetched_no_candidate_needs_review": 454,
+    "fetched_candidates_need_review": 216,
+    "missing_registered_website": 8,
+    "collection_failed_needs_review": 84
+  },
+  "candidate_records": 345,
+  "pages": 1183,
+  "category_candidates": {
+    "creative_arts": 131,
+    "music": 137,
+    "waldorf": 9,
+    "language_international": 51,
+    "montessori": 10,
+    "sport": 2,
+    "other_named_pedagogy": 4,
+    "academic_subject_specialist": 1
+  },
+  "failure_reasons": {
+    "HTTP 404": 41,
+    "Explicit crawl delay requires manual scheduling": 3,
+    "Robots unresolved; manual review required": 11,
+    "[Errno -2] Name does not resolve": 5,
+    "Unsafe URL": 12,
+    "<urlopen error timed out>": 4,
+    "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.internationalschoolofkungsholmen.com'. (_ssl.c:1010)>": 1,
+    "Too many redirects": 4,
+    "[Errno -3] Try again": 1,
+    "Robots disallowed": 2
+  },
+  "integrity": "ok",
+  "preserved_counts": {
+    "schools": 762,
+    "statistics": 45868,
+    "survey_observations": 84610,
+    "source_coverage": 3048,
+    "school_focus_profiles": 4
+  },
+  "orphan_ids": 0
+}

@@ -1,0 +1,72 @@
+{
+  "school_id": "56858061",
+  "school_name": "Söderby Friskola",
+  "registered_url": "http://www.soderbyfriskola.se",
+  "pages": [
+    {
+      "requested_url": "https://www.soderbyfriskola.se/",
+      "source_url": "https://www.soderbyfriskola.se/",
+      "page_title": "Start - Söderby Friskola",
+      "accessed_at": "2026-10-21T17:38:06.883627+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "56858061_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.soderbyfriskola.se/",
+          "robots_url": "https://www.soderbyfriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:05.814304+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.soderbyfriskola.se/om-skolan/",
+      "source_url": "https://www.soderbyfriskola.se/om-skolan/",
+      "page_title": "Om skolan - Söderby Friskola",
+      "accessed_at": "2026-10-21T17:38:07.870929+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "56858061_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.soderbyfriskola.se/om-skolan/",
+          "robots_url": "https://www.soderbyfriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:05.814304+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.soderbyfriskola.se/om-skolan/medarbetare/",
+      "source_url": "https://www.soderbyfriskola.se/om-skolan/medarbetare/",
+      "page_title": "Medarbetare - Söderby Friskola",
+      "accessed_at": "2026-10-21T17:38:09.031737+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "56858061_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.soderbyfriskola.se/om-skolan/medarbetare/",
+          "robots_url": "https://www.soderbyfriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:05.814304+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

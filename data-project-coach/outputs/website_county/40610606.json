@@ -1,0 +1,66 @@
+{
+  "school_unit_code": "40610606",
+  "school_name": "Lycée Francais Saint Louis, gr",
+  "registered_url": "http://www.lfsl.net",
+  "attempted_at": "2026-10-21T09:21:25.140930+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.lfsl.net/",
+      "retrieved_at": "2026-10-21T09:21:33.306100+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.lfsl.net",
+          "robots_url": "https://www.lfsl.net/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:26.660637+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.lfsl.net/",
+          "robots_url": "https://www.lfsl.net/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:28.323139+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "40610606_0.txt"
+    },
+    {
+      "source_url": "https://www.lfsl.net/cursus-scolaire/projets-et-voyages-pedagogiques/",
+      "retrieved_at": "2026-10-21T09:21:33.412150+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lfsl.net/cursus-scolaire/projets-et-voyages-pedagogiques/",
+          "robots_url": "https://www.lfsl.net/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:28.323139+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "40610606_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Le LFSL a obtenu le niveau 2 du label EFE3D – Établissement français à l’étranger en démarche de développement durable. Il reconnaît l’engagement de l’établissement dans une démarche structurée de développement durable, associant enseignements, projets éducatifs et fonctionnement de l’établissement.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "fe707967fc3bb55910af4a630d0f074a330f88b4be49ff3d066d5356d1aa575e",
+      "school_unit_code": "40610606",
+      "school_name": "Lycée Francais Saint Louis, gr",
+      "source_url": "https://www.lfsl.net/",
+      "retrieved_at": "2026-10-21T09:21:33.306100+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,45 @@
+THREE-SCHOOL OFFICIAL STATISTICS PILOT — 20 October 2026
+
+Public Skolverket Planned Education v4 GR endpoints returned HTTP 200 and status OK for all three verified school-unit codes. This is a bounded extraction/analysis pilot, not an automated dlt/Prefect pipeline. Website evidence is documented separately in website_pilot_findings.md; no new website collection was performed.
+
+2025/26 SNAPSHOT
+School | Approximate GR pupils | Pupils per teacher FTE | Certified/qualified teachers % | Year-9 merit | Year-9 vocational eligibility %
+Kristofferskolan | cirka 560 | 10.4 | * (special exclusion flag) | 276.3 | ~100 (rounded)
+Musikskolan Lilla Akademien | cirka 250 | 11.3 | 67.2 | 303.4 | 100.0
+Anne Frank | cirka 50 | 14.6 | 63.1 | No observation; no current year 9 | No observation; no current year 9
+
+IMPORTANT STATUS HANDLING
+Kristofferskolan qualification valueType: TEACHERS_EXCLUDED_DUE_TO_NO_REQUIRED_LEGITIMATION. Do not display zero or interpret this as evidence of unqualified teaching. Confirm the precise applicability of this exclusion against current official definitions before writing a parent-facing explanation.
+Kristofferskolan eligibility valueType: ROUNDED_OFF_DUE_TO_FEW_PUPILS_NOT_ELIGIBLE. Preserve ~100; do not convert to exact 100 or infer underlying counts.
+All school pupil counts are approximate, even though their valueType is EXISTS.
+
+YEAR-6 COVERAGE
+All-subject pass share: Lilla Akademien 100.0% in 2024/25; Anne Frank '..' with OMITTED_DUE_TO_BASED_ON_FEW_PUPILS in 2024/25. Kristofferskolan returns null with MISSING and no period. There is no usable three-school numeric comparison. Keep this metric secondary or omit it from the first comparison chart; do not reconstruct suppressed values.
+
+INTERPRETATION AND DASHBOARD REQUIREMENTS
+- Purposeful, non-representative sample; all three are independent schools in Stockholm municipality. No county-wide or causal conclusions.
+- Website approaches are school self-descriptions, not verified practice. Retain excerpts, source URLs, retrieval dates and claim scopes from website_pilot_findings.md. No academic-versus-creative binary.
+- Pupils per teacher FTE is NOT pupils per class. Class/group sizes were not found on the inspected website pages; no numeric class-size claim is supported. Approximate GR totals must not be divided by grades to estimate class sizes. Lilla Akademien's separate website total spans other educational stages.
+- Display periods beside metrics. Year-6 2024/25 measures must not appear as 2025/26.
+- Anne Frank register grades 1–6 versus website 4–6 remain unresolved. Empty year-9 arrays are retained as source status; current scope explains non-applicability, not historical performance.
+- Qualification is in at least one teaching subject under the official definition, not every subject taught; check detailed exclusions before publication.
+- Outcome differences may reflect cohort composition, admissions and other context. They do not demonstrate teaching effectiveness or superiority of an approach.
+- Use side-by-side school cards with evidence links and explicit status badges, not an overall ranking. Rounded/flagged records must not enter exact-value calculations silently.
+
+FILES
+pilot_statistics_*.json: raw source responses.
+pilot_metrics_long.csv: selected six metrics, every returned period, plus explicit empty-array rows. Raw values, numeric values only where directly parseable and EXISTS, statuses, URLs and retrieval dates retained.
+pilot_comparison_2025_26.csv: same-period comparison with status columns and explicit class-size gaps. Website approach evidence is not yet joined into this CSV.
+
+VALIDATION
+Passed: source status and identity; unique school/metric/period keys; no numeric conversion of flagged, approximate or rounded values; CSV write/read row-count round trips. Validation concerns extraction structure, not the truth of source measurements or completeness of definitions.
+
+NEXT IMPLEMENTATION MILESTONE
+Build local dlt ingestion with Prefect orchestration for the allowlisted three-school sample, with website evidence as a core dataset. Before code changes inspect project instructions/manifests. Confirm a local destination (DuckDB proposed, not agreed). Preserve raw snapshots and statuses; export scoped website evidence and join via verified school-unit mappings. Test missingness, rounding and scope. Recheck robots and terms before automated website requests. Do not expand county-wide or decide the dashboard UI yet.
+
+SOURCES
+https://api.skolverket.se/planned-educations/v4/school-units/98760751/statistics/gr
+https://api.skolverket.se/planned-educations/v4/school-units/36066067/statistics/gr
+https://api.skolverket.se/planned-educations/v4/school-units/23498302/statistics/gr
+Previously inspected dictionary (older terminology; recheck exceptions):
+https://www.skolverket.se/download/18.10ca3e4c19b2c04f0f06255/1766060452967/Variabellista_aktuell_201214_extern.xlsx

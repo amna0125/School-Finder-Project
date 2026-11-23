@@ -1,0 +1,17 @@
+{
+  "school_id": "35311563",
+  "school_name": "Lilla Nacka skola",
+  "registered_url": "lillanacka.se",
+  "pages": [],
+  "errors": [
+    {
+      "url": "lillanacka.se",
+      "error": "Unsafe URL",
+      "attempted_at": "2026-10-21T17:32:21.312117+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

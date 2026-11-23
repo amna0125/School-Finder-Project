@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "89615900",
+  "school_name": "Bålbroskolan",
+  "registered_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/",
+  "attempted_at": "2026-10-21T09:17:23.381775+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/",
+      "retrieved_at": "2026-10-21T09:17:26.521248+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89615900_0.txt"
+    },
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/var-skola/",
+      "retrieved_at": "2026-10-21T09:17:26.546968+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/var-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89615900_1.txt"
+    },
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/balbroskolans-fritidshem/",
+      "retrieved_at": "2026-10-21T09:17:26.578705+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/balbroskolans-fritidshem/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89615900_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "storklassrum, två mindre klassrum, två grupprum en större öppen yta, ett lärarrum samt ett mediarum och verkstad/bildsal/slöjdsal som man delar med årskursen bredvid. Vi har också musiksal, en stor sporthall som vi nyttjar både under skoltid och fritidstid, vi har ett skolbibliotek och en fantastisk skogsmiljö alldeles utanför skolans inhägnade, välplanerade skolgård. Skogsmiljön finns avbildad i vår fina matsal i en stor målning som är gjord till oss.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "86a7fc950d9e77de9ea1c367845021794f9c9146d188ba8f23524689d5911478",
+      "school_unit_code": "89615900",
+      "school_name": "Bålbroskolan",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/var-skola/",
+      "retrieved_at": "2026-10-21T09:17:26.546968+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "72378947",
+  "school_name": "Vallentuna Friskola",
+  "registered_url": "http://www.vallentunafriskola.se",
+  "attempted_at": "2026-10-21T09:22:55.581220+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.vallentunafriskola.se/",
+      "retrieved_at": "2026-10-21T09:23:05.149345+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vallentunafriskola.se",
+          "robots_url": "https://www.vallentunafriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:57.955696+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.vallentunafriskola.se/",
+          "robots_url": "https://www.vallentunafriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:23:00.171956+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "72378947_0.txt"
+    },
+    {
+      "source_url": "https://www.vallentunafriskola.se/idrottsinriktningar",
+      "retrieved_at": "2026-10-21T09:23:05.186884+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentunafriskola.se/idrottsinriktningar",
+          "robots_url": "https://www.vallentunafriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:23:00.171956+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "72378947_1.txt"
+    },
+    {
+      "source_url": "https://www.vallentunafriskola.se/skolans-organisation/om-oss",
+      "retrieved_at": "2026-10-21T09:23:05.229737+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentunafriskola.se/skolans-organisation/om-oss",
+          "robots_url": "https://www.vallentunafriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:23:00.171956+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "72378947_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Från och med läsåret 25/26 erbjuds alla våra elever att välja en inriktning. Inför läsåret 26/27 kommer man att kunna välja dans med Flex Dansskola, fotboll via Vallentuna Fotboll, ishockey med Vallentuna Hockey i Vallentuna ishall samt basket med Vallentuna Basket.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "b15d192f34c7d00269d185220f18db3da65988aee4b624ec40600463e4d0c7cd",
+      "school_unit_code": "72378947",
+      "school_name": "Vallentuna Friskola",
+      "source_url": "https://www.vallentunafriskola.se/",
+      "retrieved_at": "2026-10-21T09:23:05.149345+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "rnt. Eleverna kommer även att göra olika dansdiagolans i olika stilar, samt koreografier. Danserna som ni kommer att göra kommer att vara mestadels jazz (comercial) med trendig ny musik som ni elever kommer att känna igen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "500e8e48e5ec6936dd556dc945ef694622e1cb891fdc5747a8e12be60ef603fd",
+      "school_unit_code": "72378947",
+      "school_name": "Vallentuna Friskola",
+      "source_url": "https://www.vallentunafriskola.se/idrottsinriktningar",
+      "retrieved_at": "2026-10-21T09:23:05.186884+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

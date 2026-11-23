@@ -1,0 +1,72 @@
+{
+  "school_id": "39130058",
+  "school_name": "Montessoriskolan i Norrtälje",
+  "registered_url": "http://www.montessoriskolan.nu",
+  "pages": [
+    {
+      "requested_url": "https://www.montessoriskolan.nu/",
+      "source_url": "https://www.montessoriskolan.nu/",
+      "page_title": "Montessori i Norrtälje | Montessori i Norrtälje",
+      "accessed_at": "2026-10-21T17:33:10.077920+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "39130058_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.montessoriskolan.nu/",
+          "robots_url": "https://www.montessoriskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:13.199522+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.montessoriskolan.nu/montessoripedagogik/",
+      "source_url": "https://www.montessoriskolan.nu/montessoripedagogik/",
+      "page_title": "Montessoripedagogik | Montessori i Norrtälje",
+      "accessed_at": "2026-10-21T17:33:11.107851+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "39130058_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.montessoriskolan.nu/montessoripedagogik/",
+          "robots_url": "https://www.montessoriskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:13.199522+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.montessoriskolan.nu/fotbollsprofilen/",
+      "source_url": "https://www.montessoriskolan.nu/fotbollsprofilen/",
+      "page_title": "Fotbollsprofilen | Montessori i Norrtälje",
+      "accessed_at": "2026-10-21T17:33:12.131807+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "39130058_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.montessoriskolan.nu/fotbollsprofilen/",
+          "robots_url": "https://www.montessoriskolan.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:13.199522+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

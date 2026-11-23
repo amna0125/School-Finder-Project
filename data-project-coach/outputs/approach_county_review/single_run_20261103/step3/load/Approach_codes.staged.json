@@ -1,0 +1,123 @@
+[
+  {
+    "code_id": "ac_s3_24046791_01",
+    "school_id": "24046791",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Exploratory problem-solving learning (stated concept)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_24046791_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. stated as how the school works on its pedagogical-concept page; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_17957898_01",
+    "school_id": "17957898",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Exploratory problem-solving learning (stated concept)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_17957898_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. stated as how the school works on its pedagogical-concept page; Supported. Concrete examples are preschool-only and were not used.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_87920455_01",
+    "school_id": "87920455",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Exploratory way of working",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_87920455_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. exploratory way of working stated as how the school teaches; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_37472911_01",
+    "school_id": "37472911",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Thematic work",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_37472911_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. thematic way of working stated as how the school works; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_44175786_01",
+    "school_id": "44175786",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "NTA inquiry-based science, years 1–6",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_44175786_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. named method (NTA) for years 1–6; Supported. PEAK energy method not coded.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_16914123_01",
+    "school_id": "16914123",
+    "category": "Other stated profile",
+    "subcategory": "Language-developing in all subjects",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_16914123_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. language-developing way of working stated for all learning, as in the main run; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_36350546_01",
+    "school_id": "36350546",
+    "category": "Other stated profile",
+    "subcategory": "Language-developing approach",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_36350546_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. language-developing work stated as the school focus, as in the main run; Supported. Student-health wording not coded.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_14440920_01",
+    "school_id": "14440920",
+    "category": "Other stated profile",
+    "subcategory": "Language-developing approach",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_14440920_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. language- and knowledge-developing way of working stated for teaching, as in the main run; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_43802065_01",
+    "school_id": "43802065",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_s3_43802065_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. named programme (Trivselledare), as in the main run; Explicit. Grade change to F–3 from autumn 2026 noted.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_26808959_01",
+    "school_id": "26808959",
+    "category": "Other stated profile",
+    "subcategory": "Reading buddies, years 2–3",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_26808959_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. stated reading model (Red Cross reading buddies, years 2–3); Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3_43375546_01",
+    "school_id": "43375546",
+    "category": "Other stated profile",
+    "subcategory": "Reading emphasis, years 4–6",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3_43375546_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. stated reading emphasis in the middle years, as in the main run; Supported.",
+    "review_status": "Reviewed"
+  }
+]

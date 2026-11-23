@@ -1,0 +1,64 @@
+{
+  "school_unit_code": "71375812",
+  "school_name": "Vallentuna Internationella Montessoriskola",
+  "registered_url": "http://www.vallentunaims.se",
+  "attempted_at": "2026-10-21T09:22:52.258745+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.vallentunaims.se/",
+      "retrieved_at": "2026-10-21T09:22:58.501867+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vallentunaims.se",
+          "robots_url": "https://www.vallentunaims.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:53.808093+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.vallentunaims.se/",
+          "robots_url": "https://www.vallentunaims.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:55.435983+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "71375812_0.txt"
+    },
+    {
+      "source_url": "https://www.vallentunaims.se/om-skolan/en-del-av-montessori-sverige",
+      "retrieved_at": "2026-10-21T09:22:58.525958+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentunaims.se/om-skolan/en-del-av-montessori-sverige",
+          "robots_url": "https://www.vallentunaims.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:55.435983+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "71375812_1.txt"
+    },
+    {
+      "source_url": "https://www.vallentunaims.se/om-skolan/fritidshem",
+      "retrieved_at": "2026-10-21T09:22:58.546594+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentunaims.se/om-skolan/fritidshem",
+          "robots_url": "https://www.vallentunaims.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:55.435983+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "71375812_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

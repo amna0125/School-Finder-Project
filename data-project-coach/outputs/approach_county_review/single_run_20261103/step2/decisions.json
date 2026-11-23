@@ -1,0 +1,655 @@
+[
+ {
+  "sid": "90732940",
+  "o": "R",
+  "note": "Step 2 rule A: IES Bromma; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "97942210",
+  "o": "R",
+  "note": "Step 2 rule A: IES Huddinge; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "79093755",
+  "o": "R",
+  "note": "Step 2 rule A: IES Järfälla; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "82982309",
+  "o": "R",
+  "note": "Step 2 rule A: IES Kista; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "72624886",
+  "o": "R",
+  "note": "Step 2 rule A: IES Liljeholmen; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "74358019",
+  "o": "R",
+  "note": "Step 2 rule A: IES Nacka; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "63592981",
+  "o": "R",
+  "note": "Step 2 rule A: IES Sigtuna; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "98753011",
+  "o": "R",
+  "note": "Step 2 rule A: IES Sundbyberg; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "60904587",
+  "o": "R",
+  "note": "Step 2 rule A: IES Tyresö; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "62569730",
+  "o": "R",
+  "note": "Step 2 rule A: IES Värmdö; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "83584296",
+  "o": "R",
+  "note": "Step 2 rule A: IES Älvsjö; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "66161099",
+  "o": "R",
+  "note": "Step 2 rule A: IES Österåker; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "74482611",
+  "o": "R",
+  "note": "Step 2 rule A: IES Hässelby; provider states all IES schools are bilingual with up to half of teaching in English. Coded Supported from provider webpage.",
+  "ev": [
+   {
+    "url": "https://engelska.se/sv/vanliga-fragor/undervisning-och-larande/",
+    "q": "Upp till hälften av vår undervisning sker på engelska.",
+    "i": "Provider-wide bilingual model stated for all IES schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual Swedish/English (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Provider claim applied to unit per rule A; unit page not collected."
+   }
+  ]
+ },
+ {
+  "sid": "11442396",
+  "o": "R",
+  "note": "Step 2 rule A: Stockholm International Academy Hägersten; shared SIA site states language-developing work in all subjects and reading emphasis for SIA schools.",
+  "ev": [
+   {
+    "url": "https://siaskolan.se/fokus-pa-undervisningskvalitet/",
+    "q": "Vi tar stöd i forskning och har, under flera år, utvecklat vårt arbetssätt till att bli språkutvecklande i alla ämnen.",
+    "i": "Provider-wide language-developing approach for both SIA schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Other stated profile",
+      "Language-developing in all subjects (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Shared homepage covers Hägersten and Häggvik; rule A."
+   },
+   {
+    "url": "https://siaskolan.se/fokus-pa-undervisningskvalitet/",
+    "q": "Läsning är hjärtat i elevernas inlärning.",
+    "i": "Provider-wide reading emphasis (reading in all subjects, staffed libraries, scheduled reading).",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Other stated profile",
+      "Reading emphasis (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A."
+   }
+  ]
+ },
+ {
+  "sid": "83735665",
+  "o": "R",
+  "note": "Step 2 rule A: Stockholm International Academy Häggvik; shared SIA site states language-developing work in all subjects and reading emphasis for SIA schools.",
+  "ev": [
+   {
+    "url": "https://siaskolan.se/fokus-pa-undervisningskvalitet/",
+    "q": "Vi tar stöd i forskning och har, under flera år, utvecklat vårt arbetssätt till att bli språkutvecklande i alla ämnen.",
+    "i": "Provider-wide language-developing approach for both SIA schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Other stated profile",
+      "Language-developing in all subjects (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Shared homepage covers Hägersten and Häggvik; rule A."
+   },
+   {
+    "url": "https://siaskolan.se/fokus-pa-undervisningskvalitet/",
+    "q": "Läsning är hjärtat i elevernas inlärning.",
+    "i": "Provider-wide reading emphasis (reading in all subjects, staffed libraries, scheduled reading).",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Other stated profile",
+      "Reading emphasis (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A."
+   }
+  ]
+ },
+ {
+  "sid": "86758230",
+  "o": "R",
+  "note": "Step 2 rule A: Viktor Rydbergs skola Jarlaplan; foundation states \"Konst och vetenskap går hand i hand\" as guiding principle for its schools.",
+  "ev": [
+   {
+    "url": "https://vrskolor.se/om-oss/",
+    "q": "med ledorden ”Konst och vetenskap går hand i hand” och ”Hjärnan vill ha roligt”",
+    "i": "Foundation-wide guiding principle combining art and science.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Arts and creative learning",
+      "Art and science hand in hand (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A; unit-specific profiles (e.g. a music profile mentioned for Sundbyberg) not applied."
+   }
+  ]
+ },
+ {
+  "sid": "27181501",
+  "o": "R",
+  "note": "Step 2 rule A: Viktor Rydbergs skola Nacka; foundation states \"Konst och vetenskap går hand i hand\" as guiding principle for its schools.",
+  "ev": [
+   {
+    "url": "https://vrskolor.se/om-oss/",
+    "q": "med ledorden ”Konst och vetenskap går hand i hand” och ”Hjärnan vill ha roligt”",
+    "i": "Foundation-wide guiding principle combining art and science.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Arts and creative learning",
+      "Art and science hand in hand (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A; unit-specific profiles (e.g. a music profile mentioned for Sundbyberg) not applied."
+   }
+  ]
+ },
+ {
+  "sid": "79708334",
+  "o": "R",
+  "note": "Step 2 rule A: Viktor Rydbergs skola Sundbyberg; foundation states \"Konst och vetenskap går hand i hand\" as guiding principle for its schools.",
+  "ev": [
+   {
+    "url": "https://vrskolor.se/om-oss/",
+    "q": "med ledorden ”Konst och vetenskap går hand i hand” och ”Hjärnan vill ha roligt”",
+    "i": "Foundation-wide guiding principle combining art and science.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Arts and creative learning",
+      "Art and science hand in hand (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A; unit-specific profiles (e.g. a music profile mentioned for Sundbyberg) not applied."
+   }
+  ]
+ },
+ {
+  "sid": "55267088",
+  "o": "R",
+  "note": "Step 2 rule A: Täby Friskola Gribbylund; provider homepage states weekly dance for its pupils.",
+  "ev": [
+   {
+    "url": "https://tabyfriskola.se/",
+    "q": "Eleverna har dans på schemat varje vecka",
+    "i": "Provider states dance is a natural part of the school day at Täby Friskola, weekly for pupils.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Arts and creative learning",
+      "Weekly dance (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A; maths spets programme is Enhagen-only and not applied."
+   }
+  ]
+ },
+ {
+  "sid": "65545391",
+  "o": "R",
+  "note": "Step 2 rule A: Täby Friskola Hägernäs; provider homepage states weekly dance for its pupils.",
+  "ev": [
+   {
+    "url": "https://tabyfriskola.se/",
+    "q": "Eleverna har dans på schemat varje vecka",
+    "i": "Provider states dance is a natural part of the school day at Täby Friskola, weekly for pupils.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Arts and creative learning",
+      "Weekly dance (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A; maths spets programme is Enhagen-only and not applied."
+   }
+  ]
+ },
+ {
+  "sid": "72769342",
+  "o": "R",
+  "note": "Step 2 rule A: Täby Friskola Ljungmyr; provider homepage states weekly dance for its pupils.",
+  "ev": [
+   {
+    "url": "https://tabyfriskola.se/",
+    "q": "Eleverna har dans på schemat varje vecka",
+    "i": "Provider states dance is a natural part of the school day at Täby Friskola, weekly for pupils.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Arts and creative learning",
+      "Weekly dance (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A; maths spets programme is Enhagen-only and not applied."
+   }
+  ]
+ },
+ {
+  "sid": "47986219",
+  "o": "R",
+  "note": "Step 2 rule A: Futuraskolan International Rådan; provider states lessons in its Swedish-curriculum schools are bilingual.",
+  "ev": [
+   {
+    "url": "https://futuraskolan.se/",
+    "q": "Our lessons are carried out in a bilingual manner, utilising both English and Swedish.",
+    "i": "Provider-wide bilingual teaching for its Swedish-curriculum F–9 schools.",
+    "t": "Provider webpage",
+    "c": [
+     [
+      "Language, international, or intercultural profile",
+      "Bilingual English/Swedish (provider-wide)",
+      "S"
+     ]
+    ],
+    "cn": "Rule A; the English-only International School of Stockholm is a stated exception."
+   }
+  ]
+ },
+ {
+  "sid": "65487837",
+  "o": "U",
+  "why": "provider-level source only",
+  "note": "Step 2 rule A: not applied. Futuraskolan runs both bilingual schools and an English-only International School of Stockholm, so the provider claim cannot be assigned to this unit without its own page."
+ },
+ {
+  "sid": "78801570",
+  "o": "N",
+  "note": "Step 2 rule A: Raoul Wallenbergskolorna provider pages describe values, holistic development and a shared \"Klättringen mot toppen\" structure, but no approach in the seven categories; no provider-wide code."
+ },
+ {
+  "sid": "90879048",
+  "o": "N",
+  "note": "Step 2 rule A: Raoul Wallenbergskolorna provider pages describe values, holistic development and a shared \"Klättringen mot toppen\" structure, but no approach in the seven categories; no provider-wide code."
+ },
+ {
+  "sid": "43869172",
+  "o": "R",
+  "note": "Step 2 rule C: name and website match (Fredsborgskolan); accepted. Health & movement profile stated for the F–6 part.",
+  "ev": [
+   {
+    "q": "Genom vår profil Hälsa & Rörelse arbetar vi kontinuerligt med fysisk aktivitet och rörelse i olika former samt genom vår värdegrund för att bibehålla den goda kulturen på skolan.",
+    "i": "Health and movement profile (F–6).",
+    "c": [
+     [
+      "Support, inclusion, or wellbeing emphasis",
+      "Hälsa & Rörelse profile (F–6)",
+      "E"
+     ]
+    ],
+    "cn": "Profile stated for F–6; official unit spans 1–9."
+   }
+  ]
+ },
+ {
+  "sid": "36628382",
+  "o": "R",
+  "note": "Step 2 rule C: name matches (Iljansbodaskolan); accepted. Thematic work in NO/SO, stated for years 1–3; page may be dated.",
+  "ev": [
+   {
+    "q": "I NO/SO ämnen använder vi ett tematiskt arbetssätt för att stimulera eleverna till ett kreativt och undersökande arbetssätt för att kunna förstå sammanhang.",
+    "i": "Thematic, investigative work in science/social studies.",
+    "c": [
+     [
+      "Project- or inquiry-based learning",
+      "Thematic NO/SO work (years 1–3)",
+      "S"
+     ]
+    ],
+    "cn": "Year scope 1–3 and possibly dated page."
+   }
+  ]
+ },
+ {
+  "sid": "42912378",
+  "o": "R",
+  "note": "Step 2 rule C: statement is on Vinsta grundskola östra's own page; accepted. Culture and creativity via Skapande skola.",
+  "ev": [
+   {
+    "q": "Vi har ett tydligt fokus på kultur och kreativitet genom vårt arbete med Skapande skola.",
+    "i": "Culture/creativity focus via Skapande skola.",
+    "c": [
+     [
+      "Arts and creative learning",
+      "Skapande skola, culture and creativity",
+      "S"
+     ]
+    ],
+    "cn": "Statement follows text about both Vinsta units."
+   }
+  ]
+ },
+ {
+  "sid": "39130058",
+  "o": "B",
+  "why": "unit identity",
+  "note": "Step 2 rule C: name does not match (official name Montessoriskolan i Norrtälje vs directory Vigelsjö vs current page Lunden); kept as unit identity."
+ },
+ {
+  "sid": "13954336",
+  "o": "B",
+  "why": "unit identity",
+  "note": "Step 2 rule C: name does not match (official name Martinskolan Söders Waldorfskola vs directory resource-school name); kept as unit identity."
+ },
+ {
+  "sid": "40467992",
+  "o": "B",
+  "why": "unit identity",
+  "note": "Step 2 rule C: name does not match (official name is only the provider (Futuraskolan AB); unit link to Hertig Karl not verifiable); kept as unit identity."
+ },
+ {
+  "sid": "40978257",
+  "o": "B",
+  "why": "unit identity",
+  "note": "Step 2 rule C: name does not match (official name is only the provider (Futuraskolan AB); unit link to International School of Stockholm not verifiable); kept as unit identity."
+ },
+ {
+  "sid": "22472689",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 rule C: identity accepted (name matches), but the claim itself is under-specified; moved to step 3."
+ },
+ {
+  "sid": "29410344",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 rule C: identity accepted (name matches), but the claim itself is under-specified; moved to step 3."
+ },
+ {
+  "sid": "15968847",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 rule C: identity accepted (name matches), but the claim itself is under-specified; moved to step 3."
+ },
+ {
+  "sid": "32886383",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 rule C: identity accepted (name matches), but the claim itself is under-specified; moved to step 3."
+ },
+ {
+  "sid": "17165481",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 group D: claim under-specified rather than a scope issue; moved to step 3 as agreed."
+ },
+ {
+  "sid": "25090415",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 group D: claim under-specified rather than a scope issue; moved to step 3 as agreed."
+ },
+ {
+  "sid": "24146389",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 group D: claim under-specified rather than a scope issue; moved to step 3 as agreed."
+ },
+ {
+  "sid": "23617768",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 group D: claim under-specified rather than a scope issue; moved to step 3 as agreed."
+ },
+ {
+  "sid": "20054868",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 group D: claim under-specified rather than a scope issue; moved to step 3 as agreed."
+ },
+ {
+  "sid": "37556682",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 group D: claim under-specified rather than a scope issue; moved to step 3 as agreed."
+ },
+ {
+  "sid": "43375546",
+  "o": "U",
+  "why": "isolated / generic claim",
+  "note": "Step 2 group D: claim under-specified rather than a scope issue; moved to step 3 as agreed."
+ }
+]

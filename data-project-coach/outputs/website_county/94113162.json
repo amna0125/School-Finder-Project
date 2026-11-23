@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "94113162",
+  "school_name": "Österskärsskolan",
+  "registered_url": "http://www.osteraker.se",
+  "attempted_at": "2026-10-21T09:23:51.872725+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.osteraker.se/",
+      "retrieved_at": "2026-10-21T09:23:55.094766+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.osteraker.se",
+          "robots_url": "https://www.osteraker.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:00.417666+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.osteraker.se/",
+          "robots_url": "https://www.osteraker.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.898123+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "94113162_0.txt"
+    },
+    {
+      "source_url": "https://www.osteraker.se/subsite/pedagogcentrum.4.367d658917909e8fc2bb91.html",
+      "retrieved_at": "2026-10-21T09:23:55.128569+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.osteraker.se/subsite/pedagogcentrum.4.367d658917909e8fc2bb91.html",
+          "robots_url": "https://www.osteraker.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.898123+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "94113162_1.txt"
+    },
+    {
+      "source_url": "https://www.osteraker.se/subsite/pedagogosteraker.4.40523b741958b6adf74142c6.html",
+      "retrieved_at": "2026-10-21T09:23:55.151308+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.osteraker.se/subsite/pedagogosteraker.4.40523b741958b6adf74142c6.html",
+          "robots_url": "https://www.osteraker.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.898123+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "94113162_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

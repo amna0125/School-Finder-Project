@@ -1,0 +1,51 @@
+{
+  "school_unit_code": "77370320",
+  "school_name": "Ytterbyskolan",
+  "registered_url": "http://www.taby.se/ytterbyskolan",
+  "attempted_at": "2026-10-21T09:23:12.325496+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.taby.se/ytterbyskolan",
+      "retrieved_at": "2026-10-21T09:23:13.894288+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.taby.se/ytterbyskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:06.192175+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.taby.se/ytterbyskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:07.626534+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "77370320_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "en kommunal F–5-skola i Roslags Näsby i centrala Täby med cirka 280 elever. Hos oss utvecklas ditt barn i en trygg miljö med närhet till både natur och kultur. Här finns även Täby musikklasser.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "563e5e45234bb234a9c55a3ff4e0f8c1a2ccc6c6c3ff738d4af87a3fca25e420",
+      "school_unit_code": "77370320",
+      "school_name": "Ytterbyskolan",
+      "source_url": "https://www.taby.se/ytterbyskolan",
+      "retrieved_at": "2026-10-21T09:23:13.894288+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

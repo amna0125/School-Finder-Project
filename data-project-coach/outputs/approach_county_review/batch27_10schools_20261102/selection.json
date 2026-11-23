@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "41955701",
+    "official_directory_name": "Järvastadens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "www.solna.se",
+    "note": ""
+  },
+  {
+    "school_id": "42149666",
+    "official_directory_name": "Husbygårdsskolan F-9",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/husbygardsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "42179975",
+    "official_directory_name": "Farsta Strandsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.mavatterosen.se",
+    "note": ""
+  },
+  {
+    "school_id": "42202683",
+    "official_directory_name": "Kungsholmens friskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.kungsholmens-friskola.se",
+    "note": ""
+  },
+  {
+    "school_id": "42215279",
+    "official_directory_name": "S:t Pers skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sigtuna.se/stpersskola",
+    "note": ""
+  },
+  {
+    "school_id": "42328518",
+    "official_directory_name": "Franska Skolan/Ecole francaise",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.franskaskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "42434583",
+    "official_directory_name": "Brunns skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.varmdo.se",
+    "note": ""
+  },
+  {
+    "school_id": "42601396",
+    "official_directory_name": "Trångsundsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.huddinge.se/trangsundsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "42912378",
+    "official_directory_name": "Vinsta grundskola östra",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-ostra",
+    "note": ""
+  },
+  {
+    "school_id": "42986451",
+    "official_directory_name": "Fribergaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.danderyd.se/skolor/fribergaskolan/",
+    "note": ""
+  }
+]

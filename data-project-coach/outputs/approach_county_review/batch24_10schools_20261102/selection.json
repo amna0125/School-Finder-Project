@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "39130058",
+    "official_directory_name": "Montessoriskolan Vigelsjö",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.montessoriskolan.nu",
+    "note": ""
+  },
+  {
+    "school_id": "39171821",
+    "official_directory_name": "Örbyskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/orbyskolan",
+    "note": ""
+  },
+  {
+    "school_id": "39195819",
+    "official_directory_name": "Sanduddens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.ekero.se/sanduddensskola",
+    "note": ""
+  },
+  {
+    "school_id": "39229061",
+    "official_directory_name": "Östra grundskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.huddinge.se/ostragrundskolan",
+    "note": ""
+  },
+  {
+    "school_id": "39351914",
+    "official_directory_name": "Norrsundsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.norrtalje.se",
+    "note": ""
+  },
+  {
+    "school_id": "39453214",
+    "official_directory_name": "Sofiebergsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.tyreso.se",
+    "note": ""
+  },
+  {
+    "school_id": "39568857",
+    "official_directory_name": "Berghemskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarfalla.se",
+    "note": ""
+  },
+  {
+    "school_id": "39907811",
+    "official_directory_name": "Sofielundsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sollentuna.se/sv/uweb/sofielundsskolan/",
+    "note": ""
+  },
+  {
+    "school_id": "39923451",
+    "official_directory_name": "Sverigefinska skolan i Kista",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sverigefinskaskolanikista.se",
+    "note": ""
+  },
+  {
+    "school_id": "40175889",
+    "official_directory_name": "Soldalaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sodertalje.se/soldalaskolan",
+    "note": ""
+  }
+]

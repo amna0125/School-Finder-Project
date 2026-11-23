@@ -1,0 +1,7 @@
+{
+  "status": "COLLECTION_IN_PROGRESS",
+  "schools": 10,
+  "selection_basis": "after_batch26 ledger excluding ten selected/staged Batch27 IDs; not a county checkpoint",
+  "database_loaded": false,
+  "county_checkpointed": false
+}

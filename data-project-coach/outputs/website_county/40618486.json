@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "40618486",
+  "school_name": "Råsunda skola",
+  "registered_url": "http://solna.se",
+  "attempted_at": "2026-10-21T09:21:25.870059+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.solna.se/",
+      "retrieved_at": "2026-10-21T09:21:33.963282+00:00",
+      "robots_checks": [
+        {
+          "url": "http://solna.se",
+          "robots_url": "https://www.solna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:27.277017+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.solna.se/",
+          "robots_url": "https://www.solna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:22.473056+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "40618486_0.txt"
+    },
+    {
+      "source_url": "https://www.solna.se/barn--utbildning/forskola/hitta-forskola-och-pedagogisk-omsorg",
+      "retrieved_at": "2026-10-21T09:21:34.201619+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.solna.se/barn--utbildning/forskola/hitta-forskola-och-pedagogisk-omsorg",
+          "robots_url": "https://www.solna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:22.473056+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "40618486_1.txt"
+    },
+    {
+      "source_url": "https://www.solna.se/barn--utbildning/forskola/hitta-forskola-och-pedagogisk-omsorg/andante-forskola---tornbacken",
+      "retrieved_at": "2026-10-21T09:21:34.317439+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.solna.se/barn--utbildning/forskola/hitta-forskola-och-pedagogisk-omsorg/andante-forskola---tornbacken",
+          "robots_url": "https://www.solna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:22.473056+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "40618486_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

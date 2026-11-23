@@ -1,0 +1,76 @@
+{
+  "school_unit_code": "87382179",
+  "school_name": "Väringaskolans föräldraförening",
+  "registered_url": "http://www.varingaskolan.se",
+  "attempted_at": "2026-10-21T09:23:37.110182+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://varingaskolan.se/",
+      "retrieved_at": "2026-10-21T09:23:50.079332+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.varingaskolan.se",
+          "robots_url": "https://varingaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:41.760673+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.varingaskolan.se/",
+          "robots_url": "https://varingaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:44.913561+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://varingaskolan.se/",
+          "robots_url": "https://varingaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:47.361627+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "87382179_0.txt"
+    },
+    {
+      "source_url": "https://varingaskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:23:50.142314+00:00",
+      "robots_checks": [
+        {
+          "url": "https://varingaskolan.se/om-oss/",
+          "robots_url": "https://varingaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:47.361627+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "87382179_1.txt"
+    },
+    {
+      "source_url": "https://varingaskolan.se/om-oss/var-vision/",
+      "retrieved_at": "2026-10-21T09:23:50.169319+00:00",
+      "robots_checks": [
+        {
+          "url": "https://varingaskolan.se/om-oss/var-vision/",
+          "robots_url": "https://varingaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:47.361627+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "87382179_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

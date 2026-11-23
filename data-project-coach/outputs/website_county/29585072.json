@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "29585072",
+  "school_name": "Innovitaskolan Enskede",
+  "registered_url": "https://innovitaskolan.se/enskede/",
+  "attempted_at": "2026-10-21T09:15:50.570752+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://innovitaskolan.se/enskede/",
+      "retrieved_at": "2026-10-21T09:15:54.284499+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/enskede/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29585072_0.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/enskede/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:54.300071+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/enskede/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29585072_1.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/enskede/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:15:54.318518+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/enskede/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29585072_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "s 1–6 arbetar en legitimerad lärare. Under delar av dagen finns också en fritidssamverkare med i klassrummet. På skolan finns det även lärare i slöjd, bild, språk, teknik, idrott, musik och hemkunskap.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "2d3bbb17ae284d66dfccaebe16f1bb73cf49779c55ce8d40b1e23a79896ce64c",
+      "school_unit_code": "29585072",
+      "school_name": "Innovitaskolan Enskede",
+      "source_url": "https://innovitaskolan.se/enskede/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:15:54.300071+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

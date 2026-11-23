@@ -1,0 +1,17 @@
+{
+  "school_id": "45882318",
+  "school_name": "Töjnaskolan",
+  "registered_url": "http://www.edu.sollentuna.se/ton/",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.edu.sollentuna.se/ton/",
+      "error": "[Errno -2] Name does not resolve",
+      "attempted_at": "2026-10-21T17:35:14.403221+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

@@ -1,0 +1,46 @@
+version: 2
+
+models:
+  - name: stg_schools
+    description: "One row per school unit in the county review. No staff names, e-mails or phone numbers."
+    columns:
+      - name: school_id
+        tests: [unique, not_null]
+      - name: municipality_name
+        tests: [not_null]
+      - name: organizer_type
+        tests:
+          - accepted_values: {arguments: {values: ['municipal', 'independent']}}
+  - name: stg_statistics
+    description: "Skolverket statistics with a readable value status per value."
+    columns:
+      - name: value_status
+        tests:
+          - not_null
+          - accepted_values: {arguments: {values: ['reported', 'estimate', 'few_pupils', 'rounded', 'teachers_excluded', 'not_reported']}}
+      - name: period
+        tests: [not_null]
+  - name: stg_review_labels
+    columns:
+      - name: school_id
+        tests:
+          - unique
+          - not_null
+          - relationships: {arguments: {to: ref('stg_schools'), field: school_id}}
+  - name: stg_approach_codes
+    columns:
+      - name: code_id
+        tests: [unique, not_null]
+      - name: coding_level
+        tests:
+          - accepted_values: {arguments: {values: ['E', 'S']}}
+      - name: quoted_text
+        tests: [not_null]
+      - name: school_id
+        tests:
+          - relationships: {arguments: {to: ref('stg_schools'), field: school_id}}
+  - name: stg_survey
+    columns:
+      - name: respondent_group
+        tests:
+          - accepted_values: {arguments: {values: ['parents', 'ak5', 'ak8']}}

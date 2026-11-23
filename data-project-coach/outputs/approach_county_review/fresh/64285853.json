@@ -1,0 +1,72 @@
+{
+  "school_id": "64285853",
+  "school_name": "Duvnäs skola",
+  "registered_url": "http://www.duvnas.nacka.se",
+  "pages": [
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/duvnas-skola/",
+      "source_url": "https://www.nacka.se/valfard-skola/duvnas-skola/",
+      "page_title": "Duvnäs skola | Nacka kommun",
+      "accessed_at": "2026-10-21T17:39:04.222964+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "64285853_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/duvnas-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:02.860105+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/duvnas-skola/om-oss/",
+      "source_url": "https://www.nacka.se/valfard-skola/duvnas-skola/om-oss/",
+      "page_title": "Om oss | Nacka kommun",
+      "accessed_at": "2026-10-21T17:39:05.007213+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "64285853_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/duvnas-skola/om-oss/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:02.860105+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/duvnas-skola/pedagogisk-inriktning/",
+      "source_url": "https://www.nacka.se/valfard-skola/duvnas-skola/pedagogisk-inriktning/",
+      "page_title": "Pedagogisk inriktning | Nacka kommun",
+      "accessed_at": "2026-10-21T17:39:05.850698+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "64285853_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/duvnas-skola/pedagogisk-inriktning/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:02.860105+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

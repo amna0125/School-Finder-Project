@@ -1,0 +1,64 @@
+"""One-time Batch19 staging; saved public source review, no network writes."""
+from pathlib import Path
+from datetime import datetime,timezone
+import csv,json,re,html,hashlib
+import duckdb
+from outputs.approach_county_review.extract19 import parse
+from school_pipeline.approach_migration import validate_records
+P=Path('outputs/approach_county_review');B=P/'batch19_10schools_20261030';S=B/'sources';D='2026-10-30'
+assert not (B/'Approach_evidence.staged.json').exists()
+def dump(n,v):(B/n).write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
+def title(n):return html.unescape(re.search(r'<title[^>]*>(.*?)</title>',(S/(n+'.html')).read_text(),re.I|re.S)[1]).strip()
+u={
+'gustav':'https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/gustav-vasaskolan',
+'maso':'https://masoskolan.haninge.se/','maso_method':'https://masoskolan.haninge.se/sa-har-jobbar-vi/','maso_development':'https://masoskolan.haninge.se/sa-har-jobbar-vi/utveckling-av-amnesundervisningen/',
+'isk':'https://internationalschoolofkungsholmen.com/','isk_pyp':'https://internationalschoolofkungsholmen.com/primary-years-pyp/',
+'sandvik':'https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/viksjo/sandvikskolan.4.36ac70f31639ecd947f2f5c.html',
+'smedslatt':'https://grundskola.stockholm/hitta-grundskola/grundskola/smedslattsskolan',
+'rasunda':'https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/rasunda-centralskola',
+'nytida':'https://nytida.se/verksamheter/nytorpsskolan/','mondial':'https://montessorimondial.se/nacka/','mondial_method':'https://montessorimondial.se/nacka/montessoripedagogiken/',
+'blombacka':'https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor/blombackaskolan/',
+'furuborg':'https://nykvarn.se/barn-och-utbildning/grundskola/vara-skolor/furuborgskolan','furuborg_method':'https://nykvarn.se/barn-och-utbildning/grundskola/vara-skolor/furuborgskolan/var-verksamhet'}
+e=[];c=[]
+def add(sid,n,q,note,cat=None,sub=None):
+ assert q in parse(S/(n+'.html'))[0],(n,q)
+ eid=f'ae_b19_{sid}_{sum(x["school_id"]==sid for x in e)+1:02}'
+ e.append(dict(evidence_id=eid,school_id=sid,source_url=u[n],page_title=title(n),accessed_date=D,quoted_text=q,evidence_type='School/provider self-description',interpretation_note=note))
+ if cat:c.append(dict(code_id=f'ac_b19_{sid}_{sum(x["school_id"]==sid for x in c)+1:02}',school_id=sid,category=cat,subcategory=sub,coding_level='Explicit',confidence='High',evidence_id=eid,coder_note='Assistant contextual review, codebook v1, 2026-10-30. '+note+' School claim, not independently verified practice.',review_status='Reviewed'))
+add('33565539','gustav','Med naturen runt hörnet får våra elever en utemiljö som ger bästa förutsättningar för rörelse och återhämtning.','Proximity and outdoor recreation, not substantive outdoor instruction. Scoped review of about-school/fritids/EHT; no firm code. Page F–9 vs official1–6 discrepancy unresolved; Vallentuna, not Stockholm Gustav Vasa skola.')
+add('33624606','maso_method','På Måsöskolan arbetar arbetslagen nära elevhälsoteamet.','Ordinary school support/results/parent cooperation, insufficient for distinctive support emphasis. Homepage and methods/development pages reviewed; development page contains no substantive method text. Municipality-wide year8 Utö news excluded from local1–6 interpretation.')
+add('33733966','isk','The language of instruction for the International School of Kungsholmen is solely in English and adheres to an international curriculum.','International English-language curriculum across stated school provision; PYP ages5–12 and MYP13–16. IB authorization is school self-description, not independently checked.','Language, international, or intercultural profile','English-language international curriculum')
+add('33733966','isk_pyp','In PYP 6, the end of the PYP program, the students will investigate and inquire into a topic of their choosing.','PYP-only inquiry approach: page also describes five-week transdisciplinary units each PYP grade, concepts and inquiry skills. Exhibition specifically PYP6, not all grades/MYP. Ages5–12 on homepage include provision outside official1–9; do not automatically extend.','Project- or inquiry-based learning','PYP inquiry; exhibition in PYP6')
+add('33794207','sandvik','Utöver detta har skolan anpassad grundskola, resursklasser, fritidshem och fritidsklubb.','Co-located provisions, not a whole-mainstream-unit support pedagogy. Reviewed municipal school description/contact/facts; no school-specific methods link found. Resource-class and adapted-school unit scope unresolved; no firm code.')
+add('33922950','smedslatt','Vi arbetar med olika Erasmusprojekt, vilket är ett europeiskt utbytesprogram.','Insufficient project detail/population scope for a distinctive international teaching profile. Outdoor spaces described as play/fritids; ordinary values not a profile. Stockholm robots response has control-byte parsing uncertainty; no further collection pending clarification. No code; permission follow-up remains.')
+add('33951941','rasunda','Organisationen är modern med eleven i centrum.','Generic organisation/knowledge/safety statement; annual safety activities explicitly Solna-wide, excluded as distinctive profile. Reviewed school facts/about/learning environment/safety; school7–9, not Råsunda skolaF–6. No firm code.')
+add('34125463','nytida','Vi vänder oss till elever med neuropsykiatriska funktionsnedsättningar, såsom autism och ADHD, som behöver en mindre, mer anpassad och resursstark skolmiljö för att lyckas i sin skolgång.','Explicit resource-school1–9 support setting with predictable structured day, adapted pace and individual/group instruction. Provider also mentions adapted-school admissions; do not transfer populations or claim verified effectiveness.','Support, inclusion, or wellbeing emphasis','Resource school; autism and ADHD support')
+add('34125463','nytida','Undervisningen sker i små grupper om cirka 6–10 elever.','Self-reported approximate teaching-group size on2026-10-30; group/individual teaching and one/two pedagogues described. Not an official comparable class-size metric or pupils-per-teacher ratio; precise population scope requires review.')
+add('34135484','mondial','På Montessori Mondial Nacka arbetar vi enligt montessoripedagogiken från förskolan ända upp till nionde klass.','Explicit named Montessori pedagogy; analytical school scope official1–9, exclude preschool. Research/results language not verified or causal evidence. Guessed detail URL404, not evidence.','Alternative pedagogy','Montessori')
+add('34148887','blombacka','Vi värdesätter nyfikenhet och kreativitet, och våra pedagoger leder klassrummet med både kunskap och engagemang.','Generic creativity/quality language, not substantive arts approach. Outdoor play/rörelse not outdoor teaching. Reviewed full municipal core school description/values/environment; no substantive local methods link. No firm code.')
+add('34225123','furuborg_method','På våra fritidshem har vi många aktiviteter.','Creative film/music/art examples and daily outdoor time explicitly fritids, not compulsory classroom profile. Reviewed school homepage and verksamhet/elevinflytande; ordinary councils and modersmål not distinctive profile. Adapted school not merged into mainstream unit. No firm code.')
+selection=json.loads((P/'next_batch_after_batch18.json').read_text());ids=[x['school_id'] for x in selection]
+assert len(ids)==len(set(ids))==10
+old=list(csv.DictReader((P/'county_progress_20261030_after_batch18.csv').open()));assert ids==[x['school_id'] for x in sorted((r for r in old if r['review_state']=='Not yet contextually reviewed'),key=lambda x:x['school_id'])[:10]]
+with duckdb.connect('.state/schools.duckdb',read_only=True) as db:
+ cols=['school_unit_code','name','municipality_code','grades_json','website'];meta=[dict(zip(cols,r)) for r in db.execute('select '+','.join(cols)+' from schools where school_unit_code in ('+','.join('?' for _ in ids)+') order by school_unit_code',ids).fetchall()]
+assert [x['school_unit_code'] for x in meta]==ids
+validate_records(e,c)
+pages={'33565539':['gustav'],'33624606':['maso','maso_method','maso_development'],'33733966':['isk','isk_pyp'],'33794207':['sandvik'],'33922950':['smedslatt'],'33951941':['rasunda'],'34125463':['nytida'],'34135484':['mondial','mondial_method'],'34148887':['blombacka'],'34225123':['furuborg','furuborg_method']}
+notes={sid:' '.join(x['interpretation_note'] for x in e if x['school_id']==sid) for sid in ids}
+review=[];logs=[]
+for r in selection:
+ sid=r['school_id'];nc=sum(x['school_id']==sid for x in c);out='Reviewed claim' if nc else ('Permission uncertainty; requires review' if sid=='33922950' else 'Scoped no clear evidence')
+ review.append(dict(school_id=sid,school_name=r['official_directory_name'],outcome=out,evidence_count=sum(x['school_id']==sid for x in e),code_count=nc,unit_scope=notes[sid],follow_up=notes[sid] if sid in ['33565539','33733966','33794207','33922950','34125463'] else 'Claims not independently verified; re-review if substantive source changes.',reviewer='Assistant contextual review; not independent verification',accessed_date=D,load_state='Staged, not loaded'))
+ for n in pages[sid]:
+  logs.append(dict(school_id=sid,registered_url=r['registered_url'],selected_url=u[n],page_title=title(n),accessed_date=D,status=404 if n=='mondial_method' else 200,saved_file='sources/'+n+'.html',selection_rationale='Current public official school/provider page matching school/locality/grades; registry roots/obsolete URLs not assumed successfully tested.',scope=notes[sid],outcome=out,exclusions='No login/admin/application/social/children-gallery collection. Minimal quotations; staff contact text in raw HTML not extracted to analytical tables.',permissions='Robots saved before collection; standard administrative exclusions avoided. Stockholm control-byte response unresolved; terms not exhaustively reviewed, no general licence inferred. ISK www robots TLS mismatch not bypassed; valid non-www host used.'))
+dump('selection.json',selection);dump('official_selection_metadata.json',meta);dump('Approach_evidence.staged.json',e);dump('Approach_codes.staged.json',c)
+with (B/'review_log.csv').open('w',newline='') as f:
+ w=csv.DictWriter(f,fieldnames=review[0].keys());w.writeheader();w.writerows(review)
+(B/'collection_log.jsonl').write_text(''.join(json.dumps(x,ensure_ascii=False)+'\n' for x in logs))
+dump('source_manifest.json',[dict(file=f.name,bytes=f.stat().st_size,sha256=hashlib.sha256(f.read_bytes()).hexdigest()) for f in sorted(S.iterdir()) if f.is_file()])
+dump('validation.json',dict(schema_valid=True,exact_quote_matches=len(e),quote_match_scope='Own saved page normalized by HTMLParser, not another page.',evidence=len(e),codes=len(c),schools=10,validated_at=datetime.now(timezone.utc).isoformat(),source_access_date_basis='Recorded public fetches on2026-10-30, not page-update/load dates.'))
+(B/'decision_log.md').write_text('# Batch19 contextual decisions\n\nAssistant review2026-10-30, controlled codebook v1 unchanged. School claims, not verified practice.\n\n'+'\n'.join('- '+r['school_id']+' '+r['official_directory_name']+': '+notes[r['school_id']] for r in selection)+'\n\nScoped review: official school main/about/pedagogy/education/profile/creative/arts/learning/values sections and relevant linked methods pages where available; Swedish equivalents om oss, pedagogik, undervisning, profil, kreativ, estetisk, lärande, värdegrund. No-clear-evidence is limited to logged pages, not absence county-wide. Search snippets only discovery.\n\nAccess: www ISK robots certificate mismatch; no bypass, valid non-www robots200 used. Stockholm malformed/control-byte robots uncertainty retained, no further request. Montessori guessed detail404 logged. Gustav municipal old path redirected to saved current URL; Nytida registered path redirected to verksamheter; Nykvarn www robots redirected non-www. Other successful current URLs do not establish registered URL status. Terms not exhaustively reviewed; minimal quotations only.\n')
+(B/'REPORT.md').write_text('# Batch19\n\nTen official-ID-ordered pending units reviewed: 3 schools with reviewed claims (4 codes), 6 scoped no-clear-evidence outcomes, 1 permission-uncertain review. 12 evidence records. All uncertainty and unit scopes remain in review_log.csv/decision_log.md. Not representative; no quality or causal judgments. Staging validated, not yet loaded/reconciled.\n')
+dump('batch_status.json',dict(status='STAGED_VALIDATED_NOT_LOADED',schools=10,evidence=len(e),codes=len(c),date=D))
+print(json.dumps(dict(schools=10,evidence=len(e),codes=len(c),exact_quotes=len(e))))

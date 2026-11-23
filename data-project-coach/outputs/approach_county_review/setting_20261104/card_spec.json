@@ -1,0 +1,20 @@
+{
+ "decided": "2026-11-09/10 with Amna",
+ "show": [
+  "fritidshem_registered",
+  "green_surroundings = green_space_300m band + share, with nature_nearby_stated quote under it when the school makes one",
+  "food_cooked_on_site",
+  "food_sustainable_or_vegetarian_focus",
+  "facility_sports_hall",
+  "facility_arts_or_science_rooms",
+  "premises_new_or_renovated (show accessed_date)",
+  "schoolyard_described"
+ ],
+ "hidden_kept_in_db": [
+  "forest_300m",
+  "water_300m",
+  "green_space_500m"
+ ],
+ "pending": [],
+ "website_blank_means": "not stated on pages read"
+}

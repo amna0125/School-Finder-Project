@@ -1,0 +1,1 @@
+{"robots_url": "https://vasterholm.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:21:18.737084+00:00", "state": "parsed", "crawl_delay": 0, "body": "\nUser-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://vasterholm.se/wp-sitemap.xml\n"}

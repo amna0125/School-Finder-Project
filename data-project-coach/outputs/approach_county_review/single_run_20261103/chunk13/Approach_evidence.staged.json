@@ -1,0 +1,182 @@
+[
+  {
+    "evidence_id": "ae_sr_80612612_01",
+    "school_id": "80612612",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan",
+    "page_title": "Kristinebergsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Kristinebergsskolan inspireras av Reggio Emilia filosofin.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Reggio Emilia-inspired."
+  },
+  {
+    "evidence_id": "ae_sr_80612612_02",
+    "school_id": "80612612",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan",
+    "page_title": "Kristinebergsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Kristinebergsskolan har fått Skolverkets utmärkelse ”Skola för hållbar utveckling”' för framgångsrikt arbete med lärande för hållbar utveckling.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Sustainability profile with national award."
+  },
+  {
+    "evidence_id": "ae_sr_80731562_01",
+    "school_id": "80731562",
+    "source_url": "https://www.jensengrundskola.se/kvarnsjon",
+    "page_title": "JENSEN grundskola Kvarnsjön | Jensen Grundskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vår skola präglas av studier i fokus, trygghet och studiero. Skolan har också en tydlig hälsoprofil.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Stated health profile."
+  },
+  {
+    "evidence_id": "ae_sr_80731562_02",
+    "school_id": "80731562",
+    "source_url": "https://www.jensengrundskola.se/kvarnsjon",
+    "page_title": "JENSEN grundskola Kvarnsjön | Jensen Grundskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi är en traditionell skola fri från trender.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Traditional teacher-led profile."
+  },
+  {
+    "evidence_id": "ae_sr_80746043_01",
+    "school_id": "80746043",
+    "source_url": "https://ribbybergsskolan.haninge.se/var-skola/om-skolan/",
+    "page_title": "Om skolan - Ribbybergsskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi arbetar med tidig läsutveckling och språklig medvetenhet, där bland annat Bornholmsmodellen används.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named early-literacy method."
+  },
+  {
+    "evidence_id": "ae_sr_80752058_01",
+    "school_id": "80752058",
+    "source_url": "https://www.jensengrundskola.se/steninge",
+    "page_title": "JENSEN grundskola Steninge | Jensen Grundskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi är en traditionell skola fri från trender.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Traditional teacher-led profile."
+  },
+  {
+    "evidence_id": "ae_sr_81266343_01",
+    "school_id": "81266343",
+    "source_url": "https://www.kunskapsskolan.se/skolor/tyreso",
+    "page_title": "Kunskapsskolan Tyresö",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Därför har vi skapat en utbildning som är personligt utformad.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Provider model stated on school page: personalised education."
+  },
+  {
+    "evidence_id": "ae_sr_81396509_01",
+    "school_id": "81396509",
+    "source_url": "https://innovitaskolan.se/banerporten/om/grundskola/",
+    "page_title": "Vår grundskola | Innovitaskolan Banérporten | Om skolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "I våra lägre årskurser undervisas barnen i halvklass större delen av dagen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Organisational feature supporting literacy."
+  },
+  {
+    "evidence_id": "ae_sr_81453817_01",
+    "school_id": "81453817",
+    "source_url": "https://www.larandegrundskola.se/larandemodellen",
+    "page_title": "Lärandemodellen | Lärande Grundskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Därför arbetar vi med ämnesövergripande uppdrag där eleverna tillsammans med lärarna aktivt söker kunskap och där det alltid finns en mottagare för det eleverna gör.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Year-round cross-subject assignments with real recipients."
+  },
+  {
+    "evidence_id": "ae_sr_81857869_01",
+    "school_id": "81857869",
+    "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/skarsatra-skola/",
+    "page_title": "Skärsätra skola F-6 - Lidingö",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vårt arbetssätt baseras på relevant forskning, i huvudsak Universal Design for Learning (UDL), som ger oss kunskap och verktyg att vara trygga och tydliga ledare.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named inclusive-design framework."
+  },
+  {
+    "evidence_id": "ae_sr_81903519_01",
+    "school_id": "81903519",
+    "source_url": "https://www.huddinge.se/langsjoskolan/om-skolan",
+    "page_title": "Om Långsjöskolan | Huddinge kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Genom PAX arbetar vi för att skapa studiero, trygghet och positiva relationer.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named programme."
+  },
+  {
+    "evidence_id": "ae_sr_82110758_01",
+    "school_id": "82110758",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagsatraskolan",
+    "page_title": "Hagsätraskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi arbetar också aktivt med värdegrundsfrågor utifrån olika modeller som Mentorer i våldsprevention och Agera.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named prevention models."
+  },
+  {
+    "evidence_id": "ae_sr_82212978_01",
+    "school_id": "82212978",
+    "source_url": "https://www.stockholmsmontessoriskola.se/",
+    "page_title": "Stockholms Montessoriskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Montessoripedagogik där även fritidshemmets verksamhet genomsyras av denna pedagogik.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Montessori pedagogy including fritids."
+  },
+  {
+    "evidence_id": "ae_sr_82408375_01",
+    "school_id": "82408375",
+    "source_url": "https://montessorimondial.se/kista/",
+    "page_title": "Montessori Mondial Kista | Med nyfikenhet som drivkraft",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På Montessori Mondial Kista arbetar vi efter montessoripedagogiken.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Montessori."
+  },
+  {
+    "evidence_id": "ae_sr_82757734_01",
+    "school_id": "82757734",
+    "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/viksjo/lundskolan.4.68b113ac1639744b3628dec1.html",
+    "page_title": "Lundskolan - Järfälla kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Lundskolans naturnära läge ger oss fina möjligheter att bedriva undervisning i olika ämnen utomhus, särskilt gynnas natur- och miljöundervisningen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Outdoor teaching opportunities."
+  },
+  {
+    "evidence_id": "ae_sr_82854505_01",
+    "school_id": "82854505",
+    "source_url": "https://martinskolan.se/grundskola",
+    "page_title": "Martinskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Skolan har en waldorfpedagogisk inriktning med starkt fokus på en bred bildning utifrån waldorfskolans kompletterande läroplan ”En väg till frihet”.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Waldorf."
+  },
+  {
+    "evidence_id": "ae_sr_82962565_01",
+    "school_id": "82962565",
+    "source_url": "https://www.huddinge.se/horningsnasskolan/om-skolan",
+    "page_title": "Om Hörningsnässkolan | Huddinge kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På Hörningsnässkolan bygger vårt arbete på övertygelsen att barn gör rätt om de kan.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Shared supportive stance."
+  },
+  {
+    "evidence_id": "ae_sr_82982309_01",
+    "school_id": "82982309",
+    "source_url": "https://engelska.se/sv/",
+    "page_title": "Internationella Engelska Skolan – En trygg skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Network-level bilingual profile; unit not confirmed."
+  }
+]

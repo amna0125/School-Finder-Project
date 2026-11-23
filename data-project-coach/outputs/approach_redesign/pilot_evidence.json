@@ -1,0 +1,42 @@
+[
+  {
+    "evidence_id": "ae_d5f111dc9fd722ed76d715bf",
+    "school_id": "23498302",
+    "source_url": "https://www.stockholmsmontessoriskola.se/",
+    "page_title": "Stockholms Montessoriskola",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Skolan bedriver Montessoripedagogik där även fritidshemmets verksamhet genomsyras av denna pedagogik.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Shared site explicitly names Anne Frank (4–6) and Färgargårdstorget (F–3); statement covers both. Prior register year-range discrepancy remains unresolved. School self-description, not independently verified practice. Source access confirmed in saved county checkpoint; title recovered from same-URL saved HTML. Coding interpretation: Alternative pedagogy / Montessori."
+  },
+  {
+    "evidence_id": "ae_563ad5815adecb2455cb636f",
+    "school_id": "36066067",
+    "source_url": "https://lillaakademien.se/grundskola",
+    "page_title": "Musikskolan Lilla Akademien | Grundskola",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Musikskolan Lilla Akademien är en unik speciellt utformad musikskola, där en omfattande och gedigen musikutbildning integreras med grundskolans olika ämnen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Grundskola-specific page; active GR directory maps name to 36066067. Existing detail-derived database name says Musikgymnasium: unresolved source-name conflict, not silently corrected. School self-description, not independently verified practice. Source access confirmed in saved county checkpoint; title recovered from same-URL saved HTML. Coding interpretation: Arts and creative learning / Music."
+  },
+  {
+    "evidence_id": "ae_fba582b443b973ef43a0945c",
+    "school_id": "98760751",
+    "source_url": "https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/",
+    "page_title": "Pedagogiken som konst - Kristofferskolan",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Waldorfpedagogik bygger på en helhetssyn på världen och människan.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "School-wide pedagogy description on shared grundskola/gymnasium site; not a class-specific observation. School self-description, not independently verified practice. Source access confirmed in saved county checkpoint; title recovered from same-URL saved HTML. Coding interpretation: Alternative pedagogy / Waldorf/Steiner."
+  },
+  {
+    "evidence_id": "ae_03d349a22c02745168a98608",
+    "school_id": "98760751",
+    "source_url": "https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/",
+    "page_title": "Pedagogiken som konst - Kristofferskolan",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Konsten utgör ett förhållningssätt som genomsyrar alla ämnen, även själva undervisningen är att betrakta som en konst.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "School-wide description of Waldorf pedagogy; shared grundskola/gymnasium site. Does not establish independent arts-specialist accreditation. School self-description, not independently verified practice. Source access confirmed in saved county checkpoint; title recovered from same-URL saved HTML. Coding interpretation: Arts and creative learning / Arts integration."
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "file": "apollonios.html",
+    "bytes": 775651,
+    "sha256": "6a001dc0d4ffb881fed9403f1f4c16ae61fd53d691fd957f1f93355702259764"
+  },
+  {
+    "file": "apollonios_about.html",
+    "bytes": 538956,
+    "sha256": "a3b9978afe70525e8071c832a32851b8368b3c3b086100ecda2cb35b29854663"
+  },
+  {
+    "file": "apollonios_teaching.html",
+    "bytes": 541675,
+    "sha256": "7617bb001c4000cfc32e25aebf0ad2047ef5a1351ce07d313c93ec7b196c8e3e"
+  },
+  {
+    "file": "appelvik.html",
+    "bytes": 143479,
+    "sha256": "8ff3344247103dac64a5bd7193e41778205ff81845d24f89a4ffe2a06f0135fc"
+  },
+  {
+    "file": "eklid.html",
+    "bytes": 313309,
+    "sha256": "3ae4bbcdb7072a7310191e887802ad4ade74d1c6f6ee1492c2c7feaff1f67c29"
+  },
+  {
+    "file": "eklid_current.html",
+    "bytes": 369633,
+    "sha256": "cb49dfff9b28bc761fa0e3f0e96b7c669c9f6d435118695e903d6782e995a8be"
+  },
+  {
+    "file": "eklid_official.json",
+    "bytes": 1487,
+    "sha256": "7ac3b7f83705ef4ee7fd22010ca0498cec61a7938f8e8ec1720699bf0d4516b4"
+  },
+  {
+    "file": "galax.html",
+    "bytes": 79388,
+    "sha256": "65f7bb6edd05e3f280d6990b710194509d05536c4829750e129090371a1a0e31"
+  },
+  {
+    "file": "galax_methods.html",
+    "bytes": 61304,
+    "sha256": "740c6f251aec577d4b1fdced37181ac21162cf5f7c8e4b7274ec16557652f669"
+  },
+  {
+    "file": "galax_on.html",
+    "bytes": 64889,
+    "sha256": "37d0244dcbcb1b39bf5a26406eedc791028b063c1d90ebfe8a5169086f00a43c"
+  },
+  {
+    "file": "galax_welcome.html",
+    "bytes": 65611,
+    "sha256": "500fb56e1c7ae9275edb2c3cb121a357b6895da09ba8e279950ea6a329771e86"
+  },
+  {
+    "file": "glomsta.html",
+    "bytes": 74418,
+    "sha256": "d6143637086ed57bbf1d45481a77e3aa2002e4325501462332c97689f3df58c3"
+  },
+  {
+    "file": "glomsta_about.html",
+    "bytes": 83808,
+    "sha256": "0e0ec6fdd90a6d718a4610c3a11f040fbb7d20f135faa73860eef01b79e8db36"
+  },
+  {
+    "file": "olaus.html",
+    "bytes": 140798,
+    "sha256": "a7634f3c733e1546d46c672a891548f61ce766ee0ffb99888b2e1112ebc91dc8"
+  },
+  {
+    "file": "robots_apollonios.txt",
+    "bytes": 497,
+    "sha256": "80ef1d95505f68fdfd51b2ba2aa4a636e8115c59740b483e4c9219664eca11a3"
+  },
+  {
+    "file": "robots_botkyrka.txt",
+    "bytes": 498,
+    "sha256": "9a6d0397134362acfbea7b9441efcab3539a4fa25f93402d946ee093f9591e77"
+  },
+  {
+    "file": "robots_huddinge.txt",
+    "bytes": 498,
+    "sha256": "750f760e4ee8836a23a7a276b699e579cabdbbb9acbdd73d0ec029a2175aa069"
+  },
+  {
+    "file": "robots_sigtuna.txt",
+    "bytes": 497,
+    "sha256": "3cbf4051da897b9bbc84ae86ac51c746cbdb1c62c1dc2262e9aedd4a9db0e47c"
+  },
+  {
+    "file": "robots_sollentuna.txt",
+    "bytes": 59,
+    "sha256": "90073a61ecb6f417b0e153809713f1d1e23de4d41f64752906a7dbee8ae07103"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 68,
+    "sha256": "884a702f28cae7691d050d58f687e2d29412b1e5a799000e5769742bc5818d17"
+  },
+  {
+    "file": "robots_viby.txt",
+    "bytes": 118,
+    "sha256": "d32db6a6dd28b381958143890558eb3b9ed6ad8cc23b113138c2b4f496b0127d"
+  },
+  {
+    "file": "runbacka.html",
+    "bytes": 2631,
+    "sha256": "29ade61cefce90d75a1641c53453a0c18f6999edf0d6106129a6fc2e07081153"
+  },
+  {
+    "file": "runbacka_about.html",
+    "bytes": 32146,
+    "sha256": "b83fd46dd03f6f219ae115880bf2f0d77b184e4e24d9cb84e52cd32d45a51a59"
+  },
+  {
+    "file": "runbacka_health.html",
+    "bytes": 31296,
+    "sha256": "b272b7eadf344f56ab08ff05251cbfb3fe63b73a98399e9cb583b96440a5e0fc"
+  },
+  {
+    "file": "runbacka_official.json",
+    "bytes": 1528,
+    "sha256": "d5027d1acfd13a60d85fe251b3e4c99c57c01d381a5711a53f7580c557a82674"
+  },
+  {
+    "file": "runbacka_olweus.html",
+    "bytes": 31113,
+    "sha256": "e992c295c570d87c4f290f35208af265ce779b3b83d0b53d6a164091d2e65c55"
+  },
+  {
+    "file": "segeltorp.html",
+    "bytes": 74856,
+    "sha256": "6cc09cf727a89c2c24d384825111df68fba7c7394113d69e0c745b8c18b6536a"
+  },
+  {
+    "file": "segeltorp_about.html",
+    "bytes": 84545,
+    "sha256": "3616bb6ffa148fd9f4807e1ecad8fc5111806917764f991c26783793ca733286"
+  },
+  {
+    "file": "sjostad.html",
+    "bytes": 146393,
+    "sha256": "da52d9260de9bdc33ec45c66ea03297dd41611a85bb4011c9cde42c399951224"
+  },
+  {
+    "file": "viby.html",
+    "bytes": 231490,
+    "sha256": "c06e471cd5f4f3c67e45bd569afc789d53c58a5988894a4b991a1b40b35c5bbc"
+  },
+  {
+    "file": "viby_about.html",
+    "bytes": 157284,
+    "sha256": "b2d6e6102a0a72b922ddc3314be61334ec378010cdab9c9354863cc42fdaabee"
+  },
+  {
+    "file": "viby_environment.html",
+    "bytes": 159186,
+    "sha256": "0d15ead53bd114d028b733f6b4ad5aee7990452c4c02fc1ab8f2126654cd25f1"
+  },
+  {
+    "file": "viby_teaching.html",
+    "bytes": 159827,
+    "sha256": "3e44309463bb7aaa63023f408e0bb70db412f23123edd482692932525c1ded5b"
+  }
+]

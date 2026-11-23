@@ -1,0 +1,101 @@
+{
+  "school_unit_code": "26742346",
+  "school_name": "Solna Enskilda Skola",
+  "registered_url": "http://www.bma.nu",
+  "attempted_at": "2026-10-21T09:20:48.136779+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://bma.nu/",
+      "retrieved_at": "2026-10-21T09:20:55.409903+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.bma.nu",
+          "robots_url": "https://www.bma.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:49.554029+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.bma.nu/",
+          "robots_url": "https://www.bma.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:50.964730+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://bma.nu/",
+          "robots_url": "https://bma.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:52.946147+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26742346_0.txt"
+    },
+    {
+      "source_url": "https://bma.nu/forskolor/stockholm/alstens-montessori/",
+      "retrieved_at": "2026-10-21T09:20:55.448475+00:00",
+      "robots_checks": [
+        {
+          "url": "https://bma.nu/forskolor/stockholm/alstens-montessori/",
+          "robots_url": "https://bma.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:52.946147+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26742346_1.txt"
+    },
+    {
+      "source_url": "https://bma.nu/solna-enskilda-skola/sa-har-arbetar-vi/grundskola-f%e2%80%913/",
+      "retrieved_at": "2026-10-21T09:20:55.478226+00:00",
+      "robots_checks": [
+        {
+          "url": "https://bma.nu/solna-enskilda-skola/sa-har-arbetar-vi/grundskola-f%e2%80%913/",
+          "robots_url": "https://bma.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:52.946147+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "26742346_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Även konst, skapande, sång och musik, fri lek och daglig utomhusvistelse ingår i verksamheten. Under utomhusvistelsen övar barnen ett varsamt förhållningssätt till naturen och miljön. Vi erbjuder också barnen på storbarnsavdelningen engelska.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "af9e92ee67a5d4dca70dc35c21edb852920e64dc743bd1236efab6219eb8bf13",
+      "school_unit_code": "26742346",
+      "school_name": "Solna Enskilda Skola",
+      "source_url": "https://bma.nu/forskolor/stockholm/alstens-montessori/",
+      "retrieved_at": "2026-10-21T09:20:55.448475+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Även konst, skapande, sång och musik, fri lek och daglig utomhusvistelse ingår i verksamheten. Under utomhusvistelsen övar barnen ett varsamt förhållningssätt till naturen och miljön. Vi erbjuder också barnen på storbarnsavdelningen engelska.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0a66494b7c177b1dd27c9d999f52f9f0564878822e3410d26ff6a4168eb81160",
+      "school_unit_code": "26742346",
+      "school_name": "Solna Enskilda Skola",
+      "source_url": "https://bma.nu/forskolor/stockholm/alstens-montessori/",
+      "retrieved_at": "2026-10-21T09:20:55.448475+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

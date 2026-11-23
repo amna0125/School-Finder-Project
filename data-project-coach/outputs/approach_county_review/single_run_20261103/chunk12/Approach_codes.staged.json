@@ -1,0 +1,156 @@
+[
+  {
+    "code_id": "ac_sr_76557608_01",
+    "school_id": "76557608",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor teaching and excursions",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_76557608_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency not stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_77002828_01",
+    "school_id": "77002828",
+    "category": "Other stated profile",
+    "subcategory": "Maths and literacy emphasis",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_77002828_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Consistent with other reading-emphasis codes.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_77314942_01",
+    "school_id": "77314942",
+    "category": "Arts and creative learning",
+    "subcategory": "Optional art/music deepening from year 4",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_77314942_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Optional, 60 min/week extra.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_77314942_02",
+    "school_id": "77314942",
+    "category": "Other stated profile",
+    "subcategory": "Optional maths deepening from year 4",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_77314942_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Optional, 60 min/week extra.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_77370320_01",
+    "school_id": "77370320",
+    "category": "Arts and creative learning",
+    "subcategory": "Täby music classes",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_77370320_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Music classes may be a municipal programme hosted here.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_77624936_01",
+    "school_id": "77624936",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor life focus",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_77624936_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Thin page; no detail.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_77624936_02",
+    "school_id": "77624936",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Health and sport focus",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_77624936_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Thin page; no detail.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_78508835_01",
+    "school_id": "78508835",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Bilingual Finnish–Swedish",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_78508835_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_79012683_01",
+    "school_id": "79012683",
+    "category": "Other stated profile",
+    "subcategory": "Language- and knowledge-developing approach",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_79012683_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Common municipal approach, stated as pervasive.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_79969356_01",
+    "school_id": "79969356",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "IB PYP/MYP",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_79969356_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Authorisation not independently checked.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_79969356_02",
+    "school_id": "79969356",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Bilingual Swedish/English; IB",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_79969356_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Heading on homepage.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_80378022_01",
+    "school_id": "80378022",
+    "category": "Other stated profile",
+    "subcategory": "Football profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_80378022_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_80509560_01",
+    "school_id": "80509560",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Bilingual Swedish–English",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_80509560_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Foundation page covering both Språkskolan units; this line is specific to Engelska Språkskolan.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_80561156_01",
+    "school_id": "80561156",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_80561156_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Municipal page.",
+    "review_status": "Reviewed"
+  }
+]

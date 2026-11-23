@@ -1,0 +1,72 @@
+{
+  "school_id": "59848694",
+  "school_name": "Danderyds Montessoriskola",
+  "registered_url": "http://www.dmskola.se",
+  "pages": [
+    {
+      "requested_url": "https://www.dmskola.se/",
+      "source_url": "https://www.dmskola.se/",
+      "page_title": "DM Skola",
+      "accessed_at": "2026-10-21T17:38:34.444840+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59848694_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.dmskola.se/",
+          "robots_url": "https://www.dmskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:33.078857+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.dmskola.se/om-oss/",
+      "source_url": "https://www.dmskola.se/om-oss/",
+      "page_title": "Om oss - DM Skola",
+      "accessed_at": "2026-10-21T17:38:36.006954+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59848694_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.dmskola.se/om-oss/",
+          "robots_url": "https://www.dmskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:33.078857+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.dmskola.se/om-oss/montessoripedagogik/",
+      "source_url": "https://www.dmskola.se/om-oss/montessoripedagogik/",
+      "page_title": "Montessoripedagogik - DM Skola",
+      "accessed_at": "2026-10-21T17:38:37.193867+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59848694_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.dmskola.se/om-oss/montessoripedagogik/",
+          "robots_url": "https://www.dmskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:33.078857+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

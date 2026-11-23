@@ -1,0 +1,38 @@
+{
+  "school_id": "15483394",
+  "school_name": "Segeltorpsskolan",
+  "registered_url": "http://www.huddinge.se/segeltorpsskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.huddinge.se/segeltorpsskolan",
+      "source_url": "https://www.huddinge.se/segeltorpsskolan",
+      "page_title": "Segeltorpsskolan | Huddinge kommun",
+      "accessed_at": "2026-10-21T17:28:16.374311+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "15483394_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/segeltorpsskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:21.763536+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.huddinge.se/segeltorpsskolan/om-skolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:28:36.099721+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "94279206",
+  "school_name": "Resursskola Sjötorp",
+  "registered_url": "http://www.huddinge.se/sjotorpsskolan",
+  "attempted_at": "2026-10-21T09:17:30.240184+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.huddinge.se/sjotorpsskolan",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

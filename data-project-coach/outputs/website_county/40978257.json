@@ -1,0 +1,59 @@
+{
+  "school_unit_code": "40978257",
+  "school_name": "Futuraskolan AB",
+  "registered_url": "http://www.futuraskolaninternational.se",
+  "attempted_at": "2026-10-21T09:21:26.772550+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://futuraskolaninternational.se/",
+      "retrieved_at": "2026-10-21T09:21:36.647080+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.futuraskolaninternational.se",
+          "robots_url": "https://futuraskolaninternational.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:29.253202+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.futuraskolaninternational.se:443/",
+          "robots_url": "https://futuraskolaninternational.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:33.632821+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://futuraskolaninternational.se/",
+          "robots_url": "https://futuraskolaninternational.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:35.391258+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "40978257_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "om the Swedish authorities, as it is a school for temporary residents in Sweden and has a set of eligibility requirements. English is the language of instruction and it follows an international curriculum, not the Swedish National Curriculum. For more information on how to apply you are welcome to visit our Admissions page.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "d2ff7d131bb33708e70d62377d998e20f2574a76b1926733b60a9c7103c61761",
+      "school_unit_code": "40978257",
+      "school_name": "Futuraskolan AB",
+      "source_url": "https://futuraskolaninternational.se/",
+      "retrieved_at": "2026-10-21T09:21:36.647080+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

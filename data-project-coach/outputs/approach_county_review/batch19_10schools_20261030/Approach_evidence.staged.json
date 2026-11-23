@@ -1,0 +1,122 @@
+[
+  {
+    "evidence_id": "ae_b19_33565539_01",
+    "school_id": "33565539",
+    "source_url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/gustav-vasaskolan",
+    "page_title": "Gustav Vasaskolan\n\n\t\t | Vallentuna kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Med naturen runt hörnet får våra elever en utemiljö som ger bästa förutsättningar för rörelse och återhämtning.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Proximity and outdoor recreation, not substantive outdoor instruction. Scoped review of about-school/fritids/EHT; no firm code. Page F–9 vs official1–6 discrepancy unresolved; Vallentuna, not Stockholm Gustav Vasa skola."
+  },
+  {
+    "evidence_id": "ae_b19_33624606_01",
+    "school_id": "33624606",
+    "source_url": "https://masoskolan.haninge.se/sa-har-jobbar-vi/",
+    "page_title": "Så här jobbar vi - Måsöskolan",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "På Måsöskolan arbetar arbetslagen nära elevhälsoteamet.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Ordinary school support/results/parent cooperation, insufficient for distinctive support emphasis. Homepage and methods/development pages reviewed; development page contains no substantive method text. Municipality-wide year8 Utö news excluded from local1–6 interpretation."
+  },
+  {
+    "evidence_id": "ae_b19_33733966_01",
+    "school_id": "33733966",
+    "source_url": "https://internationalschoolofkungsholmen.com/",
+    "page_title": "Home - International school of kungsholmen",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "The language of instruction for the International School of Kungsholmen is solely in English and adheres to an international curriculum.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "International English-language curriculum across stated school provision; PYP ages5–12 and MYP13–16. IB authorization is school self-description, not independently checked."
+  },
+  {
+    "evidence_id": "ae_b19_33733966_02",
+    "school_id": "33733966",
+    "source_url": "https://internationalschoolofkungsholmen.com/primary-years-pyp/",
+    "page_title": "Primary Years: PYP - International school of kungsholmen",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "In PYP 6, the end of the PYP program, the students will investigate and inquire into a topic of their choosing.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "PYP-only inquiry approach: page also describes five-week transdisciplinary units each PYP grade, concepts and inquiry skills. Exhibition specifically PYP6, not all grades/MYP. Ages5–12 on homepage include provision outside official1–9; do not automatically extend."
+  },
+  {
+    "evidence_id": "ae_b19_33794207_01",
+    "school_id": "33794207",
+    "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/viksjo/sandvikskolan.4.36ac70f31639ecd947f2f5c.html",
+    "page_title": "Sandvikskolan - Järfälla kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Utöver detta har skolan anpassad grundskola, resursklasser, fritidshem och fritidsklubb.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Co-located provisions, not a whole-mainstream-unit support pedagogy. Reviewed municipal school description/contact/facts; no school-specific methods link found. Resource-class and adapted-school unit scope unresolved; no firm code."
+  },
+  {
+    "evidence_id": "ae_b19_33922950_01",
+    "school_id": "33922950",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/smedslattsskolan",
+    "page_title": "Smedslättsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi arbetar med olika Erasmusprojekt, vilket är ett europeiskt utbytesprogram.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Insufficient project detail/population scope for a distinctive international teaching profile. Outdoor spaces described as play/fritids; ordinary values not a profile. Stockholm robots response has control-byte parsing uncertainty; no further collection pending clarification. No code; permission follow-up remains."
+  },
+  {
+    "evidence_id": "ae_b19_33951941_01",
+    "school_id": "33951941",
+    "source_url": "https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/rasunda-centralskola",
+    "page_title": "Råsunda central­skola \n\n - Solna stad",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Organisationen är modern med eleven i centrum.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Generic organisation/knowledge/safety statement; annual safety activities explicitly Solna-wide, excluded as distinctive profile. Reviewed school facts/about/learning environment/safety; school7–9, not Råsunda skolaF–6. No firm code."
+  },
+  {
+    "evidence_id": "ae_b19_34125463_01",
+    "school_id": "34125463",
+    "source_url": "https://nytida.se/verksamheter/nytorpsskolan/",
+    "page_title": "Nytorpsskolan – Nytida",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi vänder oss till elever med neuropsykiatriska funktionsnedsättningar, såsom autism och ADHD, som behöver en mindre, mer anpassad och resursstark skolmiljö för att lyckas i sin skolgång.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Explicit resource-school1–9 support setting with predictable structured day, adapted pace and individual/group instruction. Provider also mentions adapted-school admissions; do not transfer populations or claim verified effectiveness."
+  },
+  {
+    "evidence_id": "ae_b19_34125463_02",
+    "school_id": "34125463",
+    "source_url": "https://nytida.se/verksamheter/nytorpsskolan/",
+    "page_title": "Nytorpsskolan – Nytida",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Undervisningen sker i små grupper om cirka 6–10 elever.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Self-reported approximate teaching-group size on2026-10-30; group/individual teaching and one/two pedagogues described. Not an official comparable class-size metric or pupils-per-teacher ratio; precise population scope requires review."
+  },
+  {
+    "evidence_id": "ae_b19_34135484_01",
+    "school_id": "34135484",
+    "source_url": "https://montessorimondial.se/nacka/",
+    "page_title": "Montessori Mondial Nacka | Med nyfikenhet som drivkraft",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "På Montessori Mondial Nacka arbetar vi enligt montessoripedagogiken från förskolan ända upp till nionde klass.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Explicit named Montessori pedagogy; analytical school scope official1–9, exclude preschool. Research/results language not verified or causal evidence. Guessed detail URL404, not evidence."
+  },
+  {
+    "evidence_id": "ae_b19_34148887_01",
+    "school_id": "34148887",
+    "source_url": "https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor/blombackaskolan/",
+    "page_title": "Blombackaskolan - Södertälje kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi värdesätter nyfikenhet och kreativitet, och våra pedagoger leder klassrummet med både kunskap och engagemang.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Generic creativity/quality language, not substantive arts approach. Outdoor play/rörelse not outdoor teaching. Reviewed full municipal core school description/values/environment; no substantive local methods link. No firm code."
+  },
+  {
+    "evidence_id": "ae_b19_34225123_01",
+    "school_id": "34225123",
+    "source_url": "https://nykvarn.se/barn-och-utbildning/grundskola/vara-skolor/furuborgskolan/var-verksamhet",
+    "page_title": "Vår verksamhet\n\n\t\t | Nykvarns kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "På våra fritidshem har vi många aktiviteter.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Creative film/music/art examples and daily outdoor time explicitly fritids, not compulsory classroom profile. Reviewed school homepage and verksamhet/elevinflytande; ordinary councils and modersmål not distinctive profile. Adapted school not merged into mainstream unit. No firm code."
+  }
+]

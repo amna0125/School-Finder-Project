@@ -1,0 +1,118 @@
+[
+{"sid":"46097781","o":"N","note":"Follow-up: Lidingö municipal listing page for this independent school; values and premises only; generic."},
+{"sid":"45279651","o":"R","note":"Follow-up: Upplands-Bro page. Bergshöjdens skola is a resource school for years 4–9, small groups.","ev":[
+ {"p":0,"q":"Då kan Bergshöjdens skola, som är en resursskola, vara ett alternativ.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"Per resource-school precedent."}]},
+{"sid":"74706113","o":"R","note":"Follow-up: Danderyd page. Municipal resource school 7–9 with NPF/language-disorder competence.","ev":[
+ {"p":0,"q":"Danaskolan är Danderyds kommuns resursskola för elever i årskurserna 7–9.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"Per precedent."}]},
+{"sid":"53576482","o":"N","note":"Follow-up: Nacka page only reports that the unit became its own school (autumn 2026); the music profile itself is not described on the collected page, and the name is not used as evidence. Worth a look in joint review."},
+{"sid":"58004018","o":"R","note":"Follow-up: Danderyd page. Municipal resource school F–6.","ev":[
+ {"p":0,"q":"Noraskolan är Danderyds kommuns resursskola för elever i årskurserna F-6 som behöver en tillgänglig lärmiljö för att utvecklas så långt som möjligt utifrån sina förutsättningar.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"Per precedent."}]},
+{"sid":"96671986","o":"R","note":"Follow-up: Sollentuna school site. Municipality-wide Olweus programme; municipal focus areas.","ev":[
+ {"p":2,"q":"Alla kommunala skolor i Sollentuna arbetar utifrån Olweusprogrammet.","i":"Named anti-bullying programme applied municipality-wide.","c":[["Support, inclusion, or wellbeing emphasis","Olweus (municipality-wide)","S"]],"cn":"Municipality-wide programme, per city-wide MVP precedent."}]},
+{"sid":"95432644","o":"N","note":"Follow-up: Danderyd pages incl. 'Vårt arbetssätt': individualised teaching, structure, digital devices; generic."},
+{"sid":"68422076","o":"N","note":"Follow-up: Nykvarn pages; pupil councils and fritids; generic."},
+{"sid":"69004747","o":"N","note":"Follow-up: Stockholm directory page; often two teachers, homework help, music studios; generic."},
+{"sid":"73629371","o":"R","note":"Follow-up: Sollentuna school site. Nature often used in teaching; younger pupils visit the forest weekly; visible learning.","ev":[
+ {"p":1,"q":"Vi har nära till naturen som vi ofta använder i undervisningen.","i":"Nature used in teaching; 'ofta'.","c":[["Outdoor, nature, or place-based learning","Nature often used in teaching; weekly forest visits (younger)","S"]],"cn":"Frequency hedge; weekly forest visits not explicitly teaching."}]},
+{"sid":"99640618","o":"N","note":"Follow-up: Nykvarn pages; library and general view of learning; generic."},
+{"sid":"10735290","o":"N","note":"Follow-up: Danderyd page shared with Stocksundsskolan; vision text only; generic."},
+{"sid":"72584192","o":"N","note":"Follow-up: Nya Enskede skola now has its own Stockholm directory page (new 7–9 school; earlier URL redirected to Gamla Enskede). Sustainability topics and varied teaching; generic."},
+{"sid":"63742407","o":"R","note":"Follow-up: Vallentuna page. Erasmus+ accredited since 2025.","ev":[
+ {"p":0,"q":"Rosendalsskolan är en ackrediterad skola sedan 2025.","i":"International exchange (Erasmus+).","c":[["Language, international, or intercultural profile","Erasmus+ accredited","S"]],"cn":"Per Erasmus precedent."}]},
+{"sid":"86363147","o":"R","note":"Follow-up: Värmdö page. Municipal resource school.","ev":[
+ {"p":0,"q":"I Värmdö finns det en kommunal resursskola – Sjöängsskolan.","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"Per precedent."}]},
+{"sid":"93844270","o":"N","note":"Follow-up: Nykvarn pages; library and pupil councils; generic."},
+{"sid":"83020784","o":"N","note":"Follow-up: Tyresö page; whole-day learning, school dog, Tolerance project (municipal, year 8 selection); generic."},
+{"sid":"86192571","o":"R","note":"Follow-up: Botkyrka page. Violence-prevention programme 'Tåget'; subject-teacher system from year 4.","ev":[
+ {"p":0,"q":"Vi arbetar därför aktivt med vår värdegrund och där utgör det våldspreventiva programmet ”Tåget” en viktig del.","i":"Named violence-prevention programme (municipal).","c":[["Support, inclusion, or wellbeing emphasis","Tåget (violence prevention)","S"]],"cn":"Municipal programme, per MVP precedent."}]},
+{"sid":"56299553","o":"R","note":"Follow-up: Upplands-Bro page. Environmentally certified; philosophy of nature and health (word partly lost in page markup); daily physical activity.","ev":[
+ {"p":0,"q":"Hos oss får eleverna ökade möjligheter till daglig fysisk aktivitet och kunskap om en hälsosam livsstil.","i":"Health/movement emphasis.","c":[["Support, inclusion, or wellbeing emphasis","Daily physical activity, health philosophy","S"]],"cn":"'Ökade möjligheter' hedge."}]},
+{"sid":"56315778","o":"N","note":"Follow-up: Upplands-Bro page; year-group teams and values; generic."},
+{"sid":"52293921","o":"N","note":"Follow-up: Vallentuna page; inclusive environment; fritids outdoors; generic."},
+{"sid":"92284588","o":"N","note":"Follow-up: Upplands-Bro page; values days, two municipal teaching groups (purpose not stated); generic."},
+{"sid":"85558618","o":"R","note":"Follow-up: Botkyrka page. Own computer for all; part of municipal MVP programme.","ev":[
+ {"p":0,"q":"Vår värdegrund genomsyrar hela verksamheten och sedan flera år är vi även en del av kommunens våldsförebyggande arbete, MVP, Mentors in Violence Prevention.","i":"Municipal violence-prevention programme.","c":[["Support, inclusion, or wellbeing emphasis","MVP (municipal)","S"]],"cn":"Per MVP precedent."}]},
+{"sid":"61061763","o":"R","note":"Follow-up: Upplands-Bro page. Language track (språkspåret) for pupils with language disorder; reading given large place.","ev":[
+ {"p":0,"q":"Språkspåret har egna anpassade lokaler och där går elever från förskoleklass till årskurs 6.","i":"On-site language-disorder track.","c":[["Support, inclusion, or wellbeing emphasis","Språkspåret (language-disorder track)","S"]],"cn":"Per on-site special group precedent."},
+ {"p":0,"q":"Läsandet ges stor plats i alla våra verksamheter.","i":"Reading emphasis.","c":[["Other stated profile","Reading emphasis","S"]],"cn":"Per precedent."}]},
+{"sid":"57228484","o":"R","note":"Follow-up: Botkyrka page. SKUA in all subjects; MVP and Tåget; trivselledare.","ev":[
+ {"p":0,"q":"Vi vill att våra elever ska få en god framtid med fortsatta studier och arbetar därför med språk- och kunskapsutvecklande arbetssätt (SKUA) i alla ämnen.","i":"Language-developing approach stated as pervasive.","c":[["Other stated profile","SKUA in all subjects","S"]],"cn":"Per precedent."},
+ {"p":0,"q":"På Grindtorpsskolan har vi en strukturerad rastverksamhet där vissa elever fungerar som trivselledare och leder aktiviteter på rasten.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent; MVP/Tåget also mentioned."}]},
+{"sid":"70201551","o":"R","note":"Follow-up: Sollentuna school site. Long-standing multi-teacher model; municipal Olweus programme.","ev":[
+ {"p":1,"q":"I likhet men övriga kommunala skolor arbetar vi utifrån programmet Olweus mot mobbning.","i":"Named anti-bullying programme (municipality-wide).","c":[["Support, inclusion, or wellbeing emphasis","Olweus (municipality-wide)","S"]],"cn":"Per city-wide precedent."}]},
+{"sid":"84520303","o":"R","note":"Follow-up: Vallentuna page. Erasmus+ accredited since 2021.","ev":[
+ {"p":0,"q":"Hagaskolan är en ackrediterad skola sedan 2021.","i":"International exchange (Erasmus+).","c":[["Language, international, or intercultural profile","Erasmus+ accredited","S"]],"cn":"Per Erasmus precedent."}]},
+{"sid":"85440729","o":"N","note":"Follow-up: Sollentuna school site; F–9 transitions, annual writing project tradition; generic."},
+{"sid":"60521412","o":"R","note":"Follow-up: Sundbyberg page. Municipal resource school for pupils with autism, years 4–9.","ev":[
+ {"p":0,"q":"Igelbäckskolan är Sundbybergs stads resursskola för elever med omfattande behov i skolan och diagnos inom autismspektrum.","i":"Resource school (autism).","c":[["Support, inclusion, or wellbeing emphasis","Resource school (autism)","E"]],"cn":"Per precedent."}]},
+{"sid":"57370453","o":"R","note":"Follow-up: Vallentuna page. Extra movement on the timetable every day.","ev":[
+ {"p":0,"q":"Extra rörelse står på schemat varje dag för att skapa goda vanor och öka förutsättningen för att våra elever ska lära för livet.","i":"Daily scheduled movement.","c":[["Support, inclusion, or wellbeing emphasis","Daily extra movement","E"]],"cn":"Per daily-movement precedent."}]},
+{"sid":"56417100","o":"R","note":"Follow-up: Botkyrka page. Language-developing teaching and differentiation; anpassad grundskola on site (separate).","ev":[
+ {"p":0,"q":"Vi jobbar språkutvecklande och med att differentiera undervisningen i så stor utsträckning som möjligt.","i":"Language-developing approach.","c":[["Other stated profile","Language-developing teaching","S"]],"cn":"Per precedent."}]},
+{"sid":"89701816","o":"N","note":"Follow-up: Huddinge school page (old registered host no longer resolves); ledord and anpassad grundskola mention; generic."},
+{"sid":"84103650","o":"N","note":"Follow-up: Vallentuna page; small rural school, fritids outdoors; generic."},
+{"sid":"85759071","o":"R","note":"Follow-up: Upplands-Bro page. Trivselledare; municipal resource group Fyren on site.","ev":[
+ {"p":0,"q":"På Lillsjöskolan har vi trivselledare.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent; resource group Fyren also on site."}]},
+{"sid":"86985859","o":"R","note":"Follow-up: Botkyrka page. Health-promoting environment using movement.","ev":[
+ {"p":0,"q":"Vi på Malmsjö skola eftersträvar en hälsofrämjande miljö där vi använder oss av rörelse i vår vardag","i":"Health/movement emphasis.","c":[["Support, inclusion, or wellbeing emphasis","Health-promoting, movement","S"]],"cn":"No frequency stated."}]},
+{"sid":"53133366","o":"R","note":"Follow-up: Nacka pages. Entrepreneurial pedagogy section on pedagogy page.","ev":[
+ {"p":1,"q":"Att kunna arbeta utifrån idéer som kommer från medarbetare och elever är viktigt i det entreprenöriella lärandet.","i":"Entrepreneurial learning.","c":[["Other stated profile","Entrepreneurial pedagogy","S"]],"cn":"Per entrepreneurship precedent."}]},
+{"sid":"51863294","o":"R","note":"Follow-up: Botkyrka page. Own school forest with outdoor classrooms used in teaching; entrepreneurial approach; Grön Flagg.","ev":[
+ {"p":0,"q":"Vi har en egen skolskog där våra uteklassrum Hexagonen, Pentagonen och Kvadraten används som en naturlig del i undervisningen.","i":"Outdoor classrooms as a natural part of teaching.","c":[["Outdoor, nature, or place-based learning","School forest outdoor classrooms","E"]],"cn":"School claim."},
+ {"p":0,"q":"Vi har ett entreprenöriellt förhållningssätt till lärande.","i":"Entrepreneurial learning.","c":[["Other stated profile","Entrepreneurial approach","S"]],"cn":"Per precedent."}]},
+{"sid":"44836298","o":"N","note":"Follow-up: Nacka pages; values and student health; generic."},
+{"sid":"13124830","o":"N","note":"Follow-up: Stockholm directory page; varied teaching, order; generic."},
+{"sid":"34671128","o":"R","note":"Follow-up: Stockholm directory page (rendered). Bornholmsmodellen in förskoleklass; reception group for newcomers.","ev":[
+ {"p":0,"q":"Förskoleklassen arbetar också med Bornholmsmodellen och Tänka, resonera och räkna.","i":"Named early literacy method.","c":[["Other stated profile","Bornholmsmodellen (förskoleklass)","E"]],"cn":"Per Bornholm precedent."}]},
+{"sid":"39923451","o":"B","why":"substantive page not reached","note":"Follow-up: only a Stockholm directory stub found; school's own registered site still inaccessible. Name not used as evidence."},
+{"sid":"22019000","o":"B","why":"substantive page not reached","note":"Follow-up: only a Huddinge directory stub found; school's own registered site still inaccessible."},
+{"sid":"76550010","o":"N","note":"Follow-up: Upplands-Bro page; small rural school; generic."},
+{"sid":"58310322","o":"N","note":"Follow-up: Botkyrka page; own computer for all; generic."},
+{"sid":"66475520","o":"N","note":"Follow-up: Ekerö page; generic."},
+{"sid":"90207041","o":"R","note":"Follow-up: Nacka FAQ page. Resource school targeted at pupils with autism.","ev":[
+ {"p":1,"q":"En elev kan även ha andra diagnoser men skolan är inriktad på att möta elever med behov kopplat till autismspektrum.","i":"Resource school (autism).","c":[["Support, inclusion, or wellbeing emphasis","Resource school (autism)","E"]],"cn":"Per precedent."}]},
+{"sid":"58286716","o":"B","why":"substantive page not reached","note":"Follow-up: Sigtuna pages reached but contain only municipality-wide navigation and quality-work text."},
+{"sid":"93320132","o":"B","why":"substantive page not reached","note":"Follow-up: Sigtuna pages reached (incl. 'Arbetssätt och kvalitetsarbete') but contain only municipality-wide text."},
+{"sid":"12407147","o":"R","note":"Follow-up: Österåker school subsite. Language- and knowledge-developing work in all subjects; special teaching group.","ev":[
+ {"p":2,"q":"Vi arbetar språk- och kunskapsutvecklande i alla ämnen","i":"Language-developing approach stated as pervasive.","c":[["Other stated profile","Language-developing in all subjects","S"]],"cn":"Per precedent."},
+ {"p":1,"q":"Vi har även en särskild undervisningsgrupp där några elever går hela eller delar av dagen tillsammans med en legitimerad lärare.","i":"On-site special teaching group.","c":[["Support, inclusion, or wellbeing emphasis","Special teaching group","S"]],"cn":"Per precedent."}]},
+{"sid":"65717061","o":"R","note":"Follow-up: Nynäshamn page. Football profile (7–9) with AC Milan; Grön Flagg 'most sustainable school' award 2019; makerspace.","ev":[
+ {"p":0,"q":"I klasserna 7-9 kan elever söka till vår fotbollsprofil som vi bedriver i ett unikt samarbete med storklubben AC Milan.","i":"Sport profile.","c":[["Other stated profile","Football profile (7–9)","E"]],"cn":"Per sport-profile precedent."},
+ {"p":0,"q":"Lite extra stolta är vi för utnämningen Mest hållbara grundskola","i":"Sustainability award (Grön Flagg).","c":[["Other stated profile","Grön Flagg sustainability award","S"]],"cn":"Award from 2019."}]},
+{"sid":"68361133","o":"R","note":"Follow-up: Nynäshamn page. Outdoor teaching possible in all subjects; daily movement; Grön Flagg.","ev":[
+ {"p":0,"q":"Vår fina utemiljö gör det också möjligt att ha undervisning utomhus i alla ämnen.","i":"Outdoor teaching as opportunity.","c":[["Outdoor, nature, or place-based learning","Outdoor teaching (possible in all subjects)","S"]],"cn":"Stated as possibility."}]},
+{"sid":"79004521","o":"R","note":"Follow-up: Nynäshamn page. Trivselledare daily; parts of teaching outdoors; Grön Flagg.","ev":[
+ {"p":0,"q":"Vi har trivselledare, elever som leder andra elever i lek varje förmiddagsrast.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent."},
+ {"p":0,"q":"Vi har en stimulerande utomhusmiljö och bedriver gärna delar av den pedagogiska verksamheten utomhus.","i":"Some teaching outdoors.","c":[["Outdoor, nature, or place-based learning","Parts of teaching outdoors","S"]],"cn":"Frequency hedge."}]},
+{"sid":"47244612","o":"R","note":"Follow-up: Ornö skola site (Haninge). Small archipelago school; teaching shaped by nature experiences.","ev":[
+ {"p":1,"q":"Med närhet till hav och natur präglas både undervisning och fritidsverksamhet av naturupplevelser.","i":"Nature in teaching.","c":[["Outdoor, nature, or place-based learning","Nature experiences in teaching","S"]],"cn":"No frequency stated."}]},
+{"sid":"82137009","o":"N","note":"Follow-up: Södertälje page; systematic follow-up, high expectations; generic."},
+{"sid":"45882318","o":"R","note":"Follow-up: Sollentuna school site. Language-developing work and reading focus in all subjects; Olweus.","ev":[
+ {"p":1,"q":"Genom tidiga stödinsatser, tillgängliga lärmiljöer, språkutvecklande arbetssätt och fokus på läsning i alla ämnen skapar vi goda förutsättningar för lärande och utveckling.","i":"Language-developing and reading across subjects.","c":[["Other stated profile","Language-developing, reading in all subjects","S"]],"cn":"Per precedent."},
+ {"p":1,"q":"Därför arbetar vi systematiskt med värdegrund, Olweusprogrammet, tydliga rutiner och ett gemensamt förhållningssätt från förskoleklass till årskurs 9.","i":"Named anti-bullying programme.","c":[["Support, inclusion, or wellbeing emphasis","Olweus","S"]],"cn":"Municipality-wide programme."}]},
+{"sid":"62518360","o":"B","why":"school-specific source not found","note":"Follow-up: only the host Annerstaskolan page found; it does not mention the resource school."},
+{"sid":"79034924","o":"B","why":"source inaccessible","note":"Follow-up: Haninge resource-school page from the sitemap returns 404; news items mention a new resource school (2026) but no school page."},
+{"sid":"48724676","o":"N","note":"Follow-up: Vaxholm page; 7–9, creativity and variety; generic."},
+{"sid":"69909271","o":"N","note":"Follow-up: Vaxholm page; flexible year-group organisation; generic."},
+{"sid":"58338225","o":"N","note":"Follow-up: Vaxholm page; small school, creativity and imagination; generic."},
+{"sid":"73272488","o":"R","note":"Follow-up: Österåker school subsite. Nature-near school; teaching can be placed in forest and coastal settings.","ev":[
+ {"p":1,"q":"Närheten till naturen gör att vi kan förlägga undervisningen i både skog och kustnära miljö.","i":"Outdoor teaching as opportunity.","c":[["Outdoor, nature, or place-based learning","Forest and coast teaching (opportunity)","S"]],"cn":"Stated as possibility."}]},
+{"sid":"51305351","o":"R","note":"Follow-up: Österåker school subsite. Extended-time English and music profiles; language- and knowledge-developing work in all subjects.","ev":[
+ {"p":0,"q":"Tråsättraskolan erbjuder inriktningar med utökad tid i engelska samt musik för de som vill fördjupa sina ämneskunskaper.","i":"Optional English and music profiles.","c":[["Language, international, or intercultural profile","English profile (extended time)","E"],["Arts and creative learning","Music profile (extended time)","E"]],"cn":"Optional profiles for applicants."},
+ {"p":1,"q":"Ett fokus i Tråsättraskolans övergripande arbete är att arbeta språk- och kunskapsutvecklande i alla ämnen","i":"Language-developing approach stated as pervasive.","c":[["Other stated profile","Language-developing in all subjects","S"]],"cn":"Per precedent."}]},
+{"sid":"94113162","o":"R","note":"Follow-up: Österåker school subsite. Health orientation with daily movement; science and technology focus.","ev":[
+ {"p":0,"q":"För att främja elevernas utveckling har vi extra fokus på att de ska röra sig varje dag.","i":"Daily movement / health orientation.","c":[["Support, inclusion, or wellbeing emphasis","Health orientation, daily movement","E"]],"cn":"Per daily-movement precedent."},
+ {"p":0,"q":"De får lära sig arbeta som forskare och tekniker.","i":"Science and technology emphasis.","c":[["Other stated profile","Science and technology emphasis","S"]],"cn":"No detail on practice."}]},
+{"sid":"55690064","o":"R","note":"Follow-up: Österåker school subsite. Municipal resource school F–9 (opened autumn 2026) with high staff density.","ev":[
+ {"p":0,"q":"Välkommen till resursskolan Ängsrosen","i":"School's own page presents it as a resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"Statement on the school's own page, not inferred from the directory name."}]},
+{"sid":"82624830","o":"R","note":"Follow-up: Österåker school subsite. Surrounding nature used in sport and theoretical subjects; anpassad grundskola under same roof.","ev":[
+ {"p":0,"q":"Den är omgiven av strövområden, ängar, hagar och skog som vi nyttjar flitigt i idrotten samt i de olika teoretiska ämnena.","i":"Nature used in teaching.","c":[["Outdoor, nature, or place-based learning","Nature used in theoretical subjects","S"]],"cn":"No frequency stated."}]},
+{"sid":"86440798","o":"B","why":"content not readable","note":"Follow-up: retried with rendering; pages still have no readable text."},
+{"sid":"54348763","o":"B","why":"content not readable","note":"Follow-up: retried with rendering; page still has no readable text."},
+{"sid":"51041954","o":"B","why":"school-specific source not found","note":"Follow-up: provider homepage only, no unit content."},
+{"sid":"47290443","o":"B","why":"school-specific source not found","note":"Follow-up: provider homepage only, no unit content."},
+{"sid":"85670099","o":"B","why":"source inaccessible","note":"Follow-up: registered domain is now parked (Loopia); no official page found."},
+{"sid":"70481988","o":"B","why":"school-specific source not found","note":"Follow-up: no Svartsö skola page in Värmdö's sitemap or listings."},
+{"sid":"55267088","o":"U","why":"provider-level source only","note":"Follow-up: Täby Friskola provider homepage only; Gribbylund unit not described.","ev":[
+ {"p":0,"q":"Täby Friskola är en skola i Täby från förskoleklass till årskurs 9, med fokus på elevens lärande och välmående.","i":"Provider-level description; unit not confirmed.","t":"Provider webpage","cn":"Per Täby Friskola precedent."}]}
+]

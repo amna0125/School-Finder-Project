@@ -1,0 +1,32 @@
+{
+  "school_id": "11914814",
+  "school_name": "Rosenborgskolan",
+  "registered_url": "http://www.sodertalje.se/rosenborgskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.sodertalje.se/rosenborgsenheten",
+      "source_url": "https://www.sodertalje.se/rosenborgsenheten",
+      "page_title": "Rosenborgsenheten - Södertälje kommun",
+      "accessed_at": "2026-10-21T17:26:47.551597+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "11914814_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sodertalje.se/rosenborgsenheten",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:46.699567+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

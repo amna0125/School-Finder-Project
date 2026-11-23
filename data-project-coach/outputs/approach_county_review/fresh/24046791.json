@@ -1,0 +1,72 @@
+{
+  "school_id": "24046791",
+  "school_name": "Innovitaskolan Farstaäng",
+  "registered_url": "https://innovitaskolan.se/farstaang/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/farstaang/",
+      "source_url": "https://innovitaskolan.se/farstaang/",
+      "page_title": "Innovitaskolan Farstaäng | Förskoleklass–årskurs 6",
+      "accessed_at": "2026-10-21T17:30:11.701084+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24046791_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/farstaang/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.527236+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/farstaang/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/farstaang/om/grundskola/",
+      "page_title": "Vår grundskola | Innovitaskolan Farstaäng | Om skolan",
+      "accessed_at": "2026-10-21T17:30:12.896702+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24046791_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/farstaang/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.527236+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/farstaang/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/farstaang/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Farstaäng | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:30:14.174878+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24046791_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/farstaang/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:19.527236+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

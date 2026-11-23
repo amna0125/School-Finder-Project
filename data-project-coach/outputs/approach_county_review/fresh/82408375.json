@@ -1,0 +1,72 @@
+{
+  "school_id": "82408375",
+  "school_name": "Montessori Mondial Kista",
+  "registered_url": "https://montessorimondial.se/kista/",
+  "pages": [
+    {
+      "requested_url": "https://montessorimondial.se/kista/",
+      "source_url": "https://montessorimondial.se/kista/",
+      "page_title": "Montessori Mondial Kista | Med nyfikenhet som drivkraft",
+      "accessed_at": "2026-10-21T17:41:54.342319+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "82408375_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kista/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:53.581284+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://montessorimondial.se/kista/om/grundskola/",
+      "source_url": "https://montessorimondial.se/kista/om/grundskola/",
+      "page_title": "Grundskola förskoleklass-åk 5 | Montessori Mondial Kista",
+      "accessed_at": "2026-10-21T17:41:55.095717+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "82408375_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kista/om/grundskola/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:53.581284+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://montessorimondial.se/kista/montessoripedagogik/",
+      "source_url": "https://montessorimondial.se/kista/montessoripedagogik/",
+      "page_title": "Montessoripedagogik – Kista",
+      "accessed_at": "2026-10-21T17:41:55.872235+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "82408375_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kista/montessoripedagogik/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:53.581284+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

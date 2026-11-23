@@ -1,0 +1,68 @@
+[
+  {
+    "code_id": "ac_b09_20563782_01",
+    "school_id": "20563782",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Differentiated teaching and movement emphasis",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b09_20563782_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-29. F–6 Sorunda, fresh official ID/name/address/grades reconciles broken F–3 URL. Context also states organised recess and movement breaks as explicit focus; supported inclusion/wellbeing interpretation, not ordinary statutory provision alone. Future Sunnerby school 2027 not assumed current unit. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b09_21724208_01",
+    "school_id": "21724208",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "OLIKA anti-harassment and mentoring context",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b09_21724208_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-29. Sätraskolan ordinary F–9, not separately linked adapted unit. Named anti-harassment project with two safety groups and Mentor Sverige collaboration described on page; unit-specific model beyond generic safety promise. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b09_21724208_02",
+    "school_id": "21724208",
+    "category": "Other stated profile",
+    "subcategory": "Mathivation peer mathematics teaching, higher years",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b09_21724208_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-29. Specific sustained maths peer-teaching collaboration, higher years7–9 only, participant coverage unspecified. Other stated profile; not project/inquiry category merely because called project, nor whole-school maths spets. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b09_21871265_01",
+    "school_id": "21871265",
+    "category": "Arts and creative learning",
+    "subcategory": "Extended music curriculum and recurring choir, 4–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b09_21871265_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-29. Official ordinary4–9 music-profile school; shares premises with Häggviksskolan but distinct ID. Admissions page says mandatory group/individual entry tests; selective enrolment retained. Not causal claim or ordinary music-subject list. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b09_21997077_01",
+    "school_id": "21997077",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Elmemodellen, Trivselledare and UDL-inspired inclusion",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b09_21997077_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-29. Sollentuna F–9 Kärleksbacken3 exact fresh official match. Unit describes structure/predictability/undisturbed work and Trivselledare daily; provider model explains individual spaces/headphones as context. Unit also states UDL-inspired introduction autumn2026, not mature/certified implementation. Angered school dog excluded. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b09_22030561_01",
+    "school_id": "22030561",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Classroom movement breaks and structured physical activity",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b09_22030561_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-29. Östberga F–6 ordinary school, stored grades1–6. Supported wellbeing emphasis combines lesson movement, extraPE/swimming focus and explicit organised physical activity recess/fritids. Effects intended not verified; staffing counts/teacher qualifications self-reported and not official metrics. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

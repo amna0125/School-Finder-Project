@@ -1,0 +1,211 @@
+[
+  {
+    "code_id": "ac_sr_68812584_01",
+    "school_id": "68812584",
+    "category": "Arts and creative learning",
+    "subcategory": "Aesthetic subjects for language and learning",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_68812584_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim; classes split into smaller groups in aesthetic subjects.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_68893390_01",
+    "school_id": "68893390",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Regular outdoor pedagogy",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_68893390_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Outdoor lessons in nearby woods also stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_68893390_02",
+    "school_id": "68893390",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_68893390_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent for named programmes.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_68939834_01",
+    "school_id": "68939834",
+    "category": "Other stated profile",
+    "subcategory": "Jewish profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_68939834_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_68939834_02",
+    "school_id": "68939834",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Hebrew as profile subject",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_68939834_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_69043808_01",
+    "school_id": "69043808",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Recurring outdoor pedagogy, all subjects",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_69043808_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_69195602_01",
+    "school_id": "69195602",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Municipal special teaching group",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_69195602_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Group is part of the school, not the whole school's profile. School closing 2027.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_69895255_01",
+    "school_id": "69895255",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Local area used for outdoor lessons",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_69895255_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Examples are mainly PE activities.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_70089804_01",
+    "school_id": "70089804",
+    "category": "Other stated profile",
+    "subcategory": "Bornholmsmodellen",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_70089804_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_70089804_02",
+    "school_id": "70089804",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Intercultural school",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_70089804_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No detail on practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_70182130_01",
+    "school_id": "70182130",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Pedagogy in local environment",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_70182130_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. 'Inspired to' hedge.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_70398560_01",
+    "school_id": "70398560",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "MVP violence prevention (7–9)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_70398560_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. City-wide programme; upper years only.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_70803136_01",
+    "school_id": "70803136",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Archipelago profile; sailing; outdoor pedagogy",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_70803136_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_71363923_01",
+    "school_id": "71363923",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Skansen as outdoor classroom",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_71363923_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency not stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_71363923_02",
+    "school_id": "71363923",
+    "category": "Arts and creative learning",
+    "subcategory": "Daily art studio work",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_71363923_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_71375812_01",
+    "school_id": "71375812",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_71375812_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_71375812_02",
+    "school_id": "71375812",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Extended English; international profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_71375812_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Via school's choice time.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_71638763_01",
+    "school_id": "71638763",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "IBIS",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_71638763_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_71669600_01",
+    "school_id": "71669600",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Outdoor teaching; Skogsmulle certification",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_71669600_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Certification shared with preschool.",
+    "review_status": "Reviewed"
+  }
+]

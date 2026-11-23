@@ -1,0 +1,45 @@
+[
+{"sid":"89510449","o":"N","note":"Kungsklippe F–9: guiding words and traditions; generic."},
+{"sid":"89605548","o":"N","note":"Trollboda F–9: art and greenery in environment; generic teaching description."},
+{"sid":"89615900","o":"N","note":"Bålbro F–3: year teams and facilities; a kulturskola is housed in the building (not a teaching approach)."},
+{"sid":"89692072","o":"R","note":"Freinetskolan Hugin F–9 (Norrtälje): Freinet pedagogy; thematic work increasing with age; Socratic dialogues, pupil-led conferences, 'Mästaråret' in year 9.","ev":[
+ {"p":0,"q":"Vi utgår från läroplanen med starkt stöd av Freinetpedagogiken.","i":"Freinet pedagogy.","c":[["Alternative pedagogy","Freinet","E"]],"cn":"School claim."},
+ {"p":0,"q":"Med stigande ålder ökar det tematiska arbetet.","i":"Thematic work across years.","c":[["Project- or inquiry-based learning","Thematic work; Mästaråret in year 9","E"]],"cn":"Thematic work described for all stages."}]},
+{"sid":"89701816","o":"B","why":"source inaccessible","note":"Registered Huddinge host does not resolve (DNS failure)."},
+{"sid":"89751941","o":"R","note":"Drakskepp F–6 (Täby): trivselledare and buddy system.","ev":[
+ {"p":0,"q":"Vår trygghetsgrupp och våra trivselledare skapar gemenskap genom lekar och aktiviteter.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselledare","E"]],"cn":"Per precedent."}]},
+{"sid":"89847413","o":"R","note":"Skansberg F–3: PAX; Aski-Raski reading model; language- and reading-developing approach.","ev":[
+ {"p":1,"q":"Genom PAX arbetar vi för att skapa studiero och positiva relationer.","i":"Named programme.","c":[["Support, inclusion, or wellbeing emphasis","PAX","E"]],"cn":"Per precedent."},
+ {"p":1,"q":"Läsutvecklingsmodellen Aski-Raski är en viktig del av verksamheten och bidrar till att stärka elevernas läsförmåga och lust att lära.","i":"Named reading model.","c":[["Other stated profile","Aski-Raski reading model","E"]],"cn":"Cf. Bornholmsmodellen precedent."}]},
+{"sid":"89851619","o":"R","note":"JENSEN Bro Mälarstrand 4–9: health profile; traditional teacher-led profile. Other JENSEN units' pages excluded.","ev":[
+ {"p":0,"q":"Vår skola präglas av studier i fokus, trygghet och studiero och vi har en tydlig hälsoprofil.","i":"Stated health profile.","c":[["Support, inclusion, or wellbeing emphasis","Health profile","E"]],"cn":"Cf. JENSEN Långholmen."},
+ {"p":0,"q":"Vi är en traditionell skola fri från trender.","i":"Traditional teacher-led profile.","c":[["Other stated profile","Traditional teacher-led; handwriting emphasis","E"]],"cn":"Cf. JENSEN Långholmen."}]},
+{"sid":"89893224","o":"R","note":"Svedenskolan Bergshamra: resource school (Utvecklingspedagogik) with clarifying pedagogy and social interaction focus; also anpassad grundskola.","ev":[
+ {"p":0,"q":"På Svedenskolan jobbar vi med tydliggörande pedagogik där socialt samspel står i fokus.","i":"Resource school using clarifying pedagogy.","c":[["Support, inclusion, or wellbeing emphasis","Resource school; tydliggörande pedagogik","E"]],"cn":"Page title 'Resursskola i Solna'."}]},
+{"sid":"90207041","o":"B","why":"substantive page not reached","note":"Myrsjö resursskola: municipal page shows only a welcome line and notices; no description collected. No inference from school name."},
+{"sid":"90537318","o":"R","note":"Vikingaskolan (Haninge): Sweden-Finnish classes F–6 with part of teaching in Finnish.","ev":[
+ {"p":1,"q":"Elever som har finska som levande språk hemma har möjlighet att gå i Vikingaskolans sverigefinska klasser.","i":"Finnish-language classes option.","c":[["Language, international, or intercultural profile","Sweden-Finnish classes F–6","S"]],"cn":"Optional classes; half of theoretical teaching in Finnish in lower years."}]},
+{"sid":"90561266","o":"N","note":"Hedvig Eleonora F–6: play and creativity, extension teaching for pupils ahead; generic."},
+{"sid":"90719952","o":"R","note":"Edsbro (~60 pupils): strong emphasis on reading and writing ability.","ev":[
+ {"p":2,"q":"Vi lägger stor vikt vid elevens läs och skrivförmågan och följer systematiskt upp våra resultat på grupp- och individnivå.","i":"Literacy emphasis.","c":[["Other stated profile","Literacy emphasis","S"]],"cn":"Norrtälje template text; cf. Skebo."}]},
+{"sid":"90732940","o":"U","why":"provider-level source only","note":"IES Bromma: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"90850620","o":"R","note":"Grundskolan Metapontum F–9: music and maths profiles at all stages; maths spets from year 7; own kulturskola.","ev":[
+ {"p":0,"q":"Vi erbjuder musik- och matematikprofil där våra elever har möjlighet till bredd och fördjupning i dessa ämnen tillsammans med skickliga och behöriga lärare.","i":"Music and maths profiles.","c":[["Arts and creative learning","Music profile","E"],["Other stated profile","Maths profile; spets from year 7","E"]],"cn":"School claim."}]},
+{"sid":"90879048","o":"U","why":"provider-level source only","note":"Raoul Wallenbergskolan Järvastaden: only RWS group pages collected; no unit page.","ev":[
+ {"p":0,"q":"Genom det gemensamma arbetssättet ”Klättringen mot toppen” skapas trygghet, kontinuitet och hög måluppfyllelse.","i":"Group-wide working model; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"90886859","o":"R","note":"Utsälje F–9: language- and knowledge-developing approach in all subjects; anpassad grundskola on site.","ev":[
+ {"p":1,"q":"Ett språk- och kunskapsutvecklande arbetssätt genomsyrar undervisningen i alla ämnen och hjälper oss att möta elevernas olika erfarenheter, styrkor och behov.","i":"Language-developing approach.","c":[["Other stated profile","Language- and knowledge-developing approach","S"]],"cn":"Common Huddinge wording."}]},
+{"sid":"91067048","o":"R","note":"Ebba Braheskolan (Kvarnholmen): individualised teaching; teachers work cross-subject. Site text appears dated (2020/21).","ev":[
+ {"p":1,"q":"Våra lärare arbetar ämnesövergripande för att skapa en helhetsbild för eleven.","i":"Cross-subject teaching.","c":[["Project- or inquiry-based learning","Cross-subject teaching","S"]],"cn":"Site may be outdated."}]},
+{"sid":"91213471","o":"R","note":"Klockargården F–3 (Lidingö): whole school works with long themes; NTA; systematic reading.","ev":[
+ {"p":0,"q":"Hela skolan arbetar med teman som kan sträcka sig över en längre tid.","i":"School-wide thematic work.","c":[["Project- or inquiry-based learning","Long school-wide themes; NTA","E"]],"cn":"School claim."}]},
+{"sid":"91816093","o":"N","note":"Stureby F–9: daily recess pedagogue; generic."},
+{"sid":"92007673","o":"R","note":"Västertorp F–6: special teaching group 'Supernova' for pupils needing a calmer setting.","ev":[
+ {"p":0,"q":"Vi har en särskild undervisningsgrupp som kallas Supernova.","i":"Small-group support provision.","c":[["Support, inclusion, or wellbeing emphasis","Special teaching group (Supernova)","S"]],"cn":"Part of the school, not whole-school profile."}]},
+{"sid":"92127007","o":"R","note":"Norrbyskolan F–9 (Kista): strong maths focus; Erasmus+ environmental project.","ev":[
+ {"p":0,"q":"Vi bedriver verksamhet med starkt fokus på matematik för att ge eleverna de bästa förutsättningarna att lyckas","i":"Maths emphasis.","c":[["Other stated profile","Maths focus","S"]],"cn":"No programme detail."}]},
+{"sid":"92284588","o":"B","why":"source inaccessible","note":"Registered Upplands-Bro URL returns HTTP 404."},
+{"sid":"92347699","o":"N","note":"Bromsten F–6: renovation and facilities; special teaching group mentioned only as location."},
+{"sid":"92416778","o":"N","note":"Hjorthagen F–4: accessible learning environment; generic."}
+]

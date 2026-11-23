@@ -1,0 +1,32 @@
+{
+  "school_id": "47986219",
+  "school_name": "Futuraskolan AB",
+  "registered_url": "http://www.futuraskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://futuraskolan.se/",
+      "source_url": "https://futuraskolan.se/",
+      "page_title": "Futuraskolan – International schools and pre-schools in Stockholm",
+      "accessed_at": "2026-10-21T17:36:22.057734+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "47986219_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://futuraskolan.se/",
+          "robots_url": "https://futuraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:21.266269+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

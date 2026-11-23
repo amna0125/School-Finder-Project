@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "17526606",
+    "official_directory_name": "Fryshuset Grundskola Akalla",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.fryshuset.se",
+    "note": ""
+  },
+  {
+    "school_id": "17640364",
+    "official_directory_name": "Spånga grundskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/spanga-grundskola",
+    "note": ""
+  },
+  {
+    "school_id": "17737193",
+    "official_directory_name": "Granbackaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.solna.se",
+    "note": ""
+  },
+  {
+    "school_id": "17957898",
+    "official_directory_name": "Innovitaskolan Rudan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://innovitaskolan.se/rudan/",
+    "note": ""
+  },
+  {
+    "school_id": "18053776",
+    "official_directory_name": "Djurö skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://varmdo.se",
+    "note": ""
+  },
+  {
+    "school_id": "18064456",
+    "official_directory_name": "Söderholmsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/soderholmsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "18193338",
+    "official_directory_name": "Svandammsskolan F-6",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/svandammsskolan-f-6",
+    "note": ""
+  },
+  {
+    "school_id": "18595907",
+    "official_directory_name": "Edsbergsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sollentuna.se/sv/uweb/edsbergsskolan/",
+    "note": ""
+  },
+  {
+    "school_id": "19089469",
+    "official_directory_name": "Montessoriskolan Fredsduvan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.fredsduvan.com",
+    "note": ""
+  },
+  {
+    "school_id": "19353396",
+    "official_directory_name": "Fruängens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/fruangens-skola",
+    "note": ""
+  }
+]

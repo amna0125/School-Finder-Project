@@ -1,0 +1,72 @@
+{
+  "school_id": "53259263",
+  "school_name": "Ingridskolan",
+  "registered_url": "http://www.ingridskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.ingridskolan.se/",
+      "source_url": "https://www.ingridskolan.se/",
+      "page_title": "Skola för barn med autism i Stockholm | Ingridskolan",
+      "accessed_at": "2026-10-21T17:37:40.436387+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "53259263_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.ingridskolan.se/",
+          "robots_url": "https://www.ingridskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:37:38.594679+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.ingridskolan.se/grundskola/",
+      "source_url": "https://www.ingridskolan.se/grundskola/",
+      "page_title": "Grundskola för elever med AST | Ingridskolan",
+      "accessed_at": "2026-10-21T17:37:41.772132+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "53259263_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.ingridskolan.se/grundskola/",
+          "robots_url": "https://www.ingridskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:37:38.594679+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.ingridskolan.se/om-oss/",
+      "source_url": "https://www.ingridskolan.se/om-oss/",
+      "page_title": "Resursskola för elever med AST | Om Ingridskolan",
+      "accessed_at": "2026-10-21T17:37:42.991320+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "53259263_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.ingridskolan.se/om-oss/",
+          "robots_url": "https://www.ingridskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:37:38.594679+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

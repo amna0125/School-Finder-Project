@@ -1,0 +1,22 @@
+{
+  "school_id": "37472911",
+  "school_name": "Stenmoskolan",
+  "registered_url": "https://www.huddinge.se/stenmoskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.huddinge.se/stenmoskolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:32:43.494636+00:00"
+    },
+    {
+      "url": "https://www.huddinge.se/stenmoskolan/om-skolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:32:44.441290+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

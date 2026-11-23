@@ -1,0 +1,90 @@
+[
+  {
+    "code_id": "ac_b18_31851256_01",
+    "school_id": "31851256",
+    "category": "Arts and creative learning",
+    "subcategory": "Music-profile classes",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b18_31851256_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Music classes in years 7–9, not all pupils; distinct from Roslagens kulturskola. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b18_31903219_01",
+    "school_id": "31903219",
+    "category": "Other stated profile",
+    "subcategory": "Singapore Math",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b18_31903219_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Named subject-specific mathematics method in municipal Farsta F–6 school; not Magelungens Södermalm. Not whole-school alternative pedagogy. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b18_32231541_01",
+    "school_id": "32231541",
+    "category": "Other stated profile",
+    "subcategory": "Mathematics profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b18_32231541_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Optional interest-based profile at current Enhagen6–9. Official DB name Täby Friskola; directory ledger Enhagen; unit page matches grades. Future autumn2027 F–9 expansion excluded. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b18_32479095_01",
+    "school_id": "32479095",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Health and movement profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b18_32479095_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Health/movement emphasis; page says profile permeates subjects. Do not endorse claimed health/results effects. Year5 ice safety/year6 kayaking are scoped activities, not separate outdoor pedagogy. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b18_32585503_01",
+    "school_id": "32585503",
+    "category": "Arts and creative learning",
+    "subcategory": "Recurring school orchestra",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b18_32585503_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Recurring school-time orchestra plus instrument learning; participation is many, not all pupils. Supported music emphasis, not explicit whole-school music profile. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b18_32965692_01",
+    "school_id": "32965692",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Language profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b18_32965692_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit local language profile; school1–9 joined to official ID, preschool out of analytical scope. Detail page describes rhetoric, Nordic collaboration and upper-grade exchanges; opportunities/plans not guaranteed participation or verified delivery. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b18_33159363_01",
+    "school_id": "33159363",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Collaborative problem solving (CPS)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b18_33159363_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit CPS relationship/problem-solving approach on Munsö F–3 page. Page also introduces SAM preschool organisation; scope not independently verified; do not extend to all SAM units. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b18_33455004_01",
+    "school_id": "33455004",
+    "category": "Other stated profile",
+    "subcategory": "Experience-based learning",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b18_33455004_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-30. Explicit experience-based learning with excursions/museums/themes; no evidence of inquiry/project process, so Other stated profile. Current pavilion, not planned new building. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

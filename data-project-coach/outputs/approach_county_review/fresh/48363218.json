@@ -1,0 +1,17 @@
+{
+  "school_id": "48363218",
+  "school_name": "Solhemsängens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+      "error": "The read operation timed out",
+      "attempted_at": "2026-10-21T17:36:32.774308+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

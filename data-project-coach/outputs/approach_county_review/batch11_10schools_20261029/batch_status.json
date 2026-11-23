@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 6,
+  "scoped_no_clear_schools": 1,
+  "requires_review_schools": 3,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 14,
+  "new_code_rows": 10,
+  "database_evidence_total": 134,
+  "database_codes_total": 101,
+  "first_load_flow": "granite-quail",
+  "replay_flow": "pygmy-kagu",
+  "replay_inserted_rows": 0,
+  "tests": "22 existing tests passed"
+}

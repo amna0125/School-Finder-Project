@@ -1,0 +1,69 @@
+{
+  "school_id": "71375812",
+  "school_name": "Vallentuna Internationella Montessoriskola",
+  "registered_url": "http://www.vallentunaims.se",
+  "pages": [
+    {
+      "requested_url": "https://www.vallentunaims.se/",
+      "source_url": "https://www.vallentunaims.se/",
+      "page_title": "Vallentuna Internationella Montessoriskola",
+      "accessed_at": "2026-10-21T17:40:11.637058+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "71375812_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentunaims.se/",
+          "robots_url": "https://www.vallentunaims.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:40:10.337256+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.vallentunaims.se/om-skolan/en-del-av-montessori-sverige",
+      "source_url": "https://www.vallentunaims.se/om-skolan/en-del-av-montessori-sverige",
+      "page_title": "En del av Montessori Sverige",
+      "accessed_at": "2026-10-21T17:40:12.453202+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "71375812_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentunaims.se/om-skolan/en-del-av-montessori-sverige",
+          "robots_url": "https://www.vallentunaims.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:40:10.337256+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.vallentunaims.se/om-skolan/fritidshem",
+      "source_url": "https://www.vallentunaims.se/om-skolan/fritidshem",
+      "page_title": "Fritidshem",
+      "accessed_at": "2026-10-21T17:40:13.247264+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "71375812_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentunaims.se/om-skolan/fritidshem",
+          "robots_url": "https://www.vallentunaims.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:40:10.337256+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

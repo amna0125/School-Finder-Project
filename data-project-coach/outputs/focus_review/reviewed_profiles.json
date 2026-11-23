@@ -1,0 +1,58 @@
+[
+  {
+    "school_unit_code": "23498302",
+    "school_name": "Stockholms Montessoriskola Anne Frank",
+    "database_school_name": "Stockholms Montessoriskola Anne Frank",
+    "category": "montessori",
+    "supporting_excerpt": "Skolan bedriver Montessoripedagogik där även fritidshemmets verksamhet genomsyras av denna pedagogik.",
+    "source_url": "https://www.stockholmsmontessoriskola.se/",
+    "retrieved_at": "2026-10-21T09:07:52.496328+00:00",
+    "review_status": "reviewed_website_claim",
+    "claim_type": "school_self_description_not_independently_verified",
+    "scope_note": "Shared site explicitly names Anne Frank (4–6) and Färgargårdstorget (F–3); statement covers both. Prior register year-range discrepancy remains unresolved.",
+    "review_method": "assistant_source_review",
+    "permission_note": "Public pages; robots checked; no access controls bypassed; full terms assessment pending before bulk collection"
+  },
+  {
+    "school_unit_code": "36066067",
+    "school_name": "Musikskolan Lilla Akademien",
+    "database_school_name": "Lilla Akademien Musikgymnasium",
+    "category": "music",
+    "supporting_excerpt": "Musikskolan Lilla Akademien är en unik speciellt utformad musikskola, där en omfattande och gedigen musikutbildning integreras med grundskolans olika ämnen.",
+    "source_url": "https://lillaakademien.se/grundskola",
+    "retrieved_at": "2026-10-21T09:07:52.496328+00:00",
+    "review_status": "reviewed_website_claim",
+    "claim_type": "school_self_description_not_independently_verified",
+    "scope_note": "Grundskola-specific page; active GR directory maps name to 36066067. Existing detail-derived database name says Musikgymnasium: unresolved source-name conflict, not silently corrected.",
+    "review_method": "assistant_source_review",
+    "permission_note": "Public pages; robots checked; no access controls bypassed; full terms assessment pending before bulk collection"
+  },
+  {
+    "school_unit_code": "98760751",
+    "school_name": "Kristofferskolan, gr",
+    "database_school_name": "Kristofferskolan",
+    "category": "waldorf",
+    "supporting_excerpt": "Waldorfpedagogik bygger på en helhetssyn på världen och människan.",
+    "source_url": "https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/",
+    "retrieved_at": "2026-10-21T09:07:52.496328+00:00",
+    "review_status": "reviewed_website_claim",
+    "claim_type": "school_self_description_not_independently_verified",
+    "scope_note": "School-wide pedagogy description on shared grundskola/gymnasium site; not a class-specific observation.",
+    "review_method": "assistant_source_review",
+    "permission_note": "Public pages; robots checked; no access controls bypassed; full terms assessment pending before bulk collection"
+  },
+  {
+    "school_unit_code": "98760751",
+    "school_name": "Kristofferskolan, gr",
+    "database_school_name": "Kristofferskolan",
+    "category": "creative_arts",
+    "supporting_excerpt": "Konsten utgör ett förhållningssätt som genomsyrar alla ämnen, även själva undervisningen är att betrakta som en konst.",
+    "source_url": "https://kristofferskolan.se/waldorfpedagogik/pedagogiken-som-konst/",
+    "retrieved_at": "2026-10-21T09:07:52.496328+00:00",
+    "review_status": "reviewed_website_claim",
+    "claim_type": "school_self_description_not_independently_verified",
+    "scope_note": "School-wide description of Waldorf pedagogy; shared grundskola/gymnasium site. Does not establish independent arts-specialist accreditation.",
+    "review_method": "assistant_source_review",
+    "permission_note": "Public pages; robots checked; no access controls bypassed; full terms assessment pending before bulk collection"
+  }
+]

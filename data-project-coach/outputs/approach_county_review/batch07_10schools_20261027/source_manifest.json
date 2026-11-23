@@ -1,0 +1,122 @@
+[
+  {
+    "file": "djuro.html",
+    "bytes": 54934,
+    "sha256": "cdec0a0c697dfbbf34abb16e807cc835b8662c083913c13563437ed0048c20f7"
+  },
+  {
+    "file": "edsberg_about.html",
+    "bytes": 35286,
+    "sha256": "a30f53a66167d04d43803a6d9626c7eaf9c727db68361497f72d55e09cbbcec2"
+  },
+  {
+    "file": "edsberg_depth.html",
+    "bytes": 31109,
+    "sha256": "cd9ed2b2c12498f61e8254c57d499f0c66025b6287712f791b336885e5f614d9"
+  },
+  {
+    "file": "edsberg_old.html",
+    "bytes": 37095,
+    "sha256": "ebdd5efc7d4a29d00c91ad2b29e1ae9c5ebfbdf71c5dba76fa2a0d94b0988058"
+  },
+  {
+    "file": "edsberg_spets.html",
+    "bytes": 41232,
+    "sha256": "087796327abc751a7fc706e15a1107b4948293c72582193f3e17be5c1d270cc1"
+  },
+  {
+    "file": "fredsduvan.html",
+    "bytes": 346766,
+    "sha256": "e4f62e3c5ea520f0c6768a0d793ae30b7af5082a51340525c257d1bd38bea4a3"
+  },
+  {
+    "file": "fruangen.html",
+    "bytes": 149003,
+    "sha256": "171f1ecc34b6f67cddde738533d06344aa688467afcf2189b90c5bf16b720037"
+  },
+  {
+    "file": "fryshuset.html",
+    "bytes": 91701,
+    "sha256": "eed4855aedef6c31902029fbd55c147a06124618bab8b6295544fe61a7f6f209"
+  },
+  {
+    "file": "granbacka.html",
+    "bytes": 330474,
+    "sha256": "082eb9a33f2e28e14c6c7c598cf6466b53aed10de85cf43ce2379ee4b10a845a"
+  },
+  {
+    "file": "robots_fredsduvan.txt",
+    "bytes": 492,
+    "sha256": "e9fb1f0d1db1217a3eeeab0c9b216452c0c28a657690bb31143009d4dd0b21c2"
+  },
+  {
+    "file": "robots_fryshuset.txt",
+    "bytes": 34,
+    "sha256": "359af9b994ea8a08fba38fb4bd5b24cf21fb66fe6fb50d598d217583f20e175e"
+  },
+  {
+    "file": "robots_innovita.txt",
+    "bytes": 3455,
+    "sha256": "3c30864c6159e3036e63012770dfdcc00cf69705efffaf388cf5568f221c1895"
+  },
+  {
+    "file": "robots_nynas.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "robots_sollentuna.txt",
+    "bytes": 59,
+    "sha256": "90073a61ecb6f417b0e153809713f1d1e23de4d41f64752906a7dbee8ae07103"
+  },
+  {
+    "file": "robots_solna.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 68,
+    "sha256": "884a702f28cae7691d050d58f687e2d29412b1e5a799000e5769742bc5818d17"
+  },
+  {
+    "file": "robots_varmdo.txt",
+    "bytes": 496,
+    "sha256": "ca354b966c817b7d3c2c07ae362cb7db41249a66fa968aca6d67734807321808"
+  },
+  {
+    "file": "rudan.html",
+    "bytes": 67677,
+    "sha256": "b80f9ee71a983e35e4a4ff103658a93ae62a841a3bb2ad0b337f713250c0cab3"
+  },
+  {
+    "file": "rudan_concept.html",
+    "bytes": 76878,
+    "sha256": "78c21b0f05168fadc33ff1090d8817d19d133dbdd5cea55529379ea09c990fee"
+  },
+  {
+    "file": "rudan_school.html",
+    "bytes": 59064,
+    "sha256": "a6bffb6a841050daeba5c0b8b38b189f83818268f4e53bf067daaf8f2c638c36"
+  },
+  {
+    "file": "soderholm.html",
+    "bytes": 136318,
+    "sha256": "7bcd5d8f7ac1af83ec030bd4f66d3f38d5a2b7df1eaf54da0ba2f4e10330111b"
+  },
+  {
+    "file": "spanga.html",
+    "bytes": 131638,
+    "sha256": "d3e0879cdc1e1c673349b6c4d9fccbe4f5d27cc494fd2dfb25bb46792f2de05e"
+  },
+  {
+    "file": "svandamm.html",
+    "bytes": 235076,
+    "sha256": "1024cca56b10cf5c05297774d12125bc2d09c0eb1a88f04b3a0411a286eeb2de"
+  },
+  {
+    "file": "svandamm_current.html",
+    "bytes": 276559,
+    "sha256": "0a27bbf68e96211447605a100c6eb7427f2bffb99edf8ddc1294c1a7a342a1dc"
+  }
+]

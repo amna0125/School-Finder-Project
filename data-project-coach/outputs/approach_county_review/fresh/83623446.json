@@ -1,0 +1,32 @@
+{
+  "school_id": "83623446",
+  "school_name": "Rösjöskolan",
+  "registered_url": "http://www.taby.se/rosjoskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.taby.se/rosjoskolan",
+      "source_url": "https://www.taby.se/rosjoskolan",
+      "page_title": "Rösjöskolan | Täby kommun",
+      "accessed_at": "2026-10-21T17:42:15.888070+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "83623446_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.taby.se/rosjoskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:09.873415+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

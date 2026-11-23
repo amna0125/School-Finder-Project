@@ -1,0 +1,52 @@
+{
+  "school_id": "16394249",
+  "school_name": "Ellen Key skolan",
+  "registered_url": "http://www.eks.se",
+  "pages": [
+    {
+      "requested_url": "https://eks.se/",
+      "source_url": "https://eks.se/",
+      "page_title": "Hem - EKS",
+      "accessed_at": "2026-10-21T17:28:51.681497+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16394249_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://eks.se/",
+          "robots_url": "https://eks.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:28:45.670512+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://eks.se/waldorfpedagogik-2/",
+      "source_url": "https://eks.se/waldorfpedagogik-2/",
+      "page_title": "Waldorfpedagogik - EKS",
+      "accessed_at": "2026-10-21T17:28:56.618501+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16394249_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://eks.se/waldorfpedagogik-2/",
+          "robots_url": "https://eks.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:28:45.670512+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

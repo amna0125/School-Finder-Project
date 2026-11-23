@@ -1,0 +1,72 @@
+{
+  "school_id": "80378022",
+  "school_name": "Botkyrka Friskola",
+  "registered_url": "http://www.botfri.se",
+  "pages": [
+    {
+      "requested_url": "https://botfri.se/",
+      "source_url": "https://botfri.se/",
+      "page_title": "Botkyrka Friskola – Den lilla skolan med stora förväntningar",
+      "accessed_at": "2026-10-21T17:41:30.856888+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "80378022_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://botfri.se/",
+          "robots_url": "https://botfri.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:29.743900+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://botfri.se/om-oss/",
+      "source_url": "https://botfri.se/om-oss/",
+      "page_title": "Om Botkyrka Friskola | Trygg skola med engagerade lärare",
+      "accessed_at": "2026-10-21T17:41:32.493729+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "80378022_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://botfri.se/om-oss/",
+          "robots_url": "https://botfri.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:29.743900+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://botfri.se/om-oss/verksamheten/",
+      "source_url": "https://botfri.se/om-oss/verksamheten/",
+      "page_title": "Vår verksamhet | Botkyrka Friskola",
+      "accessed_at": "2026-10-21T17:41:33.431990+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "80378022_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://botfri.se/om-oss/verksamheten/",
+          "robots_url": "https://botfri.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:29.743900+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

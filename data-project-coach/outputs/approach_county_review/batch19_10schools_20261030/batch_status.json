@@ -1,0 +1,9 @@
+{
+  "status": "LOADED_REPLAY_VERIFIED_RECONCILED",
+  "schools": 10,
+  "evidence_added": 12,
+  "codes_added": 4,
+  "documented_outcomes": 203,
+  "pending": 559,
+  "remaining_followups": "See review_log.csv/decision_log.md; processed is not resolved."
+}

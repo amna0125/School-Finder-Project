@@ -1,0 +1,52 @@
+{
+  "school_id": "35890890",
+  "school_name": "Västerholms friskola",
+  "registered_url": "http://www.vasterholm.se",
+  "pages": [
+    {
+      "requested_url": "https://vasterholm.se/",
+      "source_url": "https://vasterholm.se/",
+      "page_title": "Västerholms friskola",
+      "accessed_at": "2026-10-21T17:32:26.443961+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "35890890_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vasterholm.se/",
+          "robots_url": "https://vasterholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:24.964269+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vasterholm.se/om-skolan/",
+      "source_url": "https://vasterholm.se/om-skolan/",
+      "page_title": "Västerholms friskola",
+      "accessed_at": "2026-10-21T17:32:27.555587+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "35890890_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vasterholm.se/om-skolan/",
+          "robots_url": "https://vasterholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:24.964269+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

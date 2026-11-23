@@ -1,0 +1,152 @@
+[
+  {
+    "file": "backahagen.html",
+    "bytes": 146202,
+    "sha256": "386cd8d297c38f8f0dc3ecad773fc0e259b4b9ede506b7ddabb86fdf5f398d77"
+  },
+  {
+    "file": "herrangen.html",
+    "bytes": 138357,
+    "sha256": "ad4bfc20d12b47e8fd1a877e6543fc96fc1dd3778d9fb4c93356276baff49b57"
+  },
+  {
+    "file": "jarla.html",
+    "bytes": 33609,
+    "sha256": "2adf0d18e21f97998a394616a5b22e7ade3f8b119d22193208595b53be98c874"
+  },
+  {
+    "file": "jarla_lower.html",
+    "bytes": 37881,
+    "sha256": "c08387b2e972b250d34ead8c8661c848fc8e52d0425337ad616db7f9136dd396"
+  },
+  {
+    "file": "jarla_middle.html",
+    "bytes": 36646,
+    "sha256": "53185e30705efa2cc8eedecdc389811707a5f04eeeadadb5a184e633ab5cd347"
+  },
+  {
+    "file": "jarla_official.json",
+    "bytes": 1470,
+    "sha256": "a41113c2f2592c8277101ac8b2c7a33a34ae521e8e391396b3dc918c6356f1fa"
+  },
+  {
+    "file": "jarla_outdoor.html",
+    "bytes": 83665,
+    "sha256": "3c19474221e9829bc331e1de59d8dae325c5ed24739f244c67722d0cd15661fa"
+  },
+  {
+    "file": "jarla_vision.html",
+    "bytes": 32178,
+    "sha256": "4417b083eb8b87d359a25b47315b19e82ccaa6060635195c5c7caf6ff87411ac"
+  },
+  {
+    "file": "kyrk.html",
+    "bytes": 235106,
+    "sha256": "c707d537b16d1e43d3544c2ade15c0dcc0183349bf59313196431849f84a286d"
+  },
+  {
+    "file": "kyrk_current.html",
+    "bytes": 275391,
+    "sha256": "15a67b6695e00112c6e4ce0cad00a29555f7c28043068bd523de34dc739bb760"
+  },
+  {
+    "file": "kyrk_official.json",
+    "bytes": 1549,
+    "sha256": "e105ca2e637f5c5c9302b2375f8877e3985117bfc16c6e54f5b166b73c45ba99"
+  },
+  {
+    "file": "musik.html",
+    "bytes": 37830,
+    "sha256": "7bd87af6b6b7b35aeab8e39228dec5540c5bfc4690641f388fa1c6c417525378"
+  },
+  {
+    "file": "musik_apply.html",
+    "bytes": 37202,
+    "sha256": "04e598024c130bf5783a5825455787eb383cb541e88525fc4b6720a28e288413"
+  },
+  {
+    "file": "ostberga.html",
+    "bytes": 142317,
+    "sha256": "2073b7be46e2180eb774b6d3c62433823ea4bcf3a5eccf34dac3402b82564511"
+  },
+  {
+    "file": "robots_friluft.txt",
+    "bytes": 184,
+    "sha256": "95abfefccd4e64abd2b8ac5bf88cdedd2fb1457ae74237f84d339181de21b16d"
+  },
+  {
+    "file": "robots_friskola.txt",
+    "bytes": 611,
+    "sha256": "f57dc07da1b100184e55eb5b915cfd089dfb623602cc027dc5c0ddc3d65a6153"
+  },
+  {
+    "file": "robots_huddinge.txt",
+    "bytes": 498,
+    "sha256": "750f760e4ee8836a23a7a276b699e579cabdbbb9acbdd73d0ec029a2175aa069"
+  },
+  {
+    "file": "robots_nacka.txt",
+    "bytes": 90,
+    "sha256": "64fe41969e11ec84b6931292db50ef815df7f9d69b40957717f3836cfc06a702"
+  },
+  {
+    "file": "robots_nynas.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "robots_sollentuna.txt",
+    "bytes": 59,
+    "sha256": "90073a61ecb6f417b0e153809713f1d1e23de4d41f64752906a7dbee8ae07103"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 67,
+    "sha256": "bba51e84f7a5a0904a456f6e4b3e79b919e43800d60b2e6a7508062cec4d2106"
+  },
+  {
+    "file": "robots_vaxholm.txt",
+    "bytes": 514,
+    "sha256": "85d3b2ec632f9f574ec79715a6e4300a78f4367ce2188192cd154d4938b2768e"
+  },
+  {
+    "file": "robots_vilja.txt",
+    "bytes": 172,
+    "sha256": "2288ec919087fc61d5e4934499b05387ae92838205c6869fe439fb6481280db0"
+  },
+  {
+    "file": "satra.html",
+    "bytes": 145655,
+    "sha256": "96bc6279b87651eb59c19e104e41f7ff0f227e87def93050f17d0c630d8cdd6d"
+  },
+  {
+    "file": "soderfjard.html",
+    "bytes": 57113,
+    "sha256": "860f4c5538f91bc7709fa6eb1bbdb9b2c22ff8cde70d2a9166b94352af313bcc"
+  },
+  {
+    "file": "soderfjard_support.html",
+    "bytes": 55585,
+    "sha256": "a15c880235593a24f4a7806dcc884b2b28226f051901b5a30df69036e8843b9d"
+  },
+  {
+    "file": "sodertorn_municipal.html",
+    "bytes": 83076,
+    "sha256": "94cbaa535ed6a21e633a016d7256326e884873199a123a4e4461a571ae4eaa85"
+  },
+  {
+    "file": "vilja.html",
+    "bytes": 44658,
+    "sha256": "a7feda9f35d8d88504b632d6cff0ea81c240be63580639c98cbb5264b0a3a164"
+  },
+  {
+    "file": "vilja_model.html",
+    "bytes": 46393,
+    "sha256": "87669fc5b9caf5b64f46a43469d818c4f59a33e056436f6751241ef9b39c8c8d"
+  },
+  {
+    "file": "vilja_official.json",
+    "bytes": 1544,
+    "sha256": "60b4f85559e3efc421c2b97edaa800663a9936f4ff9edd105d9c12eb566acbf3"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "school_id": "11496096",
+  "school_name": "Kunskapsskolan Saltsjöbaden",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+  "pages": [
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+      "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+      "page_title": "Kunskapsskolan Saltsjöbaden",
+      "accessed_at": "2026-10-21T17:26:48.855232+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "11496096_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/kontakta-oss",
+      "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/kontakta-oss",
+      "page_title": "Kontakta oss - Kunskapsskolan Saltsjöbaden",
+      "accessed_at": "2026-10-21T17:26:56.880183+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "11496096_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/aktuellt",
+      "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/aktuellt",
+      "page_title": "Aktuellt - Kunskapsskolan Saltsjöbaden",
+      "accessed_at": "2026-10-21T17:27:36.119144+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "11496096_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

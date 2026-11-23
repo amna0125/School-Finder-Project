@@ -1,0 +1,8 @@
+category,short_name,description,sort_order
+Arts and creative learning,Arts and creative,"Music, dance, theatre or art as a profile",0
+"Outdoor, nature, or place-based learning",Outdoor learning,"Regular teaching outdoors, in nature or the local area",1
+Alternative pedagogy,Alternative pedagogy,"Montessori, Waldorf, Reggio Emilia and similar",2
+Project- or inquiry-based learning,Projects and inquiry,Learning through projects and themes across subjects,3
+"Language, international, or intercultural profile",Languages and international,"Bilingual, international or extra language focus",4
+"Support, inclusion, or wellbeing emphasis",Support and wellbeing,"Small groups, inclusion, calm and wellbeing as a stated focus",5
+Other stated profile,Other profile,"Other profiles, such as sports, maths or science",6

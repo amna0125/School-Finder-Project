@@ -1,0 +1,56 @@
+[
+  {
+    "school_id": "11018018",
+    "code_id": "ac_e0783419932c27f3513e6cc1",
+    "evidence_id": "ae_e0783419932c27f3513e6cc1",
+    "previous_status": "Requires review",
+    "new_status": "Reviewed",
+    "source_file": "pops.html",
+    "decision": "4–9; Stockholm-specific page. Official register confirms same ID, years 4–9 and Vintertullstorget 2. Move article alone was prospective; register independently corroborates current registered address."
+  },
+  {
+    "school_id": "10715898",
+    "code_id": "ac_8e8b7ea48989803746725f21",
+    "evidence_id": "ae_8e8b7ea48989803746725f21",
+    "previous_status": "Requires review",
+    "new_status": "Reviewed",
+    "source_file": "olweus.html",
+    "decision": "F–9 per school about page. Dedicated page uses present tense, unlike stale future-tense about-page sentence. Page update date unknown; currently published claim, not verification of continuity. Do not repeat exclusivity/research-superiority claims."
+  },
+  {
+    "school_id": "12092203",
+    "code_id": "ac_c929ed8e8a0c150e7f18c161",
+    "evidence_id": "ae_c929ed8e8a0c150e7f18c161",
+    "previous_status": "Requires review",
+    "new_status": "Reviewed",
+    "source_file": "brage.html",
+    "decision": "F–9 resource school; municipal page updated 2026-08-24. Register confirms Brageskolan and Hertig Karls väg 5; old-name VT25 links support continuity. Not preschool evidence."
+  },
+  {
+    "school_id": "12259212",
+    "code_id": "ac_b44948003b670c7644c1ffee",
+    "evidence_id": "ae_b44948003b670c7644c1ffee",
+    "previous_status": "Requires review",
+    "new_status": "Reviewed",
+    "source_file": "solna.html",
+    "decision": "4–9; unit-specific page also states Swedish curriculum and up to half of teaching in English. Register confirms same unit/years and Diktarvägen 4 (site gives 2–4). Exclude testimonials and website statistics."
+  },
+  {
+    "school_id": "12332278",
+    "code_id": "ac_228448084c7fd3253c626950",
+    "evidence_id": "ae_228448084c7fd3253c626950",
+    "previous_status": "Requires review",
+    "new_status": "Reviewed",
+    "source_file": "taby.html",
+    "decision": "4–9; unit-specific page also states Swedish curriculum and up to half of teaching in English. Register confirms unit/years and Nytorpsvägen 7. Exclude testimonials and website statistics."
+  },
+  {
+    "school_id": "10682125",
+    "code_id": "ac_f9dce0af10fd7181f55f6875",
+    "evidence_id": "ae_f9dce0af10fd7181f55f6875",
+    "previous_status": "No staged claim",
+    "new_status": "Reviewed",
+    "source_file": "magita.html",
+    "decision": "F–6 school-wide description shared by grundskola and anpassad grundskola; register confirms both forms 1–6 plus preschool class under ID 10682125. Not a grundskola-only practice claim. Register/body establish Sköndal; Gröndal in actual HTML title is stale. Do not compare website 74 pupils with register approximate 50."
+  }
+]

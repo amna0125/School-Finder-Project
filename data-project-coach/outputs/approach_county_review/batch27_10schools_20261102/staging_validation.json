@@ -1,0 +1,18 @@
+{
+  "status": "PASSED",
+  "schools": 10,
+  "evidence": 10,
+  "codes": 6,
+  "outcomes": {
+    "No clear evidence within scoped review": 2,
+    "Reviewed approach claim": 5,
+    "Permission blocker": 1,
+    "Uncertain evidence / requires review": 2
+  },
+  "schema_valid": true,
+  "quotes_checked": true,
+  "official_ids_valid": true,
+  "selection_matches_ledger": true,
+  "database_modified": false,
+  "county_ledger_modified": false
+}

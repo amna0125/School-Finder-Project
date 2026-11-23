@@ -1,0 +1,72 @@
+{
+  "school_id": "27595656",
+  "school_name": "Birkaskolan",
+  "registered_url": "http://www.birkaskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.birkaskolan.se/",
+      "source_url": "https://www.birkaskolan.se/",
+      "page_title": "BirkaskolanBirkaskolan",
+      "accessed_at": "2026-10-21T17:31:30.425626+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27595656_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.birkaskolan.se/",
+          "robots_url": "https://www.birkaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:29.482499+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.birkaskolan.se/grundskola-f-9",
+      "source_url": "https://www.birkaskolan.se/grundskola-f-9",
+      "page_title": "Grundskola F-9 — BirkaskolanBirkaskolan",
+      "accessed_at": "2026-10-21T17:31:31.557971+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27595656_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.birkaskolan.se/grundskola-f-9",
+          "robots_url": "https://www.birkaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:29.482499+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.birkaskolan.se/montessoripedagogiken",
+      "source_url": "https://www.birkaskolan.se/montessoripedagogiken",
+      "page_title": "Montessoripedagogiken — BirkaskolanBirkaskolan",
+      "accessed_at": "2026-10-21T17:31:32.649347+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27595656_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.birkaskolan.se/montessoripedagogiken",
+          "robots_url": "https://www.birkaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:29.482499+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

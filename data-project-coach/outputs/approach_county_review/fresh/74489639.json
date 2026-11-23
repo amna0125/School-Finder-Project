@@ -1,0 +1,72 @@
+{
+  "school_id": "74489639",
+  "school_name": "Innovitaskolan Södertälje",
+  "registered_url": "https://innovitaskolan.se/sodertalje/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/sodertalje/",
+      "source_url": "https://innovitaskolan.se/sodertalje/",
+      "page_title": "Innovitaskolan Södertälje | Förskoleklass–årskurs 9",
+      "accessed_at": "2026-10-21T17:40:37.548926+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "74489639_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/sodertalje/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/sodertalje/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/sodertalje/om/grundskola/",
+      "page_title": "Vår grundskola | Innovitaskolan Södertälje | Om skolan",
+      "accessed_at": "2026-10-21T17:40:38.724782+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "74489639_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/sodertalje/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/sodertalje/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/sodertalje/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Södertälje | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:40:39.924808+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "74489639_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/sodertalje/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

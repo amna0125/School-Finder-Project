@@ -1,0 +1,52 @@
+{
+  "school_id": "41507895",
+  "school_name": "Noblaskolan Nacka Strand",
+  "registered_url": "https://noblaskolan.se/nacka-strand/",
+  "pages": [
+    {
+      "requested_url": "https://noblaskolan.se/nacka-strand/",
+      "source_url": "https://noblaskolan.se/nacka-strand/",
+      "page_title": "En skola i Nacka med höga ambitioner | Noblaskolan Nacka Strand",
+      "accessed_at": "2026-10-21T17:33:51.420462+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "41507895_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/nacka-strand/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:04.209006+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://noblaskolan.se/nacka-strand/om/grundskola/",
+      "source_url": "https://noblaskolan.se/nacka-strand/om/grundskola/",
+      "page_title": "Grundskola i Nacka förskoleklass-åk 3 | Noblaskolan Nacka Strand",
+      "accessed_at": "2026-10-21T17:33:52.171383+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "41507895_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/nacka-strand/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:30:04.209006+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

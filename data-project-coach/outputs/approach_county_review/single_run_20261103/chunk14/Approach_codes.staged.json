@@ -1,0 +1,134 @@
+[
+  {
+    "code_id": "ac_sr_83810698_01",
+    "school_id": "83810698",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Naturskola collaboration",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_83810698_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency not stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_83810698_02",
+    "school_id": "83810698",
+    "category": "Other stated profile",
+    "subcategory": "Language-developing approach",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_83810698_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Common municipal approach, stated as pervasive.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_83828066_01",
+    "school_id": "83828066",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Green areas used in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_83828066_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency not stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_84230778_01",
+    "school_id": "84230778",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "School with day treatment",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_84230778_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Site title 'Skola & Behandling'.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_84584068_01",
+    "school_id": "84584068",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Adventure pedagogy outdoors (F–2)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_84584068_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Lower years only.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_84585645_01",
+    "school_id": "84585645",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_84585645_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_84585645_02",
+    "school_id": "84585645",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Monthly outdoor day; teaching with nature",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_84585645_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Outdoor day rather than outdoor teaching.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_84704913_01",
+    "school_id": "84704913",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Woods and green classroom in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_84704913_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency not stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_85200474_01",
+    "school_id": "85200474",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school; extensive special support",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_85200474_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Provider-level, per Magelungen precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_85777315_01",
+    "school_id": "85777315",
+    "category": "Other stated profile",
+    "subcategory": "Christian profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_85777315_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_85796724_01",
+    "school_id": "85796724",
+    "category": "Other stated profile",
+    "subcategory": "Christian profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_85796724_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School-wide statement covering both units.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_86086213_01",
+    "school_id": "86086213",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school with treatment",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_86086213_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  }
+]

@@ -1,0 +1,64 @@
+--- /dev/null
++++ outputs/approach_county_review/build_batch25.py
+@@ -0,0 +1,61 @@
++"""One-time Batch25 staging; preserve prior batches."""
++from pathlib import Path
++import csv,json,re,html,hashlib
++import duckdb
++from outputs.approach_county_review.extract19 import parse
++from school_pipeline.approach_migration import validate_records
++P=Path('outputs/approach_county_review');B=P/'batch25_10schools_20261102';S=B/'sources';D='2026-11-02'
++assert not (B/'Approach_evidence.staged.json').exists()
++def dump(n,v):(B/n).write_text(json.dumps(v,ensure_ascii=False,indent=2,default=str)+'\n')
++rows=list(csv.DictReader((P/'county_progress_20261102_after_batch24.csv').open()))
++selection=sorted((r for r in rows if r['review_state']=='Not yet contextually reviewed'),key=lambda r:r['school_id'])[:10]
++ids=[r['school_id'] for r in selection];assert ids==['40383398','40467992','40610606','40618486','40631085','40847752','40904373','40978257','41176931','41181908']
++with duckdb.connect('.state/schools.duckdb',read_only=True) as db:
++ cur=db.execute('select * from schools where school_unit_code in ('+','.join('?' for _ in ids)+') order by school_unit_code',ids);names=[x[0] for x in cur.description];meta=[dict(zip(names,r)) for r in cur.fetchall()]
++u=dict(bromma='https://grundskola.stockholm/hitta-grundskola/grundskola/bromma-kyrkskola',futura='https://futuraskolan.se/',hertig='https://futuraskolan.se/schools/hertig-karl/',lfsl='https://www.lfsl.net/',lfsl_about='https://www.lfsl.net/presentation-du-lfsl/',lfsl_languages='https://www.lfsl.net/cursus-scolaire/langues-au-lfsl/',lfsl_curriculum='https://www.lfsl.net/cursus-scolaire/cursus-scolaire/',rasunda='https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/rasunda-skola',fittja='https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/fittjaskolan',bjorkeby='https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/barkarbyskalby/bjorkebyskolan.4.36ac70f31639ecd947f2e58.html',narlunda='https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/narlundaskolan-f-6',international='https://futuraskolaninternational.se/',gardet='https://grundskola.stockholm/hitta-grundskola/grundskola/gardesskolan',hager='https://www.taby.se/grundskolor/hagerneholmsskolan')
++page_sets=[['bromma'],['futura','hertig'],['lfsl','lfsl_about','lfsl_languages','lfsl_curriculum'],['rasunda'],['fittja'],['bjorkeby'],['narlunda'],['international'],['gardet'],['hager']]
++notes_list=[
++'Website F–2 overlaps official1–2. Main teaching/preschool-class, learning environment, outdoor, meals and fritids sections reviewed. Nearby nature/garden and organised breaks do not establish outdoor pedagogy; preschool-class aims are ordinary. No clear approach in this scoped textual review; embedded film not transcribed.',
++'Directory names Hertig Karl; database name is generic Futuraskolan AB. Unit page explicitly F–9, bilingual and thematic IPC/IMYC with Swedish curriculum; official-ID bridge beyond directory selection not independently verified. Claim retained Requires review for identity, not a resolved unit match. Provider-wide claims and social feed not automatically applied; sustainability award not an outdoor pedagogy code.',
++'Official1–9 unit; website spans preschool through upper secondary. French language of instruction statement applies institution-wide and language pathway explicitly starts CP; restrict interpretation to compulsory-school years, exclude preschool/lycee-specific activities. French educational cycle equivalence to Swedish years not independently mapped; curriculum comparability caveat retained.',
++'Website F–6 overlaps official1–6. Explicit reading focus and extra mathematics years4–5 outside ordinary timetable. Extra maths does not mean all pupils participate; no inferred quality. Municipal safety section is not unique school profile.',
++'Website4–9 agrees with official. Explicit language/mathematical strategies emphasis plus recurring maths holiday schools. External art/craft collaborations insufficiently specific for arts approach; special teaching group, newcomer classes and separate adapted school are not all-pupil descriptions. No website teacher-qualification or pupil quote curated as evidence.',
++'Website7–9 agrees with official7–9. Municipal descriptive text and school facts reviewed; Welcome heading contains embedded video without a reviewed transcript. No clear approach found within available scoped text; video remains an unresolved source limitation, not evidence of absence. Website ratios/headcounts not imported as approach data.',
++'Website F–6 overlaps official1–6. Named Lekande barn project intended to promote activity, cohesion and inclusion. This is school self-description, not verified effects; project dates and detailed implementation unspecified.',
++'Directory identifies International School of Stockholm; database generic Futuraskolan AB. Own page explicitly grades1–9, English medium, international rather than Swedish national curriculum, temporary-resident eligibility/special permit. Identity link not independently verified against an ID-bearing page, so Requires review. EAL push-in/pull-out instruction applies to EAL learners only; not coded as all-pupil support. Outcomes/promotional success claims excluded.',
++'Website F–9 overlaps official1–9. IBIS is described as school-wide; PAX explicitly F–3 (compulsory overlap1–3). Separate adapted-school and Olaus Petri units excluded. Programmes describe stated practice, not independently verified effectiveness.',
++'Website F–9 overlaps official1–9. Descriptive teaching, learning environment, safety and facilities text reviewed. Organised daily breaks, general inclusive/structured teaching and positive-relationship claims do not alone establish a distinctive support approach. Preschool capacity is separate and not enrolment. No clear approach within scope.'
++]
++notes=dict(zip(ids,notes_list));outcomes=dict(zip(ids,['No clear evidence within scoped review','Uncertain evidence / requires review','Reviewed approach claim','Reviewed approach claim','Reviewed approach claim','No clear evidence within scoped review','Reviewed approach claim','Uncertain evidence / requires review','Reviewed approach claim','No clear evidence within scoped review']))
++def title(n):
++ s=(S/(n+'.html')).read_text();return html.unescape(re.sub('<[^>]+>','',re.search(r'<title[^>]*>(.*?)</title>',s,re.S|re.I).group(1))).strip()
++e=[];c=[]
++def add(i,n,quote,cat='',sub='',status='Reviewed'):
++ sid=ids[i];assert quote in parse(S/(n+'.html'))[0],(n,quote);num=sum(r['school_id']==sid for r in e)+1;eid=f'ae_b25_{sid}_{num:02}'
++ e.append(dict(evidence_id=eid,school_id=sid,source_url=u[n],page_title=title(n),accessed_date=D,quoted_text=quote,evidence_type='School webpage',interpretation_note=notes[sid]))
++ if cat:c.append(dict(code_id=f'ac_b25_{sid}_{num:02}',school_id=sid,category=cat,subcategory=sub,coding_level='Explicit',confidence='High',evidence_id=eid,coder_note='Assistant contextual review, codebook v1, 2026-11-02. '+notes[sid]+' School wording, not independently verified practice.',review_status=status))
++add(1,'hertig','Futuraskolan International Hertig Karl is a small bilingual school with a global perspective and caters for Grade F-9.')
++add(2,'lfsl_languages','La langue française est la langue de communication et de scolarisation au sein du LFSL. Le français est ainsi la langue utilisée durant les cours et la langue des épreuves d’examens.','Language, international, or intercultural profile','French-medium / multilingual intercultural pathway')
++add(3,'rasunda','Skolan strävar efter att vara en läsande skola, där läsningen ligger i fokus. Skolans bibliotek har en utbildad bibliotekspedagog.','Other stated profile','Reading emphasis')
++add(3,'rasunda','Skolan erbjuder extra matematik i årskurs 4 och 5. Den undervisningen ligger utanför ordinarie timplan.','Other stated profile','Extra mathematics, years4–5')
++add(4,'fittja','På Fittjaskolan satsar vi mycket på att utveckla elevernas språkliga och matematiska strategier.','Other stated profile','Language and mathematical strategies emphasis')
++add(6,'narlunda','Vi arbetar också med projektet “Lekande barn” för att främja aktivitet, gruppsammanhållning och inkludering på skolan.','Support, inclusion, or wellbeing emphasis','Lekande barn inclusion project')
++add(7,'international','English is the language of instruction and it follows an international curriculum, not the Swedish National Curriculum.')
++add(8,'gardet','IBIS – ett skolövergripande program med inkluderande beteendestöd som fokuserar på positiva förväntningar och strategier för att bygga relationer.','Support, inclusion, or wellbeing emphasis','IBIS school-wide positive behaviour support')
++add(8,'gardet','PAX i skolan – ett program som har fokus självreglering för att öka trygghet och arbetsro. Det har vi i årskurs förskoleklass till årskurs 3.','Support, inclusion, or wellbeing emphasis','PAX, F–3 only')
++validate_records(e,c)
++reviews=[];logs=[]
++for i,r in enumerate(selection):
++ sid=r['school_id'];reviews.append(dict(school_id=sid,school_name=r['official_directory_name'],outcome=outcomes[sid],evidence_count=sum(x['school_id']==sid for x in e),code_count=sum(x['school_id']==sid for x in c),unit_scope=notes[sid],follow_up=notes[sid],reviewer='Assistant contextual review; not independent verification',accessed_date=D,load_state='Staged, not loaded'))
++ for n in page_sets[i]:
++  logs.append(dict(school_id=sid,registered_url=r['registered_url'],selected_url=u[n],page_title=title(n),accessed_date=D,status=200,saved_file='sources/'+n+'.html',selection_rationale='Ascending pending official ID; official/provider unit description and relevant curriculum/language follow-up.',scope=notes[sid],outcome=outcomes[sid],permissions='Robots saved for nine hosts; initial descriptive requests preceded checks. Selected descriptive paths not disallowed in readable rules; Stockholm response encoding unclear, not affirmative permission clearance. No bypass. Terms not exhaustively reviewed.',exclusions='No social/admin/login/application/gallery follow-up; surveys, individual pupil quotes and staff identities excluded from curated evidence. Embedded videos not transcribed.',retrieval_note='Public HTML saved 2026-11-02; precise fetch timestamps not retained. International www root redirected to non-www; registered HTTP roots not separately requested. Current unit path selected by official navigation/search; no unobserved redirects asserted.'))
++for n,v in [('selection.json',selection),('official_selection_metadata.json',meta),('Approach_evidence.staged.json',e),('Approach_codes.staged.json',c)]:dump(n,v)
++for n,rs in [('review_log.csv',reviews),('collection_log.csv',logs)]:
++ with (B/n).open('w',newline='') as f:w=csv.DictWriter(f,fieldnames=rs[0]);w.writeheader();w.writerows(rs)
++(B/'collection_log.jsonl').write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in logs))
++dump('source_hashes.json',{x.name:hashlib.sha256(x.read_bytes()).hexdigest() for x in sorted(S.iterdir()) if x.is_file()})
++dump('staging_validation.json',dict(status='PASSED',schools=10,evidence=len(e),codes=len(c),official_ids_valid=True,selection_matches_ledger=True))
++(B/'decision_log.md').write_text('# Batch25 decisions\n\n'+'\n\n'.join(sid+': '+notes[sid] for sid in ids)+'\n\nCodebook v1 unchanged. About/pedagogy/education/profile/creative/arts/learning/values concepts guided scoped text review; not an exhaustive search. Two generic provider-name mappings held uncoded pending identity clarification. Approach outcomes are not county applicability-scope totals.\n')
++(B/'REPORT.md').write_text('# Batch25 — 2 November 2026\n\n10 outcomes:5 reviewed-claim schools,2 uncertain identity mappings (no firm codes),3 scoped no-clear.9 evidence excerpts /7 codes. Sources accessible; Björkeby embedded video unreviewed. See decisions for year/group/curriculum caveats.\n\nStaged; load and checkpoint pending.\n')
++dump('batch_status.json',dict(status='STAGED_VALIDATED_NOT_LOADED',schools=10,evidence=len(e),codes=len(c),date=D))
++print(json.dumps(dict(schools=10,evidence=len(e),codes=len(c))))

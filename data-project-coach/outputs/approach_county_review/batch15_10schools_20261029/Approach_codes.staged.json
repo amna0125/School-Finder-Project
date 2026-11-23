@@ -1,0 +1,156 @@
+[
+  {
+    "code_id": "ac_b15_27595656_01",
+    "school_id": "27595656",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_27595656_01",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. BirkaskolanEkeröF–9, freshofficialBjörkuddsvägen98matches2025move. Substantiveunitmethods: choicewithinframes/planning/materials and mixedagesF–6, homogeneous7–9. Notnamealoneorcertification/fidelity claim; effectsnotverified. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_27595656_02",
+    "school_id": "27595656",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "International exchanges and Erasmus cooperation",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_27595656_02",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. Unitstatesrepeatedpupil/staffexchangeseachschoolyearand2017qualityworkinternationalfocus. Accreditationself-reportednotindependentlychecked; participantyears/numbersunspecified, notallpupilsorEnglish-mediumcurriculum. Oldertripslistedonunitpagecontextnotsoleevidence. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_27830075_01",
+    "school_id": "27830075",
+    "category": "Other stated profile",
+    "subcategory": "Skriva sig till lärande (STL), F–3",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_27830075_01",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. LjungbackenF–3Herkulesvägen23, official1–3plusF. NamedunitSTLmodelconcretelyexplainedthroughsocialinteraction/digitalarenas and sharedwriting/learning. Otherstatedmodel, notinternationalprofilefromordinaryreading or alternativeMontessori. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_27830075_02",
+    "school_id": "27830075",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Weekly cross-year buddy-group work",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b15_27830075_02",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. Weeklycross-yearbuddygroups/definedsociallearningpractices, notgenericvaluesalone; Supportedwellbeinginterpretation. F–3unit, no inquirycodefromthematicbuddysessions or verifiedeffects. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_28138418_01",
+    "school_id": "28138418",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Individualised resource-school teaching, years7–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_28138418_01",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. Exactfresh28138418resourceflag/7–9/Vintertullstorget54matches. Methodpageindividualmapping/actionplans/specialteacherssupports claim. Homepage12–14pergroup versus methodpageup-to16 discrepancyretained as self-reportedscopestatements, notimportedofficialclasssizemetric. No diagnosisassumptionaboutindividualpupils. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_28145722_01",
+    "school_id": "28145722",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Structured and individualised resource teaching, Hus6/Eken",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_28145722_01",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. Freshofficial28145722displayNameEnhetEken/schoolNameHus6/resourceflag6–9,Hjälmstavägen6. CurrentcontactexplicitlylistsHus6andHus8, resolvinghomeaddress8generalisation; commonmethodsapplyallpupils. Limit selectedIDtoHus6, notmergeotherunit. Placeholderhomepagecounts/loremipsum and schooldogallergyclaimsexcluded. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_28184857_01",
+    "school_id": "28184857",
+    "category": "Other stated profile",
+    "subcategory": "Bornholmsmodellen in preschool class only",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_28184857_01",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. F-class-specificplan, notallF–3. Concretephonologicalgames/rhymes/sound-letterworkdescribed. NamedliteracymodelunderOtherstatedprofile, notinternational/languageprofile or alternativemodel. Ordinarycurriculumwordingnotcodedbyitself. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_28184857_02",
+    "school_id": "28184857",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Weekly nature learning in preschool class",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b15_28184857_02",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. UnitF-classplanweeklynatureteaching, scopetoFonly notevery1–3year. Exactsubject/examplesandrecurrence supportoutdoorinterpretation; no minutesinvented. SeparateLundaIDfromBergsunddespitesharedorganisation/nearidenticalplan. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_28231215_01",
+    "school_id": "28231215",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf/Steiner, F–6",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_28231215_01",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. DirectunitWaldorfstatementandmethodpageperiodteaching/ownworkbooks/longclass-teacherrelationship. SchoolSkolallén3Lovö,F–6,official1–6. Smallclassself-reportnotverifiednumericmetric, noqualityfidelityclaim. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_28231215_02",
+    "school_id": "28231215",
+    "category": "Arts and creative learning",
+    "subcategory": "Integrated theoretical, artistic and practical learning",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_28231215_02",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. Directart/practical/theoryintegrationandearly-yearsong/music/rhythm/movementinmanysubjects. NotinferredsolelyfromWaldorfnameorordinarysubjectlist. ScopeF–6contextwithparticularearly-yearpractice, effectsnotverified. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_28799594_01",
+    "school_id": "28799594",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Olweus prevention programme",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_28799594_01",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. KärrdalF–6-specificsubsiteexplicitlyappliesmunicipalityprogrammeanddescribespupil/staff/parentinvolvement. Notstatutoryanti-bullyingwordingalone, noindependentcertification/effectsverified. Naturskolancollaborationfrequencyunder-specified, nooutdoorcodefromitalone. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_29096335_01",
+    "school_id": "29096335",
+    "category": "Arts and creative learning",
+    "subcategory": "Stated aesthetic, motor and practical orientation",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_29096335_01",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. ExplicitBergsundunitesthetic/motor/practicalorientation, Långholmsgatan24exactfreshofficialID/F–3. OwnF-classplanandteachingpagescontext, notartsinferencefromroomsalone. Generalorientationnotclaimofeverylessonartsintegrationorqualityeffects. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_29096335_02",
+    "school_id": "29096335",
+    "category": "Other stated profile",
+    "subcategory": "Bornholmsmodellen in preschool class only",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b15_29096335_02",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. OwnBergsundF-classplan, notcopyassumedfromLunda. Concretephonologicalgames/rhymes/letter-sounds stated. OthernamedliteracymodelscopedFonly, notinternationalprofileorall1–3. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b15_29096335_03",
+    "school_id": "29096335",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Weekly nature learning in preschool class",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b15_29096335_03",
+    "coder_note": "Assistant contextual review; codebookv1;2026-10-29. OwnBergsundF-classplanweeklynatureexploration, samewordingasLundabutseparatelyretrievedandschool-specific. ScopeFonly, noallF–3weeklyinference. No outdoorminutesorimplementationverification. Public claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

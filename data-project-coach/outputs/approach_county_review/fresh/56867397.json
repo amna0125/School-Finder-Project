@@ -1,0 +1,72 @@
+{
+  "school_id": "56867397",
+  "school_name": "Silverbäcken Dibber",
+  "registered_url": "https://dibber.se/skola/silverbacken-dibber/",
+  "pages": [
+    {
+      "requested_url": "https://dibber.se/skola/silverbacken-dibber/",
+      "source_url": "https://dibber.se/skola/silverbacken-dibber/",
+      "page_title": "Silverbäcken Dibber - Dibber",
+      "accessed_at": "2026-10-21T17:38:06.024696+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "56867397_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://dibber.se/skola/silverbacken-dibber/",
+          "robots_url": "https://dibber.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:08.408853+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://dibber.se/skola/silverbacken-dibber/om-oss/",
+      "source_url": "https://dibber.se/skola/silverbacken-dibber/om-oss/",
+      "page_title": "Om Silverbäcken skola - Dibber",
+      "accessed_at": "2026-10-21T17:38:07.072832+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "56867397_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://dibber.se/skola/silverbacken-dibber/om-oss/",
+          "robots_url": "https://dibber.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:08.408853+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://dibber.se/skola/silverbacken-dibber/var-profil/",
+      "source_url": "https://dibber.se/skola/silverbacken-dibber/var-profil/",
+      "page_title": "Vår profil på Silverbäcken skola - Dibber",
+      "accessed_at": "2026-10-21T17:38:08.660783+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "56867397_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://dibber.se/skola/silverbacken-dibber/var-profil/",
+          "robots_url": "https://dibber.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:08.408853+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

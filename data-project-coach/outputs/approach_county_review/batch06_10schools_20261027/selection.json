@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "16068461",
+    "official_directory_name": "Nyckelskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.knippan.se",
+    "note": ""
+  },
+  {
+    "school_id": "16348406",
+    "official_directory_name": "Matteusskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan",
+    "note": ""
+  },
+  {
+    "school_id": "16394249",
+    "official_directory_name": "Ellen Key skolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.eks.se",
+    "note": ""
+  },
+  {
+    "school_id": "16426165",
+    "official_directory_name": "Kunskapsskolan Enskede",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.kunskapsskolan.se/skolor/enskede",
+    "note": ""
+  },
+  {
+    "school_id": "16762245",
+    "official_directory_name": "Edessaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.edessaskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "16914123",
+    "official_directory_name": "Tavestaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://sodertalje.se/tavestaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "16969143",
+    "official_directory_name": "Hagnässkolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/hagnasskolan.html",
+    "note": ""
+  },
+  {
+    "school_id": "16983719",
+    "official_directory_name": "Broskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/broskolan.html",
+    "note": ""
+  },
+  {
+    "school_id": "17165481",
+    "official_directory_name": "Brotorpsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/brotorpsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "17287315",
+    "official_directory_name": "Källtorpskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarfalla.se",
+    "note": ""
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "36031993",
+  "school_name": "Vällingbyskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan",
+  "attempted_at": "2026-10-21T09:15:57.969435+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan",
+      "retrieved_at": "2026-10-21T09:15:59.099863+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "36031993_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Skolan har en fin fritidshemsverksamhet som erbjuder samtal, lek och estetiska uttrycksformer. Verksamheten är integrerad med skolan och ditt barn ges möjlighet att påverka och vara delaktig i att utforma sin fritidstid.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1211598bf0ef66191ed36b3d323603d5d9cc819601b51132c2be077bdef7e454",
+      "school_unit_code": "36031993",
+      "school_name": "Vällingbyskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan",
+      "retrieved_at": "2026-10-21T09:15:59.099863+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,59 @@
+{
+  "school_unit_code": "57850353",
+  "school_name": "Sverigefinskaskolan i Botkyrka",
+  "registered_url": "http://www.sverigefinskaskolan.com",
+  "attempted_at": "2026-10-21T09:22:16.228216+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://sverigefinskaskolan.com/",
+      "retrieved_at": "2026-10-21T09:22:24.120786+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sverigefinskaskolan.com",
+          "robots_url": "https://sverigefinskaskolan.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:19.085168+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sverigefinskaskolan.com/",
+          "robots_url": "https://sverigefinskaskolan.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:21.458594+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://sverigefinskaskolan.com/",
+          "robots_url": "https://sverigefinskaskolan.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:23.228604+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "57850353_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Sverigefinska skolan i Botkyrka är en tvåspråkig friskola med bra resultat. Skolan grundades 1996. Skolan följer Sveriges skollag och läroplan. Vår målsättning är att barnen och eleverna skall lära sig både sitt modersmål finska och svenska bra. Den språkliga utvecklingen följs upp från förskolan till årskurs 9. Vi har även utökat användningen av engelskan under skoldagen. I förskolan tränas engelskan i lekar och sånger och i skolan kan man välja att studera några avsnitt i olika ämnen på engelska. Språkval görs i årskurs 6.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c2e4fb9ed9492105d3ad67c7369994b6465624bf938a56c97902bd7ad5545d57",
+      "school_unit_code": "57850353",
+      "school_name": "Sverigefinskaskolan i Botkyrka",
+      "source_url": "https://sverigefinskaskolan.com/",
+      "retrieved_at": "2026-10-21T09:22:24.120786+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

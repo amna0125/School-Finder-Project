@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "23066257",
+  "school_name": "Kulturama gr. Hammarby Sjöstad",
+  "registered_url": "http://www.kulturama.se",
+  "attempted_at": "2026-10-21T09:15:36.406142+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.kulturama.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

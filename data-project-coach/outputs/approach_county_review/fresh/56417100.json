@@ -1,0 +1,17 @@
+{
+  "school_id": "56417100",
+  "school_name": "Kvarnhagsskolan",
+  "registered_url": "http://www.botkyrka.se/kvarnhagsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/kvarnhagsskolan",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:38:01.715249+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

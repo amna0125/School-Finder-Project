@@ -1,0 +1,81 @@
+{
+  "school_unit_code": "45133950",
+  "school_name": "Freinetskolan Mimer",
+  "registered_url": "http://www.mimer.org",
+  "attempted_at": "2026-10-21T09:21:40.756839+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.mimer.org/",
+      "retrieved_at": "2026-10-21T09:21:48.383158+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.mimer.org",
+          "robots_url": "https://www.mimer.org/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:42.175158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.mimer.org/",
+          "robots_url": "https://www.mimer.org/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:44.613109+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "45133950_0.txt"
+    },
+    {
+      "source_url": "https://www.mimer.org/om-oss",
+      "retrieved_at": "2026-10-21T09:21:48.402832+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.mimer.org/om-oss",
+          "robots_url": "https://www.mimer.org/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:44.613109+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "45133950_1.txt"
+    },
+    {
+      "source_url": "https://www.mimer.org/om-oss/Rektor",
+      "retrieved_at": "2026-10-21T09:21:48.419338+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.mimer.org/om-oss/Rektor",
+          "robots_url": "https://www.mimer.org/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:44.613109+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "45133950_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "På fritiden gillar jag att umgås med familj och vänner. Mitt stora intresse för teater och drama tar stor plats och har också följt med in i skolans värld, då jag årligen har nöjet att delta bakom kulisserna i Mimers årskurs nio mästarårsprojekt.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "cb81d9803d92440624cc2514eeabea635f001c74560a11cb7f8df564611672d7",
+      "school_unit_code": "45133950",
+      "school_name": "Freinetskolan Mimer",
+      "source_url": "https://www.mimer.org/om-oss/Rektor",
+      "retrieved_at": "2026-10-21T09:21:48.419338+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

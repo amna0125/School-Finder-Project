@@ -1,0 +1,72 @@
+{
+  "school_id": "55233055",
+  "school_name": "Innovitaskolan Söderby",
+  "registered_url": "https://innovitaskolan.se/soderby/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/soderby/",
+      "source_url": "https://innovitaskolan.se/soderby/",
+      "page_title": "Innovitaskolan Söderby | Förskoleklass–årskurs 3 | Haninge",
+      "accessed_at": "2026-10-21T17:37:49.392124+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "55233055_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/soderby/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/soderby/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/soderby/om/grundskola/",
+      "page_title": "Om vår grundskola | Innovitaskolan Söderby | Om skolan",
+      "accessed_at": "2026-10-21T17:37:50.559503+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "55233055_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/soderby/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/soderby/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/soderby/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Söderby | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:37:51.773630+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "55233055_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/soderby/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

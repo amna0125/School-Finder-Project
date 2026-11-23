@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "67809355",
+  "school_name": "Innovitaskolan Norrtälje",
+  "registered_url": "https://innovitaskolan.se/norrtalje/",
+  "attempted_at": "2026-10-21T09:16:47.747628+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://innovitaskolan.se/norrtalje/",
+      "retrieved_at": "2026-10-21T09:16:52.806629+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/norrtalje/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67809355_0.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/norrtalje/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:16:52.831423+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/norrtalje/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67809355_1.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/norrtalje/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:52.860454+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/norrtalje/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67809355_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Genom lek, bild och musik kan barnens fantasi och uttrycksförmåga komma fram på olika sätt. De uppmuntras till att testa själva med pedagogernas stöttning, för genom att testa utvecklas vi.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "61cd35c2d37f88792194f3f59658b2918660a79fb119dacfcfcb9999a047dc46",
+      "school_unit_code": "67809355",
+      "school_name": "Innovitaskolan Norrtälje",
+      "source_url": "https://innovitaskolan.se/norrtalje/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:16:52.831423+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "ningar skapar vi trygga barn och ett bra klimat i klassen. Vi har till exempel lekstationer, språkövningar och praktisk matematik både inom- och utomhus, vi jobbar också med sång, musik och rörelse och på så sätt möter vi skolans värld med nyfikna ögon.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "838e06ea1f0d60c84268145d33508d6ce542afb51d1b4b64b65c0b770d1206fb",
+      "school_unit_code": "67809355",
+      "school_name": "Innovitaskolan Norrtälje",
+      "source_url": "https://innovitaskolan.se/norrtalje/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:52.860454+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

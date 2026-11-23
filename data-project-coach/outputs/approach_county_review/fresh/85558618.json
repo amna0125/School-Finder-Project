@@ -1,0 +1,17 @@
+{
+  "school_id": "85558618",
+  "school_name": "Falkbergsskolan",
+  "registered_url": "http://www.botkyrka.se/falkbergsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/falkbergsskolan",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:42:24.937928+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

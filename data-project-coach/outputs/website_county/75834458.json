@@ -1,0 +1,52 @@
+{
+  "school_unit_code": "75834458",
+  "school_name": "Björknässkolan",
+  "registered_url": "http://www.bjorknas.nacka.se",
+  "attempted_at": "2026-10-21T09:23:10.129940+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/bjorknasskolan/",
+      "retrieved_at": "2026-10-21T09:23:14.345259+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.bjorknas.nacka.se",
+          "robots_url": "https://www.nacka.se/valfard-skola/bjorknasskolan/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:23:11.771027+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/bjorknasskolan/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "75834458_0.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/bjorknasskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:23:14.374257+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/bjorknasskolan/om-oss/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "75834458_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

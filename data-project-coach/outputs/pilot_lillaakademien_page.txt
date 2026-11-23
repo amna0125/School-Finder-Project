@@ -1,0 +1,3009 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="sv-SE"  class="touch-styles">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- red-lilla2 -->
+<base href="">
+<meta charset="utf-8" />
+<title>Musikskolan Lilla Akademien | Om oss</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1542790042719-EK8NXXPGTT3MY65OXAZR/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://lillaakademien.se/lilla-akademien"/>
+<meta property="og:site_name" content="Musikskolan Lilla Akademien"/>
+<meta property="og:title" content="Musikskolan Lilla Akademien | Om oss"/>
+<meta property="og:url" content="https://lillaakademien.se/lilla-akademien"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5b2b8ac42487fd3e2e19e93e/t/5bf51c1a6d2a7333a50d0631/1542790171477/lilla_symbol_200.png?format=1500w"/>
+<meta property="og:image:width" content="200"/>
+<meta property="og:image:height" content="155"/>
+<meta itemprop="name" content="Musikskolan Lilla Akademien &#124; Om oss"/>
+<meta itemprop="url" content="https://lillaakademien.se/lilla-akademien"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5b2b8ac42487fd3e2e19e93e/t/5bf51c1a6d2a7333a50d0631/1542790171477/lilla_symbol_200.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5b2b8ac42487fd3e2e19e93e/t/5bf51c1a6d2a7333a50d0631/1542790171477/lilla_symbol_200.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5b2b8ac42487fd3e2e19e93e/t/5bf51c1a6d2a7333a50d0631/1542790171477/lilla_symbol_200.png?format=1500w"/>
+<meta name="twitter:title" content="Musikskolan Lilla Akademien &#124; Om oss"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5b2b8ac42487fd3e2e19e93e/t/5bf51c1a6d2a7333a50d0631/1542790171477/lilla_symbol_200.png?format=1500w"/>
+<meta name="twitter:url" content="https://lillaakademien.se/lilla-akademien"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="preconnect" href="https://use.typekit.net" crossorigin>
+<link rel="preconnect" href="https://p.typekit.net" crossorigin>
+<script type="text/javascript" src="//use.typekit.net/ik/OK_b97Uh5rvo4s4q2zkTZ1R2eq5r1hzpqI6mc57erRJfen3IfFHN4UJLFRbh52jhWDmKwcJtjAwXwRbtFhZqwh9kZQIoZQqDZsnrMKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0ScmqOAUTdeUywKoDSWmyScmDSeBRZPoRdhXCHKoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0dcmXOeBDOcu8OeUTdeUyjAlyZeml-Am0O1F8OeUzjhBC-eNDifUkZAblde8CdeIkO1FUiABkZWF3jAF8OcFzdPUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcBDOcu8OYiaikoC-AUCjABnjAs8dA88dKoDZPUaiaS0ScmqOAUTdeUywKoDSWmyScmDSeBRZPoRdhXCiaiaO1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXKIhZkZA81-YblZe8DSeUypPu3ScvK2YgkdayTdAIlShNcifGHfwfbMsMMeMw6MKGHfOEbMsMMeMb6MKGHfwHbMsMMeM96MKGHfwPbMsMMeMj6MKGHfOkbMsMMeMS6MKGHfOrbMsMMeMt6MKGHfwAbMsMMegM6MKGHfOhbMsMMegI6MKGHfJegMyMgeMb6MTMgk40Jqbj.js" async fetchpriority="high" onload="try{Typekit.load();}catch(e){} document.documentElement.classList.remove('wf-loading');"></script>
+<script>document.documentElement.classList.add('wf-loading')</script>
+<style>@keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation: fonts-loading 3s; }</style>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.7.7/modern.js"></script>
+<script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"betaFeatureFlags":["website_styles_ui_enabled","marketing_landing_page","campaigns_discount_section_in_automations","enable_form_submission_trigger","marketing_automations","output_template_css_assets","commerce_product_payment_plan_editing","contacts_and_campaigns_redesign","campaigns_thumbnail_layout","campaigns_merch_state","campaigns_import_discounts","campaigns_table_v2","in-product-messaging-banners-oct-5","i18n_beta_website_locales","cdk_website_components_video_lazy_loading_enabled","cdk_website_components_video_container_styles_enabled","campaigns_new_image_layout_picker","campaigns_discount_section_in_blasts","sms-campaigns","order_status_page_checkout_landing_enabled"],"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b9dff8e5fc8cae5e-min.sv-SE.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-b05f5197a871c566-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-ce58cd9a8bda98d0-min.sv-SE.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-b4046463b72f34e2-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-bb32e37e044f6bed-min.sv-SE.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-c3fef2a497c8e56b-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-4912202363cf992f-min.sv-SE.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-96b256171ee039c1-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-5e218ce40461063d-min.sv-SE.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-99b7af1d92eba1a5-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-a35e48b985a431ce-min.sv-SE.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-29518faed5760b2b-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-8a7e2f75a36a6816-min.sv-SE.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-86aacd645d83874c-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-1e83af00c75ca6f3-min.sv-SE.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-c3fef2a497c8e56b-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-81c62434f4977a8e-min.sv-SE.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-e62b89b58ef73bd4-min.sv-SE.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-0afd3c6ac30bbab1-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-17ddb93b09f64172-min.sv-SE.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-b4046463b72f34e2-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-94c5aa34c5efcbcc-min.sv-SE.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-b4046463b72f34e2-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-4d2c238474422547-min.sv-SE.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-b4046463b72f34e2-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-85de92a4f8749698-min.sv-SE.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-f65e8f8374b8a226-min.sv-SE.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-0afd3c6ac30bbab1-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-e6b33ac53a4735f8-min.sv-SE.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-b4046463b72f34e2-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-79c267e1a47a319b-min.sv-SE.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-b4046463b72f34e2-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-426e209c6e8c54de-min.sv-SE.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-90a67fc09b9b32c6-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d376161ffc77e422-min.sv-SE.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-fb7ac9a216b15be2-min.sv-SE.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-701bf8bbc05ec6aa-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-6d005fcc7f900131-min.sv-SE.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-95032e5fa98e47a5-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-4d87a00bb5195768-min.sv-SE.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-b4046463b72f34e2-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-e5a8eaf6c4f7a0a5-min.sv-SE.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-07ea5a4e004e6710-min.sv-SE.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-bc2646174861e3f8-min.sv-SE.js"}},"pageType":1,"website":{"id":"5b2b8ac42487fd3e2e19e93e","captchaSettings":{"enabledForDonations":false},"cloneable":false,"contentModifiedOn":1792412675279,"formattingLocale":"sv-SE","fullSiteTitle":"Musikskolan Lilla Akademien | Om oss","identifier":"red-lilla2","imageMetadataProcessingEnabled":false,"isHstsEnabled":false,"language":"sv-SE","location":{"mapLat":59.34594689999999,"mapLng":18.048450799999955,"addressTitle":"Lilla Akademien","addressLine1":"14 Norrtullsgatan","addressLine2":"Stockholm, Stockholms l\u00E4n, 113 45","addressCountry":"Sweden"},"logoImageId":"637f22798f09c66ced794003","primaryDomain":"lillaakademien.se","screenshotId":"f540c84fa8ed72afb0207c5495aa9420a7da5a7b4c1e78102d35b62069647ae6","shareButtonOptions":{"1":true,"4":true,"2":true,"3":true},"showOwnerLogin":false,"siteDescription":"<p>Lilla Akademien \u00E4r skolan f\u00F6r dig som \u00E4lskar musik. Utveckla din talang och bli sedd och bekr\u00E4ftad. Vi tror p\u00E5 kunskap och kreativitet, alltid med musiken i fokus. V\u00E4lkommen till oss.</p>","siteStatus":{},"siteTagLine":"","siteTitle":"Musikskolan Lilla Akademien","socialLogoImageId":"5bf51c1a6d2a7333a50d0631","sslSetting":3,"timeZone":"Europe/Stockholm","translationLocale":"sv-SE","typekitId":"","websiteType":1,"hasBeenCloneable":false,"statsMigrated":false,"authenticUrl":"https://lillaakademien.se","baseUrl":"https://lillaakademien.se","internalUrl":"https://red-lilla2.squarespace.com","logoImageUrl":"//images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1c1a470a-8db7-4e37-97c0-937484661362/Musikskolan-Lilla-Akademien-_logo_1200.png","machineTimeZoneOffset":7200000,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1671528110563,"profileUrl":"https://www.facebook.com/profile.php?id=61550195681465","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":64,"screenname":"Instagram","addedOn":1671528130135,"profileUrl":"https://www.instagram.com/drottningsilviaskonsertsal/","iconEnabled":true,"serviceName":"instagram-unauth"},{"serviceId":74,"screenname":"URL","addedOn":1772398302937,"profileUrl":"http://www.drottningsilviaskonsertsal.se","iconEnabled":true,"serviceName":"url"}],"socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1542790170407-01R24AQ93WWJXCGQUGMX/lilla_symbol_200.png","timeZoneAbbr":"CEST","timeZoneOffset":7200000},"websiteSettings":{"id":"5b2b8ac42487fd3e2e19e941","websiteId":"5b2b8ac42487fd3e2e19e93e","subjects":[],"country":"SE","state":"AB","simpleLikingEnabled":true,"mobileInfoBarSettings":{"style":1,"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"announcementBarSettings":{"style":1,"text":"<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Skolstartstider p\u00E5 Lilla Akademien tisdag 18 augusti och onsdag 19 augusti, l\u00E4s mer under elever/v\u00E5rdnadshavare<br></p>"},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"08-54541830","storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","multicurrencyEnabled":true,"measurementStandard":2,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"minimumOrderSubtotalEnabled":false,"minimumOrderSubtotal":{"currency":"USD","value":"0.00"},"addToCartConfirmationType":2,"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":false,"cookieBannerText":"<p>Vi tar hj\u00E4lp av cookies f\u00F6r att tillhandah\u00E5lla v\u00E5ra tj\u00E4nster. Genom att anv\u00E4nda den h\u00E4r webbplatsen godk\u00E4nner du hur vi anv\u00E4nder cookies.</p>","cookieBannerTheme":"LIGHT","cookieBannerThemeName":"white","cookieBannerVariant":"POPUP","cookieBannerPosition":"BOTTOM_LEFT","cookieBannerCtaVariant":"ICON","cookieBannerCtaText":"OK","cookieBannerAcceptType":"OPT_IN","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":false,"cookieBannerSavedPreferencesLayout":"PILL"},"websiteCloneable":false,"collection":{"title":"Om oss","id":"5b9bab4ecd8366fe35ddcf13","fullUrl":"/lilla-akademien","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","design":"Slideshow","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-controls":"Both","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","grid-aspect-ratio":"1:1 (Square)","gridSize":"220px","gridSpacing":"20px","headerPadding":"20px","homepage-index-nav":"Show On Scroll","logoWidth":"700px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"420px","slideshow-aspect-ratio":"Auto","slideshow-autoplay":"true","slideshow-transition":"Scroll","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52e96934e4b0ea14d0f64568","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1142/scripts/","impersonatedSession":false,"tzData":{"zones":[[60,"EU","CE%sT",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Europe/Berlin","name":"centraleuropeisk tid"}},"env":"PRODUCTION","visitorFormContext":{"formFieldFormats":{"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"SE","labelLocale":"sv-SE","fields":[{"type":"FIELD","label":"1","identifier":"1","length":2,"required":false,"metadata":{}},{"type":"SEPARATOR","label":"-","identifier":"Dash","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":2,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"4","identifier":"4","length":13,"required":false,"metadata":{}}]},"initialNameOrder":"GIVEN_FIRST","initialAddressFormat":{"id":0,"type":"ADDRESS","country":"SE","labelLocale":"sv","fields":[{"type":"FIELD","label":"Adressrad 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Adressrad 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Postnummer","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Ort/stad","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}}]},"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Albanien","code":"AL","phoneCode":"+355"},{"name":"Algeriet","code":"DZ","phoneCode":"+213"},{"name":"Amerikanska Jungfru\u00F6arna","code":"VI","phoneCode":"+1"},{"name":"Amerikanska Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua och Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenien","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension","code":"AC","phoneCode":"+247"},{"name":"Australien","code":"AU","phoneCode":"+61"},{"name":"Azerbajdzjan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgien","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnien och Hercegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brasilien","code":"BR","phoneCode":"+55"},{"name":"Brittiska Jungfru\u00F6arna","code":"VG","phoneCode":"+1"},{"name":"Brittiska territoriet i Indiska oceanen","code":"IO","phoneCode":"+246"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgarien","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cayman\u00F6arna","code":"KY","phoneCode":"+1"},{"name":"Centralafrikanska republiken","code":"CF","phoneCode":"+236"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Cook\u00F6arna","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Cura\u00E7ao","code":"CW","phoneCode":"+599"},{"name":"Cypern","code":"CY","phoneCode":"+357"},{"name":"Danmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominikanska republiken","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypten","code":"EG","phoneCode":"+20"},{"name":"Ekvatorialguinea","code":"GQ","phoneCode":"+240"},{"name":"Elfenbenskusten","code":"CI","phoneCode":"+225"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estland","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Etiopien","code":"ET","phoneCode":"+251"},{"name":"Falklands\u00F6arna","code":"FK","phoneCode":"+500"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Filippinerna","code":"PH","phoneCode":"+63"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"Frankrike","code":"FR","phoneCode":"+33"},{"name":"Franska Guyana","code":"GF","phoneCode":"+594"},{"name":"Franska Polynesien","code":"PF","phoneCode":"+689"},{"name":"F\u00E4r\u00F6arna","code":"FO","phoneCode":"+298"},{"name":"F\u00F6renade Arabemiraten","code":"AE","phoneCode":"+971"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgien","code":"GE","phoneCode":"+995"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Grekland","code":"GR","phoneCode":"+30"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Gr\u00F6nland","code":"GL","phoneCode":"+299"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hongkong SAR","code":"HK","phoneCode":"+852"},{"name":"Indien","code":"IN","phoneCode":"+91"},{"name":"Indonesien","code":"ID","phoneCode":"+62"},{"name":"Irak","code":"IQ","phoneCode":"+964"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Irland","code":"IE","phoneCode":"+353"},{"name":"Island","code":"IS","phoneCode":"+354"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italien","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jemen","code":"YE","phoneCode":"+967"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordanien","code":"JO","phoneCode":"+962"},{"name":"Jul\u00F6n","code":"CX","phoneCode":"+61"},{"name":"Kambodja","code":"KH","phoneCode":"+855"},{"name":"Kamerun","code":"CM","phoneCode":"+237"},{"name":"Kanada","code":"CA","phoneCode":"+1"},{"name":"Kap Verde","code":"CV","phoneCode":"+238"},{"name":"Karibiska Nederl\u00E4nderna","code":"BQ","phoneCode":"+599"},{"name":"Kazakstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kina","code":"CN","phoneCode":"+86"},{"name":"Kirgizistan","code":"KG","phoneCode":"+996"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kokos\u00F6arna","code":"CC","phoneCode":"+61"},{"name":"Komorerna","code":"KM","phoneCode":"+269"},{"name":"Kongo-Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Kongo-Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kroatien","code":"HR","phoneCode":"+385"},{"name":"Kuba","code":"CU","phoneCode":"+53"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Lettland","code":"LV","phoneCode":"+371"},{"name":"Libanon","code":"LB","phoneCode":"+961"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libyen","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Litauen","code":"LT","phoneCode":"+370"},{"name":"Luxemburg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR","code":"MO","phoneCode":"+853"},{"name":"Madagaskar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldiverna","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marocko","code":"MA","phoneCode":"+212"},{"name":"Marshall\u00F6arna","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauretanien","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexiko","code":"MX","phoneCode":"+52"},{"name":"Mikronesien","code":"FM","phoneCode":"+691"},{"name":"Mo\u00E7ambique","code":"MZ","phoneCode":"+258"},{"name":"Moldavien","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongoliet","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nederl\u00E4nderna","code":"NL","phoneCode":"+31"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Nordkorea","code":"KP","phoneCode":"+850"},{"name":"Nordmakedonien","code":"MK","phoneCode":"+389"},{"name":"Nordmarianerna","code":"MP","phoneCode":"+1"},{"name":"Norfolk\u00F6n","code":"NF","phoneCode":"+672"},{"name":"Norge","code":"NO","phoneCode":"+47"},{"name":"Nya Kaledonien","code":"NC","phoneCode":"+687"},{"name":"Nya Zeeland","code":"NZ","phoneCode":"+64"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinska territorierna","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua Nya Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Polen","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"R\u00E9union","code":"RE","phoneCode":"+262"},{"name":"Rum\u00E4nien","code":"RO","phoneCode":"+40"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Ryssland","code":"RU","phoneCode":"+7"},{"name":"S:t Barth\u00E9lemy","code":"BL","phoneCode":"+590"},{"name":"S:t Helena","code":"SH","phoneCode":"+290"},{"name":"S:t Kitts och Nevis","code":"KN","phoneCode":"+1"},{"name":"S:t Lucia","code":"LC","phoneCode":"+1"},{"name":"S:t Pierre och Miquelon","code":"PM","phoneCode":"+508"},{"name":"S:t Vincent och Grenadinerna","code":"VC","phoneCode":"+1"},{"name":"Saint-Martin","code":"MF","phoneCode":"+590"},{"name":"Salomon\u00F6arna","code":"SB","phoneCode":"+677"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"S\u00E3o Tom\u00E9 och Pr\u00EDncipe","code":"ST","phoneCode":"+239"},{"name":"Saudiarabien","code":"SA","phoneCode":"+966"},{"name":"Schweiz","code":"CH","phoneCode":"+41"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbien","code":"RS","phoneCode":"+381"},{"name":"Seychellerna","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakien","code":"SK","phoneCode":"+421"},{"name":"Slovenien","code":"SI","phoneCode":"+386"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"Spanien","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"Storbritannien","code":"GB","phoneCode":"+44"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Surinam","code":"SR","phoneCode":"+597"},{"name":"Svalbard och Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sverige","code":"SE","phoneCode":"+46"},{"name":"Sydafrika","code":"ZA","phoneCode":"+27"},{"name":"Sydkorea","code":"KR","phoneCode":"+82"},{"name":"Sydsudan","code":"SS","phoneCode":"+211"},{"name":"Syrien","code":"SY","phoneCode":"+963"},{"name":"Tadzjikistan","code":"TJ","phoneCode":"+992"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Tchad","code":"TD","phoneCode":"+235"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Tjeckien","code":"CZ","phoneCode":"+420"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau\u00F6arna","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad och Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisien","code":"TN","phoneCode":"+216"},{"name":"Turkiet","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks- och Caicos\u00F6arna","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"Tyskland","code":"DE","phoneCode":"+49"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraina","code":"UA","phoneCode":"+380"},{"name":"Ungern","code":"HU","phoneCode":"+36"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"USA","code":"US","phoneCode":"+1"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Wallis- och Futuna\u00F6arna","code":"WF","phoneCode":"+681"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatikanstaten","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"V\u00E4stsahara","code":"EH","phoneCode":"+212"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"},{"name":"\u00C5land","code":"AX","phoneCode":"+358"},{"name":"\u00D6sterrike","code":"AT","phoneCode":"+43"},{"name":"\u00D6sttimor","code":"TL","phoneCode":"+670"}]},"localizedStrings":{"validation":{"noValidSelection":"Ett giltigt val m\u00E5ste g\u00F6ras.","invalidUrl":"M\u00E5ste vara en giltig webbadress.","stringTooLong":"V\u00E4rdet f\u00E5r inte vara l\u00E4ngre \u00E4n {0}.","containsInvalidKey":"{0} inneh\u00E5ller en ogiltig nyckel.","invalidTwitterUsername":"M\u00E5ste vara ett giltigt Twitter-anv\u00E4ndarnamn.","valueOutsideRange":"V\u00E4rdet m\u00E5ste vara mellan {0} och {1}.","invalidPassword":"L\u00F6senord kan inte inneh\u00E5lla mellanslag.","missingRequiredSubfields":"{0} saknar information i obligatoriskt delf\u00E4lt: {1}","invalidCurrency":"Valutav\u00E4rdet ska ha formatet 1234 eller 123,99.","invalidMapSize":"V\u00E4rdet ska inneh\u00E5lla exakt {0} element.","subfieldsRequired":"Alla f\u00E4lt i {0} \u00E4r obligatoriska.","formSubmissionFailed":"Det gick inte att skicka in formul\u00E4ret. Granska f\u00F6ljande information: {0}.","invalidCountryCode":"Landskoden ska best\u00E5 av ett valfritt plus och upp till fyra siffror.","invalidDate":"Detta \u00E4r inte ett verkligt datum.","required":"{0} kr\u00E4vs.","invalidStringLength":"V\u00E4rdet ska best\u00E5 av {0} tecken.","invalidEmail":"E-postadresser m\u00E5ste ha formatet user@domain.com.","invalidListLength":"V\u00E4rdet ska best\u00E5 av {0} element.","allEmpty":"Fyll i minst ett f\u00E4lt i formul\u00E4ret.","missingRequiredQuestion":"En obligatorisk fr\u00E5ga saknas.","invalidQuestion":"Inneh\u00F6ll en ogiltig fr\u00E5ga.","captchaFailure":"Captcha-validering misslyckades. F\u00F6rs\u00F6k igen.","stringTooShort":"V\u00E4rdet m\u00E5ste ha en l\u00E4ngd p\u00E5 minst {0}.","invalid":"{0} \u00E4r inte giltigt.","formErrors":"Formul\u00E4rfel","containsInvalidValue":"{0} inneh\u00E5ller ett ogiltigt v\u00E4rde.","invalidUnsignedNumber":"Nummer f\u00E5r endast inneh\u00E5lla siffror, inga andra tecken.","invalidName":"Giltiga namn kan endast inneh\u00E5lla bokst\u00E4ver, siffror, mellanslag, apostrofer (') och bindestreck (-)."},"submit":"Skicka","status":{"title":"{@}-block","learnMore":"L\u00E4s mer"},"name":{"firstName":"F\u00F6rnamn","lastName":"Efternamn"},"lightbox":{"openForm":"\u00D6ppna formul\u00E4ret"},"likert":{"agree":"Inst\u00E4mmer","stronglyDisagree":"Inst\u00E4mmer inte alls","disagree":"Inst\u00E4mmer inte","stronglyAgree":"Inst\u00E4mmer absolut","neutral":"Neutral"},"time":{"am":"AM","second":"Sekund","pm":"PM","minute":"Minut","amPm":"f.m./e.m.","hour":"Timme"},"notFound":"Formul\u00E4ret hittades inte.","date":{"yyyy":"\u00C5\u00C5\u00C5\u00C5","year":"\u00C5r","mm":"MM","day":"Dag","month":"M\u00E5nad","dd":"DD"},"phone":{"country":"Land","number":"Nummer","prefix":"Prefix","areaCode":"Riktnummer","line":"Rad"},"submitError":"Kunde inte skicka in formul\u00E4ret. F\u00F6rs\u00F6k igen senare.","address":{"stateProvince":"Delstat/Provins","country":"Land","zipPostalCode":"Postnummer","address2":"Adress 2","address1":"Adress 1","city":"Stad"},"email":{"signUp":"Registrera dig f\u00F6r nyheter och uppdateringar"},"required":"(kr\u00E4vs)","invalidData":"Ogiltiga formul\u00E4ruppgifter."}}};</script><script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-28280ff376912235-min.sv-SE.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-visitor_site_error_reporter');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-28280ff376912235-min.sv-SE.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-684c7f7d38351b44-min.sv-SE.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-684c7f7d38351b44-min.sv-SE.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-ff2376a0ec4fbed5-min.sv-SE.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-ff2376a0ec4fbed5-min.sv-SE.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c59c70edf0930bae-min.sv-SE.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c59c70edf0930bae-min.sv-SE.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-023427fb21ee0434-min.sv-SE.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-023427fb21ee0434-min.sv-SE.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-16f953861d3546f8-min.sv-SE.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-16f953861d3546f8-min.sv-SE.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-d0871ebc6322d667-min.sv-SE.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-d0871ebc6322d667-min.sv-SE.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-d8e0fcbefe34132d-min.sv-SE.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-d8e0fcbefe34132d-min.sv-SE.js" defer ></script><link rel="stylesheet" type="text/css" href="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/ef4e64fe-197c-4312-8540-12920ebccc94_1042/website.components.code.styles.css"/><link rel="stylesheet" type="text/css" href="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.markdown/928b450d-47e6-49c6-a011-810463623bc4_135/website.components.markdown.styles.css"/><link rel="stylesheet" type="text/css" href="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css"/><link rel="stylesheet" type="text/css" href="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/website.components.summary.styles.css"/><link rel="stylesheet" type="text/css" href="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/1aaf56f8-f870-46dd-b3ab-38c67becba6e_775/website.components.socialLinks.styles.css"/><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/ef4e64fe-197c-4312-8540-12920ebccc94_1042/website.components.code.visitor.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/embed-video-player.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-grid.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-autogrid.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-carousel.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-slideshow.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/22254.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-manager.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-strip.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-list.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/18018.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-stacked.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-autocolumns.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/1aaf56f8-f870-46dd-b3ab-38c67becba6e_775/website.components.socialLinks.visitor.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.markdown/928b450d-47e6-49c6-a011-810463623bc4_135/website.components.markdown.visitor.js"></script><script src="https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/website.components.summary.visitor.js"></script><script>Squarespace.load(window);</script>
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://lillaakademien.se/lilla-akademien?format=rss" />
+<script type="application/ld+json">{"url":"https://lillaakademien.se","name":"Musikskolan Lilla Akademien","description":"<p>Lilla Akademien \u00E4r skolan f\u00F6r dig som \u00E4lskar musik. Utveckla din talang och bli sedd och bekr\u00E4ftad. Vi tror p\u00E5 kunskap och kreativitet, alltid med musiken i fokus. V\u00E4lkommen till oss.</p>","image":"//images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1c1a470a-8db7-4e37-97c0-937484661362/Musikskolan-Lilla-Akademien-_logo_1200.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"Lilla Akademien","address":"14 Norrtullsgatan\nStockholm, Stockholms l\u00E4n, 113 45\nSweden","email":"info@lillaakademien.se","telephone":"08-54541830","sameAs":["https://www.facebook.com/profile.php?id=61550195681465","https://www.instagram.com/drottningsilviaskonsertsal/","http://www.drottningsilviaskonsertsal.se"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"14 Norrtullsgatan\nStockholm, Stockholms l\u00E4n, 113 45\nSweden","image":"https://static1.squarespace.com/static/5b2b8ac42487fd3e2e19e93e/t/637f22798f09c66ced794003/1792412675279/","name":"Lilla Akademien","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5b2b8ac42487fd3e2e19e93e/2227/52e96934e4b0ea14d0f64568/5b2b8ac52487fd3e2e19e953/1142/site.css?nocustom=true"/><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/custom-css/5b2b8ac42487fd3e2e19e93e/5b2b8ac52487fd3e2e19e953/0/custom.css"/><script data-sqs-type="cookiepreferencesgetter">(function(){window.getSquarespaceCookies = function() {    const getCookiesAllowed = function(cookieName){ return ('; '+document.cookie).split('; ' + cookieName + '=').pop().split(';')[0] === 'true'};    return {      performance: getCookiesAllowed('ss_performanceCookiesAllowed') ? 'accepted' : 'declined',      marketing: getCookiesAllowed('ss_marketingCookiesAllowed') ? 'accepted' : 'declined'    }}})()</script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11025380922"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11025380922');
+</script><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var touchTest="ontouchstart"in window||navigator.msMaxTouchPoints;if(!touchTest){with(document.documentElement){className=className.replace(new RegExp("touch-styles"),"")}}})()</script>
+  </head>
+  
+  <body id="collection-5b9bab4ecd8366fe35ddcf13" class="homepage-index-nav-show-on-scroll  index-section-separation-alternating-background design-slideshow grid-aspect-ratio-11-square grid-max-columns-four slideshow-aspect-ratio-auto slideshow-transition-scroll slideshow-autoplay gallery-controls-both gallery-controls-color-light meta-priority-date hide-entry-author pre-footer-content-custom hide-site-info show-blog-category-navigation show-category-navigation event-show-past-events event-thumbnails event-thumbnail-size-169-widescreen event-date-label event-list-show-cats event-list-date event-list-time event-list-address event-list-icalgcal-links event-excerpts event-item-back-link event-time-format gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5b9bab4ecd8366fe35ddcf13 collection-type-index collection-layout-default view-list mobile-style-available logo-image collection-lilla-akademien">
+
+    <div id="site">
+
+      <input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden" />
+
+      <div id="overlayNav">
+        
+
+  <div id="mobileNavWrapper" class="nav-wrapper">
+    <nav id="mobileNavigation">
+      
+        
+          
+
+          
+          <div class="folder">
+            <input type="checkbox" name="mobile-folder-toggle-5b2b8b7f03ce64228cc42460" id="mobile-folder-toggle-5b2b8b7f03ce64228cc42460" class="folder-toggle-box hidden" />
+            <label for="mobile-folder-toggle-5b2b8b7f03ce64228cc42460" class="folder-toggle-label" onclick data-href="/utbildningar">Utbildningar</label>
+            <div class="subnav">
+            
+
+              
+              
+              <div class="external">
+                <a href="/grundskola">
+                  Grundskola
+                </a>
+              </div>
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/gymnasium">
+                  Gymnasium
+                </a>
+              </div>
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/pre-college">
+                  Pre-College
+                </a>
+              </div>
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/vadstena">
+                  Vadstena Sång och Pianoakademi
+                </a>
+              </div>
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/kurser">
+                  Kurser
+                </a>
+              </div>
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <input type="checkbox" name="mobile-folder-toggle-5b2b8bb2758d46759ea77057" id="mobile-folder-toggle-5b2b8bb2758d46759ea77057" class="folder-toggle-box hidden" />
+            <label for="mobile-folder-toggle-5b2b8bb2758d46759ea77057" class="folder-toggle-label" onclick data-href="/aktuellt">Aktuellt</label>
+            <div class="subnav">
+            
+
+              
+              <div class="collection">
+                <a href="/konserter">
+                  Konserter/Evenemang
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/nyheter">
+                  Nyheter
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/gastlarare">
+                  Gästlärare
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/sociala-medier">
+                  Sociala medier
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/blogg">
+                  Rektorsbloggen
+                </a>
+              </div>
+              
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/bo-lindgren-hyllning">
+                  Insamlingar och donationer
+                </a>
+              </div>
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <input type="checkbox" name="mobile-folder-toggle-5b2b8c2e575d1f53ad8036a2" id="mobile-folder-toggle-5b2b8c2e575d1f53ad8036a2" class="folder-toggle-box hidden" />
+            <label for="mobile-folder-toggle-5b2b8c2e575d1f53ad8036a2" class="folder-toggle-label" onclick data-href="/om-oss-1">Om oss</label>
+            <div class="subnav">
+            
+
+              
+              
+              <div class="external">
+                <a href="/lilla-akademien">
+                  Detta är Lilla Akademien
+                </a>
+              </div>
+              
+            
+
+              
+              <div class="collection">
+                <a href="/styrelse">
+                  Styrelse
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/lilla-akademiens-vanner">
+                  Lilla Akademiens Vänner
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/lilla-akademien-i-samverkan">
+                  Lilla Akademien i samverkan
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/lediga-tjanster">
+                  Lediga tjänster
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/drottning-silvias-konsertsal">
+                  Drottning Silvias Konsertsal
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/kontakt-alla">
+                Kontakt
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <input type="checkbox" name="mobile-folder-toggle-5b2b8da888251ba7a0544ca2" id="mobile-folder-toggle-5b2b8da888251ba7a0544ca2" class="folder-toggle-box hidden" />
+            <label for="mobile-folder-toggle-5b2b8da888251ba7a0544ca2" class="folder-toggle-label" onclick data-href="/forelever">Elever/vårdnadshavare</label>
+            <div class="subnav">
+            
+
+              
+              
+              <div class="external">
+                <a href="/elever/">
+                  Information
+                </a>
+              </div>
+              
+            
+
+              
+              <div class="collection">
+                <a href="/fritids-1">
+                  Fritids
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/sjukfrnvaro">
+                  Sjukfrånvaro
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/policy-personuppgifter">
+                  Policy personuppgifter
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/schema">
+                  Schema
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="/search">
+              Sök
+            </a>
+          </div>
+          
+
+        
+
+      
+
+
+      
+    </nav>
+  </div>
+
+
+      </div>
+
+      <header id="header" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="title-logo-wrapper" data-content-field="site-title">
+            
+              <h1 id="logoImage" class="tmpl-loading logo-image"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1c1a470a-8db7-4e37-97c0-937484661362/Musikskolan-Lilla-Akademien-_logo_1200.png?format=1500w" alt="Musikskolan Lilla Akademien" /></a></h1>
+            
+          </div><!-- comment the linebreak between these two elements because science
+          --><label for="mobileNavToggle" class="mobile-nav-toggle-label show-on-scroll-mobile"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><!-- comment the linebreak between these two elements because science
+          --><div id="headerNav" class="tmpl-loading" >
+
+  <div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation" >
+      
+        
+          
+
+          
+          <div class="folder">
+            <input type="checkbox" name="folder-toggle-5b2b8b7f03ce64228cc42460" id="folder-toggle-5b2b8b7f03ce64228cc42460" class="folder-toggle-box hidden" />
+            <label for="folder-toggle-5b2b8b7f03ce64228cc42460" class="folder-toggle-label" onclick data-href="/utbildningar">Utbildningar</label>
+            <div class="subnav">
+            
+
+              
+              
+              <div class="external">
+                <a href="/grundskola">
+                  Grundskola
+                </a>
+              </div>
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/gymnasium">
+                  Gymnasium
+                </a>
+              </div>
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/pre-college">
+                  Pre-College
+                </a>
+              </div>
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/vadstena">
+                  Vadstena Sång och Pianoakademi
+                </a>
+              </div>
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/kurser">
+                  Kurser
+                </a>
+              </div>
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <input type="checkbox" name="folder-toggle-5b2b8bb2758d46759ea77057" id="folder-toggle-5b2b8bb2758d46759ea77057" class="folder-toggle-box hidden" />
+            <label for="folder-toggle-5b2b8bb2758d46759ea77057" class="folder-toggle-label" onclick data-href="/aktuellt">Aktuellt</label>
+            <div class="subnav">
+            
+
+              
+              <div class="collection">
+                <a href="/konserter">
+                  Konserter/Evenemang
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/nyheter">
+                  Nyheter
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/gastlarare">
+                  Gästlärare
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/sociala-medier">
+                  Sociala medier
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/blogg">
+                  Rektorsbloggen
+                </a>
+              </div>
+              
+              
+            
+
+              
+              
+              <div class="external">
+                <a href="/bo-lindgren-hyllning">
+                  Insamlingar och donationer
+                </a>
+              </div>
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <input type="checkbox" name="folder-toggle-5b2b8c2e575d1f53ad8036a2" id="folder-toggle-5b2b8c2e575d1f53ad8036a2" class="folder-toggle-box hidden" />
+            <label for="folder-toggle-5b2b8c2e575d1f53ad8036a2" class="folder-toggle-label" onclick data-href="/om-oss-1">Om oss</label>
+            <div class="subnav">
+            
+
+              
+              
+              <div class="external">
+                <a href="/lilla-akademien">
+                  Detta är Lilla Akademien
+                </a>
+              </div>
+              
+            
+
+              
+              <div class="collection">
+                <a href="/styrelse">
+                  Styrelse
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/lilla-akademiens-vanner">
+                  Lilla Akademiens Vänner
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/lilla-akademien-i-samverkan">
+                  Lilla Akademien i samverkan
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/lediga-tjanster">
+                  Lediga tjänster
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/drottning-silvias-konsertsal">
+                  Drottning Silvias Konsertsal
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/kontakt-alla">
+                Kontakt
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <input type="checkbox" name="folder-toggle-5b2b8da888251ba7a0544ca2" id="folder-toggle-5b2b8da888251ba7a0544ca2" class="folder-toggle-box hidden" />
+            <label for="folder-toggle-5b2b8da888251ba7a0544ca2" class="folder-toggle-label" onclick data-href="/forelever">Elever/vårdnadshavare</label>
+            <div class="subnav">
+            
+
+              
+              
+              <div class="external">
+                <a href="/elever/">
+                  Information
+                </a>
+              </div>
+              
+            
+
+              
+              <div class="collection">
+                <a href="/fritids-1">
+                  Fritids
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/sjukfrnvaro">
+                  Sjukfrånvaro
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/policy-personuppgifter">
+                  Policy personuppgifter
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/schema">
+                  Schema
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+          <div class="external">
+            <a href="/search">
+              Sök
+            </a>
+          </div>
+          
+
+        
+
+      
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      <div id="siteWrapper" class="clearfix">
+
+        <!-- Banner -->
+        
+          
+            
+              <!-- nothing to see here, move along -->
+            
+          
+        
+
+        
+        
+
+        <main id="page" role="main">
+          <div id="content" class="main-content" data-content-field="main-content" data-collection-id="5b9bab4ecd8366fe35ddcf13" >
+
+            
+              
+
+              
+            
+
+           <!-- Create index sections -->
+
+  
+  <div id="lilla-akademien-utbildningar-section" class="index-section no-main-image page" data-url-id="lilla-akademien-utbildningar" data-collection-id="5b9baed070a6add0c1b28c35"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="lilla-akademien-utbildningar-page" data-url-id="lilla-akademien-utbildningar">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1538058747169" id="page-5b9baed070a6add0c1b28c35"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block" data-aspect-ratio="2.1739130434782608" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538049464859_72016" id="block-yui_3_17_2_1_1538049464859_72016"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-summary-v2 summary-block summary-v2-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/website.components.summary.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/18018.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/22254.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/embed-video-player.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-autocolumns.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-autogrid.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-carousel.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-grid.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-list.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-slideshow.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-stacked.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-layout-strip.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/gallery-manager.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/faee1843-14c6-4369-bb67-c8438f5c6927_715/website.components.summary.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.summary" data-sqsp-block="summary" data-website-component-id="afc1c069e09e474c6653" id="block-afc1c069e09e474c6653"><div class="sqs-block-content">
+  
+
+
+
+
+
+<div class="
+  summary-block-wrapper
+  summary-block-collection-type-gallery
+  summary-block-setting-text-size-medium
+  summary-block-setting-text-align-center
+  summary-block-setting-design-autogrid
+  summary-block-setting-design-list-thumbnail-left
+  summary-block-setting-metadata-position-below-content
+  summary-block-setting-primary-metadata-none
+  summary-block-setting-secondary-metadata-none
+  summary-block-setting-show-thumbnail
+  summary-block-setting-show-title
+  summary-block-setting-show-price
+  summary-block-setting-hide-excerpt
+  
+  
+  sqs-gallery-design-autogrid
+  
+  "
+  
+  data-design=autogrid
+  data-image-aspect-ratio=1
+  data-slides-per-row=3
+  data-lightbox-theme="dark"
+  data-mixed-content=true
+  data-column-width=170
+  data-gutter="0"
+  data-list-image-size="30"
+  data-active-alignment=""
+  data-square-thumbs=""
+  data-auto-crop="true"
+  
+  
+>
+  <div class="summary-item-list-container sqs-gallery-container">
+    <header class="summary-block-header">
+      
+      <div class="summary-heading" data-animation-role="content">
+        
+          <span class="summary-header-text">Featured</span>
+        
+      </div>
+      
+      <div class="summary-carousel-pager sqs-gallery-controls" data-animation-role="content">
+        <span
+          class="summary-carousel-pager-prev previous"
+          tabindex="0"
+          role="button"
+          aria-label="Föregående"
+        ></span>
+        <span
+          class="summary-carousel-pager-next next"
+          tabindex="0"
+          role="button"
+          aria-label="Nästa"
+        ></span>
+      </div>
+    </header>
+    <div class="summary-item-list sqs-gallery">
+      
+        <div class="
+          summary-item
+          positioned
+          summary-item-record-type-image
+          sqs-gallery-design-autogrid-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          
+          
+          
+          
+          summary-item-has-location"
+          data-click-through-url="https://lillaakademien.se/grundskola"
+          >
+          
+          
+
+
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          href="https://lillaakademien.se/grundskola"
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+            js-gallery-lightbox-opener
+          
+        "
+        data-title="Grundskola"
+        data-description=""
+        aria-label="Grundskola"
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+      <!-- Main Image -->
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1765802183760-SN25LT8NGPT5U2YUZGYO/NT0A6491.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1765802183760-SN25LT8NGPT5U2YUZGYO/NT0A6491.jpg" data-image-dimensions="1667x1667" data-image-focal-point="0.5,0.5" alt="Grundskola"  data-load="false" class="summary-thumbnail-image" elementtiming="summary-thumbnail-image-autogrid" />
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            <div class="summary-title">
+              <a
+              href="https://lillaakademien.se/grundskola"
+              
+              class="summary-title-link">
+                Grundskola
+              </a>
+            </div>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            
+            
+            
+            
+            
+            <a href="/verksamheter-galleri/6nzj7z03x7fc6xjiwgwizedgyaheyn" class="summary-read-more-link">Läs mer &#8594;</a>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          positioned
+          summary-item-record-type-image
+          sqs-gallery-design-autogrid-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          
+          
+          
+          
+          summary-item-has-location"
+          data-click-through-url="https://lillaakademien.se/gymnasium"
+          >
+          
+          
+
+
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          href="https://lillaakademien.se/gymnasium"
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+            js-gallery-lightbox-opener
+          
+        "
+        data-title="Gymnasium"
+        data-description=""
+        aria-label="Gymnasium"
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+      <!-- Main Image -->
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1765802014883-PMUKXXRJZN093J8K4C77/FZ2A2234fix2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1765802014883-PMUKXXRJZN093J8K4C77/FZ2A2234fix2.jpg" data-image-dimensions="1667x1667" data-image-focal-point="0.5,0.5" alt="Gymnasium"  data-load="false" class="summary-thumbnail-image" elementtiming="summary-thumbnail-image-autogrid" />
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            <div class="summary-title">
+              <a
+              href="https://lillaakademien.se/gymnasium"
+              
+              class="summary-title-link">
+                Gymnasium
+              </a>
+            </div>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            
+            
+            
+            
+            
+            <a href="/verksamheter-galleri/alxrfufowr1imrhewx5uf8tiqdsgzf" class="summary-read-more-link">Läs mer &#8594;</a>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          positioned
+          summary-item-record-type-image
+          sqs-gallery-design-autogrid-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          
+          
+          
+          
+          summary-item-has-location"
+          data-click-through-url="https://lillaakademien.se/pre-college"
+          >
+          
+          
+
+
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          href="https://lillaakademien.se/pre-college"
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+            js-gallery-lightbox-opener
+          
+        "
+        data-title="Pre-College"
+        data-description=""
+        aria-label="Pre-College"
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+      <!-- Main Image -->
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1765801407739-085Y0S63U0KPQFLSNU2A/cellist.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1765801407739-085Y0S63U0KPQFLSNU2A/cellist.jpg" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="Pre-College"  data-load="false" class="summary-thumbnail-image" elementtiming="summary-thumbnail-image-autogrid" />
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            <div class="summary-title">
+              <a
+              href="https://lillaakademien.se/pre-college"
+              
+              class="summary-title-link">
+                Pre-College
+              </a>
+            </div>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            
+            
+            
+            
+            
+            <a href="/verksamheter-galleri/pre-college" class="summary-read-more-link">Läs mer &#8594;</a>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          positioned
+          summary-item-record-type-image
+          sqs-gallery-design-autogrid-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          
+          
+          summary-item-has-comments-enabled
+          
+          "
+          data-click-through-url="/kurser"
+          >
+          
+          
+
+
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          href="/kurser"
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+            js-gallery-lightbox-opener
+          
+        "
+        data-title="Kurser"
+        data-description=""
+        aria-label="Kurser"
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+      <!-- Main Image -->
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1529584389688-UYTXV03EW83DTIV6TIY9/l%C3%B6rdagsakademien._square.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1529584389688-UYTXV03EW83DTIV6TIY9/l%C3%B6rdagsakademien._square.jpg" data-image-dimensions="200x200" data-image-focal-point="0.5,0.5" alt="Kurser"  data-load="false" class="summary-thumbnail-image" elementtiming="summary-thumbnail-image-autogrid" />
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            <div class="summary-title">
+              <a
+              href="/kurser"
+              
+              class="summary-title-link">
+                Kurser
+              </a>
+            </div>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            
+            
+            
+            
+            
+            <a href="/verksamheter-galleri/kurser" class="summary-read-more-link">Läs mer &#8594;</a>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          positioned
+          summary-item-record-type-image
+          sqs-gallery-design-autogrid-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          
+          
+          
+          
+          summary-item-has-location"
+          data-click-through-url="https://lillaakademien.se/vadstena"
+          >
+          
+          
+
+
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          href="https://lillaakademien.se/vadstena"
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+            js-gallery-lightbox-opener
+          
+        "
+        data-title="Vadstena Sång- och Pianoakademi"
+        data-description=""
+        aria-label="Vadstena Sång- och Pianoakademi"
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+      <!-- Main Image -->
+      <img data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1768989116691-4GCOJAM7EMU7SDOTBHP1/Vadstena%2BPiano%2Boch%2BS%25C3%25A5ng%2Bakademi1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1768989116691-4GCOJAM7EMU7SDOTBHP1/Vadstena%2BPiano%2Boch%2BS%25C3%25A5ng%2Bakademi1.jpg" data-image-dimensions="1667x1667" data-image-focal-point="0.5,0.5" alt="Vadstena Sång- och Pianoakademi"  data-load="false" class="summary-thumbnail-image" elementtiming="summary-thumbnail-image-autogrid" />
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            <div class="summary-title">
+              <a
+              href="https://lillaakademien.se/vadstena"
+              
+              class="summary-title-link">
+                Vadstena Sång- och Pianoakademi
+              </a>
+            </div>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+            
+            
+            
+            
+            
+            <a href="/verksamheter-galleri/vasp" class="summary-read-more-link">Läs mer &#8594;</a>
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  </div>
+  
+</div>
+<style>
+  #block-afc1c069e09e474c6653 {
+    --summary-title-font-size: 20px;
+    --summary-excerpt-font-size: 14px;
+    --summary-text-align: center;
+    --summary-list-image-float: left;
+    --summary-list-thumbnail-padding-left: 0;
+    --summary-list-thumbnail-padding-right: 20px;
+    --summary-list-qv-padding-left: 0;
+    --summary-list-qv-padding-right: 20px;
+    --summary-list-product-mark-left: 0;
+    --summary-list-product-mark-right: auto;
+    --summary-meta-above-display: none;
+    --summary-meta-below-title-display: none;
+    --summary-meta-below-content-display: block;
+    --summary-show-title: block;
+    --summary-show-thumbnail: block;
+    --summary-show-excerpt: none;
+    --summary-show-excerpt-clamped: none;
+    --summary-content-spacing: 2px;
+    --summary-show-price: block;
+    --summary-show-read-more-link: none;
+  }
+</style>
+<style id="container-styles">#block-afc1c069e09e474c6653 {
+    
+    
+    
+  }
+
+  #block-afc1c069e09e474c6653 .summary-block-wrapper {
+    
+    }
+
+  #block-afc1c069e09e474c6653 {
+      mix-blend-mode: var(--tweak-summary-block-blend);
+      border-radius: var(--tweak-summary-block-radius);
+  }
+
+  
+  
+
+
+
+  
+  
+
+  
+</style>
+
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="lilla-akademien-intro-section" class="index-section no-main-image page" data-url-id="lilla-akademien-intro" data-collection-id="5b2b8c2e88251ba7a054269d"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="lilla-akademien-intro-page" data-url-id="lilla-akademien-intro">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1688476603881" id="page-5b2b8c2e88251ba7a054269d"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_8_1449580114830_5306" id="block-yui_3_17_2_8_1449580114830_5306"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-d2167877415893b46bf1"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h1 style="white-space:pre-wrap;">En skola för livet – fylld av musik</h1><h2 style="white-space:pre-wrap;">Lilla Akademien är en specialiserad och omsorgsfullt utformad musikskola, där en gedigen musikutbildning av hög kvalitet integreras med akademisk utbildning.</h2><p class="" style="white-space:pre-wrap;"><br>Skolan grundades år 1998 av den pedagogiska visionären och musikern Nina Balabina. Lilla Akademien erbjuder en kreativ atmosfär där varje elev får möjligheten att utveckla sin fulla potential och bli det som antikens greker avsåg med en ”musiker” – en ansvarstagande, tolerant, intellektuellt öppen och nyfiket kreativ del av samhället.</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><a href="#lilla-akademien-om-oss-section"><strong>Om oss</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="#lilla-akademien-filosofi-section"><strong>Filosofi</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="#lilla-akademien-musik-section"><strong>Musik</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="#lilla-akademien-lokaler-section"><strong>Lokaler</strong></a></p></li><li><p class="" style="white-space:pre-wrap;"><a href="#lilla-akademien-historia-section"><strong>Historia</strong></a></p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:false,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:true,&quot;autoplay-duration&quot;:4,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5bacc6d1419202d3918ab415&quot;,&quot;controls&quot;:true,&quot;design&quot;:&quot;slideshow&quot;,&quot;meta-position&quot;:&quot;bottom&quot;,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;show-meta-on-hover&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnails&quot;:false,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5bacc6d1419202d3918ab415&quot;&#125;" data-block-type="8" data-sqsp-block="gallery" id="block-yui_3_17_2_1_1538049464859_44642"><div class="sqs-block-content">
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  sqs-gallery-has-controls
+  
+
+  
+    sqs-gallery-block-show-meta sqs-gallery-block-meta-position-bottom
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049747571-2IGSCQWMTDBJ9R4FDWTK/1529580593364.jpeg" alt="1529580593364.jpeg" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-slideshow" data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049747571-2IGSCQWMTDBJ9R4FDWTK/1529580593364.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049747571-2IGSCQWMTDBJ9R4FDWTK/1529580593364.jpeg" data-image-dimensions="1000x600" data-image-focal-point="0.5,0.5" alt="1529580593364.jpeg" data-load="false" data-image-id="5bacc6d3e5e5f021471c4a2c" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746709-EOX3V5H97TGD3C2E78LB/1529580594378.jpeg" alt="1529580594378.jpeg" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-slideshow" data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746709-EOX3V5H97TGD3C2E78LB/1529580594378.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746709-EOX3V5H97TGD3C2E78LB/1529580594378.jpeg" data-image-dimensions="900x540" data-image-focal-point="0.5,0.5" alt="1529580594378.jpeg" data-load="false" data-image-id="5bacc6d10d9297956ff526cd" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746009-ZMISG33CLEG62CP5200H/1529580594349.jpeg" alt="1529580594349.jpeg" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-slideshow" data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746009-ZMISG33CLEG62CP5200H/1529580594349.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746009-ZMISG33CLEG62CP5200H/1529580594349.jpeg" data-image-dimensions="1000x600" data-image-focal-point="0.5,0.5" alt="1529580594349.jpeg" data-load="false" data-image-id="5bacc6d18165f58ad04bad16" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746962-RDQ2JZABMA3H4F1S5CM0/1529580593777.jpeg" alt="1529580593777.jpeg" /></noscript><img class="thumb-image" elementtiming="system-gallery-block-slideshow" data-src="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746962-RDQ2JZABMA3H4F1S5CM0/1529580593777.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5b2b8ac42487fd3e2e19e93e/1538049746962-RDQ2JZABMA3H4F1S5CM0/1529580593777.jpeg" data-image-dimensions="1000x600" data-image-focal-point="0.5,0.5" alt="1529580593777.jpeg" data-load="false" data-image-id="5bacc6d20d9297956ff526d6" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Föregående bild"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Nästa bild"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_8_1449580114830_6178" id="block-yui_3_17_2_8_1449580114830_6178"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="lilla-akademien-om-oss-section" class="index-section no-main-image page" data-url-id="lilla-akademien-om-oss" data-collection-id="5bacc90253450a3f3bce91cf"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="lilla-akademien-om-oss-page" data-url-id="lilla-akademien-om-oss">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1538051361711" id="page-5bacc90253450a3f3bce91cf"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_33065" id="block-yui_3_17_2_1_1538051217154_33065"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1538050766852_11909"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h3 style="white-space: pre-wrap;">Om oss</h3><p data-rte-preserve-empty="true" style="white-space: pre-wrap;"></p><ul data-rte-list="default"><li><p style="white-space: pre-wrap;">Undervisning för barn och ungdomar från 4 till 25 års ålder</p></li></ul><ul data-rte-list="default"><li><p style="white-space: pre-wrap;">450 elever på grundskola, gymnasium och pre-college, fördelade på en klass per årskurs</p></li><li><p style="white-space: pre-wrap;">280 barn i helgverksamheterna (Lilla Piccola Akademien och Lördagsakademien)</p></li><li><p style="white-space: pre-wrap;">177 lärare och övrig personal</p></li><li><p style="white-space: pre-wrap;">Elever och personal som har sina rötter i ett trettiotal olika länder</p></li><li><p style="white-space: pre-wrap;">En av Sveriges tio främsta grundskolor, sett till meritvärde i årskurs nio</p></li><li><p style="white-space: pre-wrap;">75 procent av avgångseleverna från gymnasiet går vidare till högre musikutbildning runt om i världen</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_34216" id="block-yui_3_17_2_1_1538051217154_34216"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="lilla-akademien-filosofi-section" class="index-section no-main-image page" data-url-id="lilla-akademien-filosofi" data-collection-id="5bacca021905f4689fd64c9b"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="lilla-akademien-filosofi-page" data-url-id="lilla-akademien-filosofi">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1538051348220" id="page-5bacca021905f4689fd64c9b"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_27203" id="block-yui_3_17_2_1_1538051217154_27203"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-5bacca021905f4689fd64c9c"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h3 style="white-space: pre-wrap;">Filosofi</h3><p style="white-space: pre-wrap;"><br>Lilla Akademien har sin grund i</p><ul data-rte-list="default"><li><p style="white-space: pre-wrap;">En <strong>HELHETSSYN PÅ VARJE ELEV</strong>. Att utveckla elevernas kreativitet och konstnärlighet, främja elevernas lärande och fostra till fria, aktivt ansvarstagande, medkännande och mångsidiga individer.</p></li><li><p style="white-space: pre-wrap;">En <strong>SPONTAN OCH KREATIV PEDAGOGIK</strong>. Att vägleda elevernas egen kreativitet genom att uppmuntra till spontanitet, engagemang och närvaro i det som är.</p></li><li><p style="white-space: pre-wrap;">Att värna om <strong>LIVETS MÅNGFALD</strong> med <strong>TILLIT OCH RESPEKT</strong>.&nbsp;</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_28306" id="block-yui_3_17_2_1_1538051217154_28306"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="lilla-akademien-musik-section" class="index-section no-main-image page" data-url-id="lilla-akademien-musik" data-collection-id="5baccb8815fcc05326b1e052"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="lilla-akademien-musik-page" data-url-id="lilla-akademien-musik">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1538051332956" id="page-5baccb8815fcc05326b1e052"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_21010" id="block-yui_3_17_2_1_1538051217154_21010"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-5baccb8815fcc05326b1e053"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h3 style="white-space: pre-wrap;">Musik</h3><p style="white-space: pre-wrap;">&nbsp;</p><p style="white-space: pre-wrap;"><strong>Musiken som hjärtslag</strong><br>Musiken binder samman och genomsyrar all undervisning på Lilla Akademien. Musiken är en nyckel för eleverna att uppleva och förstå sin omvärld. Eleverna uppmuntras att uttrycka sig, skapa, våga, fantisera och utforska det okända. Det finns ett nära förhållande mellan det teoretiska och det praktiska, detaljer vävs samman till en helhet och tonvikten ligger på lärandeprocessen snarare än på dess resultat. Lilla Akademien handlar framförallt om lärande i nuet och att ge eleverna de verktyg de behöver för att låta sina egna hjärtan bulta i takt med sin egen, unika personlighet.&nbsp;</p><p style="white-space: pre-wrap;"><strong>Musik är att mötas</strong><br>Lilla Akademien främjar en miljö där eleverna möts över åldersgränserna i ett gemensamt lärande. Elever av alla åldrar skapar gemensamma projekt och uppträder tillsammans och äldre elever får ofta ansvaret att arbeta med yngre elever. Denna unika och inkluderande syn på lärande skapar en atmosfär som präglas av öppenhet, ömsesidig respekt och ödmjukhet hos både elever och lärare.</p><p style="white-space: pre-wrap;"><strong>Musik är kommunikation</strong><br>Hjärtat i Lilla Akademien är ett livfullt konsertliv. Eleverna får otaliga tillfällen att framträda för en entusiastisk publik på allt från elevkonserter på skolan till konserter i kyrkor och på ålderdomshem och i prestigefyllda konsertsalar i Sverige och utomlands. Skolan deltar i fler än 200 konserter varje år!</p><p style="white-space: pre-wrap;"><strong>Musik är gemenskap</strong><br>En viktig del i skolandan på Lilla Akademien är det gemensamma temat som väljs för varje läsår och utgör ett ledmotiv för all verksamhet på skolan, från klassrummet, matsalen och skolgården till konsertsalen. Teman som ”Språk och kommunikation” och ”De fyra elementen; en hållbar värld” ger en ny källa till inspiration för alla olika ämnen, skapar nya möten över ämnes- och åldersgränser och stimulerar både elever och lärare att gå utöver det vanliga. Temat väver samman relationerna i skolan till en helhet. &nbsp; &nbsp;</p><p style="white-space: pre-wrap;"><strong>Musik är att dela</strong><br>Lilla Akademien erbjuder ett stort utbud av internationella utbytesprojekt, som omfattar gemensamma konserter, workshops, masterclasses, turnéer och besök vid ledande institutioner i Europa, Asien och Amerika (t.ex. Sibelius-Akademin, The Royal Academy of Music (London) och konservatorier i Parma, Peking och Mexico City). Verklig erfarenhet av musikvärlden är en ovärderlig och oförglömlig upplevelse för varje elev.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_22326" id="block-yui_3_17_2_1_1538051217154_22326"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="lilla-akademien-lokaler-section" class="index-section no-main-image page" data-url-id="lilla-akademien-lokaler" data-collection-id="5baccc01f9619ad2881271c9"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="lilla-akademien-lokaler-page" data-url-id="lilla-akademien-lokaler">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1732628894252" id="page-5baccc01f9619ad2881271c9"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_15022" id="block-yui_3_17_2_1_1538051217154_15022"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-5baccc01f9619ad2881271ca"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h3 style="white-space:pre-wrap;">Lokaler</h3><p class="" style="white-space:pre-wrap;"><br>Skolan är inrymd i vackra kulturbyggnader i före detta Norrtulls Sjukhus i Stockholm. Byggnaderna uppfördes 1885 som Allmänna Barnhuset på platsen för August Strindbergs födelsehem och står idag till det yttre med sin fina inbyggda park intakta. Hela Norrtulls Sjukhus är numera ett utbildningscampus och Lilla Akademien har fyra ändamålsenliga byggnader för de olika verksamheterna. Förutom klassrum finns det kammarmusiksalar, ensemblerum, danssal, konstsal och ett stort antal mindre undervisningsrum som är väl lämpade för den enskilda instrumentundervisningen.&nbsp;Gymnasiehuset öppnades på nytt hösten 2024 efter en periods renovering, och är nu rymligare och vackrare än någonsin!</p><p class="" style="white-space:pre-wrap;">Skolan ligger som en oas 4 minuters gångväg från Odenplans T-banestation och 2 min från pendeltågsstationen Odenplan. Skolans centrala läge innebär närhet till flera av Stockholms scener, som Berwaldhallen, Konserthuset och Musikaliska såväl som Kungliga Musikhögskolan.</p><p class="" style="white-space:pre-wrap;">Sedan juni 2022 inrymmer lokalerna även Drottning Silvias Konsertsal, skolans alldeles egna sal för musik och lärande. Läs mer om Drottning Silvias Konsertsal <a href="/drottning-silvias-konsertsal">här</a>, eller på<a href="https://drottningsilviaskonsertsal.se/" target="_blank"> salens egna hemsida</a>.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_16117" id="block-yui_3_17_2_1_1538051217154_16117"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="lilla-akademien-historia-section" class="index-section no-main-image page" data-url-id="lilla-akademien-historia" data-collection-id="5baccc68f4e1fc46b2e999d4"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="lilla-akademien-historia-page" data-url-id="lilla-akademien-historia">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1725539361432" id="page-5baccc68f4e1fc46b2e999d4"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_9153" id="block-yui_3_17_2_1_1538051217154_9153"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-5baccc68f4e1fc46b2e999d5"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <h3 style="white-space:pre-wrap;">Historia</h3><p class="" style="white-space:pre-wrap;"><br>Musikskolan grundades 1994 av en grupp musiklärare under ledning av Nina Balabina. Ursprungligen ägde instrumentundervisningen rum under eftermiddagarna, då de unga eleverna hade avslutat sina vanliga skoldagar.</p><p class="" style="white-space:pre-wrap;">1998 startades grundskolan Lilla Akademien med Bo Lindgren som rektor, där undervisning bedrevs i såväl allmänna ämnen som instrumentalspel, ensemblespel och musikteori. År 2002 utökades skolan med ett musikgymnasium och 2005 startade den eftergymnasiala pre-collegeutbildningen.&nbsp;År 2024 tog Lilla Akademien över huvudmannaskapet för Vadstena Sång och Pianoakademi, som nu ingår i Pre-collegeutbudet.</p><p class="" style="white-space:pre-wrap;">Idag är Lilla Akademien en väletablerad musikskola, med omkring 730 barn och elever på de olika utbildningarna, i åldern 4 – 25 år. På några få år har Lilla Akademien vuxit till att bli en av de mest betydelsefulla och inflytelserika musikinstitutionerna i Skandinavien för utbildning av unga musiker.&nbsp;</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1538051217154_10307" id="block-yui_3_17_2_1_1538051217154_10307"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+          </div>
+        </main>
+
+        <div id="preFooter">
+          <div class="pre-footer-inner with-custom">
+  <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Innehåll för försidfot" data-type="block-field" data-updated-on="1418681567150" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-socialaccountlinks social-account-links-block social-account-links-v2-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/1aaf56f8-f870-46dd-b3ab-38c67becba6e_775/website.components.socialLinks.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/1aaf56f8-f870-46dd-b3ab-38c67becba6e_775/website.components.socialLinks.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.socialLinks" data-sqsp-block="social-links" data-website-component-id="yui_3_17_2_1_1403260543132_3969" id="block-yui_3_17_2_1_1403260543132_3969"><div class="sqs-block-content">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sqs-block-socialaccountlinks-content">
+  <div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-large social-icons-shape-circle social-icons-style-border">
+    <style>
+      
+      #block-yui_3_17_2_1_1403260543132_3969 {
+        --social-icons-justify-content: center;
+        --social-icons-dimension: 36px;--social-icons-gap: 10px;
+        
+      }
+
+      
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--wrapper {
+        --si-border-radius: 50%;--si-scale: 1;--si-box-shadow: 0 0 0 var(--social-icons-border-thickness, 2px) inset;--si-fill-icon: var(--si-primary);--si-fill-icon-fade: var(--si-primary);--si-fill-icon-hover: var(--si-contrast);--si-fill-mask: transparent;--si-fill-mask-fade: transparent;--si-fill-mask-hover: transparent;--si-bg: transparent;--si-bg-fade: transparent;--si-bg-hover: var(--si-primary);
+      }
+
+      
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--list {
+        justify-content: var(--social-icons-justify-content, center);
+        column-gap: var(--social-icons-gap, 12px);
+        row-gap: var(--social-icons-gap, 12px);
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--wrapper {
+        width: var(--social-icons-dimension, 20px);
+        height: var(--social-icons-dimension, 20px);
+        margin: 0;
+        border: none; 
+        background-color: var(--si-bg, transparent);
+        box-shadow: var(--si-box-shadow, none);
+        border-radius: var(--si-border-radius, 0);
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--wrapper > div {
+        transform: scale(var(--si-scale, 1));
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-use--icon {
+        fill: var(--si-fill-icon, transparent);
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-use--mask {
+        fill: var(--si-fill-mask, transparent);
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper {
+        background-color: var(--si-bg-fade, var(--si-bg, transparent));
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper .sqs-use--icon {
+        fill: var(--si-fill-icon-fade, var(--si-fill-icon, transparent));
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper .sqs-use--mask {
+        fill: var(--si-fill-mask-fade, var(--si-fill-mask, transparent));
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover {
+        background-color: var(--si-bg-hover, var(--si-bg, transparent));
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+        fill: var(--si-fill-icon-hover, var(--si-fill-icon, transparent));
+      }
+      #block-yui_3_17_2_1_1403260543132_3969 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--mask {
+        fill: var(--si-fill-mask-hover, var(--si-fill-mask, transparent));
+      }
+    </style>
+    <nav class="sqs-svg-icon--list">
+      
+        
+      
+        
+      
+        
+      
+        
+          <a
+            href="https://www.facebook.com/profile.php?id=61550195681465"
+            target="_blank"
+            class="sqs-svg-icon--wrapper facebook-unauth"
+            aria-label="Facebook"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#facebook-unauth-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#facebook-unauth-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+          <a
+            href="https://www.instagram.com/drottningsilviaskonsertsal/"
+            target="_blank"
+            class="sqs-svg-icon--wrapper instagram-unauth"
+            aria-label="Instagram"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#instagram-unauth-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#instagram-unauth-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+          <a
+            href="http://www.drottningsilviaskonsertsal.se"
+            target="_blank"
+            class="sqs-svg-icon--wrapper url"
+            aria-label="URL"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#url-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#url-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+      
+        
+      
+    </nav>
+  </div>
+  
+    
+<style id="container-styles">#block-yui_3_17_2_1_1403260543132_3969 {
+    
+    
+    
+  }
+
+  #block-yui_3_17_2_1_1403260543132_3969 .sqs-block-socialaccountlinks-content {
+    
+    }
+
+  #block-yui_3_17_2_1_1403260543132_3969 {
+      mix-blend-mode: var(--tweak-social-links-block-blend);
+      border-radius: var(--tweak-social-links-block-radius);
+  }
+
+  
+  
+
+
+
+  
+  
+
+  
+</style>
+
+<style id="override-container-styles">
+    @media screen and (max-width: 767px) {
+          
+            
+
+#block-yui_3_17_2_1_1403260543132_3969 {
+            
+            }
+        }
+    
+  
+    @media screen and (max-width: 767px) {
+          #block-yui_3_17_2_1_1403260543132_3969 .sqs-block-socialaccountlinks-content {
+            
+            }
+        }
+    
+  @media screen and (max-width: 767px) {
+          
+          
+
+          
+          
+          
+        }</style>
+
+    <style class="transform-overrides-vars">
+  
+</style>
+
+    
+
+
+
+  
+</div>
+</div></div></div></div></div>
+</div>
+
+        </div>
+
+        <footer id="footer" role="contentinfo">
+          <div class="footer-inner">
+            <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Tillbaka till början</a></div></nav></div>
+            
+
+
+            <div id="siteInfo"><span class="site-address">Lilla Akademien, 14 Norrtullsgatan, Stockholm, Stockholms län, 113 45, Sweden</span><span rel="tel" class="site-phone">08-54541830</span><a href="mailto:info@lillaakademien.se" class="site-email">info@lillaakademien.se</a></div>
+            <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Sidfotens innehåll" data-type="block-field" data-updated-on="1671528313969" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-markdown markdown-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.markdown/928b450d-47e6-49c6-a011-810463623bc4_135/website.components.markdown.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.markdown/928b450d-47e6-49c6-a011-810463623bc4_135/website.components.markdown.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.markdown" data-sqsp-block="markdown" data-website-component-id="yui_3_17_2_1_1533722105238_21828" id="block-yui_3_17_2_1_1533722105238_21828"><div class="sqs-block-content">
+  
+    <h6 data-preserve-html-node="true"><a data-preserve-html-node="true" href="/lilla-akademien">Lilla Akademien</a></h6>
+  
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" data-sqsp-block="text" id="block-713fe491a2c303b33937"><div class="sqs-block-content">
+
+<div class="sqs-html-content" data-sqsp-text-block-content>
+  <p style="text-align:center;white-space:pre-wrap;" class="">Telefon: 08-54 54 18 30.&nbsp;Adress: <a href="/karta">Norrtullsgatan 14.&nbsp;113 45 Stockholm</a>.&nbsp;Epost: <a href="mailto:info@lillaakademien.se">info@lillaakademien.se</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-socialaccountlinks social-account-links-block social-account-links-v2-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/1aaf56f8-f870-46dd-b3ab-38c67becba6e_775/website.components.socialLinks.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/1aaf56f8-f870-46dd-b3ab-38c67becba6e_775/website.components.socialLinks.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.socialLinks" data-sqsp-block="social-links" data-website-component-id="yui_3_17_2_1_1671528267111_5882" id="block-yui_3_17_2_1_1671528267111_5882"><div class="sqs-block-content">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sqs-block-socialaccountlinks-content">
+  <div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-medium social-icons-style-regular ">
+    <style>
+      
+      #block-yui_3_17_2_1_1671528267111_5882 {
+        --social-icons-justify-content: center;
+        --social-icons-dimension: 24px;--social-icons-gap: 14px;
+        
+      }
+
+      
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--wrapper {
+        --si-border-radius: 0;--si-scale: 2;--si-box-shadow: none;--si-fill-icon: var(--si-primary);--si-fill-icon-fade: var(--si-primary-faded);--si-fill-icon-hover: var(--si-primary);--si-fill-mask: transparent;--si-fill-mask-fade: transparent;--si-fill-mask-hover: transparent;--si-bg: transparent;--si-bg-fade: transparent;--si-bg-hover: transparent;
+      }
+
+      
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--list {
+        justify-content: var(--social-icons-justify-content, center);
+        column-gap: var(--social-icons-gap, 12px);
+        row-gap: var(--social-icons-gap, 12px);
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--wrapper {
+        width: var(--social-icons-dimension, 20px);
+        height: var(--social-icons-dimension, 20px);
+        margin: 0;
+        border: none; 
+        background-color: var(--si-bg, transparent);
+        box-shadow: var(--si-box-shadow, none);
+        border-radius: var(--si-border-radius, 0);
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--wrapper > div {
+        transform: scale(var(--si-scale, 1));
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-use--icon {
+        fill: var(--si-fill-icon, transparent);
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-use--mask {
+        fill: var(--si-fill-mask, transparent);
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper {
+        background-color: var(--si-bg-fade, var(--si-bg, transparent));
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper .sqs-use--icon {
+        fill: var(--si-fill-icon-fade, var(--si-fill-icon, transparent));
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper .sqs-use--mask {
+        fill: var(--si-fill-mask-fade, var(--si-fill-mask, transparent));
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover {
+        background-color: var(--si-bg-hover, var(--si-bg, transparent));
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--icon {
+        fill: var(--si-fill-icon-hover, var(--si-fill-icon, transparent));
+      }
+      #block-yui_3_17_2_1_1671528267111_5882 .sqs-svg-icon--list:hover .sqs-svg-icon--wrapper:hover .sqs-use--mask {
+        fill: var(--si-fill-mask-hover, var(--si-fill-mask, transparent));
+      }
+    </style>
+    <nav class="sqs-svg-icon--list">
+      
+        
+      
+        
+      
+        
+      
+        
+          <a
+            href="https://www.facebook.com/profile.php?id=61550195681465"
+            target="_blank"
+            class="sqs-svg-icon--wrapper facebook-unauth"
+            aria-label="Facebook"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#facebook-unauth-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#facebook-unauth-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+          <a
+            href="https://www.instagram.com/drottningsilviaskonsertsal/"
+            target="_blank"
+            class="sqs-svg-icon--wrapper instagram-unauth"
+            aria-label="Instagram"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#instagram-unauth-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#instagram-unauth-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+          <a
+            href="http://www.drottningsilviaskonsertsal.se"
+            target="_blank"
+            class="sqs-svg-icon--wrapper url"
+            aria-label="URL"
+          >
+            <div>
+              <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+                <use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#url-icon"></use>
+                <use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#url-mask"></use>
+              </svg>
+            </div>
+          </a>
+        
+      
+        
+      
+        
+      
+    </nav>
+  </div>
+  
+    
+<style id="container-styles">#block-yui_3_17_2_1_1671528267111_5882 {
+    
+    
+    
+
+
+
+  }
+
+  #block-yui_3_17_2_1_1671528267111_5882 .sqs-block-socialaccountlinks-content {
+    
+    --tweak-social-links-block-padding: initial;
+}
+
+  #block-yui_3_17_2_1_1671528267111_5882 {
+      mix-blend-mode: var(--tweak-social-links-block-blend);
+      border-radius: var(--tweak-social-links-block-radius);
+  }
+
+  
+  
+
+
+
+  
+  
+
+  #block-yui_3_17_2_1_1671528267111_5882 {
+    }
+
+</style>
+
+<style id="override-container-styles">
+    @media screen and (max-width: 767px) {
+          
+            
+
+#block-yui_3_17_2_1_1671528267111_5882 {
+            
+            }
+        }
+    
+  
+    @media screen and (max-width: 767px) {
+          #block-yui_3_17_2_1_1671528267111_5882 .sqs-block-socialaccountlinks-content {
+            
+            }
+        }
+    
+  @media screen and (max-width: 767px) {
+          
+          
+
+          
+          
+          
+        }</style>
+
+    <style class="transform-overrides-vars">
+  
+</style>
+
+    
+
+
+
+  
+</div>
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/ef4e64fe-197c-4312-8540-12920ebccc94_1042/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/ef4e64fe-197c-4312-8540-12920ebccc94_1042/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1558425504916_6552" id="block-yui_3_17_2_1_1558425504916_6552"><div class="sqs-block-content">
+  
+
+<div
+  class="sqs-code-container"
+  
+  
+    data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}"
+  
+  
+  
+  
+>
+  
+    <a href="#" class="back-to-top">Back to Top</a>
+  
+  
+
+
+
+</div>
+
+<style class="transform-overrides-vars">
+  
+</style>
+
+</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block" data-aspect-ratio="2.1739130434782608" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/38e8b88d-29d6-4036-849a-bf9d11b51556_1320/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1535720923084_7247" id="block-yui_3_17_2_1_1535720923084_7247"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+          </div>
+        </footer>
+
+        
+
+      </div>
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1142/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script>
+  window.addEventListener('load', function() {
+    if (window.location.pathname == '/') {
+       gtag('event', 'conversion', {'send_to': 'AW-11025380922/bvhKCJXEq4MYELrsp4kp'});
+    }
+     if (window.location.pathname == '/gymnasium') {
+			gtag('event', 'conversion', {'send_to': 'AW-11025380922/tek_CMazq4MYELrsp4kp'});
+    }
+  });
+
+</script>
+
+
+<script type="text/javascript">
+ Static.EU_COOKIE_BUTTON_LABEL = 'Jag förstår';
+</script>
+
+
+<!-- SMOOTH SCROLL on mobiles 2017 -->
+<script>
+ $(document).ready(function() {
+     $("a.Mobile-overlay-nav-item").click(function() {
+         $('body').removeClass('is-mobile-overlay-active');
+         });
+      $('a.Mobile-overlay-folder-item').click(function(){
+        $('body').removeClass('is-mobile-overlay-active');
+      });
+ });
+</script>
+
+<script>
+$(function(){
+ $("#events-section .index-section-wrapper").wrap("<a href='/evenemang'></a>'");
+});
+</script>
+
+<script>
+var amountScrolled = 300;
+
+$(window).scroll(function() {
+	if ( $(window).scrollTop() > amountScrolled ) {
+		$('a.back-to-top').fadeIn('slow');
+	} else {
+		$('a.back-to-top').fadeOut('slow');
+	}
+});
+</script>
+
+<script>
+$('a.back-to-top').click(function() {
+	$('html, body').animate({
+		scrollTop: 0
+	}, 300);
+	return false;
+});
+</script>
+
+<!-- SHARE -->
+<script>
+Y.on('domready', function () {
+
+    //blog: previous articles
+    Y.all(".ss-social-button").setHTML('<span class="ss-social-button-icon"></span>Dela');
+  
+});
+</script>
+
+
+
+
+
+<script type="text/javascript">
+      $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 300);
+              return false;
+            }
+          }
+        });
+      });
+</script><script data-sqs-type="imageloader-bootstrapper">if(window.ImageLoader) window.ImageLoader.bootstrap({}, document);</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="url-icon" viewBox="0 0 64 64"><path d="M40.038 24c2.203 0 4.08.801 5.633 2.404C47.224 27.956 48 29.834 48 32.038c0 2.203-.776 4.106-2.329 5.709-1.552 1.552-3.43 2.328-5.633 2.328h-6.46v-3.08h6.46c1.352 0 2.504-.475 3.455-1.427 1.002-1.002 1.502-2.178 1.502-3.53 0-1.353-.5-2.504-1.502-3.456-.952-1.001-2.103-1.502-3.455-1.502h-6.46V24h6.46zm-14.423 9.615V30.46h12.77v3.155h-12.77zm-5.183-5.033c-.952.952-1.427 2.103-1.427 3.456 0 1.352.475 2.529 1.427 3.53 1.002.952 2.178 1.427 3.53 1.427h6.46v3.08h-6.46c-2.203 0-4.08-.776-5.633-2.329C16.776 36.145 16 34.241 16 32.038c0-2.204.776-4.082 2.329-5.634C19.88 24.8 21.759 24 23.962 24h6.46v3.08h-6.46c-1.352 0-2.529.5-3.53 1.502z"/></symbol><symbol id="url-mask" viewBox="0 0 64 64"><path fill-rule="evenodd" clip-rule="evenodd" d="M64 0H0v64h64V0zM45.671 26.404C44.12 24.8 42.241 24 40.038 24h-6.46v3.08h6.46c1.352 0 2.504.5 3.455 1.502 1.002.952 1.502 2.103 1.502 3.456 0 1.352-.5 2.529-1.502 3.53-.952.952-2.103 1.427-3.455 1.427h-6.46v3.08h6.46c2.203 0 4.08-.776 5.633-2.329C47.224 36.145 48 34.241 48 32.038c0-2.204-.776-4.082-2.329-5.634zm-7.286 4.056h-12.77v3.155h12.77V30.46zm-19.38 1.578c0-1.353.475-2.504 1.427-3.456 1.002-1.001 2.178-1.502 3.53-1.502h6.46V24h-6.46c-2.203 0-4.08.801-5.633 2.404C16.776 27.956 16 29.834 16 32.038c0 2.203.776 4.106 2.329 5.709 1.552 1.552 3.43 2.328 5.633 2.328h6.46v-3.08h-6.46c-1.352 0-2.529-.475-3.53-1.427-.952-1.002-1.427-2.178-1.427-3.53z"/></symbol></svg>
+
+  </body>
+</html>

@@ -1,0 +1,31 @@
+{
+  "school_id": "87999453",
+  "school_name": "Tellusskolan Thea Bromma",
+  "registered_url": "https://tellusskolan.se/skolor/thea-bromma/",
+  "pages": [
+    {
+      "requested_url": "https://tellusskolan.se/skolor/thea-bromma/",
+      "source_url": "https://tellusskolan.se/skolor/thea-bromma/",
+      "page_title": "Thea Bromma – Telluskolan",
+      "accessed_at": "2026-10-21T17:43:14.966308+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "87999453_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://tellusskolan.se/skolor/thea-bromma/",
+          "robots_url": "https://tellusskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:43:14.066541+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,17 @@
+{
+  "school_id": "15331669",
+  "school_name": "Sjöstadsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjostadsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjostadsskolan",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:28:00.504420+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

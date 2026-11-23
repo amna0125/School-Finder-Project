@@ -1,0 +1,72 @@
+{
+  "school_id": "59900714",
+  "school_name": "Vittra Södermalm",
+  "registered_url": "http://www.vittra.se/sodermalm",
+  "pages": [
+    {
+      "requested_url": "https://vittra.se/sodermalm/",
+      "source_url": "https://vittra.se/sodermalm/",
+      "page_title": "Vittra | Skola på Södermalm",
+      "accessed_at": "2026-10-21T17:38:34.178529+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59900714_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/sodermalm/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/sodermalm/om/grundskola/",
+      "source_url": "https://vittra.se/sodermalm/om/grundskola/",
+      "page_title": "Vittra | Grundskola på Södermalm",
+      "accessed_at": "2026-10-21T17:38:35.319943+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59900714_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/sodermalm/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/sodermalm/fotbollsprofil/",
+      "source_url": "https://vittra.se/sodermalm/fotbollsprofil/",
+      "page_title": "Grundskola med fotbollsprofil åk 4–9 | Vittra Södermalm",
+      "accessed_at": "2026-10-21T17:38:36.448187+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59900714_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/sodermalm/fotbollsprofil/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

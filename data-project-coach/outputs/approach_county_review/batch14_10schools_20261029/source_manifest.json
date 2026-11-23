@@ -1,0 +1,172 @@
+[
+  {
+    "file": "arstadal.html",
+    "bytes": 51067,
+    "sha256": "5ec5e58fb0322f22cbd54218b646a1a69ab87b31a08c83ce631ce56922fca5cf"
+  },
+  {
+    "file": "arstadal_browser_excerpt.txt",
+    "bytes": 2133,
+    "sha256": "6890b43863dc8aeb73533b2e05d2731f7b8a8c9654c9dfaa84623edc05efa503"
+  },
+  {
+    "file": "bma_method.html",
+    "bytes": 205382,
+    "sha256": "0fc29e24ab12ab226e5611ec9df5375c713b0ac8826099bd09543229aa4a6056"
+  },
+  {
+    "file": "morapark.html",
+    "bytes": 67438,
+    "sha256": "1cac7e8b2fa450b6b6d8faa6159cf5f8946ee4e2fd25420b7b8f17d577d42cfd"
+  },
+  {
+    "file": "morapark_methods.html",
+    "bytes": 48769,
+    "sha256": "fa44c1baa2fd2cbf2920fc098921b79063b18280e56509b1186d0a04e87ae9f5"
+  },
+  {
+    "file": "morapark_official.json",
+    "bytes": 1531,
+    "sha256": "94bf7fabc8387667ad8aa2c9bc25c5529d8d381c4d03965cdb82b3626f5bf3f8"
+  },
+  {
+    "file": "morapark_school.html",
+    "bytes": 63973,
+    "sha256": "b0b4f8c446ecff504e8ec15031061d252e39e9caca5a9f66a451665a068b2a37"
+  },
+  {
+    "file": "neglinge.html",
+    "bytes": 38445,
+    "sha256": "47e38d9fcadec202093c78ee6940ce355d488b4865f6e363972f37bddca4cc9c"
+  },
+  {
+    "file": "neglinge_methods.html",
+    "bytes": 42286,
+    "sha256": "1be67da71238a939c689d688c630d7c2fb040a60d7590480eed136d0d75428d6"
+  },
+  {
+    "file": "neglinge_movement.html",
+    "bytes": 37122,
+    "sha256": "0608eed86dde898c8c362d8067b1dc33788191b07d2a4b32a4d816d1146ebe59"
+  },
+  {
+    "file": "neglinge_outdoor.html",
+    "bytes": 34022,
+    "sha256": "87235183165e475a3fd64eca6b6cc4b84fac647e98fc296ee43db33eb2d58321"
+  },
+  {
+    "file": "neglinge_research.html",
+    "bytes": 33855,
+    "sha256": "3a7fcc52b4d373f9b417c0190b4f027d921a4a3d051b5a8f2dd4110986622b3e"
+  },
+  {
+    "file": "nobla.html",
+    "bytes": 64071,
+    "sha256": "5f18acd99385908e035cdaedd53c776006dde42e7949dcfda9c1ab850fca9659"
+  },
+  {
+    "file": "nobla_school.html",
+    "bytes": 74324,
+    "sha256": "7f7600e6de85e65ccb8d9e69eb6eadee23c810bd1163bed1cb700b9194818740"
+  },
+  {
+    "file": "oxhagen.html",
+    "bytes": 141930,
+    "sha256": "19c86eedb14c6f4931867bab4b233773288842922e62a52068087323e025be43"
+  },
+  {
+    "file": "parkskolan.html",
+    "bytes": 329612,
+    "sha256": "74c4c0701dff774a8e11aa4e19517b1c3107a3575617da030f1c28f241181e66"
+  },
+  {
+    "file": "robots_bma.txt",
+    "bytes": 32,
+    "sha256": "bab69865a2fd3e614563110b0e21fdeaf9da5c0d7ae76ee0ad7f2f5958e0b87a"
+  },
+  {
+    "file": "robots_morapark.txt",
+    "bytes": 44,
+    "sha256": "cd33f80c5d357e80343c4bea2155f138a46710d325acceba2d070819d314e987"
+  },
+  {
+    "file": "robots_nacka.txt",
+    "bytes": 90,
+    "sha256": "64fe41969e11ec84b6931292db50ef815df7f9d69b40957717f3836cfc06a702"
+  },
+  {
+    "file": "robots_nobla.txt",
+    "bytes": 2367,
+    "sha256": "d4a9cacda0f3dad192b90bef0dbe62420dbeb9e76c5af718d12acdebe49df6f1"
+  },
+  {
+    "file": "robots_solna.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "robots_stallet.txt",
+    "bytes": 168380,
+    "sha256": "455eb99b4ccca40d76ed952ff02c5ddb30dd2bfa453252158d3e0263524c7518"
+  },
+  {
+    "file": "robots_stallet_com.txt",
+    "bytes": 136225,
+    "sha256": "58d63841edaabfd1140cc5878063b63353a2a33c7e06e1651778a0628d3bac08"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 63,
+    "sha256": "944c34fa915945519607a73d2b3e5ee74d7ffcd061747c40f5cbdad4d0ef051e"
+  },
+  {
+    "file": "robots_vr.txt",
+    "bytes": 246,
+    "sha256": "0a1b8980a4d650af4c3139097c2e2591ffc31778f48d8ff264edde37cc6c9f33"
+  },
+  {
+    "file": "solhem.html",
+    "bytes": 141726,
+    "sha256": "6f11b6f623f49b9cab48269d7d6190f4aef90d7ca156500d2cc93b9cd80e299d"
+  },
+  {
+    "file": "solna_enskild.html",
+    "bytes": 192126,
+    "sha256": "cb79a07a0f7fdc2560a336ceefddef521857a91b639bd13509183695059a8b53"
+  },
+  {
+    "file": "solna_methods.html",
+    "bytes": 197289,
+    "sha256": "254d48c141bea1e97a9f2934711614d06df369ffc83d9b6070323ce7fe965334"
+  },
+  {
+    "file": "solna_official.json",
+    "bytes": 1500,
+    "sha256": "781504726eab87c142e90bf62849a3abcc1cf3e1ba30c010d366a2ca0bf42f5e"
+  },
+  {
+    "file": "solna_school.html",
+    "bytes": 195111,
+    "sha256": "da2322a9cd866f19e2f9249bebfc467362591a2918c3971f17ef4eabd001ce21"
+  },
+  {
+    "file": "stallet.html",
+    "bytes": 144633,
+    "sha256": "be56fce049c718c3fed7b3ca0a9cb72d4652e3d7f2b9605253082b528da6015c"
+  },
+  {
+    "file": "stallet_contact.html",
+    "bytes": 150727,
+    "sha256": "519a91e94f397d759817f3a0d0b6163a74dc38170907e394d53d4310123eb7c5"
+  },
+  {
+    "file": "stallet_official.json",
+    "bytes": 1485,
+    "sha256": "46d818338394e6e50d68e6f6a89d23f12532a1200ea5fb9909cd38db28ac04b2"
+  },
+  {
+    "file": "vr.html",
+    "bytes": 569691,
+    "sha256": "9bdd6ca9f8fc9741c13186ce9db70a0521f88de48fd08864a8963ee1a50f944c"
+  }
+]

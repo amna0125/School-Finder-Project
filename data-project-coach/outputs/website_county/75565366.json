@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "75565366",
+  "school_name": "Myrstugubergets Friskola",
+  "registered_url": "http://www.myrstuguskolan.se",
+  "attempted_at": "2026-10-21T09:23:08.753261+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.myrstuguskolan.se/",
+      "retrieved_at": "2026-10-21T09:23:15.557088+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.myrstuguskolan.se",
+          "robots_url": "https://www.myrstuguskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:10.156371+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.myrstuguskolan.se/",
+          "robots_url": "https://www.myrstuguskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:11.670010+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "75565366_0.txt"
+    },
+    {
+      "source_url": "https://www.myrstuguskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:23:15.581084+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.myrstuguskolan.se/om-oss/",
+          "robots_url": "https://www.myrstuguskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:11.670010+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "75565366_1.txt"
+    },
+    {
+      "source_url": "https://www.myrstuguskolan.se/om-oss/historia/",
+      "retrieved_at": "2026-10-21T09:23:15.604260+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.myrstuguskolan.se/om-oss/historia/",
+          "robots_url": "https://www.myrstuguskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:11.670010+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "75565366_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

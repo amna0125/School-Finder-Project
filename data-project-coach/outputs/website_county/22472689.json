@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "22472689",
+  "school_name": "Jarlabergs skola",
+  "registered_url": "http://www.jarlaberg.nacka.se",
+  "attempted_at": "2026-10-21T09:20:31.736127+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/jarlaberg/",
+      "retrieved_at": "2026-10-21T09:20:41.497721+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.jarlaberg.nacka.se",
+          "robots_url": "https://www.nacka.se/valfard-skola/jarla-skola/om-jarlabergs-skola/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:35.302674+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "http://www.nacka.se/valfard-skola/jarla-skola/om-jarlabergs-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.175460+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarla-skola/om-jarlabergs-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarlaberg/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "22472689_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

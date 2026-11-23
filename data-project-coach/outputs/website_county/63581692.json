@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "63581692",
+  "school_name": "Enebybergs skola",
+  "registered_url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+  "attempted_at": "2026-10-21T09:16:44.572913+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+      "retrieved_at": "2026-10-21T09:16:45.393856+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:17.296287+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "63581692_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "I Brage finns även musiksal samt salar för textil- samt trä och metallslöjd",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "4fd269091792864e4ab60461a196d7811d2b599f02fd00437fd13309c607d187",
+      "school_unit_code": "63581692",
+      "school_name": "Enebybergs skola",
+      "source_url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+      "retrieved_at": "2026-10-21T09:16:45.393856+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

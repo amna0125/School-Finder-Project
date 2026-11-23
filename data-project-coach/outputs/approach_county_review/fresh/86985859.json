@@ -1,0 +1,17 @@
+{
+  "school_id": "86985859",
+  "school_name": "Malmsjö skola",
+  "registered_url": "http://www.botkyrka.se/malmsjoskola",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/malmsjoskola",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:42:43.081394+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

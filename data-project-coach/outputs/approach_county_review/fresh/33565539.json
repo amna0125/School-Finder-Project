@@ -1,0 +1,17 @@
+{
+  "school_id": "33565539",
+  "school_name": "Gustav Vasaskolan",
+  "registered_url": "http://www.skolor.vallentuna.se/gustavvasa/",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.skolor.vallentuna.se/gustavvasa/",
+      "error": "<urlopen error timed out>",
+      "attempted_at": "2026-10-21T17:32:08.843478+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

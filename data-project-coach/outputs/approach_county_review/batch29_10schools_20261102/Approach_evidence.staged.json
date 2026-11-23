@@ -1,0 +1,102 @@
+[
+  {
+    "evidence_id": "ae_b29_43632318_01",
+    "school_id": "43632318",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/enbacksskolan",
+    "page_title": "Enbacksskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "På Enbacksskolan har vi en gemensam struktur på undervisningen och ett arbetssätt som utvecklar ditt barns språk. Med visuellt stöd, en tydlig pedagogik och digitala hjälpmedel, får ditt barn hjälp med inlärningen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "School F–9: concrete teaching-accessibility descriptions; jointly supports inclusion emphasis rather than a language/international profile. No arts code from listed Kulturskolan/El Sistema cooperation."
+  },
+  {
+    "evidence_id": "ae_b29_43632318_02",
+    "school_id": "43632318",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/enbacksskolan",
+    "page_title": "Enbacksskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "På låg- och mellanstadiet arbetar vi enligt 3-lärarsystem samt barnskötare och lärare i fritidshem som samverkar i klasserna.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Lower/middle years only. Max48 per year split into two groups is not a verified class size; do not substitute for pupils per teacher."
+  },
+  {
+    "evidence_id": "ae_b29_43802065_01",
+    "school_id": "43802065",
+    "source_url": "https://lillaparkskolan.se/om-skolan/",
+    "page_title": "Om skolan",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Från och med höstterminen 2026 utvecklas skolan till en renodlad lågstadieskola med klasser från förskoleklass till årskurs 3.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Current website scope F–3 from autumn2026 differs from official snapshot. Reconcile current unit/year coverage; do not transfer historical Assyrisk/Syriansk profile, described as past provision before the 2020 change."
+  },
+  {
+    "evidence_id": "ae_b29_43802065_02",
+    "school_id": "43802065",
+    "source_url": "https://lillaparkskolan.se/om-skolan/",
+    "page_title": "Om skolan",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Från våren 2024 arbetar vi med Trivselledar-programmet ( trivselledare.se ) för att erbjuda alla elever fin gemenskap och rörelsepauser i klassrummet, meningsfulla raster och ett aktivt och utvecklande fritids.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Uncertain current applicability through 2026 grade transition; no firm code. Literacy/mathematics main-focus statement alone not sufficient substantive reading pedagogy."
+  },
+  {
+    "evidence_id": "ae_b29_43869172_01",
+    "school_id": "43869172",
+    "source_url": "https://www.fredsborgskolan.se/profiler/halsa-rorelse-f-6/",
+    "page_title": "Profilen Hälsa & Rörelse för åk F-6 - Fredsborgskolan",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Genom vår profil Hälsa & Rörelse arbetar vi kontinuerligt med fysisk aktivitet och rörelse i olika former samt genom vår värdegrund för att bibehålla den goda kulturen på skolan.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit self-described F–6 health/movement profile with active breaks and extra sport/outdoor activities. Uncoded pending selected official ID (snapshot years1–9) reconciliation against separately named current F–6 and 7–9 units. 2021 PEP certification is a dated school claim, not current independent certification. Outdoor-pedagogy aspiration not separately promoted."
+  },
+  {
+    "evidence_id": "ae_b29_44002887_01",
+    "school_id": "44002887",
+    "source_url": "https://www.taby.se/ellagardsskolan",
+    "page_title": "Ellagårdsskolan | Täby kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Eleverna får undervisning i välbefinnande, där de lär sig förstå sina styrkor, hantera känslor och bygga bra relationer.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "F–6 school about page, dedicated wellbeing instruction with specific content rather than statutory safety text. Generic motivational effects not verified. Events/musicals do not establish arts integration."
+  },
+  {
+    "evidence_id": "ae_b29_44175786_01",
+    "school_id": "44175786",
+    "source_url": "https://www.nacka.se/valfard-skola/boo-gard/om-boo-gards-skola/var-verksamhet/nta-och-peak/",
+    "page_title": "NTA och PEAK | Nacka kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi arbetar med NTA i åk 1-6.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit program adoption limited to years1–6. Reviewed page does not describe an inquiry process sufficiently to make a firm inquiry-based code solely from NTA name. Follow up pedagogy/process if needed."
+  },
+  {
+    "evidence_id": "ae_b29_44175786_02",
+    "school_id": "44175786",
+    "source_url": "https://www.nacka.se/valfard-skola/boo-gard/om-boo-gards-skola/var-verksamhet/nta-och-peak/",
+    "page_title": "NTA och PEAK | Nacka kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi arbetar också med PEAK som är en metod och arbetsredskap för hur vi kan utbilda våra elever att lära sig att arbeta medvetet med att spara energi.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Unclear/Low for category mapping: sustainability/energy method stated, but no clear outdoor/place-based teaching or sustained inquiry process. Do not infer from annual Earth Hour activity. International page mainly visitor/staff exchanges, no firm international-profile code; year9 exchange news not generalized."
+  },
+  {
+    "evidence_id": "ae_b29_44373961_01",
+    "school_id": "44373961",
+    "source_url": "https://idunskolan.se/om/idunskolanidag/",
+    "page_title": "IDUNSKOLAN IDAG",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Idunskolan är en waldorfskola (FK- 9).",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Current school self-description F–9, backed by linked substantive pedagogy page; not inferred from name. Official snapshot years1–9; preschool class is website scope. Utefritids not generalized to compulsory-school outdoor pedagogy."
+  },
+  {
+    "evidence_id": "ae_b29_44373961_02",
+    "school_id": "44373961",
+    "source_url": "https://idunskolan.se/om/waldorfpedagogik/",
+    "page_title": "WALDORFPEDAGOGIK",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi arbetar med tre kunskapsfält: teori, hantverk och konst, där “konst” inte enbart är ett ämne utan ett förhållningssätt som genomsyrar alla ämnen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit cross-subject arts integration in current school-linked Waldorf pedagogy description, not an ordinary subject list. Period teaching also described but no separate inquiry code inferred."
+  }
+]

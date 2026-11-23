@@ -1,0 +1,17 @@
+{
+  "school_id": "22019000",
+  "school_name": "Södertörns friskola",
+  "registered_url": "http://www.frisko.la",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.frisko.la",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:29:57.528868+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

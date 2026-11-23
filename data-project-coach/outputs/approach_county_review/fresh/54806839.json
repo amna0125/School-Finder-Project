@@ -1,0 +1,69 @@
+{
+  "school_id": "54806839",
+  "school_name": "Ogenholts friskola AB",
+  "registered_url": "http://www.vibyfriskola.se",
+  "pages": [
+    {
+      "requested_url": "https://vibyfriskola.se/",
+      "source_url": "https://vibyfriskola.se/",
+      "page_title": "VIBY FRISKOLA",
+      "accessed_at": "2026-10-21T17:37:50.307966+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "54806839_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vibyfriskola.se/",
+          "robots_url": "https://vibyfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:37:49.523597+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vibyfriskola.se/om-oss/",
+      "source_url": "https://vibyfriskola.se/om-oss/",
+      "page_title": "VIBY FRISKOLA",
+      "accessed_at": "2026-10-21T17:37:51.125089+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "54806839_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vibyfriskola.se/om-oss/",
+          "robots_url": "https://vibyfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:37:49.523597+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vibyfriskola.se/grundskolan/",
+      "source_url": "https://vibyfriskola.se/grundskolan/",
+      "page_title": "VIBY FRISKOLA",
+      "accessed_at": "2026-10-21T17:37:51.932954+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "54806839_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vibyfriskola.se/grundskolan/",
+          "robots_url": "https://vibyfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:37:49.523597+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

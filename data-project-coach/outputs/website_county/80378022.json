@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "80378022",
+  "school_name": "Botkyrka Friskola",
+  "registered_url": "http://www.botfri.se",
+  "attempted_at": "2026-10-21T09:23:17.438284+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://botfri.se/",
+      "retrieved_at": "2026-10-21T09:23:25.713135+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.botfri.se",
+          "robots_url": "http://botfri.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:20.066049+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://botfri.se/",
+          "robots_url": "https://botfri.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:22.648853+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "80378022_0.txt"
+    },
+    {
+      "source_url": "https://botfri.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:23:25.744145+00:00",
+      "robots_checks": [
+        {
+          "url": "https://botfri.se/om-oss/",
+          "robots_url": "https://botfri.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:22.648853+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "80378022_1.txt"
+    },
+    {
+      "source_url": "https://botfri.se/om-oss/verksamheten/",
+      "retrieved_at": "2026-10-21T09:23:25.777766+00:00",
+      "robots_checks": [
+        {
+          "url": "https://botfri.se/om-oss/verksamheten/",
+          "robots_url": "https://botfri.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:22.648853+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "80378022_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

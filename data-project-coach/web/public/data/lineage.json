@@ -1,0 +1,932 @@
+{
+ "generated": "2026-11-18T21:21:01+00:00",
+ "dbt_version": "1.12.7",
+ "adapter": "duckdb",
+ "elapsed": 3.550779342651367,
+ "nodes": [
+  {
+   "id": "source.school_finder.raw.Approach_codes",
+   "name": "Approach_codes",
+   "layer": "source",
+   "kind": "source",
+   "materialized": null,
+   "description": "Reviewed teaching-approach codes, one per school and category, each tied to one quoted piece of evidence.",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 771,
+   "status": null,
+   "sql": "",
+   "path": "models/bronze/_sources.yml",
+   "source": "raw"
+  },
+  {
+   "id": "source.school_finder.raw.Approach_evidence",
+   "name": "Approach_evidence",
+   "layer": "source",
+   "kind": "source",
+   "materialized": null,
+   "description": "Short verbatim quotes from schools' own public websites, with URL and date accessed.",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 891,
+   "status": null,
+   "sql": "",
+   "path": "models/bronze/_sources.yml",
+   "source": "raw"
+  },
+  {
+   "id": "source.school_finder.raw.School_setting",
+   "name": "School_setting",
+   "layer": "source",
+   "kind": "source",
+   "materialized": null,
+   "description": "Setting features per school: green space from map data, plus stated features quoted from school websites.",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 4395,
+   "status": null,
+   "sql": "",
+   "path": "models/bronze/_sources.yml",
+   "source": "raw"
+  },
+  {
+   "id": "seed.school_finder.approach_categories",
+   "name": "approach_categories",
+   "layer": "seed",
+   "kind": "seed",
+   "materialized": "seed",
+   "description": "",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 7,
+   "status": "success",
+   "sql": "",
+   "path": "seeds/approach_categories.csv"
+  },
+  {
+   "id": "model.school_finder.brz_approach_codes",
+   "name": "brz_approach_codes",
+   "layer": "bronze",
+   "kind": "model",
+   "materialized": "view",
+   "description": "",
+   "depends_on": [
+    "source.school_finder.raw.Approach_codes"
+   ],
+   "columns": 0,
+   "rows": 771,
+   "status": "success",
+   "sql": "-- Bronze: raw Approach_codes as loaded, no changes.\nselect * from {{ source('raw', 'Approach_codes') }}",
+   "path": "models/bronze/brz_approach_codes.sql"
+  },
+  {
+   "id": "model.school_finder.brz_approach_evidence",
+   "name": "brz_approach_evidence",
+   "layer": "bronze",
+   "kind": "model",
+   "materialized": "view",
+   "description": "",
+   "depends_on": [
+    "source.school_finder.raw.Approach_evidence"
+   ],
+   "columns": 0,
+   "rows": 891,
+   "status": "success",
+   "sql": "-- Bronze: raw Approach_evidence as loaded, no changes.\nselect * from {{ source('raw', 'Approach_evidence') }}",
+   "path": "models/bronze/brz_approach_evidence.sql"
+  },
+  {
+   "id": "model.school_finder.brz_register",
+   "name": "brz_register",
+   "layer": "bronze",
+   "kind": "model",
+   "materialized": "view",
+   "description": "",
+   "depends_on": [
+    "source.school_finder.register.register_responses"
+   ],
+   "columns": 0,
+   "rows": 762,
+   "status": "success",
+   "sql": "-- Bronze: the saved register responses, unpacked only as far as needed.\n-- Names, e-mail addresses and phone numbers in the source are deliberately NOT selected.\nselect\n    sid                                                         as school_unit_code,\n    retrieved_at,\n    resp.data.attributes.displayName                            as display_name,\n    resp.data.attributes.schoolName                             as school_name,\n    resp.data.attributes.municipalityCode                       as municipality_code,\n    resp.data.attributes.url                                    as website,\n    resp.data.attributes.schoolTypes                            as school_types,\n    resp.data.attributes.schoolTypeProperties.gr.grades         as gr_grades,\n    resp.data.attributes.addresses                              as addresses,\n    resp.included.attributes.organizerType                      as organizer_type,\n    resp.included.attributes.displayName                        as organizer_name\nfrom {{ source('register', 'register_responses') }}",
+   "path": "models/bronze/brz_register.sql"
+  },
+  {
+   "id": "model.school_finder.brz_school_setting",
+   "name": "brz_school_setting",
+   "layer": "bronze",
+   "kind": "model",
+   "materialized": "view",
+   "description": "",
+   "depends_on": [
+    "source.school_finder.raw.School_setting"
+   ],
+   "columns": 0,
+   "rows": 4395,
+   "status": "success",
+   "sql": "-- Bronze: raw School_setting as loaded, no changes.\nselect * from {{ source('raw', 'School_setting') }}",
+   "path": "models/bronze/brz_school_setting.sql"
+  },
+  {
+   "id": "model.school_finder.brz_schools",
+   "name": "brz_schools",
+   "layer": "bronze",
+   "kind": "model",
+   "materialized": "view",
+   "description": "",
+   "depends_on": [
+    "source.school_finder.raw.schools"
+   ],
+   "columns": 0,
+   "rows": 762,
+   "status": "success",
+   "sql": "-- Bronze: raw schools as loaded, no changes.\nselect * from {{ source('raw', 'schools') }}",
+   "path": "models/bronze/brz_schools.sql"
+  },
+  {
+   "id": "model.school_finder.brz_statistics",
+   "name": "brz_statistics",
+   "layer": "bronze",
+   "kind": "model",
+   "materialized": "view",
+   "description": "",
+   "depends_on": [
+    "source.school_finder.raw.statistics"
+   ],
+   "columns": 0,
+   "rows": 45868,
+   "status": "success",
+   "sql": "-- Bronze: raw statistics as loaded, no changes.\nselect * from {{ source('raw', 'statistics') }}",
+   "path": "models/bronze/brz_statistics.sql"
+  },
+  {
+   "id": "model.school_finder.brz_survey_observations",
+   "name": "brz_survey_observations",
+   "layer": "bronze",
+   "kind": "model",
+   "materialized": "view",
+   "description": "",
+   "depends_on": [
+    "source.school_finder.raw.survey_observations"
+   ],
+   "columns": 0,
+   "rows": 84610,
+   "status": "success",
+   "sql": "-- Bronze: raw survey_observations as loaded, no changes.\nselect * from {{ source('raw', 'survey_observations') }}",
+   "path": "models/bronze/brz_survey_observations.sql"
+  },
+  {
+   "id": "model.school_finder.county_medians",
+   "name": "county_medians",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "",
+   "depends_on": [
+    "model.school_finder.fct_school_metrics"
+   ],
+   "columns": 0,
+   "rows": 16,
+   "status": "success",
+   "sql": "-- Gold: county medians per metric and the school year they describe (used as reference lines).\nselect\n    metric_key,\n    any_value(county_median) as county_median,\n    max(period) filter (where value_status in ('reported','estimate')) as latest_period,\n    count(value) as schools_with_value\nfrom {{ ref('fct_school_metrics') }}\ngroup by 1",
+   "path": "models/gold/county_medians.sql"
+  },
+  {
+   "id": "model.school_finder.dim_approach_categories",
+   "name": "dim_approach_categories",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "",
+   "depends_on": [
+    "seed.school_finder.approach_categories",
+    "model.school_finder.school_approach"
+   ],
+   "columns": 0,
+   "rows": 7,
+   "status": "success",
+   "sql": "-- Gold: the seven codebook categories with the short names and descriptions parents see.\nselect c.category, c.short_name, c.description, c.sort_order,\n       count(distinct a.school_id) as schools\nfrom {{ ref('approach_categories') }} c\nleft join {{ ref('school_approach') }} a using (category)\ngroup by all\norder by sort_order",
+   "path": "models/gold/dim_approach_categories.sql"
+  },
+  {
+   "id": "model.school_finder.dim_metrics",
+   "name": "dim_metrics",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "",
+   "depends_on": [
+    "seed.school_finder.metric_dictionary",
+    "model.school_finder.county_medians"
+   ],
+   "columns": 1,
+   "rows": 16,
+   "status": "success",
+   "sql": "-- Gold: metric labels and units for the website, with the county median.\nselect d.metric_key, d.label, d.unit, d.year_group, c.county_median, c.latest_period\nfrom {{ ref('metric_dictionary') }} d\nleft join {{ ref('county_medians') }} c using (metric_key)\nunion all\nselect k, l, 'test points', y, c.county_median, c.latest_period\nfrom (values ('np6', 'National tests, year 6 (maths, Swedish, English)', 6),\n             ('np9', 'National tests, year 9 (maths, Swedish, English)', 9)) v(k, l, y)\nleft join {{ ref('county_medians') }} c on c.metric_key = v.k",
+   "path": "models/gold/dim_metrics.sql"
+  },
+  {
+   "id": "model.school_finder.fct_metric_history",
+   "name": "fct_metric_history",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "",
+   "depends_on": [
+    "model.school_finder.stg_statistics",
+    "seed.school_finder.metric_dictionary"
+   ],
+   "columns": 0,
+   "rows": 9904,
+   "status": "success",
+   "sql": "-- Gold: all reported school years for the trend lines (teachers, merit rating, passed all subjects,\n-- combined national tests). A series needs at least two years.\nwith base as (\n    select s.school_id, s.metric_key, s.period, s.value\n    from {{ ref('stg_statistics') }} s\n    join {{ ref('metric_dictionary') }} d using (metric_key)\n    where d.keep_history and s.value is not null\n),\ncombined as (\n    select school_id, 'np' || right(metric_key, 1) as metric_key, period, round(avg(value), 1) as value\n    from base\n    where metric_key in ('ma6', 'sv6', 'en6', 'ma9', 'sv9', 'en9')\n    group by school_id, right(metric_key, 1), period\n    having count(*) >= 2\n),\nseries as (\n    select * from base where metric_key in ('teachers', 'merit9', 'pass9')\n    union all\n    select * from combined\n)\nselect *\nfrom series\nqualify count(*) over (partition by school_id, metric_key) >= 2",
+   "path": "models/gold/fct_metric_history.sql"
+  },
+  {
+   "id": "model.school_finder.fct_school_metrics",
+   "name": "fct_school_metrics",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "One row per school and metric: the latest value (with one-year fallback), its school year, status and the county median.",
+   "depends_on": [
+    "model.school_finder.stg_statistics",
+    "model.school_finder.stg_schools"
+   ],
+   "columns": 3,
+   "rows": 8486,
+   "status": "success",
+   "sql": "-- Gold: one row per school and metric with the value a parent sees.\n-- Rule: the latest school year that has values county-wide; if the school has no value that year,\n-- fall back one year. Never further. The county median is the median of school values (no ranking).\nwith stats as (\n    select st.* from {{ ref('stg_statistics') }} st\n    semi join {{ ref('stg_schools') }} sc using (school_id)\n),\nlatest as (\n    select metric_key, max(period) as latest_period\n    from stats where value is not null\n    group by 1\n),\ncandidates as (\n    select s.*, l.latest_period, (s.period = l.latest_period) as is_latest\n    from stats s join latest l using (metric_key)\n    where s.period = l.latest_period or s.period = {{ prev_period('l.latest_period') }}\n),\npicked as (\n    select *\n    from candidates\n    qualify row_number() over (\n        partition by school_id, metric_key\n        order by (value is not null) desc, is_latest desc\n    ) = 1\n),\nsingle as (\n    select\n        school_id, metric_key,\n        value,\n        case when value is null then latest_period else period end as period,\n        case when value is null then value_status\n             when not is_latest then 'reported_previous_year'\n             else value_status end as value_status\n    from picked\n),\n-- Combined national test result for year 6 and year 9: mean of maths, Swedish and English\n-- when at least two of the three are available.\ncombined as (\n    select\n        school_id,\n        'np' || right(metric_key, 1)                 as metric_key,\n        case when count(value) >= 2 then round(avg(value), 1) end as value,\n        coalesce(max(period) filter (where value is not null), max(period)) as period,\n        case when count(value) >= 2 then 'reported' else 'not_reported' end as value_status\n    from single\n    where metric_key in ('ma6', 'sv6', 'en6', 'ma9', 'sv9', 'en9')\n    group by school_id, right(metric_key, 1)\n),\nall_metrics as (\n    select * from single\n    union all\n    select * from combined\n),\nmedians as (\n    select metric_key, round(median(value), 1) as county_median, count(value) as schools_with_value\n    from all_metrics group by 1\n)\nselect\n    a.school_id,\n    a.metric_key,\n    a.value,\n    a.period,\n    a.value_status,\n    m.county_median,\n    case when a.value is null then null\n         when a.value > m.county_median then 'above'\n         when a.value < m.county_median then 'below'\n         else 'equal' end as vs_county\nfrom all_metrics a\njoin medians m using (metric_key)",
+   "path": "models/gold/fct_school_metrics.sql"
+  },
+  {
+   "id": "seed.school_finder.metric_dictionary",
+   "name": "metric_dictionary",
+   "layer": "seed",
+   "kind": "seed",
+   "materialized": "seed",
+   "description": "",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 14,
+   "status": "success",
+   "sql": "",
+   "path": "seeds/metric_dictionary.csv"
+  },
+  {
+   "id": "seed.school_finder.municipalities",
+   "name": "municipalities",
+   "layer": "seed",
+   "kind": "seed",
+   "materialized": "seed",
+   "description": "",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 26,
+   "status": "success",
+   "sql": "",
+   "path": "seeds/municipalities.csv"
+  },
+  {
+   "id": "source.school_finder.register.register_responses",
+   "name": "register_responses",
+   "layer": "source",
+   "kind": "source",
+   "materialized": null,
+   "description": "Full school unit register responses saved on 2026-11-04 (JSON lines). Used for coordinates, address, grades and organiser.",
+   "depends_on": [],
+   "columns": 0,
+   "rows": null,
+   "status": null,
+   "sql": "",
+   "path": "models/bronze/_sources.yml",
+   "source": "register"
+  },
+  {
+   "id": "seed.school_finder.review_labels",
+   "name": "review_labels",
+   "layer": "seed",
+   "kind": "seed",
+   "materialized": "seed",
+   "description": "",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 762,
+   "status": "success",
+   "sql": "",
+   "path": "seeds/review_labels.csv"
+  },
+  {
+   "id": "model.school_finder.school_approach",
+   "name": "school_approach",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "Reviewed approach claims with their quotes. A claim is what the school says, not verified practice.",
+   "depends_on": [
+    "model.school_finder.stg_approach_codes"
+   ],
+   "columns": 5,
+   "rows": 771,
+   "status": "success",
+   "sql": "-- Gold: reviewed teaching-approach claims, one row per school and category, with the quote behind it.\n-- These are what a school says about itself on its own website, not verified practice.\nselect\n    school_id,\n    category,\n    category_short,\n    subcategory,\n    coding_level,\n    quoted_text,\n    source_url,\n    accessed_date\nfrom {{ ref('stg_approach_codes') }}",
+   "path": "models/gold/school_approach.sql"
+  },
+  {
+   "id": "model.school_finder.school_card",
+   "name": "school_card",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "One wide row per school (762). The finder filters and scores these rows in the browser.",
+   "depends_on": [
+    "model.school_finder.fct_school_metrics",
+    "model.school_finder.school_approach",
+    "model.school_finder.school_setting",
+    "model.school_finder.school_survey",
+    "model.school_finder.stg_schools",
+    "model.school_finder.stg_review_labels"
+   ],
+   "columns": 5,
+   "rows": 762,
+   "status": "success",
+   "sql": "-- Gold: one wide row per school. This is what the finder filters and scores in the browser.\nwith m as (\n    select\n        school_id,\n        {% for k in ['teachers','merit9','np6','np9','pass9','pass6','ptr','elig'] %}\n        max(value) filter (where metric_key = '{{ k }}')        as {{ k }},\n        max(value_status) filter (where metric_key = '{{ k }}') as {{ k }}_status,\n        {% endfor %}\n        max(period) filter (where metric_key = 'teachers')      as teachers_period\n    from {{ ref('fct_school_metrics') }}\n    group by 1\n),\nap as (\n    select school_id,\n           list(distinct category order by category) as approach_categories,\n           count(*)                                    as approach_codes\n    from {{ ref('school_approach') }}\n    group by 1\n),\ngreen as (\n    select school_id, value as green_level, green_pct\n    from {{ ref('school_setting') }} where feature = 'green_space_300m'\n),\nfritids as (\n    select school_id, value as fritidshem\n    from {{ ref('school_setting') }} where feature = 'fritidshem_registered'\n),\nhappy as (\n    select school_id, positive_pct as parents_satisfied_pct\n    from {{ ref('school_survey') }}\n    where respondent_group = 'parents' and theme_key = 'sat'\n)\nselect\n    s.school_id,\n    s.school_name,\n    s.municipality_name,\n    s.address,\n    -- Coordinates outside the county are source errors: the school stays in the list, but not on the map.\n    case when s.latitude_raw between 58.6 and 60.4 and s.longitude_raw between 17.0 and 19.6 then s.latitude_raw end  as latitude,\n    case when s.latitude_raw between 58.6 and 60.4 and s.longitude_raw between 17.0 and 19.6 then s.longitude_raw end as longitude,\n    s.organizer_type,\n    s.organizer_name,\n    s.grades,\n    s.grades_label,\n    s.website,\n    l.review_state,\n    coalesce(ap.approach_categories, []::varchar[]) as approach_categories,\n    coalesce(ap.approach_codes, 0)                  as approach_codes,\n    green.green_level,\n    green.green_pct,\n    fritids.fritidshem,\n    happy.parents_satisfied_pct,\n    m.* exclude (school_id)\nfrom {{ ref('stg_schools') }} s\nleft join {{ ref('stg_review_labels') }} l using (school_id)\nleft join m using (school_id)\nleft join ap using (school_id)\nleft join green using (school_id)\nleft join fritids using (school_id)\nleft join happy using (school_id)",
+   "path": "models/gold/school_card.sql"
+  },
+  {
+   "id": "model.school_finder.school_setting",
+   "name": "school_setting",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "",
+   "depends_on": [
+    "model.school_finder.stg_school_setting"
+   ],
+   "columns": 0,
+   "rows": 2109,
+   "status": "success",
+   "sql": "-- Gold: setting features shown on the school page. Green space within 300 m comes from map data;\n-- the other features are stated on school websites (with a quote) or taken from the register.\nselect\n    school_id,\n    feature,\n    value,\n    case when feature = 'green_space_300m' then round(numeric_value * 100)::integer end as green_pct,\n    quoted_text,\n    accessed_date\nfrom {{ ref('stg_school_setting') }}\nwhere feature not in ('forest_300m', 'water_300m', 'green_space_500m')",
+   "path": "models/gold/school_setting.sql"
+  },
+  {
+   "id": "model.school_finder.school_survey",
+   "name": "school_survey",
+   "layer": "gold",
+   "kind": "model",
+   "materialized": "external",
+   "description": "",
+   "depends_on": [
+    "model.school_finder.stg_survey"
+   ],
+   "columns": 1,
+   "rows": 4432,
+   "status": "success",
+   "sql": "-- Gold: survey shares per school, respondent group and theme.\n-- Shares are re-based on those who answered (100 - no answer). A theme is dropped when fewer than\n-- 30 % answered, or when the shown shares add up to less than 95 % of those who answered\n-- (the source prints '-' for small shares, which is only safe to read as 0 when the rest adds up).\nwith g as (\n    select\n        school_id, respondent_group, theme_key,\n        coalesce(sum(share_pct) filter (where answer_group = 'no_answer'), 0) as no_answer,\n        coalesce(sum(share_pct) filter (where answer_group = 'pos'), 0) as pos,\n        coalesce(sum(share_pct) filter (where answer_group = 'mid'), 0) as mid,\n        coalesce(sum(share_pct) filter (where answer_group = 'neg'), 0) as neg,\n        max(answers) as answers\n    from {{ ref('stg_survey') }}\n    group by all\n)\nselect\n    school_id, respondent_group, theme_key,\n    round(pos / (pos + mid + neg) * 100)::integer as positive_pct,\n    round(mid / (pos + mid + neg) * 100)::integer as middle_pct,\n    round(neg / (pos + mid + neg) * 100)::integer as negative_pct,\n    answers\nfrom g\nwhere 100 - no_answer >= 30\n  and pos + mid + neg >= (100 - no_answer) * 0.95\n  and pos + mid + neg > 0",
+   "path": "models/gold/school_survey.sql"
+  },
+  {
+   "id": "source.school_finder.raw.schools",
+   "name": "schools",
+   "layer": "source",
+   "kind": "source",
+   "materialized": null,
+   "description": "One row per school unit from Skolverket's school unit register (dlt load).",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 762,
+   "status": null,
+   "sql": "",
+   "path": "models/bronze/_sources.yml",
+   "source": "raw"
+  },
+  {
+   "id": "source.school_finder.raw.statistics",
+   "name": "statistics",
+   "layer": "source",
+   "kind": "source",
+   "materialized": null,
+   "description": "Skolverket planned-education statistics, one row per school, metric and school year. raw_value keeps the source's own symbols.",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 45868,
+   "status": null,
+   "sql": "",
+   "path": "models/bronze/_sources.yml",
+   "source": "raw"
+  },
+  {
+   "id": "model.school_finder.stg_approach_codes",
+   "name": "stg_approach_codes",
+   "layer": "silver",
+   "kind": "model",
+   "materialized": "table",
+   "description": "",
+   "depends_on": [
+    "model.school_finder.brz_approach_codes",
+    "model.school_finder.brz_approach_evidence",
+    "seed.school_finder.approach_categories"
+   ],
+   "columns": 4,
+   "rows": 771,
+   "status": "success",
+   "sql": "-- Silver: reviewed approach codes joined to their quoted evidence.\nselect\n    c.code_id,\n    c.school_id,\n    c.category,\n    cat.short_name                                   as category_short,\n    c.subcategory,\n    case c.coding_level when 'Explicit' then 'E' else 'S' end as coding_level,\n    c.confidence,\n    c.review_status,\n    e.evidence_id,\n    e.quoted_text,\n    e.source_url,\n    e.page_title,\n    cast(e.accessed_date as date)                    as accessed_date\nfrom {{ ref('brz_approach_codes') }} c\njoin {{ ref('brz_approach_evidence') }} e using (evidence_id)\njoin {{ ref('approach_categories') }} cat using (category)",
+   "path": "models/silver/stg_approach_codes.sql"
+  },
+  {
+   "id": "model.school_finder.stg_review_labels",
+   "name": "stg_review_labels",
+   "layer": "silver",
+   "kind": "model",
+   "materialized": "table",
+   "description": "",
+   "depends_on": [
+    "seed.school_finder.review_labels"
+   ],
+   "columns": 1,
+   "rows": 762,
+   "status": "success",
+   "sql": "-- Silver: the manual review outcome per school (from the review ledger seed).\nselect school_id, review_state, batch_reference\nfrom {{ ref('review_labels') }}",
+   "path": "models/silver/stg_review_labels.sql"
+  },
+  {
+   "id": "model.school_finder.stg_school_setting",
+   "name": "stg_school_setting",
+   "layer": "silver",
+   "kind": "model",
+   "materialized": "table",
+   "description": "",
+   "depends_on": [
+    "model.school_finder.brz_school_setting"
+   ],
+   "columns": 0,
+   "rows": 4395,
+   "status": "success",
+   "sql": "-- Silver: setting features. Map-based features keep their numeric share; stated features keep their quote.\nselect\n    school_id,\n    feature,\n    value,\n    numeric_value,\n    source_type,\n    scope,\n    source_url,\n    quoted_text,\n    try_cast(accessed_date as date) as accessed_date\nfrom {{ ref('brz_school_setting') }}",
+   "path": "models/silver/stg_school_setting.sql"
+  },
+  {
+   "id": "model.school_finder.stg_schools",
+   "name": "stg_schools",
+   "layer": "silver",
+   "kind": "model",
+   "materialized": "table",
+   "description": "One row per school unit in the county review. No staff names, e-mails or phone numbers.",
+   "depends_on": [
+    "model.school_finder.brz_register",
+    "model.school_finder.brz_schools",
+    "seed.school_finder.municipalities"
+   ],
+   "columns": 3,
+   "rows": 762,
+   "status": "success",
+   "sql": "-- Silver: one clean row per school unit in the review (762).\nwith reg as (\n    select\n        r.*,\n        list_filter(r.addresses, lambda a: a.type = 'BESOKSADRESS')[1] as visit\n    from {{ ref('brz_register') }} r\n),\ngrades as (\n    select\n        school_unit_code,\n        list_contains(school_types, 'FKLASS') as has_fklass,\n        list_transform(list_filter(gr_grades, lambda g: regexp_matches(g, '^[0-9]+$')), lambda g: cast(g as integer)) as gr_int\n    from reg\n)\nselect\n    s.school_unit_code                                                as school_id,\n    coalesce(r.display_name, r.school_name, s.name)                   as school_name,\n    s.municipality_code as municipality_code,\n    m.municipality_name,\n    trim(both ', ' from coalesce(r.visit.streetAddress, '') || ', ' || coalesce(r.visit.locality, '')) as address,\n    try_cast(r.visit.geoCoordinates.latitude as double)               as latitude_raw,\n    try_cast(r.visit.geoCoordinates.longitude as double)              as longitude_raw,\n    case when r.organizer_type = 'KOMMUN' then 'municipal' else 'independent' end as organizer_type,\n    r.organizer_name,\n    case when g.has_fklass and len(g.gr_int) > 0 then list_prepend(0, g.gr_int) else g.gr_int end as grades,\n    case when len(r.gr_grades) > 0\n         then (case when g.has_fklass then 'F' else r.gr_grades[1] end) || '–' || r.gr_grades[-1]\n         else '' end                                                  as grades_label,\n    coalesce(r.website, s.website)                                    as website,\n    s.status                                                          as register_status\nfrom {{ ref('brz_schools') }} s\nleft join reg r using (school_unit_code)\nleft join grades g using (school_unit_code)\nleft join {{ ref('municipalities') }} m on m.municipality_code = s.municipality_code",
+   "path": "models/silver/stg_schools.sql"
+  },
+  {
+   "id": "model.school_finder.stg_statistics",
+   "name": "stg_statistics",
+   "layer": "silver",
+   "kind": "model",
+   "materialized": "table",
+   "description": "Skolverket statistics with a readable value status per value.",
+   "depends_on": [
+    "model.school_finder.brz_statistics",
+    "seed.school_finder.metric_dictionary"
+   ],
+   "columns": 2,
+   "rows": 31426,
+   "status": "success",
+   "sql": "-- Silver: Skolverket statistics with the source's symbols translated into a value status.\n--   '..'   few pupils, value withheld       -> few_pupils\n--   '~100' rounded, few pupils not eligible -> rounded\n--   '*'    teachers without legitimation    -> teachers_excluded\n--   '.' / empty                             -> not_reported\nselect\n    st.school_unit_code                       as school_id,\n    st.metric                                 as source_metric,\n    d.metric_key,\n    st.period,\n    st.raw_value,\n    st.numeric_value                          as value,\n    case\n        when st.numeric_value is not null and st.raw_value ilike 'cirka%' then 'estimate'\n        when st.numeric_value is not null                                then 'reported'\n        when st.value_type = 'OMITTED_DUE_TO_BASED_ON_FEW_PUPILS'         then 'few_pupils'\n        when st.value_type like 'ROUNDED%'                                then 'rounded'\n        when st.value_type = 'TEACHERS_EXCLUDED_DUE_TO_NO_REQUIRED_LEGITIMATION' then 'teachers_excluded'\n        else 'not_reported'\n    end                                       as value_status\nfrom {{ ref('brz_statistics') }} st\njoin {{ ref('metric_dictionary') }} d on d.source_metric = st.metric\nwhere st.period is not null",
+   "path": "models/silver/stg_statistics.sql"
+  },
+  {
+   "id": "model.school_finder.stg_survey",
+   "name": "stg_survey",
+   "layer": "silver",
+   "kind": "model",
+   "materialized": "table",
+   "description": "",
+   "depends_on": [
+    "model.school_finder.brz_survey_observations",
+    "seed.school_finder.survey_themes",
+    "seed.school_finder.survey_answer_groups"
+   ],
+   "columns": 1,
+   "rows": 21008,
+   "status": "success",
+   "sql": "-- Silver: VT26 survey answer shares (percent) for the five themes, grouped into positive / middle / negative.\n-- Respondent group is 'parents', or the pupils' year group ('ak5', 'ak8').\nselect\n    o.school_unit_code                                         as school_id,\n    case when o.respondent = 'parents' then 'parents' else o.year_group end as respondent_group,\n    t.theme_key,\n    o.question,\n    o.measure,\n    g.answer_group,\n    o.numeric_value                                            as share_pct,\n    o.raw_value,\n    try_cast(o.answers_raw as integer)                         as answers\nfrom {{ ref('brz_survey_observations') }} o\njoin {{ ref('survey_themes') }} t on t.source_metric = o.metric\njoin {{ ref('survey_answer_groups') }} g on g.measure = o.measure\nwhere o.semester = 'VT26' and o.unit = 'percent'",
+   "path": "models/silver/stg_survey.sql"
+  },
+  {
+   "id": "seed.school_finder.survey_answer_groups",
+   "name": "survey_answer_groups",
+   "layer": "seed",
+   "kind": "seed",
+   "materialized": "seed",
+   "description": "",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 11,
+   "status": "success",
+   "sql": "",
+   "path": "seeds/survey_answer_groups.csv"
+  },
+  {
+   "id": "source.school_finder.raw.survey_observations",
+   "name": "survey_observations",
+   "layer": "source",
+   "kind": "source",
+   "materialized": null,
+   "description": "Skolinspektionen school survey answers (VT26), one row per school, respondent group, question and answer share.",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 84610,
+   "status": null,
+   "sql": "",
+   "path": "models/bronze/_sources.yml",
+   "source": "raw"
+  },
+  {
+   "id": "seed.school_finder.survey_themes",
+   "name": "survey_themes",
+   "layer": "seed",
+   "kind": "seed",
+   "materialized": "seed",
+   "description": "",
+   "depends_on": [],
+   "columns": 0,
+   "rows": 5,
+   "status": "success",
+   "sql": "",
+   "path": "seeds/survey_themes.csv"
+  }
+ ],
+ "tests": [
+  {
+   "name": "assert_762_schools",
+   "kind": "singular",
+   "column": null,
+   "on": [
+    "model.school_finder.school_card"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "assert_reviewed_claims_have_codes",
+   "kind": "singular",
+   "column": null,
+   "on": [
+    "model.school_finder.school_card"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_school_card_school_id",
+   "kind": "unique",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.school_card"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_school_card_school_id",
+   "kind": "not_null",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.school_card"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "value_between_school_card_teachers__100__0",
+   "kind": "value_between",
+   "column": "teachers",
+   "on": [
+    "model.school_finder.school_card"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "value_between_school_card_pass9__100__0",
+   "kind": "value_between",
+   "column": "pass9",
+   "on": [
+    "model.school_finder.school_card"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "value_between_school_card_merit9__340__0",
+   "kind": "value_between",
+   "column": "merit9",
+   "on": [
+    "model.school_finder.school_card"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "value_between_school_card_parents_satisfied_pct__100__0",
+   "kind": "value_between",
+   "column": "parents_satisfied_pct",
+   "on": [
+    "model.school_finder.school_card"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "relationships_fct_school_metrics_school_id__school_id__ref_school_card_",
+   "kind": "relationships",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.school_card",
+    "model.school_finder.fct_school_metrics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_fct_school_metrics_period",
+   "kind": "not_null",
+   "column": "period",
+   "on": [
+    "model.school_finder.fct_school_metrics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_fct_school_metrics_value_status",
+   "kind": "not_null",
+   "column": "value_status",
+   "on": [
+    "model.school_finder.fct_school_metrics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_combination_fct_school_metrics_school_id__metric_key",
+   "kind": "unique_combination",
+   "column": null,
+   "on": [
+    "model.school_finder.fct_school_metrics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_combination_fct_metric_history_school_id__metric_key__period",
+   "kind": "unique_combination",
+   "column": null,
+   "on": [
+    "model.school_finder.fct_metric_history"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "relationships_school_approach_category__category__ref_approach_categories_",
+   "kind": "relationships",
+   "column": "category",
+   "on": [
+    "seed.school_finder.approach_categories",
+    "model.school_finder.school_approach"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "accepted_values_school_approach_coding_level__E__S",
+   "kind": "accepted_values",
+   "column": "coding_level",
+   "on": [
+    "model.school_finder.school_approach"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_school_approach_quoted_text",
+   "kind": "not_null",
+   "column": "quoted_text",
+   "on": [
+    "model.school_finder.school_approach"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_school_approach_source_url",
+   "kind": "not_null",
+   "column": "source_url",
+   "on": [
+    "model.school_finder.school_approach"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "relationships_school_approach_school_id__school_id__ref_school_card_",
+   "kind": "relationships",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.school_card",
+    "model.school_finder.school_approach"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_combination_school_approach_school_id__category__subcategory",
+   "kind": "unique_combination",
+   "column": null,
+   "on": [
+    "model.school_finder.school_approach"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "value_between_school_survey_positive_pct__100__0",
+   "kind": "value_between",
+   "column": "positive_pct",
+   "on": [
+    "model.school_finder.school_survey"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_combination_school_survey_school_id__respondent_group__theme_key",
+   "kind": "unique_combination",
+   "column": null,
+   "on": [
+    "model.school_finder.school_survey"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_combination_school_setting_school_id__feature",
+   "kind": "unique_combination",
+   "column": null,
+   "on": [
+    "model.school_finder.school_setting"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_dim_metrics_metric_key",
+   "kind": "unique",
+   "column": "metric_key",
+   "on": [
+    "model.school_finder.dim_metrics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_dim_metrics_metric_key",
+   "kind": "not_null",
+   "column": "metric_key",
+   "on": [
+    "model.school_finder.dim_metrics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_stg_schools_school_id",
+   "kind": "unique",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.stg_schools"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_stg_schools_school_id",
+   "kind": "not_null",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.stg_schools"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_stg_schools_municipality_name",
+   "kind": "not_null",
+   "column": "municipality_name",
+   "on": [
+    "model.school_finder.stg_schools"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "accepted_values_stg_schools_organizer_type__municipal__independent",
+   "kind": "accepted_values",
+   "column": "organizer_type",
+   "on": [
+    "model.school_finder.stg_schools"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_stg_statistics_value_status",
+   "kind": "not_null",
+   "column": "value_status",
+   "on": [
+    "model.school_finder.stg_statistics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "accepted_values_stg_statistics_value_status__reported__estimate__few_pupils__rounded__teachers_excluded__not_reported",
+   "kind": "accepted_values",
+   "column": "value_status",
+   "on": [
+    "model.school_finder.stg_statistics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_stg_statistics_period",
+   "kind": "not_null",
+   "column": "period",
+   "on": [
+    "model.school_finder.stg_statistics"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_stg_review_labels_school_id",
+   "kind": "unique",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.stg_review_labels"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_stg_review_labels_school_id",
+   "kind": "not_null",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.stg_review_labels"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "relationships_stg_review_labels_school_id__school_id__ref_stg_schools_",
+   "kind": "relationships",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.stg_schools",
+    "model.school_finder.stg_review_labels"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "unique_stg_approach_codes_code_id",
+   "kind": "unique",
+   "column": "code_id",
+   "on": [
+    "model.school_finder.stg_approach_codes"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_stg_approach_codes_code_id",
+   "kind": "not_null",
+   "column": "code_id",
+   "on": [
+    "model.school_finder.stg_approach_codes"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "accepted_values_stg_approach_codes_coding_level__E__S",
+   "kind": "accepted_values",
+   "column": "coding_level",
+   "on": [
+    "model.school_finder.stg_approach_codes"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "not_null_stg_approach_codes_quoted_text",
+   "kind": "not_null",
+   "column": "quoted_text",
+   "on": [
+    "model.school_finder.stg_approach_codes"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "relationships_stg_approach_codes_school_id__school_id__ref_stg_schools_",
+   "kind": "relationships",
+   "column": "school_id",
+   "on": [
+    "model.school_finder.stg_schools",
+    "model.school_finder.stg_approach_codes"
+   ],
+   "status": "pass"
+  },
+  {
+   "name": "accepted_values_stg_survey_respondent_group__parents__ak5__ak8",
+   "kind": "accepted_values",
+   "column": "respondent_group",
+   "on": [
+    "model.school_finder.stg_survey"
+   ],
+   "status": "pass"
+  }
+ ]
+}

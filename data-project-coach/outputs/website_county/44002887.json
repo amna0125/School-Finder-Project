@@ -1,0 +1,63 @@
+{
+  "school_unit_code": "44002887",
+  "school_name": "Ellagårdsskolan",
+  "registered_url": "http://www.taby.se/ellagardsskolan",
+  "attempted_at": "2026-10-21T09:21:38.736990+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.taby.se/ellagardsskolan",
+      "retrieved_at": "2026-10-21T09:21:40.304095+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.taby.se/ellagardsskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:06.192175+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.taby.se/ellagardsskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:07.626534+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "44002887_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "På Ellagårdsskolan har det vuxit fram många traditioner. Dans och musik är viktiga inslag i flera av årligen återkommande arrangemang där det ofta också bjuds på en och annan överraskning:",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "90fa785f8b62973eb251d4e09ed57697b395d46247f092a59bfab61247477100",
+      "school_unit_code": "44002887",
+      "school_name": "Ellagårdsskolan",
+      "source_url": "https://www.taby.se/ellagardsskolan",
+      "retrieved_at": "2026-10-21T09:21:40.304095+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "På Ellagårdsskolan har det vuxit fram många traditioner. Dans och musik är viktiga inslag i flera av årligen återkommande arrangemang där det ofta också bjuds på en och annan överraskning:",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "9101e2190c71a871141adfea67acf6fd0429b329463c37301cdab1bd252eae59",
+      "school_unit_code": "44002887",
+      "school_name": "Ellagårdsskolan",
+      "source_url": "https://www.taby.se/ellagardsskolan",
+      "retrieved_at": "2026-10-21T09:21:40.304095+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

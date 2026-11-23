@@ -1,0 +1,38 @@
+{
+  "school_unit_code": "35784391",
+  "school_name": "Distra IRS",
+  "registered_url": "http://www.distraresursskolor.se",
+  "attempted_at": "2026-10-21T09:15:57.108034+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.distraresursskolor.se/",
+      "retrieved_at": "2026-10-21T09:16:02.497210+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.distraresursskolor.se",
+          "robots_url": "http://www.distraresursskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:59.225063+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.distraresursskolor.se/",
+          "robots_url": "https://www.distraresursskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:01.262870+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "35784391_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

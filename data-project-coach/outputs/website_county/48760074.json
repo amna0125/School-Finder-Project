@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "48760074",
+  "school_name": "Vittra Frösunda",
+  "registered_url": "http://www.vittra.se/frosunda",
+  "attempted_at": "2026-10-21T09:21:54.572520+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vittra.se/frosunda/",
+      "retrieved_at": "2026-10-21T09:22:01.114983+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vittra.se/frosunda",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.345093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vittra.se/frosunda",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:03.914768+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vittra.se/frosunda/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "48760074_0.txt"
+    },
+    {
+      "source_url": "https://vittra.se/frosunda/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:01.157503+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/frosunda/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "48760074_1.txt"
+    },
+    {
+      "source_url": "https://vittra.se/frosunda/artikel/pedagoger/",
+      "retrieved_at": "2026-10-21T09:22:01.180145+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/frosunda/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "48760074_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "FN-dagen skapar stolthet hos Vittra Rösjötorps elever Vittra Rösjötorp International i Sollentuna är en tvåspråkig förskola och skola med både engelska och svenska. Här går barn och elever som inte har svenska som förstaspråk tillsammans med de som valt Vittra Rösjötorp för möjligheten att tidigt lära sig engelska. FN-dagen som i år firas torsdagen den...",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1b533b016d4e0410545b787e6fdcb94444fc3e1a13907ed355846d4ef0575958",
+      "school_unit_code": "48760074",
+      "school_name": "Vittra Frösunda",
+      "source_url": "https://vittra.se/frosunda/",
+      "retrieved_at": "2026-10-21T09:22:01.114983+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "evidence_id": "ae_b06_16068461_01",
+    "school_id": "16068461",
+    "source_url": "https://www.knippan.se/",
+    "page_title": "Nyckelknippan, en F-9 skola med eleven i fokus | Knippan",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Sedan starten 1994 utgår vi ifrån Maria Montessoris teorier som tillsammans med ledorden kärlek, kunskap och respekt möjliggör en unik pedagogisk småskalig miljö som vi så starkt värnar om.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Requires review: shared Nyckelknippan provider homepage describes both Nyckelskolan F–9 and Ängsnyckeln preschool. School-specific page lists several pedagogical/research references without explicit Montessori scope. Preserve lead without firm schoolwide Montessori code; preschool Skogsmulle status excluded."
+  },
+  {
+    "evidence_id": "ae_b06_16394249_01",
+    "school_id": "16394249",
+    "source_url": "https://eks.se/om-ellen-keyskolan/",
+    "page_title": "Om Ellen keyskolan - EKS",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "På Ellen Keyskolan följer vi den statliga läroplanen Lgr 22 men arbetar enligt waldorfpedagogiken .",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Ellen Keyskolan F–9 at Duvbovägen 94 Spånga. Direct unit statement following Lgr22 but working according to Waldorf pedagogy; no quality/effect claim inferred. Exclude Solhemmet preschool."
+  },
+  {
+    "evidence_id": "ae_b06_16394249_02",
+    "school_id": "16394249",
+    "source_url": "https://eks.se/om-ellen-keyskolan/",
+    "page_title": "Om Ellen keyskolan - EKS",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Pedagogiken har stort fokus på estetiska lärprocesser i samverkan med de teoretiska ämnena. Teori, hantverk och konst genomtränger alla skolämnen och låter flera sinnen stimuleras samtidigt i kunskapandet, vilket gör lärostoffet mer levande.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "School-specific description explicitly integrates aesthetic learning processes, craft and art with theoretical subjects. Distinct from ordinary arts subject list and not inferred solely from Waldorf name. F–9 school context; no quality/implementation judgement."
+  },
+  {
+    "evidence_id": "ae_b06_16426165_01",
+    "school_id": "16426165",
+    "source_url": "https://www.kunskapsskolan.se/skolor/enskede",
+    "page_title": "Kunskapsskolan Enskede",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Hos oss arbetar du mot individuella mål och din personliga handledare ger stöd och coachar dig mot höga resultat.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Enskede-specific years 6–9 page explicitly applies individual goals and personal coaching. Linked provider pedagogy explains steps, courses, planning and base groups; provider detail contextual, not sole unit evidence. Other stated model, not statutory special support or Montessori/inquiry inferred. Outcomes language is school wording only."
+  },
+  {
+    "evidence_id": "ae_b06_16762245_01",
+    "school_id": "16762245",
+    "source_url": "https://www.edessaskolan.se/om",
+    "page_title": "Om skolan – Edessaskolan",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Vi är en tvåspråkig skola där det svenska språket har högsta prioritet. Utöver den ordinarie undervisningen erbjuds utökad undervisning i syrianska/arameiska.",
+    "evidence_type": "School website self-description; browser-rendered excerpt",
+    "interpretation_note": "Fresh official ID 16762245 matches Sagas väg 1 Norsborg and Stiftelsen Bar Hebreus; official grades 1–6 plus preschool class. Browser-rendered school about page; raw fetched HTML shell not coding evidence. Preserve two-language self-label but concretely means additional Syriac/Aramaic teaching; do not infer two-medium instruction across subjects."
+  },
+  {
+    "evidence_id": "ae_b06_16762245_02",
+    "school_id": "16762245",
+    "source_url": "https://www.edessaskolan.se/om",
+    "page_title": "Om skolan – Edessaskolan",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Skolan erbjuder dessutom alla elever undervisning i orientalisk musik utöver den ordinarie timplanen.",
+    "evidence_type": "School website self-description; browser-rendered excerpt",
+    "interpretation_note": "School explicitly says all pupils receive additional oriental music beyond timetable; official years 1–6 and preschool-class form, no specific delivery schedule stated. No beliefs or ethnicity inferred from pupils. New orangery/nearby nature not established structured outdoor pedagogy."
+  },
+  {
+    "evidence_id": "ae_b06_16914123_01",
+    "school_id": "16914123",
+    "source_url": "https://www.sodertalje.se/tavestaskolan",
+    "page_title": "Tavestaskolan - Södertälje kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Eftersom språket är en viktig nyckel i allt lärande använder sig Tavestaskolan av ett språkutvecklande arbetssätt.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Requires review: broad language-development description (interaction/play/varied activities) not a language/international profile or named alternative model. Website updated June 2026 says current F–5 and next-year expansion to 6; stored register grades 1–6. Temporal scope unresolved; no firm code."
+  },
+  {
+    "evidence_id": "ae_b06_16983719_01",
+    "school_id": "16983719",
+    "source_url": "https://www.upplands-bro.se/forskola-och-skola/grundskola/grundskolor-i-upplands-bro/broskolan.html",
+    "page_title": "Broskolan - Upplands-Bro",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "För att förstärka elevers inlärning och deras förmåga till att sätta kunskaper i ett sammanhang är undervisningen uppbyggd kring tre huvudspår.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Requires review: years 7–9, three strands IT/language/society are exemplified with ordinary subject activities (own laptop/Lego programming in technology, language subjects, student council). Under current codebook subject lists/statutory duties alone not enough distinctive profile. Retain claim but no firm code; fresh official matches current municipal page name, grades and locality. Old registered URL 404 excluded."
+  },
+  {
+    "evidence_id": "ae_b06_17165481_01",
+    "school_id": "17165481",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/brotorpsskolan",
+    "page_title": "Brotorpsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Våra elever får med sig många olika upplevelser och både Stockholms stad och närmiljön med Nackareservatet används som resurser i undervisningen.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Requires review: F–6 Brotorpsskolan Rusthållarvägen 225. Same under-specified nature/place-use wording as Bagarmossen prior review. Green schoolyard and garden opportunity described, not regular teaching structure/frequency; no firm outdoor or arts code from creativity/subject variation. Shared unit organisation with Bagarmossen not assumed same official ID."
+  },
+  {
+    "evidence_id": "ae_b06_17287315_01",
+    "school_id": "17287315",
+    "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/kallhallstaket/kalltorpskolan.4.36ac70f31639ecd947f2f1d.html",
+    "page_title": "Källtorpskolan - Järfälla kommun",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Källtorpskolan är en 7-9 skola, med en särskild undervisningsgrupp RSK (resursskolegrupp) och en nystartad AGR-verksamhet från 2024 som kommer att ha 40 elever.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Requires review: shared ordinary 7–9, resource group and adapted-school information. Do not assign schoolwide inclusion approach from subgroup existence, statutory support or page contact lists; exact subgroup/official unit scope unresolved. Metadata references AST/preparatory class and body AGR/RSK differ; no pupil counts imported. Current Järfälla directory identifies school; registered URL provider-wide."
+  }
+]

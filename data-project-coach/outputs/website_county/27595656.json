@@ -1,0 +1,93 @@
+{
+  "school_unit_code": "27595656",
+  "school_name": "Birkaskolan",
+  "registered_url": "http://www.birkaskolan.se",
+  "attempted_at": "2026-10-21T09:20:49.723197+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.birkaskolan.se/",
+      "retrieved_at": "2026-10-21T09:20:56.240216+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.birkaskolan.se",
+          "robots_url": "https://www.birkaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:51.221109+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.birkaskolan.se/",
+          "robots_url": "https://www.birkaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:52.698584+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27595656_0.txt"
+    },
+    {
+      "source_url": "https://www.birkaskolan.se/grundskola-f-9",
+      "retrieved_at": "2026-10-21T09:20:56.273972+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.birkaskolan.se/grundskola-f-9",
+          "robots_url": "https://www.birkaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:52.698584+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27595656_1.txt"
+    },
+    {
+      "source_url": "https://www.birkaskolan.se/montessoripedagogiken",
+      "retrieved_at": "2026-10-21T09:20:56.323740+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.birkaskolan.se/montessoripedagogiken",
+          "robots_url": "https://www.birkaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:52.698584+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27595656_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "montessori",
+      "supporting_excerpt": "Problemlösning, kreativitet, samarbetsförmåga och kritiskt tänkande är efterfrågade kompetenser för morgondagens arbetsmarknad. Med utgångspunkten i Montessori har vi alla möjligheter att ge våra elever just dessa färdigheter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "7b9f10d5ab56bff7217233c9347307f1de6faafb9c9e0c30f567c6d2300b48d0",
+      "school_unit_code": "27595656",
+      "school_name": "Birkaskolan",
+      "source_url": "https://www.birkaskolan.se/",
+      "retrieved_at": "2026-10-21T09:20:56.240216+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "montessori",
+      "supporting_excerpt": "Vi har valt att ha utökad PRAO (Praktisk Arbetslivsorientering) eftersom det ligger i linje med Maria Montessoris tankar om ungdomars behov att få göra saker på riktigt. På Birkaskolan har eleverna därför fyra veckor i stället för normalt två, fördelat i årskurs 8 och 9. Tanken är att eleven på egen hand ska söka praktikplatser och ta kontakt med blivande handledare. Praktiktiden är en möjlighet för kontakt med arbetslivet, träffa arbetsgivare, prova på olika typer av arbete och se hur vuxna har det på olika typer arbetsplatser. I årskurs 7 har eleverna också tre dagars internprao på vår förskola. Där får de arbeta med personalen i köket och ",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "01f3d0fab101d4a253fde217ae45baeedb9d7e1c46b8b0204ece6f12f2f92f89",
+      "school_unit_code": "27595656",
+      "school_name": "Birkaskolan",
+      "source_url": "https://www.birkaskolan.se/grundskola-f-9",
+      "retrieved_at": "2026-10-21T09:20:56.273972+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

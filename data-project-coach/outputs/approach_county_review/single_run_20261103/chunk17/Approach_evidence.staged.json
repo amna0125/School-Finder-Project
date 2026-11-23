@@ -1,0 +1,222 @@
+[
+  {
+    "evidence_id": "ae_sr_92689250_01",
+    "school_id": "92689250",
+    "source_url": "https://montessorimondial.se/malarhojden/",
+    "page_title": "Montessori Mondial Mälarhöjden | Med nyfikenhet som drivkraft",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På Montessori Mondial Mälarhöjden anpassar vi beprövad montessoripedagogik efter den senaste forskningen och arbetar utifrån en vetenskaplig grund.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Montessori pedagogy."
+  },
+  {
+    "evidence_id": "ae_sr_92750123_01",
+    "school_id": "92750123",
+    "source_url": "http://enskildagymnasiet.se/grundskolan/",
+    "page_title": "Grundskolan – Enskilda gymnasiet",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "I vår strävan att utveckla hela människan och träna elevens kreativa sida har vi förutom bild, musik och slöjd även drama på schemat.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Drama as an added timetabled subject."
+  },
+  {
+    "evidence_id": "ae_sr_92750123_02",
+    "school_id": "92750123",
+    "source_url": "http://enskildagymnasiet.se/grundskolan/",
+    "page_title": "Grundskolan – Enskilda gymnasiet",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Varje termin läser våra elever flera skönlitterära verk.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Reading emphasis."
+  },
+  {
+    "evidence_id": "ae_sr_93301103_01",
+    "school_id": "93301103",
+    "source_url": "https://skolgrunden.se/",
+    "page_title": "Välkommen på Öppet hus! Aspdammskolan och Skolgrunden - resursskolor i Hammarby Sjöstad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Aspdammskolan och Skolgrunden är två resursskolor med spetskompetens inom specialpedagogik som främst vänder sig till högstadieelever, årskurs 6 – 9, i behov av särskilt stöd.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Resource school."
+  },
+  {
+    "evidence_id": "ae_sr_93412255_01",
+    "school_id": "93412255",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gubbangsskolan",
+    "page_title": "Gubbängsskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Under läsåret har vi återkommande teman med samarbeten mellan elever i alla klasser.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Recurring cross-class themes; unclear if teaching approach."
+  },
+  {
+    "evidence_id": "ae_sr_93968806_01",
+    "school_id": "93968806",
+    "source_url": "https://www.sundbyberg.se/gronkullaskolan",
+    "page_title": "Grönkullaskolan | Sundbybergs stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Våra lärare i förskoleklassen arbetar Bornholmsinspirerat, en metod med rim, ramsor med mera.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named early literacy method."
+  },
+  {
+    "evidence_id": "ae_sr_93968806_02",
+    "school_id": "93968806",
+    "source_url": "https://www.sundbyberg.se/gronkullaskolan",
+    "page_title": "Grönkullaskolan | Sundbybergs stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi arbetar med elevernas språkutveckling eftersom den är viktig för självförtroendet, för alla skolans ämnen och för framtiden.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Language development stated as school-wide priority."
+  },
+  {
+    "evidence_id": "ae_sr_94279206_01",
+    "school_id": "94279206",
+    "source_url": "https://www.huddinge.se/sjotorpsskolan",
+    "page_title": "Sjötorpsskolan | Huddinge kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På skolan finns också en kommunövergripande resursskola.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Resource school exists on site; page is the host school's."
+  },
+  {
+    "evidence_id": "ae_sr_94301041_01",
+    "school_id": "94301041",
+    "source_url": "https://innovitaskolan.se/myrangen/om/grundskola/",
+    "page_title": "Vår grundskola | Innovitaskolan Myrängen | Om skolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi jobbar tematiskt och med heldagslärande",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Thematic working stated on unit page."
+  },
+  {
+    "evidence_id": "ae_sr_94600352_01",
+    "school_id": "94600352",
+    "source_url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/ekedalsskolan.4.2d09c46d1850f82301f8f69.html",
+    "page_title": "Ekedalsskolan - Värmdö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi har en friluftsprofil som innebär att vi arbetar med elevernas kunskapsutveckling, rörelse och gemenskap i den fantastiska natur som omger vår skola.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Outdoor profile."
+  },
+  {
+    "evidence_id": "ae_sr_94677983_01",
+    "school_id": "94677983",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tullgardsskolan",
+    "page_title": "Tullgårdsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Biblioteket används aktivt i undervisningen för att främja läsning, både på skol- och fritidstid.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Reading emphasis via library."
+  },
+  {
+    "evidence_id": "ae_sr_94791997_01",
+    "school_id": "94791997",
+    "source_url": "https://svartbacksskolan.haninge.se/var-profil/",
+    "page_title": "Så här jobbar vi - Svartbäcksskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Svartbäcksskolan vill fungera som en hälsofrämjande plats där vi tillsammans arbetar för goda levnadsvanor",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Health profile."
+  },
+  {
+    "evidence_id": "ae_sr_94836092_01",
+    "school_id": "94836092",
+    "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+    "page_title": "Om oss | Nacka kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi har profilen språk och kommunikation med fokus på engelska och retorik.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Language/rhetoric profile."
+  },
+  {
+    "evidence_id": "ae_sr_94836092_02",
+    "school_id": "94836092",
+    "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+    "page_title": "Om oss | Nacka kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi lägger också stor vikt vid elevernas läs- och skrivutveckling med hjälp av bland annat Bornholmsmodellen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named literacy method."
+  },
+  {
+    "evidence_id": "ae_sr_94836092_03",
+    "school_id": "94836092",
+    "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+    "page_title": "Om oss | Nacka kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Nyligen så blev Borgvallaskolan en \"trivselskola\" med utbildade trivselledare",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named wellbeing programme."
+  },
+  {
+    "evidence_id": "ae_sr_94902263_01",
+    "school_id": "94902263",
+    "source_url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/viksskola.4.2d09c46d1850f82301f912f.html",
+    "page_title": "Viks skola - Värmdö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Viks skola är en kreativ mötesplats där lärandet förstärks genom estetiska uttrycksformer.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Arts-integrated profile."
+  },
+  {
+    "evidence_id": "ae_sr_94902263_02",
+    "school_id": "94902263",
+    "source_url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/viksskola.4.2d09c46d1850f82301f912f.html",
+    "page_title": "Viks skola - Värmdö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På Täppan erbjuder vi en lugn och anpassad lärmiljö för elever i årskurs 1–6.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "On-site adapted small-group setting."
+  },
+  {
+    "evidence_id": "ae_sr_94943347_01",
+    "school_id": "94943347",
+    "source_url": "https://www.sterikskatolskaskola.se/om-skolan/",
+    "page_title": "Om skolan – S:t Eriks katolska skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Utöver den lagstadgade timplanen ges eleverna ca 30 minuters katolsk orientering i veckan.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Confessional profile."
+  },
+  {
+    "evidence_id": "ae_sr_94943347_02",
+    "school_id": "94943347",
+    "source_url": "https://www.sterikskatolskaskola.se/",
+    "page_title": "S:t Eriks katolska skola – Familjär skola med katolsk profil",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Alla ämnen arbetar språkutvecklande.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Language-developing approach stated as pervasive."
+  },
+  {
+    "evidence_id": "ae_sr_95057356_01",
+    "school_id": "95057356",
+    "source_url": "https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/uppgardskolan-7-9",
+    "page_title": "Uppgårdskolan 7-9 - Ekerö kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi bygger det på 21st century skills och entreprenöriellt lärande.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Entrepreneurial learning."
+  },
+  {
+    "evidence_id": "ae_sr_95676943_01",
+    "school_id": "95676943",
+    "source_url": "https://www.danderyd.se/skolor/kevingeskolan/anpassad-grundskola/",
+    "page_title": "Anpassad grundskola – Danderyds kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Det innebär att vi använder tydliggörande pedagogik för händelser och situationer.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Structured teaching in the anpassad grundskola."
+  },
+  {
+    "evidence_id": "ae_sr_96330648_01",
+    "school_id": "96330648",
+    "source_url": "https://www.taby.se/nasbyparksskolan",
+    "page_title": "Näsbyparksskolan | Täby kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi är en ackrediterad Erasmus-skola, vilket ger våra elever möjlighet till internationella samarbeten och utbyten.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "International exchange."
+  }
+]

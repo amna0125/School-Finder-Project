@@ -1,0 +1,72 @@
+{
+  "school_id": "81266343",
+  "school_name": "Kunskapsskolan Tyresö",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/tyreso",
+  "pages": [
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/tyreso",
+      "source_url": "https://www.kunskapsskolan.se/skolor/tyreso",
+      "page_title": "Kunskapsskolan Tyresö",
+      "accessed_at": "2026-10-21T17:41:34.782676+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81266343_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/tyreso",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.607125+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/kontakta-oss",
+      "source_url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/kontakta-oss",
+      "page_title": "Kontakta oss - Kunskapsskolan Tyresö",
+      "accessed_at": "2026-10-21T17:41:36.309484+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81266343_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.607125+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/aktuellt",
+      "source_url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/aktuellt",
+      "page_title": "Aktuellt - Kunskapsskolan Tyresö",
+      "accessed_at": "2026-10-21T17:41:42.247464+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81266343_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.607125+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

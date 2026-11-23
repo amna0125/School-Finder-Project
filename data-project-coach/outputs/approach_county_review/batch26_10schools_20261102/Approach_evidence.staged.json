@@ -1,0 +1,82 @@
+[
+  {
+    "evidence_id": "ae_b26_41213404_01",
+    "school_id": "41213404",
+    "source_url": "https://www.huddinge.se/kallbrinksskolan/om-skolan",
+    "page_title": "Om Källbrinksskolan\n\n\t\t | Huddinge kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Tillgängligt lärande är en av våra största styrkor och genomsyrar undervisningen, lärmiljöerna och skolans organisation.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–9; shared rector area not generalized. Accessibility described as a strength, but broad relational/support wording lacks a sufficiently concrete distinctive model; retained as uncertain note, no firm code."
+  },
+  {
+    "evidence_id": "ae_b26_41507895_01",
+    "school_id": "41507895",
+    "source_url": "https://noblaskolan.se/nacka-strand/",
+    "page_title": "En skola i Nacka med höga ambitioner | Noblaskolan Nacka Strand",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Därför har vi skapat Noblakoden – ett gemensamt förhållningssätt kring lektionsstruktur, ordning, mentorsrollen och andra saker som är viktiga för en bra skolmiljö.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website preschool through year3; only compulsory-school F–3 page and common Noblakoden context used. Target overlap years1–3. Outdoor pedagogy explicitly stated, frequency unspecified. Promotional attainment claims excluded; no effectiveness inference."
+  },
+  {
+    "evidence_id": "ae_b26_41507895_02",
+    "school_id": "41507895",
+    "source_url": "https://noblaskolan.se/nacka-strand/om/grundskola/",
+    "page_title": "Grundskola i Nacka förskoleklass-åk 3 | Noblaskolan Nacka Strand",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Språk, läsning och samtal har en självklar plats i alla ämnen, och lärandet förstärks genom rörelse och utomhuspedagogik.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website preschool through year3; only compulsory-school F–3 page and common Noblakoden context used. Target overlap years1–3. Outdoor pedagogy explicitly stated, frequency unspecified. Promotional attainment claims excluded; no effectiveness inference."
+  },
+  {
+    "evidence_id": "ae_b26_41554150_01",
+    "school_id": "41554150",
+    "source_url": "https://www.taby.se/slottsparksskolan",
+    "page_title": "Slottsparksskolan | Täby kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "IBIS står för inkluderande beteendestöd i skolan och utvecklar vårt förebyggande arbete med trygghet och studiero.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–3; target overlap1–3. IBIS named as preventive model. Research/evidensbaserad wording is school self-description, not verified effectiveness. University assessment collaboration not a profile."
+  },
+  {
+    "evidence_id": "ae_b26_41584790_01",
+    "school_id": "41584790",
+    "source_url": "https://www.jarnafriskola.se/var-skola/",
+    "page_title": "Vår skola - Järna friskola",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi är en Montessoriinspirerad skola, vilket innebär att vi arbetar efter Montessoripedagogikens grundläggande tankar kring barns utveckling och inlärning.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–9; explicit Montessori-inspired rather than certified/full Montessori. Outdoor didactics explicitly integrated into teaching. About page references 2024 anniversary, so pupil count/current implementation not independently verified."
+  },
+  {
+    "evidence_id": "ae_b26_41584790_02",
+    "school_id": "41584790",
+    "source_url": "https://www.jarnafriskola.se/",
+    "page_title": "Järna friskola",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "utomhusdidaktik ingår som ett naturligt moment i undervisningen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–9; explicit Montessori-inspired rather than certified/full Montessori. Outdoor didactics explicitly integrated into teaching. About page references 2024 anniversary, so pupil count/current implementation not independently verified."
+  },
+  {
+    "evidence_id": "ae_b26_41888515_01",
+    "school_id": "41888515",
+    "source_url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/fardala-skola.html",
+    "page_title": "Fårdala skola - Tyresö kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi befinner oss i ett utvecklingsarbete i kooperativt lärande samt elevhälsa i varje vrå som implementeras steg för steg i alla klassrum.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–6; cooperative learning and elevhälsa i varje vrå are developing step-by-step, not verified fully implemented. Trivselledare starts year2; recurring activities two days/week. Separate municipal tal/språk learning studio not generalized. Impact assertions excluded."
+  },
+  {
+    "evidence_id": "ae_b26_41888515_02",
+    "school_id": "41888515",
+    "source_url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/fardala-skola.html",
+    "page_title": "Fårdala skola - Tyresö kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi är en trivselskola vilket betyder att vi har utbildade trivselledare i alla årskurser från årskurs 2.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–6; cooperative learning and elevhälsa i varje vrå are developing step-by-step, not verified fully implemented. Trivselledare starts year2; recurring activities two days/week. Separate municipal tal/språk learning studio not generalized. Impact assertions excluded."
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "school_id": "57850353",
+  "school_name": "Sverigefinskaskolan i Botkyrka",
+  "registered_url": "http://www.sverigefinskaskolan.com",
+  "pages": [
+    {
+      "requested_url": "https://sverigefinskaskolan.com/",
+      "source_url": "https://sverigefinskaskolan.com/",
+      "page_title": "Sverigefinska skolan i Botkyrka",
+      "accessed_at": "2026-10-21T17:38:23.182478+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "57850353_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://sverigefinskaskolan.com/",
+          "robots_url": "https://sverigefinskaskolan.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:22.436900+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

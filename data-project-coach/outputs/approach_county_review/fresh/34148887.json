@@ -1,0 +1,17 @@
+{
+  "school_id": "34148887",
+  "school_name": "Blombackaskolan",
+  "registered_url": "http://www.sodertalje.se/blombackaskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.sodertalje.se/blombackaskolan",
+      "error": "Too many redirects",
+      "attempted_at": "2026-10-21T17:32:21.274393+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

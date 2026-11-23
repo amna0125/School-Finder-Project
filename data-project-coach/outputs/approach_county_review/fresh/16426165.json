@@ -1,0 +1,72 @@
+{
+  "school_id": "16426165",
+  "school_name": "Kunskapsskolan Enskede",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/enskede",
+  "pages": [
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/enskede",
+      "source_url": "https://www.kunskapsskolan.se/skolor/enskede",
+      "page_title": "Kunskapsskolan Enskede",
+      "accessed_at": "2026-10-21T17:28:42.520942+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16426165_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/enskede",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/kontakta-oss",
+      "source_url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/kontakta-oss",
+      "page_title": "Kontakta oss - Kunskapsskolan Enskede",
+      "accessed_at": "2026-10-21T17:28:44.169346+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16426165_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/aktuellt",
+      "source_url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/aktuellt",
+      "page_title": "Aktuellt - Kunskapsskolan Enskede",
+      "accessed_at": "2026-10-21T17:28:49.518407+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16426165_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

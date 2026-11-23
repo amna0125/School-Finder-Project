@@ -1,0 +1,17 @@
+{
+  "school_id": "86192571",
+  "school_name": "Banslättskolan",
+  "registered_url": "http://www.botkyrka.se/banslattskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/banslattskolan",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:42:28.068942+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

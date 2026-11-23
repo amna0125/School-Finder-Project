@@ -1,0 +1,6 @@
+source_metric,theme_key,theme_label
+satisfactionMetrics,sat,Satisfied overall
+securityMetrics,safe,Feels safe
+supportMetrics,sup,Gets support
+inspirationMetrics,insp,Feels inspired
+workingEnvironmentMetrics,calm,Calm to work

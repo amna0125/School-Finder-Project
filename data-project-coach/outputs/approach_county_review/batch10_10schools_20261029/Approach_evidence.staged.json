@@ -1,0 +1,122 @@
+[
+  {
+    "evidence_id": "ae_b10_22127801_01",
+    "school_id": "22127801",
+    "source_url": "https://engelska.se/our-schools/lanna/about-our-school/",
+    "page_title": "About IES Länna – International School in Länna",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Internationella Engelska Skolan Länna is a bilingual school for students in years 2-9.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Länna unit-specific page, Lunnarevägen7. Swedish curriculum; same paragraph says up to half education through English. Preserve upper bound, not fixed50/50 or every subject. Provider preschool navigation excluded; official grades2–9."
+  },
+  {
+    "evidence_id": "ae_b10_22127801_02",
+    "school_id": "22127801",
+    "source_url": "https://engelska.se/our-schools/lanna/about-our-school/",
+    "page_title": "About IES Länna – International School in Länna",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "We teach using the Swedish national curriculum and up to half the education in our school is delivered through the English language by qualified teachers from English-speaking countries including Canada, the USA, and the UK.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Additional unit-specific bilingual delivery evidence; no teacher qualifications verified or inferred from country, no international-curriculum claim."
+  },
+  {
+    "evidence_id": "ae_b10_22202915_01",
+    "school_id": "22202915",
+    "source_url": "https://www.tmsv.se/om-oss/montessoripedagogiken",
+    "page_title": "Montessoripedagogiken",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Hennes idéer lever vidare än i dag och genomsyrar vårt arbete på Tyresö Montessori.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Named Montessori model substantively explained with freedom/responsibility, concrete-to-abstract materials and self-correction. Registered domain and fresh officialF–6 identity/grades checked; school-specific page covers F–1,2–3,4–6. Not name-only or preschool transfer."
+  },
+  {
+    "evidence_id": "ae_b10_22202915_02",
+    "school_id": "22202915",
+    "source_url": "https://www.tmsv.se/verksamhet/skola",
+    "page_title": "Skola",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Sång, musik, bild och skapande får stort utrymme och hjälper eleverna att utforska, uttrycka sig och befästa sina kunskaper på olika sätt.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "School-specific F–1 section describes multiple expressive forms used to consolidate learning, not ordinary subject list. Supported arts interpretation scoped F–1 only, not allF–6. General nature sentence lacks recurring outdoor structure; no outdoor code."
+  },
+  {
+    "evidence_id": "ae_b10_22472689_01",
+    "school_id": "22472689",
+    "source_url": "https://www.nacka.se/valfard-skola/jarlaberg/om-jarlabergs-skola/",
+    "page_title": "Om Jarlabergs skola | Nacka kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi utnyttjar vårt närområde och strävar efter att vistas mycket ute i naturen.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: current municipal pages/directory sayF–3 while fresh official22472689 grades1–6. Nature-use aspiration lacks method/frequency. Grade discrepancy retained, no firm outdoor code or generalisation to1–6; blocked YouTube not reviewed."
+  },
+  {
+    "evidence_id": "ae_b10_22513261_01",
+    "school_id": "22513261",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-4-9",
+    "page_title": "Kista grundskola, 4–9 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi satsar på drama och planerade aktiviteter på rasterna med mycket rörelse.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Requires review: Kista unit official22513261 grades1–9 and Köpenhamnsgatan11 matches linked4–9 page, registered URLF–3campus Själlandsgatan152. Drama/rast emphasis under-specified, no repeated method/frequency or arts integration established. Gran/adapted provision same register unit but excluded from ordinary-school approach scope."
+  },
+  {
+    "evidence_id": "ae_b10_22777703_01",
+    "school_id": "22777703",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/johannes-skola",
+    "page_title": "Johannes skola, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Det engelska språket har en naturlig plats i vår undervisning, med utökad tid avsatt i schemat inom ramen för skolans val.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Johannes F–6 Roslagsgatan61, official1–6. Extra scheduled English direct claim, not international from diverse intake alone. Exact minutes/year allocation unspecified; no bilingual all-subject or international curriculum claim."
+  },
+  {
+    "evidence_id": "ae_b10_22807677_01",
+    "school_id": "22807677",
+    "source_url": "https://www.taby.se/nasbydalskolan",
+    "page_title": "Näsbydalskolan | Täby kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Vi fokuserar särskilt på STEM; naturvetenskap, teknik och matematik, för att ge eleverna kunskaper och färdigheter för framtiden och hållbart tänkande.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Unit6–9 describes STEM profile and collaboration with Åva gymnasium/business for contextual learning; not inquiry automatically or claim of quality/effects. Co-located Täby musikklasser not assigned music code."
+  },
+  {
+    "evidence_id": "ae_b10_22807677_02",
+    "school_id": "22807677",
+    "source_url": "https://www.taby.se/grundskolor/nasbydalskolan/spetsmatematik",
+    "page_title": "Spetsmatematik | Täby kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "I Näsbydalsskolans spetsutbildning läser du 50 minuter mer matematik varje vecka än vad den nationella timplanen föreskriver.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Selective nationally recruited mathematics pathway started autumn2026, entry toyear7 with minB year6 and stated admissions. Not all6–9 pupils or all pathway cohorts already rolled out. Additional50minutes self-reported; no causal effect claims accepted."
+  },
+  {
+    "evidence_id": "ae_b10_22807677_03",
+    "school_id": "22807677",
+    "source_url": "https://www.taby.se/nasbydalskolan",
+    "page_title": "Näsbydalskolan | Täby kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Eleverna får undervisning i välbefinnande och lär sig att förstå sina styrkor, hantera känslor och skapa goda relationer.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Unit6–9 concrete wellbeing lessons plus active breaks/SkolIF support wellbeing interpretation; not generic safety alone. Lesson schedule/year allocation unspecified; claimed emotional/academic effects not verified."
+  },
+  {
+    "evidence_id": "ae_b10_22847273_01",
+    "school_id": "22847273",
+    "source_url": "https://www.sundbyberg.se/angskolan",
+    "page_title": "Ängskolan | Sundbybergs stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "MVP består av en serie lektioner som på Ängskolan genomförs i årskurs 8, där de unga får utveckla sitt ledarskap och att vara aktiva åskådare och på så sett vara förebilder för andra genom att våga stå upp mot våld och kränkningar i sin vardag.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Ängskolan F–9 Sundbyberg, not similarly named Ängsskolan elsewhere. Named MVP lessons year8, lower-year Trivselledar separately described, social pedagogues all stages. Do not generalise MVP to all years or verify effects."
+  },
+  {
+    "evidence_id": "ae_b10_22904289_01",
+    "school_id": "22904289",
+    "source_url": "https://www.nacka.se/valfard-skola/vilans-skola/undervisning-och-larande/",
+    "page_title": "Undervisning och lärande | Nacka kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Alla klasser på skolan arbetar strukturerat med kooperativt lärande som är ett elevaktivt arbetssätt.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Vilan F–6, current municipal directory and unit teaching page. Named structured cooperative model all classes; Other stated profile consistent with Eklid coding, not project/inquiry or named alternative pedagogy. Municipality mother-tongue staff based here not pupil language profile."
+  }
+]

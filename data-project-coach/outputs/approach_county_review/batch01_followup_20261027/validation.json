@@ -1,0 +1,30 @@
+{
+  "validation_date": "2026-10-27",
+  "result": "passed",
+  "evidence_count": 16,
+  "code_count": 16,
+  "reviewed_claims": 16,
+  "reviewed_schools": 12,
+  "requires_review_claims": 0,
+  "newly_source_checked_claims": 6,
+  "baseline_hashes_unchanged": {
+    "Approach_evidence.staged.json": "1675a956308989bf8b7095efe66170a9f1aee42f75167f01153f0d6b19b9c2a0",
+    "Approach_codes.staged.json": "7103219d854ec8c48adc7c89f6c87d79407401f07e0c40002a1a0d1c6fecca00",
+    "review_log.csv": "95439de4115a5debcb6dc50a38220a7428a8175f3c834535e5dbf3efffa5ab16"
+  },
+  "checks": [
+    "unique evidence/code IDs",
+    "all official IDs exist in saved county directory",
+    "controlled categories and level/confidence pairs",
+    "code/evidence school links",
+    "six new/replaced quotes and titles match saved HTML",
+    "actual new access date 2026-10-27 retained",
+    "original audit artifacts unchanged"
+  ],
+  "limitations": [
+    "Ten inherited reviewed claims not freshly source-revalidated; retain original audit validation provenance",
+    "No database access, integrity verification or load in this follow-up",
+    "Permission/terms assessment remains unconfirmed",
+    "Not exhaustive coverage closure for 20 websites"
+  ]
+}

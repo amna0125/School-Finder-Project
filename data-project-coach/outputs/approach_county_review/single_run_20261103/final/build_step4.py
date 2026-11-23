@@ -1,0 +1,47 @@
+"""Joint review step 4 (2026-11-04): A permission recheck, B no usable public page, C unit identity via register display names, D caveat recheck."""
+import csv,json,re,sys,duckdb,collections
+from pathlib import Path
+HERE=Path(__file__).resolve().parent;SR=HERE.parent;P=SR.parent
+sys.path.insert(0,str(SR))
+from labels import *
+from fetch import parse_html
+from school_pipeline.approach_migration import validate_records
+from school_pipeline.approach_batch import append_batch
+def ws(x):return re.sub(r'\s+',' ',x.replace('\xad','')).strip()
+pages={}
+for f in [HERE/'collection_a.jsonl',HERE/'collection_c.jsonl']:
+    for l in open(f):
+        for p in json.loads(l)['pages']:pages.setdefault(p['source_url'],p)
+db='/home/user/proj/.state/schools.duckdb'
+dec=json.loads((HERE/'decisions.json').read_text())
+E=[];C=[];LV={'E':('Explicit','High'),'S':('Supported','Medium')}
+for d in dec:
+    nc=0
+    for k,ev in enumerate(d.get('ev',[])):
+        p=pages[ev['url']];text=ws(parse_html((HERE/p['source_file']).read_bytes())[1]);q=ws(ev['q']);assert q in text,(d['sid'],q[:60])
+        eid=f"ae_s4_{d['sid']}_{k+1:02d}"
+        E.append(dict(evidence_id=eid,school_id=d['sid'],source_url=p['source_url'],page_title=ws(p['page_title']) if p['page_title'] else None,accessed_date=p['accessed_date'],quoted_text=q,evidence_type='School webpage',interpretation_note=ev['i']))
+        for cat,sub,lv in ev['c']:
+            nc+=1;C.append(dict(code_id=f"ac_s4_{d['sid']}_{nc:02d}",school_id=d['sid'],category=cat,subcategory=sub,coding_level=LV[lv][0],confidence=LV[lv][1],evidence_id=eid,coder_note='Joint review step 4 (2026-11-04), rules agreed with Amna; assistant application, not independently verified practice. '+ev.get('cn',''),review_status='Reviewed'))
+validate_records(E,C)
+CH=HERE/'load';CH.mkdir(exist_ok=True)
+(CH/'Approach_evidence.staged.json').write_text(json.dumps(E,ensure_ascii=False,indent=2)+'\n')
+(CH/'Approach_codes.staged.json').write_text(json.dumps(C,ensure_ascii=False,indent=2)+'\n')
+if not (CH/'load_validation.json').exists():
+    rep=append_batch(str(CH),db);assert rep['status']=='PASSED'
+O={'R':REVIEWED,'U':UNCERTAIN,'N':NOCLEAR,'B':BLOCKED,'P':NOPAGE}
+rows=list(csv.DictReader(open(P/'county_progress_20261103_after_step3c.csv')));by={r['school_id']:r for r in rows}
+for d in dec:
+    x=by[d['sid']]
+    if d.get('clear'):assert x['review_state']==REVIEWED
+    else:assert x['review_state'] in FLAGGED,(d['sid'],x['review_state'])
+    st=O[d['o']]
+    x.update(review_state=st,flag_for_joint_review='yes' if st in FLAGGED else 'no',flag_reason=d.get('why',''),batch_reference='single_run_20261103/final',note=d['note']+' | Earlier: '+x['note'][:300])
+with open(P/'county_progress_20261103_after_step4.csv','w',newline='') as f:
+    w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
+con=duckdb.connect(db,read_only=True)
+codes=collections.Counter(x[0] for x in con.execute('select school_id from approach_codes').fetchall())
+for x in rows:
+    if x['review_state']==REVIEWED:assert codes[x['school_id']]>0,x['school_id']
+    else:assert codes[x['school_id']]==0,x['school_id']
+print(json.dumps(dict(evidence=len(E),codes=len(C),county=collections.Counter(x['review_state'] for x in rows),flagged=[(x['school_id'],x['official_directory_name'],x['flag_reason']) for x in rows if x['review_state'] in FLAGGED],db=con.execute('select count(*) from approach_evidence').fetchone()[0],dbc=con.execute('select count(*) from approach_codes').fetchone()[0]),ensure_ascii=False))

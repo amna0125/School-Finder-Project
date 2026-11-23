@@ -1,0 +1,92 @@
+[
+  {
+    "evidence_id": "ae_b13_25253749_01",
+    "school_id": "25253749",
+    "source_url": "https://www.albatross-montessori.se/sa-har-arbetar-vi/",
+    "page_title": "Så här arbetar vi på Albatross Montessoriskola",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Eleverna arbetar i åldersblandade undervisningsgrupper där eleverna uppmuntras att hjälpa och bry sig om varandra.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Albatross F–6, official1–6+F, Larsbergsvägen29 exact fresh match. Unit methods explain mixed F/1,2/3 and4–6 groups; linked substantive Montessori page explains prepared materials, self-correction and teacher guidance. Named school plus applied method, not name-only. No separate wellbeing code from broad buddy statements; results/effects not verified."
+  },
+  {
+    "evidence_id": "ae_b13_25309669_01",
+    "school_id": "25309669",
+    "source_url": "https://www.kunskapsskolan.se/skolor/taby",
+    "page_title": "Kunskapsskolan Täby",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Hos oss arbetar du mot individuella mål och din personliga handledare ger stöd och coachar dig mot höga resultat.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Täby-specific4–9 page explicitly applies individual goals and coaching. Linked provider model explains steps/courses/basegroups as context, not sole unit evidence. Other stated model, not special-resource support or inquiry inferred from thematic courses. Källtorpsvägen4 contact text versus linked map Maskinvägen4 retained as address ambiguity; exact unit name/grades/domain match."
+  },
+  {
+    "evidence_id": "ae_b13_25506439_01",
+    "school_id": "25506439",
+    "source_url": "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/kassmyraskolan",
+    "page_title": "Kassmyraskolan i Tumba - Botkyrka kommun - Botkyrka kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "För att uppnå detta är vi en del av kommunens våldsförebyggande arbete ”TÅGET” som sker i samarbete med socialtjänsten.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Kassmyra ordinaryF–6 current official unit page, Sälgvägen10, includes Tumba södra rector-area shared approach with Broängsskolan. Source explicitly applies shared programme, not transfer from unlinked provider. Exact participant years not specified; adapted1–6 provision excluded. Old short URL404 recovered. No effectiveness/diagnostic inference."
+  },
+  {
+    "evidence_id": "ae_b13_25555358_01",
+    "school_id": "25555358",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/eiraskolan",
+    "page_title": "Eiraskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Tillsammans med trivselledare utbildas elever som sedan leder lekar och aktiviteter.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Eira F–6 Parmmätargatan10, official1–6. Concrete trained pupil-led recess model with rastvärdar described, not values slogan/statutory support alone. Participant years and training frequency unspecified, no quality/effect claims verified."
+  },
+  {
+    "evidence_id": "ae_b13_25918983_01",
+    "school_id": "25918983",
+    "source_url": "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/hammerstaskolan",
+    "page_title": "Hammerstaskolan i Hallunda-Norsborg - Botkyrka kommun - Botkyrka kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Och i samarbete med socialtjänst, räddningstjänst och polis arbetar vi med våldsförebyggande programmet Tåget för alla årskurser.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Hammersta ordinaryF–9 Hallundavägen199, official1–9. Explicit all-year programme; separate language-disorder teaching group1–9 not generalised as whole-school resource profile. Ordinary Swedish reading support not international category. Old short URL404 recovered."
+  },
+  {
+    "evidence_id": "ae_b13_26172429_01",
+    "school_id": "26172429",
+    "source_url": "https://internationalschoolofthestockholmregion.stockholm/academic-programmes/ib-primary-years-programme-pyp/",
+    "page_title": "Primary Years Programme - The City of Stockholm",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "The Primary Years Programme (PYP) at ISSR offers an international education in English for families living in and around Stockholm on a short-term basis.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Fresh official26172429 GR1–9+F and Karlsövägen9, international orientation confirms compulsory unit. PYP grade0–5 direct English statement; MYP6–9 described international IB aligned Swedish curriculum on same official site. Do not infer English-medium share for MYP from PYP or include M10/DP/CP upper-secondary provision in GR scope. Official accreditation claim not independently checked."
+  },
+  {
+    "evidence_id": "ae_b13_26172429_02",
+    "school_id": "26172429",
+    "source_url": "https://internationalschoolofthestockholmregion.stockholm/academic-programmes/ib-primary-years-programme-pyp/",
+    "page_title": "Primary Years Programme - The City of Stockholm",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "The PYP offers a transdisciplinary, inquiry-based curriculum that is student-centred and builds on conceptual understanding.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Explicit PYP inquiry curriculum, scopegrade0–5 only, not allGR1–9. MYP interdisciplinary unit each year documented but not automatically same category. Admissions eligibility/short-term family scope retained; no quality ranking or causal outcomes."
+  },
+  {
+    "evidence_id": "ae_b13_26281697_01",
+    "school_id": "26281697",
+    "source_url": "https://www.montessoriskolan.nu/gustafslund/gustafslund-5-9/",
+    "page_title": "Gustafslund 5-9 | Montessori i Norrtälje",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Skolan är belägen i Gustavslunds vackra herrgård från 1862 och här driver vi en modern och montessoriinspirerad skola i enlighet med Skolverkets läroplan Lgr22 och rådande timplaner.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Exact fresh26281697 displayNameGustafslund resolves stored schoolNameMontessoriskolan i Norrtälje; grades5–9 match. School distinguishes5–6class homes at Lunden and7–9 at manor, different LundenF–4unit excluded. Preserve Montessori-inspired qualifier, not certified/fidelity. Provider pedagogy context not sole unit evidence; broad sports/friluftsliv wording insufficient outdoor model."
+  },
+  {
+    "evidence_id": "ae_b13_26480342_01",
+    "school_id": "26480342",
+    "source_url": "https://www.upplandsvasby.se/skola/nordanskolan/om-skolan",
+    "page_title": "Om skolan - Upplands Väsby kommun",
+    "accessed_date": "2026-10-29",
+    "quoted_text": "Undervisningen sker i mindre grupper och med en tät vuxennärvaro.",
+    "evidence_type": "Official school/provider public description",
+    "interpretation_note": "Nordanskolan6–9 Vårvägen1 exact fresh officialresourceflag/address/name match. Unit mainpage states individualplanning and need for more adaptation than home school provides, about page details smaller groups and regular elevhälsa contact. No numerical class size/pupilteacher ratio or diagnosis inference."
+  }
+]

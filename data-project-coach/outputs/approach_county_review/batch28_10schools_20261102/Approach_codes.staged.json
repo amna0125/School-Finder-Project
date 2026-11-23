@@ -1,0 +1,24 @@
+[
+  {
+    "code_id": "ac_b28_43289917_01",
+    "school_id": "43289917",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "NTA inquiry",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b28_43289917_01",
+    "coder_note": "Assistant contextual review, 2026-11-02, codebook v1 categories/thresholds. All classes per applicability excerpt ae_b28_43289917_02 Reviewed claims are not verified implementation or effects.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b28_43289917_02",
+    "school_id": "43289917",
+    "category": "Other stated profile",
+    "subcategory": "Reading and literature initiative",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b28_43289917_03",
+    "coder_note": "Assistant contextual review, 2026-11-02, codebook v1 categories/thresholds. Extra reading groups only specified years/terms; do not generalize this component to all years. Reviewed claims are not verified implementation or effects.",
+    "review_status": "Reviewed"
+  }
+]

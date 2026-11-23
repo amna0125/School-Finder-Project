@@ -1,0 +1,52 @@
+{
+  "school_id": "97927760",
+  "school_name": "Noblaskolan Rönninge",
+  "registered_url": "https://noblaskolan.se/ronninge/",
+  "pages": [
+    {
+      "requested_url": "https://noblaskolan.se/ronninge/",
+      "source_url": "https://noblaskolan.se/ronninge/",
+      "page_title": "En skola i Rönninge med höga ambitioner | Noblaskolan Rönninge",
+      "accessed_at": "2026-10-21T17:45:25.609403+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "97927760_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/ronninge/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:24.871028+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://noblaskolan.se/ronninge/om/grundskola/",
+      "source_url": "https://noblaskolan.se/ronninge/om/grundskola/",
+      "page_title": "Grundskola i Rönninge förskoleklass-åk 3 | Noblaskolan Rönninge",
+      "accessed_at": "2026-10-21T17:45:26.486371+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "97927760_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://noblaskolan.se/ronninge/om/grundskola/",
+          "robots_url": "https://noblaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:24.871028+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

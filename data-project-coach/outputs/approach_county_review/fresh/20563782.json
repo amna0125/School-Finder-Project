@@ -1,0 +1,17 @@
+{
+  "school_id": "20563782",
+  "school_name": "Kyrkskolan",
+  "registered_url": "https://nynashamn.se/service/forskola--skola/grundskola/grundskolor-i-nynashamns-kommun/kyrkskolan-f-3",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://nynashamn.se/service/forskola--skola/grundskola/grundskolor-i-nynashamns-kommun/kyrkskolan-f-3",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:29:51.956934+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

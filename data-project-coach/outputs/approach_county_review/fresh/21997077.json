@@ -1,0 +1,32 @@
+{
+  "school_id": "21997077",
+  "school_name": "Viljaskolan Sollentuna",
+  "registered_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+  "pages": [
+    {
+      "requested_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+      "source_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+      "page_title": "Viljaskolan Sollentuna - Viljaskolan",
+      "accessed_at": "2026-10-21T17:29:59.197441+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "21997077_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+          "robots_url": "https://viljaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:57.621219+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

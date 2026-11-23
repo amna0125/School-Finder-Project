@@ -1,0 +1,46 @@
+{
+  "school_unit_code": "65487837",
+  "school_name": "Futuraskolan AB",
+  "registered_url": "http://www.futuraskolan.se",
+  "attempted_at": "2026-10-21T09:22:38.916521+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://futuraskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:41.825400+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.futuraskolan.se",
+          "robots_url": "https://futuraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:43.469824+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.futuraskolan.se:443/",
+          "robots_url": "https://futuraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:46.505101+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://futuraskolan.se/",
+          "robots_url": "https://futuraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:48.832179+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "65487837_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

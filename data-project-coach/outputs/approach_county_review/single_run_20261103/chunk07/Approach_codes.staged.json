@@ -1,0 +1,167 @@
+[
+  {
+    "code_id": "ac_sr_62078083_01",
+    "school_id": "62078083",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Lärandemodellen cross-subject assignments",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_62078083_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Provider-level; consistent with earlier Lärande coding (Supported).",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_62288230_01",
+    "school_id": "62288230",
+    "category": "Other stated profile",
+    "subcategory": "Language- and knowledge-developing approach",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_62288230_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Common municipal approach, stated here as central.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_62533129_01",
+    "school_id": "62533129",
+    "category": "Other stated profile",
+    "subcategory": "Bobergsmodellen flexible groups",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_62533129_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_62544265_01",
+    "school_id": "62544265",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Cross-subject thematic work",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_62544265_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No detail on frequency or structure.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_62544265_02",
+    "school_id": "62544265",
+    "category": "Arts and creative learning",
+    "subcategory": "Aesthetic working methods",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_62544265_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No detail on frequency or structure.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_63111806_01",
+    "school_id": "63111806",
+    "category": "Other stated profile",
+    "subcategory": "Christian profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_63111806_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_63150475_01",
+    "school_id": "63150475",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school; autism",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_63150475_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Municipal page.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_63329692_01",
+    "school_id": "63329692",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Local environment used in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_63329692_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Frequency hedge.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_63682476_01",
+    "school_id": "63682476",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_63682476_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_63954028_01",
+    "school_id": "63954028",
+    "category": "Other stated profile",
+    "subcategory": "Personalised learning (Kunskapsskolan model)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_63954028_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Consistent with other Kunskapsskolan units.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_64065082_01",
+    "school_id": "64065082",
+    "category": "Other stated profile",
+    "subcategory": "Singapore maths and genre pedagogy",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_64065082_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_64065082_02",
+    "school_id": "64065082",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "International orientation; Round Square",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_64065082_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Membership not checked.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_64732323_01",
+    "school_id": "64732323",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Extended English instruction; intercultural approach",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_64732323_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_64736967_01",
+    "school_id": "64736967",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Erasmus+ projects (7–9)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_64736967_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Limited to upper years.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_64836806_01",
+    "school_id": "64836806",
+    "category": "Other stated profile",
+    "subcategory": "Early reading and writing focus",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_64836806_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  }
+]

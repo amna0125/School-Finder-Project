@@ -1,0 +1,63 @@
+{
+  "school_unit_code": "28231215",
+  "school_name": "Drottningholmskolan",
+  "registered_url": "http://www.drottningholmskolan.se",
+  "attempted_at": "2026-10-21T09:15:48.063112+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.drottningholmskolan.se/",
+      "retrieved_at": "2026-10-21T09:15:57.961728+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.drottningholmskolan.se",
+          "robots_url": "http://www.drottningholmskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:52.590457+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.drottningholmskolan.se/",
+          "robots_url": "https://www.drottningholmskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:56.985432+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "28231215_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Kreativitet – Vi arbetar praktiskt-estetiskt för att sätta kunskaperna i ett sammanhang och skapa lust, motivation och upplevelser.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "397826a97da2c99697c54bf234182007636ba61144b35b34b574fa591eeccc6a",
+      "school_unit_code": "28231215",
+      "school_name": "Drottningholmskolan",
+      "source_url": "https://www.drottningholmskolan.se/",
+      "retrieved_at": "2026-10-21T09:15:57.961728+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "waldorf",
+      "supporting_excerpt": "Drottningholmskolan är en liten waldorfskola på natursköna Lovö med små klasser i årskurserna F-6. I vår verksamhet är kunskap, kreativitet och gemenskap ledord. Vår skola är Grön Flagg-certifierad och vi har hög lärartäthet. Skolan drivs som en ideell förening och är icke vinstdrivande.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "39fe640b0926e8a5e4af39fe59c61d8c7a8b85b23a2c8d07134a95d109876260",
+      "school_unit_code": "28231215",
+      "school_name": "Drottningholmskolan",
+      "source_url": "https://www.drottningholmskolan.se/",
+      "retrieved_at": "2026-10-21T09:15:57.961728+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

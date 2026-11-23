@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "96984023",
+  "school_name": "Östermalmsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostermalmsskolan",
+  "attempted_at": "2026-10-21T09:17:35.247338+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostermalmsskolan",
+      "retrieved_at": "2026-10-21T09:17:36.235786+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostermalmsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "96984023_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Stockholms Musikkår Tre Kronor är med varje skolstart och spelar fin musik när vi välkomnar våra elever tillbaka efter sommaren.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "81b354026377459c03d71d9daff621d91bc6efa142ce364da58700d5c48ee56e",
+      "school_unit_code": "96984023",
+      "school_name": "Östermalmsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostermalmsskolan",
+      "retrieved_at": "2026-10-21T09:17:36.235786+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

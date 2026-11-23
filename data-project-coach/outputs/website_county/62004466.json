@@ -1,0 +1,45 @@
+{
+  "school_unit_code": "62004466",
+  "school_name": "Stensängsskolan",
+  "registered_url": "https://www.huddinge.se/stensangsskolan",
+  "attempted_at": "2026-10-21T09:16:42.747531+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.huddinge.se/stensangsskolan",
+      "retrieved_at": "2026-10-21T09:16:44.690806+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/stensangsskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:24.620901+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62004466_0.txt"
+    },
+    {
+      "source_url": "https://www.huddinge.se/stensangsskolan/om-skolan",
+      "retrieved_at": "2026-10-21T09:16:44.759376+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/stensangsskolan/om-skolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:24.620901+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "62004466_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

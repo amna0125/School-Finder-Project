@@ -1,0 +1,17 @@
+{
+  "school_id": "41285467",
+  "school_name": "Adolfsbergsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/adolfsbergsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/adolfsbergsskolan",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:33:44.394507+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

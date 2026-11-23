@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "27830075",
+  "school_name": "Ljungbackens skola",
+  "registered_url": "https://www.lidingo.se/ljungbackensskola",
+  "attempted_at": "2026-10-21T09:20:49.917582+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/",
+      "retrieved_at": "2026-10-21T09:20:53.871006+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.lidingo.se/ljungbackensskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.556963+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/ljungbackensskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27830075_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/var-pedagogik-ljungbackens-skola/",
+      "retrieved_at": "2026-10-21T09:20:53.909063+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/var-pedagogik-ljungbackens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27830075_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/fritidshem-ljungbackens-skola/",
+      "retrieved_at": "2026-10-21T09:20:53.950102+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/fritidshem-ljungbackens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:31.974591+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "27830075_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "ärare i samverkan med personal från fritidshemmet. Arbetslaget runt varje årskurs kompletterar varandra och ger därmed eleverna möjlighet att utvecklas kunskapsmässigt, praktiskt, estetiskt men även socialt under hela sin dag hos oss.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "2b26358d3e0aed2c440114fe3fc4799e63d31e413dbebdfc666cc0547e66d66a",
+      "school_unit_code": "27830075",
+      "school_name": "Ljungbackens skola",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/var-pedagogik-ljungbackens-skola/",
+      "retrieved_at": "2026-10-21T09:20:53.909063+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

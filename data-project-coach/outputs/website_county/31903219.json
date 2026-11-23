@@ -1,0 +1,55 @@
+{
+  "school_unit_code": "31903219",
+  "school_name": "Magelungsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan",
+  "attempted_at": "2026-10-21T09:15:52.173648+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan",
+      "retrieved_at": "2026-10-21T09:15:53.210064+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "31903219_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Eleverna har hemklassrum där ditt barns klass håller till under skoldagen. Det skapar trygghet. I de äldre årskurserna används även ämnessalar för praktiskt estetiska ämnen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "f6674cf0d063d1f79218e6325575ae92b0b02a1551d2beaf5815638670af13e1",
+      "school_unit_code": "31903219",
+      "school_name": "Magelungsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan",
+      "retrieved_at": "2026-10-21T09:15:53.210064+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Fritidshemmet samarbetar med Kulturskolan. Det ger ditt barn möjlighet att prova musik, dans och skapande aktiviteter.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "79be2bdb499b7a63ea7b0de63bdd4acdb4a976a59414a7866864bd1da934dc13",
+      "school_unit_code": "31903219",
+      "school_name": "Magelungsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan",
+      "retrieved_at": "2026-10-21T09:15:53.210064+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

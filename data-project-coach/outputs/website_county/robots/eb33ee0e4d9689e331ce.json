@@ -1,0 +1,1 @@
+{"robots_url": "https://www.sodertalje.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:19:59.357737+00:00", "state": "parsed", "crawl_delay": 0, "body": "User-agent: *\nDisallow: /episerver/\nDisallow: /utils/\nSitemap: https://www.sodertalje.se/sitemap.xml"}

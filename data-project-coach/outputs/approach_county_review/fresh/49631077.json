@@ -1,0 +1,72 @@
+{
+  "school_id": "49631077",
+  "school_name": "Högsätra skola",
+  "registered_url": "https://www.lidingo.se/hogsatraskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/",
+      "page_title": "Högsätra skola F-9 - Lidingö",
+      "accessed_at": "2026-10-21T17:36:46.956467+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "49631077_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/fritidshem-och-fritidsklubb-hogsatra-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/fritidshem-och-fritidsklubb-hogsatra-skola/",
+      "page_title": "Fritidshem och fritidsklubb, Högsätra skola - Lidingö",
+      "accessed_at": "2026-10-21T17:36:47.799516+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "49631077_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/fritidshem-och-fritidsklubb-hogsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/elevhalsa-hogsatra-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/elevhalsa-hogsatra-skola/",
+      "page_title": "Elevhälsa, Högsätra skola - Lidingö",
+      "accessed_at": "2026-10-21T17:36:48.605962+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "49631077_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/hogsatra-skola/elevhalsa-hogsatra-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

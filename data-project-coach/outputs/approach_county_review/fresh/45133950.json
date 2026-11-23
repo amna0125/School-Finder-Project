@@ -1,0 +1,72 @@
+{
+  "school_id": "45133950",
+  "school_name": "Freinetskolan Mimer",
+  "registered_url": "http://www.mimer.org",
+  "pages": [
+    {
+      "requested_url": "https://www.mimer.org/",
+      "source_url": "https://www.mimer.org/",
+      "page_title": "Hem :: Freinetskolan Mimer",
+      "accessed_at": "2026-10-21T17:35:12.058963+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45133950_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mimer.org/",
+          "robots_url": "https://www.mimer.org/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:10.696480+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.mimer.org/om-oss",
+      "source_url": "https://www.mimer.org/om-oss",
+      "page_title": "Om oss :: Freinetskolan Mimer",
+      "accessed_at": "2026-10-21T17:35:13.195119+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45133950_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mimer.org/om-oss",
+          "robots_url": "https://www.mimer.org/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:10.696480+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.mimer.org/om-oss/Rektor",
+      "source_url": "https://www.mimer.org/om-oss/Rektor",
+      "page_title": "Rektor :: Freinetskolan Mimer",
+      "accessed_at": "2026-10-21T17:35:14.354807+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45133950_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mimer.org/om-oss/Rektor",
+          "robots_url": "https://www.mimer.org/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:10.696480+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,52 @@
+{
+  "school_id": "93844270",
+  "school_name": "Turingeskolan",
+  "registered_url": "http://www.nykvarn.se",
+  "pages": [
+    {
+      "requested_url": "https://nykvarn.se/",
+      "source_url": "https://nykvarn.se/",
+      "page_title": "Nykvarns kommun",
+      "accessed_at": "2026-10-21T17:44:03.292214+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "93844270_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://nykvarn.se/",
+          "robots_url": "https://nykvarn.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:39:29.683020+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://nykvarn.se/barn-och-utbildning/grundskola",
+      "source_url": "https://nykvarn.se/barn-och-utbildning/grundskola",
+      "page_title": "Grundskola | Nykvarns kommun",
+      "accessed_at": "2026-10-21T17:44:07.405843+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "93844270_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://nykvarn.se/barn-och-utbildning/grundskola",
+          "robots_url": "https://nykvarn.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:39:29.683020+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,32 @@
+{
+  "school_unit_code": "41357379",
+  "school_name": "Skogsbacksskolan Trampolinen",
+  "registered_url": "https://www.botkyrka.se/skola-och-forskola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan",
+  "attempted_at": "2026-10-21T09:16:05.950677+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "terms_link_detected_bulk_followup_paused",
+  "terms_urls": [
+    "https://www.botkyrka.se/uppleva-och-gora/idrott-och-motion/idrottsanlaggningar-och-lokaler/villkor-for-bokning"
+  ],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.botkyrka.se/skola-och-forskola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan",
+      "retrieved_at": "2026-10-21T09:16:07.798617+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.botkyrka.se/skola-och-forskola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan",
+          "robots_url": "https://www.botkyrka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.764868+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "41357379_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

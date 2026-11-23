@@ -1,0 +1,32 @@
+{
+  "school_id": "61686233",
+  "school_name": "Rålambshovsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ralambshovsskolan",
+  "pages": [
+    {
+      "requested_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ralambshovsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ralambshovsskolan",
+      "page_title": "Rålambshovsskolan, 7–9 - Stockholms stad",
+      "accessed_at": "2026-10-21T17:38:43.465198+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "61686233_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ralambshovsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.385880+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

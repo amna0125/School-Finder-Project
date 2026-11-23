@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "28313791",
+  "school_name": "Tomtbergaskolan",
+  "registered_url": "http://www.huddinge.se/tomtbergaskolan",
+  "attempted_at": "2026-10-21T09:20:52.749950+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.huddinge.se/tomtbergaskolan",
+      "retrieved_at": "2026-10-21T09:20:55.277708+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.huddinge.se/tomtbergaskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:52.895723+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.huddinge.se/tomtbergaskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.404163+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "28313791_0.txt"
+    },
+    {
+      "source_url": "https://www.huddinge.se/tomtbergaskolan/om-skolan",
+      "retrieved_at": "2026-10-21T09:20:55.324800+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/tomtbergaskolan/om-skolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.404163+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "28313791_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

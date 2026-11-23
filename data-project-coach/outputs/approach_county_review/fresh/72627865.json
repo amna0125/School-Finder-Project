@@ -1,0 +1,32 @@
+{
+  "school_id": "72627865",
+  "school_name": "Alviksskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/",
+  "pages": [
+    {
+      "requested_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/",
+      "page_title": "Alviksskolan, F–9 - Stockholms stad",
+      "accessed_at": "2026-10-21T17:40:25.073637+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "72627865_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.385880+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

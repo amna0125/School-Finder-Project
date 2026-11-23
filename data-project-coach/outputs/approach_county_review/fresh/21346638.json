@@ -1,0 +1,72 @@
+{
+  "school_id": "21346638",
+  "school_name": "Järla skola",
+  "registered_url": "http://www.jarla.nacka.se",
+  "pages": [
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/jarlaskola/",
+      "source_url": "https://www.nacka.se/valfard-skola/jarlaskola/",
+      "page_title": "Järla skola | Nacka kommun",
+      "accessed_at": "2026-10-21T17:29:51.723752+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "21346638_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarlaskola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/",
+      "source_url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/",
+      "page_title": "Om Järla skola | Nacka kommun",
+      "accessed_at": "2026-10-21T17:29:52.515478+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "21346638_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/sok-till-jarla-skola/",
+      "source_url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/sok-till-jarla-skola/",
+      "page_title": "Sök till Järla skola | Nacka kommun",
+      "accessed_at": "2026-10-21T17:29:53.312437+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "21346638_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/sok-till-jarla-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:50.671992+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

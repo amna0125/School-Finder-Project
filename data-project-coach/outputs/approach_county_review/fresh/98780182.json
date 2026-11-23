@@ -1,0 +1,72 @@
+{
+  "school_id": "98780182",
+  "school_name": "Bodals skola",
+  "registered_url": "https://www.lidingo.se/bodalsskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/",
+      "page_title": "Bodals skola F-9 - Lidingö",
+      "accessed_at": "2026-10-21T17:45:55.731124+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "98780182_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:54.942754+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/var-pedagogik-bodals-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/var-pedagogik-bodals-skola/",
+      "page_title": "Vår pedagogik, Bodals skola - Lidingö",
+      "accessed_at": "2026-10-21T17:45:56.607400+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "98780182_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/var-pedagogik-bodals-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:54.942754+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/fritidshem-och-fritidsklubb-bodals-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/fritidshem-och-fritidsklubb-bodals-skola/",
+      "page_title": "Fritidshem och fritidsklubb, Bodals skola - Lidingö",
+      "accessed_at": "2026-10-21T17:45:57.426117+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "98780182_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/bodals-skola/fritidshem-och-fritidsklubb-bodals-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:45:54.942754+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

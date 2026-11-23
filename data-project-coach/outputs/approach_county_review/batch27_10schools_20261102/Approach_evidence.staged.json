@@ -1,0 +1,102 @@
+[
+  {
+    "evidence_id": "ae_b27_42149666_01",
+    "school_id": "42149666",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/husbygardsskolan",
+    "page_title": "Husbygårdsskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi har därför ett flerlärarsystem och hög bemanning i våra årskurser.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official years1–9; browser page F–9 across two buildings. Concrete multi-teacher system and common lesson structure jointly support learning-environment emphasis (Supported/Medium), not an explicit named support pedagogy. Staffing wording is self-reported, not class size or comparable official statistic. Raw HTML decoding failure preserved; quotations from ordinary browser excerpt."
+  },
+  {
+    "evidence_id": "ae_b27_42149666_02",
+    "school_id": "42149666",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/husbygardsskolan",
+    "page_title": "Husbygårdsskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "En gemensam struktur på lektionerna gör att ditt barn känner igen sig i varje lektion hos varje lärare.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official years1–9; browser page F–9 across two buildings. Concrete multi-teacher system and common lesson structure jointly support learning-environment emphasis (Supported/Medium), not an explicit named support pedagogy. Staffing wording is self-reported, not class size or comparable official statistic. Raw HTML decoding failure preserved; quotations from ordinary browser excerpt."
+  },
+  {
+    "evidence_id": "ae_b27_42179975_01",
+    "school_id": "42179975",
+    "source_url": "https://www.mavatterosen.se/farsta-strandskolan/",
+    "page_title": "Farsta Strandskolan - MA Vätterosen",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Ett tematiskt och ämnesövergripande arbetssätt genomsyrar verksamheten där elevernas arbeten dokumenteras och synliggörs.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official years1–3; school page F–3. Sustained thematic/interdisciplinary work with pupils questions supports inquiry approach. Creative environment adjective alone not separately coded as arts; practical-aesthetic subjects within themes noted but no extra arts label. Preschool-only project pedagogy on homepage excluded."
+  },
+  {
+    "evidence_id": "ae_b27_42179975_02",
+    "school_id": "42179975",
+    "source_url": "https://www.mavatterosen.se/farsta-strandskolan/",
+    "page_title": "Farsta Strandskolan - MA Vätterosen",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Temaarbetet planeras utifrån Lgr 22 och elevernas egna frågeställningar/intressen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official years1–3; school page F–3. Sustained thematic/interdisciplinary work with pupils questions supports inquiry approach. Creative environment adjective alone not separately coded as arts; practical-aesthetic subjects within themes noted but no extra arts label. Preschool-only project pedagogy on homepage excluded."
+  },
+  {
+    "evidence_id": "ae_b27_42328518_01",
+    "school_id": "42328518",
+    "source_url": "https://www.franskaskolan.se/grundskolan/franska-profilen-spetsutbildning/",
+    "page_title": "Franska profilen – Spetsutbildning – Franska Skolan",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Detta innebär att elever fr.o.m. åk 7 kommer att få möjlighet att läsa franska på gymnasienivå.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official years1–9; combined homepage includes gymnasium, excluded. French spets programme explicitly years7–9 and selective admission: do not apply advanced programme to all pupils. Language label here limited to this explicitly scoped programme; exchanges described separately but no grade scope assumed. School claims not independently verified."
+  },
+  {
+    "evidence_id": "ae_b27_42434583_01",
+    "school_id": "42434583",
+    "source_url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/brunnsskola.4.2d09c46d1850f82301f8f3d.html",
+    "page_title": "Brunns skola - Värmdö kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Läsning är nyckeln till alla andra skolämnen och en av grundpelarna i vår verksamhet. Vi har olika litterära teman som en röd tråd genom alla skolämnen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official years1–9; website F–9. Reading explicitly described as a pillar with literary themes across all subjects: Other stated profile, literacy thematic emphasis, not language/international or arts by inference. KSU autism groups not generalized; ordinary subject lists and nature proximity excluded."
+  },
+  {
+    "evidence_id": "ae_b27_42601396_01",
+    "school_id": "42601396",
+    "source_url": "https://www.huddinge.se/trangsundsskolan/om-skolan",
+    "page_title": "Om Trångsundsskolan\n\n\t\t | Huddinge kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Kunskap står i centrum för vårt arbete, samtidigt som vi ser hälsa och rörelse som viktiga förutsättningar för lärande och välmående.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official years1–9; website F–9. Broad health/movement and accessible instruction emphasis lacks sufficiently specific school model in reviewed homepage/about pages; uncertain uncoded note. Municipal common routines not distinct school profile."
+  },
+  {
+    "evidence_id": "ae_b27_42912378_01",
+    "school_id": "42912378",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-ostra",
+    "page_title": "Vinsta grundskola östra, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi har ett tydligt fokus på kultur och kreativitet genom vårt arbete med Skapande skola.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official eastern unit years1–6; website eastern F–6, western4–9. Creativity statement immediately follows description of both units; applicability to east alone unresolved. Retain uncertain uncoded quotation. Research participation not pedagogy."
+  },
+  {
+    "evidence_id": "ae_b27_42986451_01",
+    "school_id": "42986451",
+    "source_url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/var-organisation/",
+    "page_title": "Vår skolidé – Danderyds kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi har stark internationell profil och arrangerar utbyten med skolor i Spanien och studieresa till Tyskland.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official and website years7–9. Explicit international profile and weekly Motivation och hälsa / Motivationslyftet. Effectiveness unverified. Choir at ceremonies alone not arts approach. Homepage pupil count about435 differs from about page about560; neither used as official statistic."
+  },
+  {
+    "evidence_id": "ae_b27_42986451_02",
+    "school_id": "42986451",
+    "source_url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/motivation-och-halsa/",
+    "page_title": "Motivation och Hälsa – Danderyds kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "På Fribergaskolan har vi en lektion i veckan som heter Motivation och hälsa.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official and website years7–9. Explicit international profile and weekly Motivation och hälsa / Motivationslyftet. Effectiveness unverified. Choir at ceremonies alone not arts approach. Homepage pupil count about435 differs from about page about560; neither used as official statistic."
+  }
+]

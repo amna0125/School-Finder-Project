@@ -1,0 +1,52 @@
+{
+  "school_id": "11018018",
+  "school_name": "Pops Academy Stockholm",
+  "registered_url": "https://www.popsacademy.se",
+  "pages": [
+    {
+      "requested_url": "https://popsacademy.se/",
+      "source_url": "https://popsacademy.se/",
+      "page_title": "Välkommen till PopsAcademy!",
+      "accessed_at": "2026-10-21T17:26:33.480942+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "11018018_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://popsacademy.se/",
+          "robots_url": "https://popsacademy.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:32.753572+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://popsacademy.se/pedagogiskt-koncept/",
+      "source_url": "https://popsacademy.se/pedagogiskt-koncept/",
+      "page_title": "Pedagogiskt koncept | Musikprofil | Akademisk kvalitet",
+      "accessed_at": "2026-10-21T17:26:34.231527+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "11018018_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://popsacademy.se/pedagogiskt-koncept/",
+          "robots_url": "https://popsacademy.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:32.753572+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

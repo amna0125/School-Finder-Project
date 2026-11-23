@@ -1,0 +1,634 @@
+{
+ "11496096": {
+  "name": "Kunskapsskolan Saltsjöbaden",
+  "state": "Reviewed claim",
+  "codes": "Other: Personalised learning and coaching",
+  "keywords": "npf, resursskola, resursskolan",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://www.kunskapsskolan.se/skolor/saltsjobaden/om-skolan/aktuellt",
+  "missing_url": []
+ },
+ "11914814": {
+  "name": "Rosenborgskolan",
+  "state": "Reviewed claim",
+  "codes": "Arts: Music (optional years 7–9); Other: Sport (optional years 7–9); Other: Theoretical/leadership pathway (years 7–9)",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "På Rosenborgskolan går årskurs 4–9 samt anpassad grundskola och en kommunalt övergripande särskild undervisningsgrupp (KÖSU).",
+  "contact_only": false,
+  "url": "https://www.sodertalje.se/rosenborgsenheten",
+  "missing_url": []
+ },
+ "12187987": {
+  "name": "Katarina Södra skola",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "särskilda undervisningsgrupper",
+  "quote": "Vi har två särskilda undervisningsgrupper som en del av vårt särskilda stöd.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-sodra-skola",
+  "missing_url": []
+ },
+ "14040970": {
+  "name": "Stavsborgsskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "resursskolans",
+  "quote": "Här kan du ta del av Sigfridsborgsskolan, Stavsborgsskolan, Älta skolas samt Resursskolans läsårsdata.",
+  "contact_only": true,
+  "url": "https://www.nacka.se/valfard-skola/stavsborgsskolan/",
+  "missing_url": []
+ },
+ "15080815": {
+  "name": "Fjällenskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "kommungemensamma, resursskola, resursskoleverksamhet",
+  "quote": "På Fjällenskolan har vi stadieanpassad resursskoleverksamhet för hela åldersspannet F-9.",
+  "contact_only": false,
+  "url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/viksjo/fjallenskolan.4.36ac70f31639ecd947f2f49.html",
+  "missing_url": []
+ },
+ "15331669": {
+  "name": "Sjöstadsskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "särskild undervisningsgrupp, undervisningsgrupper",
+  "quote": "Vi har även tillgång till en särskild undervisningsgrupp för att möta olika elevers behov.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjostadsskolan",
+  "missing_url": []
+ },
+ "16426165": {
+  "name": "Kunskapsskolan Enskede",
+  "state": "Reviewed claim",
+  "codes": "Other: Personalised goals and personal coaching model",
+  "keywords": "npf, resursskola, resursskolan",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://www.kunskapsskolan.se/skolor/enskede/om-skolan/aktuellt",
+  "missing_url": []
+ },
+ "17287315": {
+  "name": "Källtorpskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "resursskolegruppen, särskild undervisningsgrupp",
+  "quote": "älltorpskolan Källtorpskolan är en 7-9 skola, med en särskild undervisningsgrupp RSK (resursskolegrupp) och en nystartad AGR-verksamhet från 2024 som kommer att ha 40 elever.",
+  "contact_only": false,
+  "url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/kallhallstaket/kalltorpskolan.4.36ac70f31639ecd947f2f1d.html",
+  "missing_url": []
+ },
+ "24561769": {
+  "name": "Hemmestaskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "kommungemensam",
+  "quote": "Kommungemensam undervisningsgrupp (KSU) På Hemmestaskolan finns en kommungemensam klass för elever med generell språkstörning och som också har behov av att få undervisning i ett mindre sammanhang.",
+  "contact_only": false,
+  "url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/hemmestaskolan.4.2d09c46d1850f82301f8fe6.html",
+  "missing_url": []
+ },
+ "25253749": {
+  "name": "Albatross Montessoriskola",
+  "state": "Reviewed claim",
+  "codes": "Alternative: Montessori with mixed-age teaching groups",
+  "keywords": "undervisningsgrupper",
+  "quote": "Yngre och äldre arbetar ihop Eleverna arbetar i åldersblandade undervisningsgrupper där eleverna uppmuntras att hjälpa och bry sig om varandra.",
+  "contact_only": false,
+  "url": "https://www.albatross-montessori.se/sa-har-arbetar-vi/",
+  "missing_url": []
+ },
+ "25309669": {
+  "name": "Kunskapsskolan Täby",
+  "state": "Reviewed claim",
+  "codes": "Other: Personalised goals and coaching model, years4–9",
+  "keywords": "npf, resursskola, resursskolan",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://www.kunskapsskolan.se/skolor/taby/om-skolan/aktuellt",
+  "missing_url": []
+ },
+ "27595656": {
+  "name": "Birkaskolan",
+  "state": "Reviewed claim",
+  "codes": "Alternative: Montessori; Language: International exchanges and Erasmus cooperation",
+  "keywords": "små undervisningsgrupper",
+  "quote": "Vi månar om hög personaltäthet och små undervisningsgrupper för ökad trygghet och studiero i skolan.",
+  "contact_only": false,
+  "url": "https://www.birkaskolan.se/verksamheten",
+  "missing_url": []
+ },
+ "28184857": {
+  "name": "Lundaskolan",
+  "state": "Reviewed claim",
+  "codes": "Other: Bornholmsmodellen in preschool class only; Outdoor: Weekly nature learning in preschool class",
+  "keywords": "integrerad grupp",
+  "quote": "På Lundaskolan arbetar vi med faddergrupper där varje elev tillhör en åldersintegrerad grupp.",
+  "contact_only": false,
+  "url": "https://www.lundaskolan.com/arbetsplan-f%C3%B6r-f%C3%B6rskoleklass",
+  "missing_url": []
+ },
+ "28845963": {
+  "name": "Majtorpskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "På Rosenborgskolan går årskurs 4–9 samt anpassad grundskola och en kommunalt övergripande särskild undervisningsgrupp (KÖSU).",
+  "contact_only": false,
+  "url": "https://www.sodertalje.se/rosenborgsenheten",
+  "missing_url": []
+ },
+ "32585503": {
+  "name": "Grisslehamns skola",
+  "state": "Reviewed claim",
+  "codes": "Arts: Recurring school orchestra",
+  "keywords": "npf",
+  "quote": "All personal genomgår utbildning i NPF (neuropsykiska funktionsvariationer) och arbetar med fokus på elevinflytande för eleverna.",
+  "contact_only": false,
+  "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/grisslehamns-skola/var-skola/",
+  "missing_url": []
+ },
+ "33794207": {
+  "name": "Sandvikskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "resursklasser",
+  "quote": "Utöver detta har skolan anpassad grundskola, resursklasser, fritidshem och fritidsklubb.",
+  "contact_only": false,
+  "url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/viksjo/sandvikskolan.4.36ac70f31639ecd947f2f5c.html",
+  "missing_url": []
+ },
+ "38394561": {
+  "name": "Södertälje friskola",
+  "state": "Reviewed claim",
+  "codes": "Language: Language profile: Swedish and English",
+  "keywords": "små undervisningsgrupper, undervisningsgrupperna",
+  "quote": "I dessa ämnen är förutsättningarna att nå goda studieresultat mycket goda då undervisningsgrupperna är mellan 10 – 20 elever.",
+  "contact_only": false,
+  "url": "https://www.sodertaljefriskola.se",
+  "missing_url": []
+ },
+ "39351914": {
+  "name": "Norrsundsskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "npf",
+  "quote": "All personal genomgår utbildning i NPF (neuropsykiska funktionsvariationer) och arbetar med fokus på elevinflytande för eleverna.",
+  "contact_only": false,
+  "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/norrsundsskolan/var-skola/",
+  "missing_url": []
+ },
+ "40631085": {
+  "name": "Fittjaskolan",
+  "state": "Reviewed claim",
+  "codes": "Other: Language and mathematical strategies emphasis",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "…  årskurs 8 Mer fakta om Fittjaskolan Fittjaskolan är en skola för elever i åk 4-9, anpassad grundskola och en särskild undervisningsgrupp för elever som är i behov av det.",
+  "contact_only": false,
+  "url": "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/fittjaskolan",
+  "missing_url": []
+ },
+ "42434583": {
+  "name": "Brunns skola",
+  "state": "Reviewed claim",
+  "codes": "Other: Literacy emphasis and cross-subject literary themes",
+  "keywords": "autism",
+  "quote": "… byta skola Lov och ledigheter Kontakta Brunns skola Fakta Antal elever: 600 Årskurser: F-9, KSU-grupper för autism Eget kök: Ja Elevhälsa: Elevhälsoteam Fritids: Ja Profil Läsning är nyckeln till alla andra skolämnen och en …",
+  "contact_only": false,
+  "url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/brunnsskola.4.2d09c46d1850f82301f8f3d.html",
+  "missing_url": []
+ },
+ "43166282": {
+  "name": "Nälstaskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "undervisningsgrupp",
+  "quote": "Det finns även en liten undervisningsgrupp för elever i behov av särskilt stöd.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nalstaskolan",
+  "missing_url": []
+ },
+ "44046131": {
+  "name": "Sundbyskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Här finns tre studios och en särskild undervisningsgrupp.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sundbyskolan",
+  "missing_url": []
+ },
+ "44673074": {
+  "name": "Abrahamsbergsskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Skolan har även en särskild undervisningsgrupp.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/abrahamsbergsskolan",
+  "missing_url": []
+ },
+ "44836298": {
+  "name": "Sigfridsborgs skola",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "resursskolans",
+  "quote": "Här kan du ta del av Sigfridsborgsskolan, Stavsborgsskolan, Älta skolas samt Resursskolans läsårsdata.",
+  "contact_only": true,
+  "url": "https://www.nacka.se/valfard-skola/sigfridsborgsskola/",
+  "missing_url": []
+ },
+ "45757947": {
+  "name": "Tallidsskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Jag älskar min skola! Nisa, elev årskurs 2 Mer fakta om Tallidsskolan Tallidsskolan är en skola för elever i åk F-3, anpassad grundskola och en särskild undervisningsgrupp för elever som är i behov av det.",
+  "contact_only": false,
+  "url": "",
+  "missing_url": [
+   "approach_county_review/single_run_20261103/final/sources/45757947_0.txt"
+  ]
+ },
+ "46518352": {
+  "name": "Elmsta skola",
+  "state": "Reviewed claim",
+  "codes": "Outdoor: Nature in teaching; Arts: Recurring assemblies with music and drama",
+  "keywords": "npf",
+  "quote": "All personal genomgår utbildning i NPF (neuropsykiska funktionsvariationer) och arbetar med fokus på elevinflytande.",
+  "contact_only": false,
+  "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/elmsta-skola/var-skola/",
+  "missing_url": []
+ },
+ "46616391": {
+  "name": "Beckombergaskolan",
+  "state": "Reviewed claim",
+  "codes": "Other: Language- and knowledge-developing teaching",
+  "keywords": "särskild undervisningsgrupp, undervisningsgrupper",
+  "quote": "Vi har en lokal särskild undervisningsgrupp för elever från årskurs 1–6.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/beckombergaskolan",
+  "missing_url": []
+ },
+ "46796995": {
+  "name": "Kunskapsskolan Spånga",
+  "state": "Reviewed claim",
+  "codes": "Other: Personalised learning (Kunskapsskolan model)",
+  "keywords": "npf, resursskola, resursskolan",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://www.kunskapsskolan.se/skolor/spanga/om-skolan/aktuellt",
+  "missing_url": []
+ },
+ "51100048": {
+  "name": "Kymlingeskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "kommungemensamma",
+  "quote": "Förutom de kommungemensamma aktiviteterna i detta program arrangeras också aktiviteter lokalt under november.",
+  "contact_only": false,
+  "url": "https://www.sundbyberg.se/",
+  "missing_url": []
+ },
+ "53133366": {
+  "name": "Orminge skola",
+  "state": "Reviewed claim",
+  "codes": "Other: Entrepreneurial pedagogy",
+  "keywords": "neuropsykiatriska",
+  "quote": "Neuropsykiatriska funktionsnedsättningar (NPF) Vårt lågaffektiva förhållningssätt handlar om hur vi skapar en pedagogisk miljö präglad av lugn och positiva förväntningar på de barn, elever och vuxna vi möter i skolan.",
+  "contact_only": false,
+  "url": "https://www.nacka.se/valfard-skola/ormingeskola/pedagogik/",
+  "missing_url": []
+ },
+ "58294404": {
+  "name": "Tellusborgsskolan",
+  "state": "Reviewed claim",
+  "codes": "Project-: Thematic cross-subject work with fixed themes; Arts: Cultural expression in themes; optional art/music/theatre, 7–9",
+  "keywords": "särskild undervisningsgrupp, särskilda undervisningsgrupper",
+  "quote": "Vi erbjuder också en särskild undervisningsgrupp (SU-grupp) en förberedelsegrupp, för elever som nyligen kommit till Sverige regional särskild undervisningsgrupp (RSU-grupp), här går elever från olika skolor i närområdet.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tellusborgsskolan",
+  "missing_url": []
+ },
+ "58385274": {
+  "name": "Skogsängsskolan",
+  "state": "Reviewed claim",
+  "codes": "Outdoor: Friluftsliv experiences across years",
+  "keywords": "undervisningsgrupper",
+  "quote": "Vi har två mindre undervisningsgrupper för elever som är i behov av undervisning i ett mindre sammanhang.",
+  "contact_only": false,
+  "url": "https://salem.se/forskolaochskola/grundskola/skogsangsskolan.4.335d63281936795eddcd74f.html",
+  "missing_url": []
+ },
+ "60570294": {
+  "name": "Brunnsängskolan",
+  "state": "Reviewed claim",
+  "codes": "Other: Football profile with Hammarby",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Här finns både grundskola, anpassad grundskola och en kommunövergripande särskild undervisningsgrupp.",
+  "contact_only": false,
+  "url": "https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor",
+  "missing_url": []
+ },
+ "62288230": {
+  "name": "Lina grundskola",
+  "state": "Reviewed claim",
+  "codes": "Other: Language- and knowledge-developing approach",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Biträdande rektor årskurs 8-9 och kommunövergripande särskild undervisningsgrupp (KÖSU)",
+  "contact_only": true,
+  "url": "https://www.sodertalje.se/linagrundskola",
+  "missing_url": []
+ },
+ "62533129": {
+  "name": "Bobergsskolan",
+  "state": "Reviewed claim",
+  "codes": "Other: Bobergsmodellen flexible groups",
+  "keywords": "undervisningsgrupper",
+  "quote": "Istället för klasser arbetar vi i flexibla undervisningsgrupper.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bobergsskolan",
+  "missing_url": []
+ },
+ "63954028": {
+  "name": "Kunskapsskolan Fruängen",
+  "state": "Reviewed claim",
+  "codes": "Other: Personalised learning (Kunskapsskolan model)",
+  "keywords": "npf, resursskola, resursskolan",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://www.kunskapsskolan.se/skolor/fruangen/om-skolan/aktuellt",
+  "missing_url": []
+ },
+ "64836806": {
+  "name": "Vallaskolan",
+  "state": "Reviewed claim",
+  "codes": "Other: Early reading and writing focus",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Här finns både grundskola, anpassad grundskola och en kommunövergripande särskild undervisningsgrupp.",
+  "contact_only": false,
+  "url": "https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor",
+  "missing_url": []
+ },
+ "72120589": {
+  "name": "Stålhamraskolan",
+  "state": "Reviewed claim",
+  "codes": "Language: Partial Finnish-language teaching",
+  "keywords": "särskild undervisningsgrupp, särskilda undervisningsgruppen",
+  "quote": "Här finns både grundskola, anpassad grundskola och en kommunövergripande särskild undervisningsgrupp.",
+  "contact_only": false,
+  "url": "https://www.sodertalje.se/stalhamraskolan",
+  "missing_url": []
+ },
+ "72345466": {
+  "name": "Kvarnbyskolan",
+  "state": "Reviewed claim",
+  "codes": "Language: English from förskoleklass",
+  "keywords": "neuropsykiatriska",
+  "quote": "… främja och utveckla en skolmiljö präglad av trygghet och studiero höja kompetensen bland skolans personal om neuropsykiatriska funktionsnedsättningar skapa en samsyn och ett kollegialt lärande kring värdegrund, bemötande och …",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kvarnbyskolan",
+  "missing_url": []
+ },
+ "72672270": {
+  "name": "Aspuddens skola",
+  "state": "Reviewed claim",
+  "codes": "Other: Football classes 7–9",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Biträdande rektor anpassad grundskola, elevhälsoteamet, särskild undervisningsgrupp årskurs F–5",
+  "contact_only": true,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/aspuddens-skola",
+  "missing_url": []
+ },
+ "76557608": {
+  "name": "Lindeskolan",
+  "state": "Reviewed claim",
+  "codes": "Outdoor: Outdoor teaching and excursions",
+  "keywords": "undervisningsgrupper",
+  "quote": "Vi har flexibla undervisningsgrupper och samarbetar nära kring eleverna i varje årskurs.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/lindeskolan",
+  "missing_url": []
+ },
+ "77314942": {
+  "name": "Norra Ängby skola",
+  "state": "Reviewed claim",
+  "codes": "Arts: Optional art/music deepening from year 4; Other: Optional maths deepening from year 4",
+  "keywords": "särskild undervisningsgrupp, särskilda undervisningsgrupp",
+  "quote": "Skolan har även en särskild undervisningsgrupp (SU-grupp).",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/norra-angby-skola",
+  "missing_url": []
+ },
+ "77656740": {
+  "name": "Rosholmen Education Academy AB",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "undervisningsgrupperna",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "http://www.rosholmen.se/om-oss/",
+  "missing_url": []
+ },
+ "78508835": {
+  "name": "Sverigefinska skolan Sthlm",
+  "state": "Reviewed claim",
+  "codes": "Language: Bilingual Finnish–Swedish",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Speciallärare i särskild undervisningsgrupp",
+  "contact_only": true,
+  "url": "https://www.sverigefinskaskolan.eu/verksamhet/grundskola/",
+  "missing_url": []
+ },
+ "80378022": {
+  "name": "Botkyrka Friskola F-9",
+  "state": "Reviewed claim",
+  "codes": "Other: Football profile",
+  "keywords": "smågruppsundervisning",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://botfri.se/om-oss/verksamheten/",
+  "missing_url": []
+ },
+ "81266343": {
+  "name": "Kunskapsskolan Tyresö",
+  "state": "Reviewed claim",
+  "codes": "Other: Personalised learning (Kunskapsskolan model)",
+  "keywords": "npf, resursskola, resursskolan",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://www.kunskapsskolan.se/skolor/tyreso/om-skolan/aktuellt",
+  "missing_url": []
+ },
+ "82047013": {
+  "name": "Älta skola",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "resursskolans",
+  "quote": "Här kan du ta del av Sigfridsborgsskolan, Stavsborgsskolan, Älta skolas samt Resursskolans läsårsdata.",
+  "contact_only": true,
+  "url": "https://www.nacka.se/valfard-skola/alta-skola/",
+  "missing_url": []
+ },
+ "82854505": {
+  "name": "Martinskolan Söders waldorfskola",
+  "state": "Reviewed claim",
+  "codes": "Alternative: Waldorf",
+  "keywords": "resursskola, resursskolan",
+  "quote": "… Är det svårt att få plats i Martinskolan? Finns det även förskola vid Martinskolan? Vad erbjuder Resursskolan vid Martinskolan? Ställ ditt barn i kö hos oss Ansök Stiftelsen Martinskolan är en fristående, idéburen och …",
+  "contact_only": false,
+  "url": "https://martinskolan.se/",
+  "missing_url": []
+ },
+ "83810698": {
+  "name": "Elinsborgsskolan",
+  "state": "Reviewed claim",
+  "codes": "Outdoor: Naturskola collaboration; Other: Language-developing approach",
+  "keywords": "särskild undervisningsgrupp",
+  "quote": "Informationsmöte om att söka förskoleklass Från förskoleklass till och med årskurs 6 På Elinsborgsskolan har vi två klasser per årskurs och en särskild undervisningsgrupp.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/elinsborgsskolan",
+  "missing_url": []
+ },
+ "83828066": {
+  "name": "Nya Elementar",
+  "state": "Reviewed claim",
+  "codes": "Outdoor: Green areas used in teaching",
+  "keywords": "undervisningsgrupper",
+  "quote": "Eleverna på högstadiet är fördelade i olika grupper, till exempel mentorsgrupper och flexibla undervisningsgrupper.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nya-elementar",
+  "missing_url": []
+ },
+ "84520303": {
+  "name": "Hagaskolan",
+  "state": "Reviewed claim",
+  "codes": "Language: Erasmus+ accredited",
+  "keywords": "resursgrupper",
+  "quote": "Biträdande rektor Topasen/Resursgrupper årskurs F-9",
+  "contact_only": true,
+  "url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/hagaskolan",
+  "missing_url": []
+ },
+ "84704913": {
+  "name": "Krusboda skola",
+  "state": "Reviewed claim",
+  "codes": "Outdoor: Woods and green classroom in teaching",
+  "keywords": "undervisningsgrupper",
+  "quote": "… - Vi talar schysst till och om varandra Trygghet - Vi är snälla och låter alla vara med Skolan har två mindre undervisningsgrupper.",
+  "contact_only": false,
+  "url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/krusboda-skola.html",
+  "missing_url": []
+ },
+ "87382179": {
+  "name": "Väringaskolan",
+  "state": "Reviewed claim",
+  "codes": "Project-: Project-based working methods",
+  "keywords": "små undervisningsgrupper, undervisningsgrupper",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://varingaskolan.se/",
+  "missing_url": []
+ },
+ "87425546": {
+  "name": "Kunskapsskolan Nacka",
+  "state": "Reviewed claim",
+  "codes": "Other: Personalised learning (Kunskapsskolan model)",
+  "keywords": "npf, resursskola, resursskolan",
+  "quote": "(removed: contact line)",
+  "contact_only": false,
+  "url": "https://www.kunskapsskolan.se/skolor/nacka/om-skolan/aktuellt",
+  "missing_url": []
+ },
+ "92284588": {
+  "name": "Ekhammarskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "kommungemensamma",
+  "quote": "Skolan innefattar grundskola åk 4-9 samt två kommungemensamma undervisningsgrupper för åk 4-6 samt åk 7-9.",
+  "contact_only": false,
+  "url": "https://www.upplands-bro.se/forskola-och-skola/grundskola/grundskolor-i-upplands-bro/ekhammarskolan.html",
+  "missing_url": []
+ },
+ "92347699": {
+  "name": "Bromstensskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "särskilda undervisningsgrupp",
+  "quote": "Idrottssalen och fritids för årskurs 2 och vår egna särskilda undervisningsgrupp ligger i A-huset, nedanför skolbyggnaderna.",
+  "contact_only": false,
+  "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bromstensskolan",
+  "missing_url": []
+ },
+ "92750123": {
+  "name": "Enskilda gymnasiet, gr",
+  "state": "Reviewed claim",
+  "codes": "Arts: Drama on timetable; Other: Literary reading each term",
+  "keywords": "undervisningsgrupper",
+  "quote": "I engelska och matematik har vi mindre undervisningsgrupper för att kunna se den enskilde eleven.",
+  "contact_only": false,
+  "url": "http://enskildagymnasiet.se/grundskolan/",
+  "missing_url": []
+ },
+ "94279206": {
+  "name": "Resursskola Sjötorp",
+  "state": "No usable public page",
+  "codes": "",
+  "keywords": "resursskola",
+  "quote": "På skolan finns också en kommunövergripande resursskola.",
+  "contact_only": false,
+  "url": "https://www.huddinge.se/sjotorpsskolan",
+  "missing_url": []
+ },
+ "94301041": {
+  "name": "Innovitaskolan Myrängen",
+  "state": "Reviewed claim",
+  "codes": "Project-: Thematic work",
+  "keywords": "integrerade grupper",
+  "quote": "Vi prioriterar heldagslärande Därefter tar fritidsverksamheten vid i åldersintegrerade grupper med både fria och styrda aktiviteter, som en naturlig del av vårt heldagslärande.",
+  "contact_only": false,
+  "url": "https://innovitaskolan.se/myrangen/om/grundskola/",
+  "missing_url": []
+ },
+ "94943347": {
+  "name": "S:t Eriks Katolska Skola",
+  "state": "Reviewed claim",
+  "codes": "Other: Catholic profile; Other: Language-developing in all subjects",
+  "keywords": "små undervisningsgrupper",
+  "quote": "Goda resultat Vi erbjuder eleverna undervisning i relativt små undervisningsgrupper i många ämnen.",
+  "contact_only": false,
+  "url": "https://www.sterikskatolskaskola.se/",
+  "missing_url": []
+ },
+ "96646603": {
+  "name": "Lommarskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "resursskola",
+  "quote": "Kommunal resursskola årskurs F–9 Lommarskolan",
+  "contact_only": true,
+  "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/lommarskolan/",
+  "missing_url": []
+ },
+ "97402564": {
+  "name": "Kvarnbergsskolan",
+  "state": "No clear evidence in scoped review",
+  "codes": "",
+  "keywords": "kommungemensam",
+  "quote": "Kommungemensam undervisningsgrupp För de elever som har omfattande behov av stöd, kan vi erbjuda en kommungemensam undervisningsgrupp.",
+  "contact_only": false,
+  "url": "https://www.varmdo.se/barnochutbildning/skolbarn/alltomgrundskolan/grundskolorivarmdokommun/kvarnbergsskolan.4.1375aaa1184b91c204f3c7d2.html",
+  "missing_url": []
+ },
+ "97777849": {
+  "name": "Tallbohovskolan",
+  "state": "Reviewed claim",
+  "codes": "Other: Reading pedagogues F–3",
+  "keywords": "liten grupp",
+  "quote": "För de högre åldrarna har vi ett kunskapscentrum där elever kan få enskild undervisning eller arbeta i liten grupp tillsammans med pedagoger.",
+  "contact_only": false,
+  "url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/jakobsberg/tallbohovskolan.4.36ac70f31639ecd947f2d2f.html",
+  "missing_url": []
+ }
+}

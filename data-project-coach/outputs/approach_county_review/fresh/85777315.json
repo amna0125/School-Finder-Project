@@ -1,0 +1,52 @@
+{
+  "school_id": "85777315",
+  "school_name": "Mikaelskolan",
+  "registered_url": "http://www.mikaelskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.mikaelskolan.se/",
+      "source_url": "https://www.mikaelskolan.se/",
+      "page_title": "Grundskola Sollentuna | Mikaelskolan | Stockholms Län",
+      "accessed_at": "2026-10-21T17:42:28.655317+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "85777315_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mikaelskolan.se/",
+          "robots_url": "https://www.mikaelskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:42:27.639842+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.mikaelskolan.se/om-oss",
+      "source_url": "https://www.mikaelskolan.se/om-oss",
+      "page_title": "Mikaelskolan F-9 | Mikaelskolan",
+      "accessed_at": "2026-10-21T17:42:29.690511+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "85777315_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mikaelskolan.se/om-oss",
+          "robots_url": "https://www.mikaelskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:42:27.639842+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

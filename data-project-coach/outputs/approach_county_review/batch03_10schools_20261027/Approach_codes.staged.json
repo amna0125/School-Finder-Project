@@ -1,0 +1,79 @@
+[
+  {
+    "code_id": "ac_b03_13384795_01",
+    "school_id": "13384795",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare and health emphasis",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b03_13384795_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Bagartorp-specific health/wellbeing section; body and stored official grades agree 7–9. Metadata says 6–9: retain discrepancy, do not extend claim to year 6. Excludes other RWS units and news. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b03_13493243_01",
+    "school_id": "13493243",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "English spets pathway, not all pupils",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b03_13493243_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Djursholm 7–9; English spets pathway only, admission test. Not bilingual schoolwide teaching; other subjects Swedish. Exclude gymnasium navigation and generic art/science slogan. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b03_13582062_01",
+    "school_id": "13582062",
+    "category": "Other stated profile",
+    "subcategory": "AIK football class (optional)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b03_13582062_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Järvaskolan 7–9 stored grades; optional football class, not all pupils; exclude similarly named Järvastaden. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b03_13582062_02",
+    "school_id": "13582062",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Additional teaching support",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b03_13582062_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Support interpretation jointly rests on weekly homework help and at least two teaching teachers per classroom; this is self-reported provision, not official pupil/teacher ratio. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b03_13665610_01",
+    "school_id": "13665610",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Pep: movement and food habits",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b03_13665610_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Brinkskolan website F–6; stored official grades 1–6 omit preschool class. Named health framework and concrete movement/food emphasis. Certification self-reported, not independently checked. Green Flag alone not outdoor pedagogy. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b03_14115670_01",
+    "school_id": "14115670",
+    "category": "Arts and creative learning",
+    "subcategory": "Practical-aesthetic integration",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b03_14115670_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Hästens school profile integrates practical/aesthetic and theoretical subjects; stored grades 1–5, website also preschool class. Not a claim about artistic quality. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b03_14115670_02",
+    "school_id": "14115670",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Weekly outdoor teaching, F–3 only",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b03_14115670_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Outdoor teaching explicitly F–3 only, weekly; do not extend to years 4–5. Preschool class website scope distinguished from stored official grade list. Website claim, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

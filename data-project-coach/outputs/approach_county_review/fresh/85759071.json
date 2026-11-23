@@ -1,0 +1,17 @@
+{
+  "school_id": "85759071",
+  "school_name": "Lillsjöskolan",
+  "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/lillsjoskolan.html",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/lillsjoskolan.html",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:42:27.700146+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

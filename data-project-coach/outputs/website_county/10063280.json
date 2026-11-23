@@ -1,0 +1,51 @@
+{
+  "school_unit_code": "10063280",
+  "school_name": "Lärande Grundskola Skapa",
+  "registered_url": "https://www.larandegrundskola.se/skolor/huddinge/skapa",
+  "attempted_at": "2026-10-21T09:15:14.480561+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.larandegrundskola.se/skolor/skapa",
+      "retrieved_at": "2026-10-21T09:15:18.273885+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.larandegrundskola.se/skolor/huddinge/skapa",
+          "robots_url": "https://www.larandegrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.027578+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.larandegrundskola.se/skolor/skapa",
+          "robots_url": "https://www.larandegrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.027578+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10063280_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Även fritidsverksamheten följer Lärandemodellen. Vi arbetar med uppdrag inom språk och kommunikation, natur och samhälle, lärande genom lek och estetiska lärprocesser. Barnen får utveckla sina förmågor på ett sätt som är både roligt och lärorikt. Fritids stänger 17.30.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "6c6c21580610cc0fa57a68ee6395a8b3028f2ae8afeda2f46b4ecb0476cc0266",
+      "school_unit_code": "10063280",
+      "school_name": "Lärande Grundskola Skapa",
+      "source_url": "https://www.larandegrundskola.se/skolor/skapa",
+      "retrieved_at": "2026-10-21T09:15:18.273885+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

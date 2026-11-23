@@ -1,0 +1,17 @@
+{
+  "school_id": "44836298",
+  "school_name": "Sigfridsborgs skola",
+  "registered_url": "http://www.skolor.nacka.se/sigfridsborg",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.skolor.nacka.se/sigfridsborg",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:35:12.178484+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

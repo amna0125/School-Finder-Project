@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "98239828",
+  "school_name": "Ekebyholmsskolan AB",
+  "registered_url": "http://www.ekebyholm.se",
+  "attempted_at": "2026-10-21T09:17:38.729015+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.ekebyholm.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

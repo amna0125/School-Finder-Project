@@ -1,0 +1,14 @@
+{
+  "school_id": "43238662",
+  "school_name": "Björkhaga Skola",
+  "registered_url": "http://www.botkyrka.se/bjorkhagaskola",
+  "pages": [],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "terms_review_required",
+  "terms_urls": [
+    "https://www.botkyrka.se/uppleva-och-gora/idrott-och-motion/idrottsanlaggningar-och-lokaler/villkor-for-bokning"
+  ]
+}

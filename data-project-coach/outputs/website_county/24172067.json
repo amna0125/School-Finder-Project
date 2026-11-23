@@ -1,0 +1,102 @@
+{
+  "school_unit_code": "24172067",
+  "school_name": "Kulturskolan Raketen",
+  "registered_url": "http://www.kulturskolanraketen.se",
+  "attempted_at": "2026-10-21T09:20:41.669446+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://kulturskolanraketen.se/",
+      "retrieved_at": "2026-10-21T09:20:48.292251+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.kulturskolanraketen.se",
+          "robots_url": "http://kulturskolanraketen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:43.893534+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://kulturskolanraketen.se/",
+          "robots_url": "https://kulturskolanraketen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:45.585796+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "24172067_0.txt"
+    },
+    {
+      "source_url": "https://kulturskolanraketen.se/profil/",
+      "retrieved_at": "2026-10-21T09:20:48.332200+00:00",
+      "robots_checks": [
+        {
+          "url": "https://kulturskolanraketen.se/profil/",
+          "robots_url": "https://kulturskolanraketen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:45.585796+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "24172067_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "etet sker genom ämnesundervisning och ämnesövergripande projekt och teman. Det innebär att naturorienterande ämnen (NO), samhällsorienterande ämnen (SO) och svenska integreras med estetiska ämnen. Eleverna i klasserna 6–9 kan i ”elevens kulturval” fördjupa sig i estetiska ämnen. På skolan arbetar förutom lärare i samtliga ämnen också bild-, drama- och danspedagoger samt musiker.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "6c56d363045b0955e4c627a0fdda39d4dda20018ed25fdcddc2db6952aa7ac5a",
+      "school_unit_code": "24172067",
+      "school_name": "Kulturskolan Raketen",
+      "source_url": "https://kulturskolanraketen.se/",
+      "retrieved_at": "2026-10-21T09:20:48.292251+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "en. Eleverna i klasserna 6–9 kan i ”elevens kulturval” fördjupa sig i estetiska ämnen. På skolan arbetar förutom lärare i samtliga ämnen också bild-, drama- och danspedagoger samt musiker.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "17c73f3323f51425da9d2c080aad867ce20ee24efccb4897830374ed37ab340b",
+      "school_unit_code": "24172067",
+      "school_name": "Kulturskolan Raketen",
+      "source_url": "https://kulturskolanraketen.se/",
+      "retrieved_at": "2026-10-21T09:20:48.292251+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Kulturen i en samhällelig och antropologisk mening och kultur som uttrycksmedel i t.ex. i musik, dans, litteratur, teater har funnits med i skolans arbete allt sedan starten.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "49e9fbd451872bb202a529cf84b22af2741cce08cfde8bf706a96e7128a10c4e",
+      "school_unit_code": "24172067",
+      "school_name": "Kulturskolan Raketen",
+      "source_url": "https://kulturskolanraketen.se/profil/",
+      "retrieved_at": "2026-10-21T09:20:48.332200+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Kulturen i en samhällelig och antropologisk mening och kultur som uttrycksmedel i t.ex. i musik, dans, litteratur, teater har funnits med i skolans arbete allt sedan starten.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "942a7d30e1f667de5747eba1da36271907254c3995476b09de37b17c99d3dbc3",
+      "school_unit_code": "24172067",
+      "school_name": "Kulturskolan Raketen",
+      "source_url": "https://kulturskolanraketen.se/profil/",
+      "retrieved_at": "2026-10-21T09:20:48.332200+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,47 @@
+school_id,code_id,change,detail
+13582062,ac_b03_13582062_02,removed,Additional teaching support
+19377571,ac_b08_19377571_01,removed,Daylong visual supports and accessible learning
+20563782,ac_b09_20563782_01,removed,Differentiated teaching and movement emphasis
+23617768,ac_s3b_23617768_01,removed,Flexible small teaching groups
+37556682,ac_s3b_37556682_01,removed,Two adults per lesson / two-teacher Swedish
+42149666,ac_b27_42149666_01,removed,Multi-teacher system and common lesson structure
+43632318,ac_b29_43632318_01,removed,"Structured, accessible teaching and multi-teacher support"
+47640376,ac_sr_47640376_02,removed,Individual action plans and learning centre
+49762104,ac_sr_49762104_03,removed,"Predictable, accessible teacher-led teaching"
+51210001,ac_sr_51210001_01,removed,Two-teacher teaching and half-class practical subjects
+56568612,ac_sr_56568612_01,removed,Three-teacher model F–6; two-teacher 7–9
+57755652,ac_sr_57755652_01,removed,Visual support and predictable routines
+66383692,ac_sr_66383692_01,removed,Smaller groups; on-site resource school
+98070480,ac_sr_98070480_02,removed,Tydliggörande pedagogik
+37416253,ac_b22_37416253_01,Explicit -> Supported,Additional special teaching group for pupils with greater support needs
+37796564,ac_b22_37796564_01,Explicit -> Supported,Regional special teaching groups (RSU); restricted placements
+39453214,ac_b24_39453214_01,Explicit -> Supported,Attached lärstudio / special teaching group only
+52217632,ac_sr_52217632_01,Explicit -> Supported,Municipal special teaching groups for autism
+72627865,ac_sr_72627865_01,Explicit -> Supported,Hearing-impairment classes
+69195602,ac_sr_69195602_01,Supported -> Explicit,Municipal special teaching group
+82110758,ac_sr_82110758_01,subcategory renamed,MVP and Agera; special teaching groups -> MVP and Agera
+44673074,ac_rule_e_44673074_01,added,Special teaching group (Supported)
+46616391,ac_rule_e_46616391_01,added,Special teaching group (years 1–6) (Supported)
+92347699,ac_rule_e_92347699_01,added,Special teaching group (Supported)
+42434583,ac_rule_e_42434583_01,added,Resource group (municipality-run): autism (Supported)
+92284588,ac_rule_e_92284588_01,added,Resource groups (municipality-run) (Supported)
+83810698,ac_rule_e_83810698_01,added,Special teaching group (Supported)
+40631085,ac_rule_e_40631085_01,added,Special teaching group (Supported)
+15080815,ac_rule_e_15080815_01,added,Resource school class (municipality-run) (Supported)
+24561769,ac_rule_e_24561769_01,added,Resource group (municipality-run): language disorder (Supported)
+12187987,ac_rule_e_12187987_01,added,Special teaching groups (Supported)
+17287315,ac_rule_e_17287315_01,added,Resource school group (RSK) (Supported)
+77314942,ac_rule_e_77314942_01,added,Special teaching group (Supported)
+11914814,ac_rule_e_11914814_01,added,Resource group (municipality-run): KÖSU (Supported)
+33794207,ac_rule_e_33794207_01,added,Resource classes (Supported)
+58385274,ac_rule_e_58385274_01,added,Small teaching groups (Supported)
+72120589,ac_rule_e_72120589_01,added,Resource group (municipality-run) (Supported)
+44046131,ac_rule_e_44046131_01,added,Special teaching group (Supported)
+45757947,ac_rule_e_45757947_01,added,Special teaching group (Supported)
+58294404,ac_rule_e_58294404_01,added,Special teaching groups (SU and regional RSU) (Supported)
+96646603,ac_rule_e_96646603_01,added,Resource school (municipality-run) (Explicit)
+72672270,ac_rule_e_72672270_01,added,Special teaching group (F–5 and 6–9) (Supported)
+84520303,ac_rule_e_84520303_01,added,Resource groups (F–9) (Supported)
+62288230,ac_rule_e_62288230_01,added,Resource group (municipality-run): KÖSU (Supported)
+78508835,ac_rule_e_78508835_01,added,Special teaching group (Supported)
+94279206,ac_rule_e_94279206_01,added,Resource school (municipality-run) (Explicit)

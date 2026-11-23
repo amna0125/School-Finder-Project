@@ -1,0 +1,38 @@
+{
+  "school_unit_code": "93320132",
+  "school_name": "S:ta Gertruds skola",
+  "registered_url": "http://www.sigtuna.se/stagertrudsskola",
+  "attempted_at": "2026-10-21T09:23:50.171193+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.sigtuna.se/stagertrudsskola",
+      "retrieved_at": "2026-10-21T09:23:51.805010+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sigtuna.se/stagertrudsskola",
+          "robots_url": "https://www.sigtuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:52.997212+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sigtuna.se/stagertrudsskola",
+          "robots_url": "https://www.sigtuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.607073+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "93320132_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

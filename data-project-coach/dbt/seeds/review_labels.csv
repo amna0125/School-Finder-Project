@@ -1,0 +1,763 @@
+school_id,review_state,batch_reference
+10035236,No clear evidence in scoped review,batch01_followup_20261027
+10063280,Reviewed claim,single_run_20261103/final
+10184517,Reviewed claim,batch02_10schools_20261027
+10225038,No clear evidence in scoped review,batch01_followup_20261027
+10230535,No clear evidence in scoped review,batch01_followup_20261027
+10311303,No usable public page,single_run_20261103/manual
+10495223,Reviewed claim,dq_20261118
+10657244,Reviewed claim,batch02_10schools_20261027
+10661388,Reviewed claim,single_run_20261103/final
+10682125,Reviewed claim,single_run_20261103/final
+10715898,Reviewed claim,single_run_20261103/final
+10735290,No clear evidence in scoped review,single_run_20261103/followup_blocked
+10998117,No clear evidence in scoped review,batch01_followup_20261027
+11018018,Reviewed claim,single_run_20261103/final
+11025388,Reviewed claim,dq_20261118
+11193969,Reviewed claim,single_run_20261103/final
+11364996,No clear evidence in scoped review,single_run_20261103/step3
+11442396,Reviewed claim,single_run_20261103/step2
+11496096,Reviewed claim,single_run_20261103/final
+11777750,Reviewed claim,batch02_10schools_20261027
+11914814,Reviewed claim,single_run_20261103/final
+12092203,Reviewed claim,single_run_20261103/final
+12187987,Reviewed claim,rule_e_20261117
+12259212,Reviewed claim,single_run_20261103/final
+12332278,Reviewed claim,single_run_20261103/final
+12407147,Reviewed claim,single_run_20261103/followup_blocked
+12757193,Reviewed claim,single_run_20261103/final
+12801932,Reviewed claim,second_pass_20261118
+13124830,No clear evidence in scoped review,single_run_20261103/followup_blocked
+13301127,Reviewed claim,batch02_10schools_20261027
+13384795,Reviewed claim,batch03_10schools_20261027
+13493243,Reviewed claim,batch03_10schools_20261027
+13579948,No clear evidence in scoped review,single_run_20261103/step3
+13582062,Reviewed claim,batch03_10schools_20261027
+13654969,No clear evidence in scoped review,batch03_10schools_20261027
+13665610,Reviewed claim,batch03_10schools_20261027
+13679897,Reviewed claim,single_run_20261103/step3c
+13954336,Reviewed claim,single_run_20261103/final
+14040970,No clear evidence in scoped review,batch03_10schools_20261027
+14115670,Reviewed claim,batch03_10schools_20261027
+14121892,Reviewed claim,batch04_10schools_20261027
+14261356,No clear evidence in scoped review,batch04_10schools_20261027
+14440920,Reviewed claim,single_run_20261103/step3
+14472068,Reviewed claim,batch04_10schools_20261027
+14479858,No clear evidence in scoped review,batch04_10schools_20261027
+14845171,Reviewed claim,batch04_10schools_20261027
+14872951,Reviewed claim,batch04_10schools_20261027
+15049834,Reviewed claim,batch04_10schools_20261027
+15080815,Reviewed claim,rule_e_20261117
+15171331,Reviewed claim,batch04_10schools_20261027
+15218794,No clear evidence in scoped review,batch05_10schools_20261027
+15331669,Reviewed claim,second_pass_20261118
+15339442,Reviewed claim,batch05_10schools_20261027
+15483394,Reviewed claim,batch05_10schools_20261027
+15547680,Reviewed claim,batch05_10schools_20261027
+15594566,Reviewed claim,batch05_10schools_20261027
+15620768,Reviewed claim,batch05_10schools_20261027
+15697742,No clear evidence in scoped review,batch05_10schools_20261027
+15968847,Reviewed claim,single_run_20261103/step3c
+16061350,Reviewed claim,batch05_10schools_20261027
+16068461,No clear evidence in scoped review,single_run_20261103/step2b
+16348406,No clear evidence in scoped review,batch06_10schools_20261027
+16394249,Reviewed claim,batch06_10schools_20261027
+16426165,Reviewed claim,batch06_10schools_20261027
+16762245,Reviewed claim,batch06_10schools_20261027
+16914123,Reviewed claim,single_run_20261103/step3
+16969143,No clear evidence in scoped review,batch06_10schools_20261027
+16983719,No clear evidence in scoped review,single_run_20261103/step3
+17165481,Reviewed claim,single_run_20261103/step3c
+17287315,Reviewed claim,rule_e_20261117
+17526606,Reviewed claim,batch07_10schools_20261027
+17640364,Reviewed claim,batch07_10schools_20261027
+17737193,No clear evidence in scoped review,batch07_10schools_20261027
+17957898,Reviewed claim,single_run_20261103/step3
+18053776,Reviewed claim,batch07_10schools_20261027
+18064456,Reviewed claim,batch07_10schools_20261027
+18193338,Reviewed claim,batch07_10schools_20261027
+18595907,Reviewed claim,batch07_10schools_20261027
+19089469,Reviewed claim,batch07_10schools_20261027
+19353396,Reviewed claim,second_pass_20261118
+19377571,No clear evidence in scoped review,rule_e_20261117
+19593535,Reviewed claim,batch08_10schools_20261028
+19657993,Reviewed claim,batch08_10schools_20261028
+19704413,Reviewed claim,batch08_10schools_20261028
+19733028,Reviewed claim,batch08_10schools_20261028
+19942197,No clear evidence in scoped review,batch08_10schools_20261028
+19983531,Reviewed claim,batch08_10schools_20261028
+20054868,Reviewed claim,single_run_20261103/step3c
+20137688,Reviewed claim,batch08_10schools_20261028
+20253736,Reviewed claim,batch08_10schools_20261028
+20561651,No clear evidence in scoped review,batch09_10schools_20261029
+20563782,Reviewed claim,second_pass_20261118
+20683111,No clear evidence in scoped review,single_run_20261103/step3
+21346638,Reviewed claim,single_run_20261103/step3c
+21576764,No clear evidence in scoped review,batch09_10schools_20261029
+21724208,Reviewed claim,batch09_10schools_20261029
+21871265,Reviewed claim,batch09_10schools_20261029
+21997077,Reviewed claim,batch09_10schools_20261029
+22019000,No usable public page,single_run_20261103/final
+22030561,Reviewed claim,batch09_10schools_20261029
+22127801,Reviewed claim,batch10_10schools_20261029
+22174435,No clear evidence in scoped review,batch10_10schools_20261029
+22202915,Reviewed claim,batch10_10schools_20261029
+22472689,Reviewed claim,single_run_20261103/step3c
+22513261,Reviewed claim,second_pass_20261118
+22531873,No clear evidence in scoped review,batch10_10schools_20261029
+22777703,Reviewed claim,batch10_10schools_20261029
+22807677,Reviewed claim,batch10_10schools_20261029
+22847273,Reviewed claim,batch10_10schools_20261029
+22904289,Reviewed claim,batch10_10schools_20261029
+23066257,Reviewed claim,batch11_10schools_20261029
+23312767,Reviewed claim,batch11_10schools_20261029
+23414344,Reviewed claim,batch11_10schools_20261029
+23498302,Reviewed claim,single_run_20261103/final
+23617768,No clear evidence in scoped review,rule_e_20261117
+23756252,No clear evidence in scoped review,batch11_10schools_20261029
+23828958,Reviewed claim,batch11_10schools_20261029
+23886554,Reviewed claim,batch11_10schools_20261029
+24046791,Reviewed claim,single_run_20261103/step3
+24142153,Reviewed claim,batch11_10schools_20261029
+24146389,No clear evidence in scoped review,single_run_20261103/step3
+24172067,Reviewed claim,batch12_10schools_20261029
+24199792,Reviewed claim,batch12_10schools_20261029
+24374886,Reviewed claim,batch12_10schools_20261029
+24402537,Reviewed claim,batch12_10schools_20261029
+24561769,Reviewed claim,rule_e_20261117
+24606968,No clear evidence in scoped review,batch12_10schools_20261029
+24671487,Reviewed claim,batch12_10schools_20261029
+24716970,Reviewed claim,batch12_10schools_20261029
+24754913,Reviewed claim,batch12_10schools_20261029
+25090415,Reviewed claim,single_run_20261103/step3c
+25253749,Reviewed claim,batch13_10schools_20261029
+25309669,Reviewed claim,batch13_10schools_20261029
+25506439,Reviewed claim,batch13_10schools_20261029
+25555358,Reviewed claim,batch13_10schools_20261029
+25772114,No clear evidence in scoped review,batch13_10schools_20261029
+25918983,Reviewed claim,batch13_10schools_20261029
+26138955,No clear evidence in scoped review,batch13_10schools_20261029
+26172429,Reviewed claim,batch13_10schools_20261029
+26281697,Reviewed claim,batch13_10schools_20261029
+26480342,Reviewed claim,batch13_10schools_20261029
+26742346,Reviewed claim,batch14_10schools_20261029
+26804905,Reviewed claim,second_pass_20261118
+26808959,Reviewed claim,single_run_20261103/step3
+26852132,Reviewed claim,batch14_10schools_20261029
+26878879,Reviewed claim,batch14_10schools_20261029
+27181501,Reviewed claim,single_run_20261103/step2
+27273328,No clear evidence in scoped review,batch14_10schools_20261029
+27323097,No clear evidence in scoped review,single_run_20261103/step3b
+27344011,Reviewed claim,batch14_10schools_20261029
+27357778,Reviewed claim,single_run_20261103/step3c
+27595656,Reviewed claim,batch15_10schools_20261029
+27830075,Reviewed claim,batch15_10schools_20261029
+28138418,Reviewed claim,batch15_10schools_20261029
+28145722,Reviewed claim,batch15_10schools_20261029
+28184857,Reviewed claim,batch15_10schools_20261029
+28231215,Reviewed claim,batch15_10schools_20261029
+28313791,No clear evidence in scoped review,batch15_10schools_20261029
+28799594,Reviewed claim,batch15_10schools_20261029
+28845963,No clear evidence in scoped review,single_run_20261103/step3b
+29096335,Reviewed claim,batch15_10schools_20261029
+29158808,Reviewed claim,batch16_10schools_20261030
+29270748,Reviewed claim,batch16_10schools_20261030
+29278599,Reviewed claim,batch16_10schools_20261030
+29371242,Reviewed claim,batch16_10schools_20261030
+29410344,Reviewed claim,single_run_20261103/step3c
+29497099,Reviewed claim,batch16_10schools_20261030
+29524966,Reviewed claim,batch16_10schools_20261030
+29585072,Reviewed claim,batch16_10schools_20261030
+29705473,No clear evidence in scoped review,batch16_10schools_20261030
+29725531,Reviewed claim,batch16_10schools_20261030
+29796042,Reviewed claim,batch17_10schools_20261030
+29998540,Reviewed claim,single_run_20261103/step3c
+30255409,Reviewed claim,batch17_10schools_20261030
+30270791,No clear evidence in scoped review,batch17_10schools_20261030
+30490775,No clear evidence in scoped review,batch17_10schools_20261030
+31018677,Reviewed claim,batch17_10schools_20261030
+31281674,Reviewed claim,batch17_10schools_20261030
+31528772,Reviewed claim,batch17_10schools_20261030
+31608087,Reviewed claim,batch17_10schools_20261030
+31758556,Reviewed claim,batch17_10schools_20261030
+31851256,Reviewed claim,batch18_10schools_20261030
+31903219,Reviewed claim,batch18_10schools_20261030
+32231541,Reviewed claim,batch18_10schools_20261030
+32479095,Reviewed claim,batch18_10schools_20261030
+32585503,Reviewed claim,second_pass_20261118
+32886383,No clear evidence in scoped review,single_run_20261103/step3c
+32965692,Reviewed claim,batch18_10schools_20261030
+32993837,No clear evidence in scoped review,batch18_10schools_20261030
+33159363,Reviewed claim,batch18_10schools_20261030
+33455004,Reviewed claim,batch18_10schools_20261030
+33565539,No clear evidence in scoped review,batch19_10schools_20261030
+33624606,No clear evidence in scoped review,batch19_10schools_20261030
+33733966,Reviewed claim,batch19_10schools_20261030
+33794207,Reviewed claim,rule_e_20261117
+33922950,Reviewed claim,second_pass_20261118
+33951941,No clear evidence in scoped review,batch19_10schools_20261030
+34125463,Reviewed claim,batch19_10schools_20261030
+34135484,Reviewed claim,batch19_10schools_20261030
+34148887,No clear evidence in scoped review,batch19_10schools_20261030
+34225123,No clear evidence in scoped review,batch19_10schools_20261030
+34540901,Reviewed claim,batch20_10schools_20261030
+34625544,Reviewed claim,second_pass_20261118
+34671128,Reviewed claim,single_run_20261103/followup_blocked
+34672217,Reviewed claim,single_run_20261103/final
+34946479,No usable public page,single_run_20261103/final
+35008423,Reviewed claim,batch20_10schools_20261030
+35129114,Reviewed claim,batch20_10schools_20261030
+35311563,Reviewed claim,second_pass_20261118
+35547286,Reviewed claim,single_run_20261103/step3b
+35784391,Reviewed claim,batch20_10schools_20261030
+35890890,No clear evidence in scoped review,batch21_10schools_20261030
+35933721,Reviewed claim,batch21_10schools_20261030
+36021631,Reviewed claim,batch21_10schools_20261030
+36031993,No clear evidence in scoped review,batch21_10schools_20261030
+36066067,Reviewed claim,single_run_20261103/final
+36185466,Reviewed claim,batch21_10schools_20261030
+36232577,Reviewed claim,batch21_10schools_20261030
+36262199,No clear evidence in scoped review,batch21_10schools_20261030
+36276828,Reviewed claim,batch21_10schools_20261030
+36281817,Reviewed claim,batch21_10schools_20261030
+36350546,Reviewed claim,single_run_20261103/step3
+36513280,Reviewed claim,batch22_10schools_20261102
+36520624,No clear evidence in scoped review,batch22_10schools_20261102
+36628382,Reviewed claim,single_run_20261103/step2
+37112288,Reviewed claim,batch22_10schools_20261102
+37147254,Reviewed claim,batch22_10schools_20261102
+37328635,Reviewed claim,batch22_10schools_20261102
+37416253,Reviewed claim,batch22_10schools_20261102
+37472911,Reviewed claim,single_run_20261103/step3
+37556682,No clear evidence in scoped review,rule_e_20261117
+37796564,Reviewed claim,batch22_10schools_20261102
+37887150,No clear evidence in scoped review,single_run_20261103/step3
+38096510,Reviewed claim,batch23_10schools_20261102
+38394561,Reviewed claim,batch23_10schools_20261102
+38526011,No clear evidence in scoped review,batch23_10schools_20261102
+38653015,Reviewed claim,batch23_10schools_20261102
+38661388,Reviewed claim,batch23_10schools_20261102
+38758770,Reviewed claim,batch23_10schools_20261102
+38854084,No clear evidence in scoped review,batch23_10schools_20261102
+38935587,Reviewed claim,batch23_10schools_20261102
+38975788,No clear evidence in scoped review,batch23_10schools_20261102
+39130058,Reviewed claim,single_run_20261103/manual
+39171821,Reviewed claim,batch24_10schools_20261102
+39195819,No clear evidence in scoped review,batch24_10schools_20261102
+39229061,No clear evidence in scoped review,batch24_10schools_20261102
+39351914,No clear evidence in scoped review,batch24_10schools_20261102
+39453214,Reviewed claim,batch24_10schools_20261102
+39568857,Reviewed claim,second_pass_20261118
+39907811,Reviewed claim,batch24_10schools_20261102
+39923451,No usable public page,single_run_20261103/final
+40175889,Reviewed claim,batch24_10schools_20261102
+40383398,No clear evidence in scoped review,batch25_10schools_20261102
+40467992,Reviewed claim,single_run_20261103/final
+40610606,Reviewed claim,batch25_10schools_20261102
+40618486,Reviewed claim,batch25_10schools_20261102
+40631085,Reviewed claim,batch25_10schools_20261102
+40847752,No clear evidence in scoped review,batch25_10schools_20261102
+40904373,Reviewed claim,batch25_10schools_20261102
+40978257,Reviewed claim,single_run_20261103/final
+41176931,Reviewed claim,batch25_10schools_20261102
+41181908,No clear evidence in scoped review,batch25_10schools_20261102
+41213404,No clear evidence in scoped review,single_run_20261103/step3
+41285467,No clear evidence in scoped review,batch26_10schools_20261102
+41357379,No usable public page,single_run_20261103/final
+41377165,No clear evidence in scoped review,batch26_10schools_20261102
+41405700,No clear evidence in scoped review,batch26_10schools_20261102
+41507895,Reviewed claim,batch26_10schools_20261102
+41554150,Reviewed claim,batch26_10schools_20261102
+41584790,Reviewed claim,batch26_10schools_20261102
+41764666,No clear evidence in scoped review,batch26_10schools_20261102
+41888515,Reviewed claim,batch26_10schools_20261102
+41955701,No clear evidence in scoped review,batch27_10schools_20261102
+42149666,No clear evidence in scoped review,rule_e_20261117
+42179975,Reviewed claim,batch27_10schools_20261102
+42202683,Reviewed claim,single_run_20261103/manual
+42215279,No clear evidence in scoped review,batch27_10schools_20261102
+42328518,Reviewed claim,batch27_10schools_20261102
+42434583,Reviewed claim,batch27_10schools_20261102
+42601396,No clear evidence in scoped review,single_run_20261103/step3
+42912378,Reviewed claim,single_run_20261103/step2
+42986451,Reviewed claim,batch27_10schools_20261102
+43038662,No clear evidence in scoped review,batch28_10schools_20261102
+43088454,No clear evidence in scoped review,batch28_10schools_20261102
+43133926,No clear evidence in scoped review,single_run_20261103/step3b
+43138370,Reviewed claim,second_pass_20261118
+43140379,No clear evidence in scoped review,batch28_10schools_20261102
+43166282,No clear evidence in scoped review,batch28_10schools_20261102
+43238662,No clear evidence in scoped review,single_run_20261103/final
+43245047,No clear evidence in scoped review,batch28_10schools_20261102
+43289917,Reviewed claim,batch28_10schools_20261102
+43375546,Reviewed claim,single_run_20261103/step3
+43403496,No clear evidence in scoped review,batch29_10schools_20261102
+43632318,Reviewed claim,second_pass_20261118
+43802065,Reviewed claim,single_run_20261103/step3
+43869172,Reviewed claim,single_run_20261103/step2
+44002887,Reviewed claim,batch29_10schools_20261102
+44031601,No clear evidence in scoped review,batch29_10schools_20261102
+44046131,Reviewed claim,rule_e_20261117
+44175786,Reviewed claim,single_run_20261103/step3
+44227469,No clear evidence in scoped review,batch29_10schools_20261102
+44373961,Reviewed claim,batch29_10schools_20261102
+44673074,Reviewed claim,rule_e_20261117
+44836298,No clear evidence in scoped review,single_run_20261103/followup_blocked
+45104329,Reviewed claim,single_run_20261103/chunk01
+45133950,Reviewed claim,single_run_20261103/chunk01
+45279651,Reviewed claim,single_run_20261103/followup_blocked
+45364437,Reviewed claim,single_run_20261103/chunk01
+45436515,No clear evidence in scoped review,single_run_20261103/chunk01
+45553352,Reviewed claim,single_run_20261103/chunk01
+45757947,Reviewed claim,rule_e_20261117
+45882318,Reviewed claim,single_run_20261103/followup_blocked
+45984740,Reviewed claim,single_run_20261103/chunk01
+45986032,Reviewed claim,second_pass_20261118
+45994471,Reviewed claim,single_run_20261103/chunk01
+46097781,No clear evidence in scoped review,single_run_20261103/followup_blocked
+46165232,Reviewed claim,single_run_20261103/chunk01
+46206050,Reviewed claim,single_run_20261103/chunk01
+46239244,No clear evidence in scoped review,single_run_20261103/step2b
+46518352,Reviewed claim,single_run_20261103/chunk01
+46581319,No clear evidence in scoped review,single_run_20261103/chunk01
+46616391,Reviewed claim,single_run_20261103/chunk01
+46646143,Reviewed claim,single_run_20261103/chunk01
+46706680,Reviewed claim,single_run_20261103/chunk01
+46796995,Reviewed claim,single_run_20261103/chunk01
+47034991,Reviewed claim,single_run_20261103/chunk01
+47140640,No clear evidence in scoped review,single_run_20261103/chunk01
+47204443,Reviewed claim,single_run_20261103/chunk02
+47243834,Reviewed claim,single_run_20261103/chunk02
+47244612,Reviewed claim,single_run_20261103/followup_blocked
+47273038,Reviewed claim,single_run_20261103/chunk02
+47290443,No usable public page,single_run_20261103/final
+47462120,Reviewed claim,single_run_20261103/chunk02
+47640376,Reviewed claim,single_run_20261103/chunk02
+47705565,Reviewed claim,single_run_20261103/chunk02
+47727629,No usable public page,single_run_20261103/final
+47969716,Reviewed claim,single_run_20261103/chunk02
+47979659,Reviewed claim,single_run_20261103/chunk02
+47986219,Reviewed claim,single_run_20261103/step2
+48184058,Reviewed claim,single_run_20261103/chunk02
+48312263,Reviewed claim,single_run_20261103/chunk02
+48328583,Reviewed claim,single_run_20261103/chunk02
+48363218,Reviewed claim,single_run_20261103/chunk02
+48724676,No clear evidence in scoped review,single_run_20261103/followup_blocked
+48760074,Reviewed claim,second_pass_20261118
+48791751,Reviewed claim,single_run_20261103/chunk02
+49021135,Reviewed claim,single_run_20261103/chunk02
+49631077,No clear evidence in scoped review,single_run_20261103/chunk02
+49669037,No clear evidence in scoped review,single_run_20261103/chunk02
+49741755,Reviewed claim,single_run_20261103/chunk02
+49762104,Reviewed claim,single_run_20261103/chunk02
+49862579,Reviewed claim,single_run_20261103/chunk02
+50060022,No clear evidence in scoped review,single_run_20261103/chunk03
+50783450,No clear evidence in scoped review,single_run_20261103/chunk03
+50848996,Reviewed claim,single_run_20261103/chunk03
+50905672,Reviewed claim,single_run_20261103/chunk03
+51041954,No usable public page,single_run_20261103/final
+51100048,No clear evidence in scoped review,single_run_20261103/chunk03
+51210001,Reviewed claim,dq_20261118
+51305351,Reviewed claim,single_run_20261103/followup_blocked
+51341279,Reviewed claim,single_run_20261103/chunk03
+51863294,Reviewed claim,single_run_20261103/followup_blocked
+52064811,Reviewed claim,single_run_20261103/chunk03
+52217632,Reviewed claim,single_run_20261103/chunk03
+52293921,No clear evidence in scoped review,single_run_20261103/followup_blocked
+52423184,Reviewed claim,single_run_20261103/chunk03
+52479822,Reviewed claim,single_run_20261103/chunk03
+52531425,Reviewed claim,single_run_20261103/chunk03
+52863414,Reviewed claim,single_run_20261103/chunk03
+52866214,Reviewed claim,single_run_20261103/chunk03
+52885189,Reviewed claim,single_run_20261103/chunk03
+52925821,Reviewed claim,single_run_20261103/chunk03
+52965560,Reviewed claim,single_run_20261103/chunk03
+53075005,No clear evidence in scoped review,single_run_20261103/chunk03
+53133366,No clear evidence in scoped review,dq_20261118
+53147557,Reviewed claim,single_run_20261103/chunk03
+53175499,Reviewed claim,single_run_20261103/chunk03
+53259263,Reviewed claim,single_run_20261103/chunk04
+53319802,No clear evidence in scoped review,single_run_20261103/chunk04
+53352683,Reviewed claim,single_run_20261103/chunk04
+53576482,No clear evidence in scoped review,single_run_20261103/followup_blocked
+54067262,No clear evidence in scoped review,single_run_20261103/chunk04
+54332921,Reviewed claim,single_run_20261103/chunk04
+54348763,No usable public page,single_run_20261103/final
+54516737,No clear evidence in scoped review,single_run_20261103/chunk04
+54752734,Reviewed claim,single_run_20261103/chunk04
+54806839,Reviewed claim,single_run_20261103/chunk04
+54847211,Reviewed claim,single_run_20261103/chunk04
+55233055,Reviewed claim,single_run_20261103/chunk04
+55267088,Reviewed claim,single_run_20261103/step2
+55382103,No clear evidence in scoped review,single_run_20261103/chunk04
+55508705,Reviewed claim,single_run_20261103/chunk04
+55512387,Reviewed claim,single_run_20261103/chunk04
+55690064,Reviewed claim,single_run_20261103/followup_blocked
+56130729,Reviewed claim,single_run_20261103/chunk04
+56299553,Reviewed claim,single_run_20261103/followup_blocked
+56315778,No clear evidence in scoped review,single_run_20261103/followup_blocked
+56417100,Reviewed claim,single_run_20261103/followup_blocked
+56501561,Reviewed claim,single_run_20261103/chunk04
+56568612,No clear evidence in scoped review,rule_e_20261117
+56662185,Reviewed claim,single_run_20261103/chunk04
+56858061,No clear evidence in scoped review,single_run_20261103/chunk04
+56867397,Reviewed claim,single_run_20261103/chunk05
+56949296,No clear evidence in scoped review,single_run_20261103/chunk05
+57034070,Reviewed claim,single_run_20261103/chunk05
+57106833,Reviewed claim,single_run_20261103/chunk05
+57184925,Reviewed claim,second_pass_20261118
+57206066,Reviewed claim,single_run_20261103/chunk05
+57228484,Reviewed claim,single_run_20261103/followup_blocked
+57317316,Reviewed claim,single_run_20261103/chunk05
+57329777,Reviewed claim,single_run_20261103/chunk05
+57368693,Reviewed claim,second_pass_20261118
+57370453,Reviewed claim,single_run_20261103/followup_blocked
+57467562,Reviewed claim,single_run_20261103/chunk05
+57510246,Reviewed claim,single_run_20261103/chunk05
+57755652,No clear evidence in scoped review,rule_e_20261117
+57850353,Reviewed claim,single_run_20261103/chunk05
+58004018,Reviewed claim,single_run_20261103/followup_blocked
+58102266,No clear evidence in scoped review,single_run_20261103/step3
+58173761,No clear evidence in scoped review,single_run_20261103/chunk05
+58286716,No usable public page,single_run_20261103/final
+58294404,Reviewed claim,single_run_20261103/chunk05
+58294981,Reviewed claim,single_run_20261103/chunk05
+58310322,No clear evidence in scoped review,single_run_20261103/followup_blocked
+58338225,No clear evidence in scoped review,single_run_20261103/followup_blocked
+58385274,Reviewed claim,single_run_20261103/chunk05
+58653522,Reviewed claim,single_run_20261103/chunk05
+58747846,Reviewed claim,single_run_20261103/chunk06
+58862351,Reviewed claim,single_run_20261103/chunk06
+58994357,Reviewed claim,single_run_20261103/chunk06
+59249600,Reviewed claim,single_run_20261103/chunk06
+59266692,Reviewed claim,single_run_20261103/chunk06
+59457803,Reviewed claim,single_run_20261103/chunk06
+59468219,No clear evidence in scoped review,single_run_20261103/chunk06
+59497255,No clear evidence in scoped review,single_run_20261103/chunk06
+59848694,Reviewed claim,single_run_20261103/chunk06
+59900714,Reviewed claim,single_run_20261103/chunk06
+59975651,No clear evidence in scoped review,single_run_20261103/step3
+60131588,Reviewed claim,single_run_20261103/chunk06
+60211862,Reviewed claim,single_run_20261103/chunk06
+60308449,Reviewed claim,single_run_20261103/chunk06
+60382920,Reviewed claim,single_run_20261103/chunk06
+60521412,Reviewed claim,single_run_20261103/followup_blocked
+60570294,No clear evidence in scoped review,dq_20261118
+60904587,Reviewed claim,single_run_20261103/step2
+61043089,No clear evidence in scoped review,single_run_20261103/chunk06
+61056172,No clear evidence in scoped review,single_run_20261103/chunk06
+61061763,Reviewed claim,single_run_20261103/followup_blocked
+61184554,Reviewed claim,single_run_20261103/chunk06
+61686233,Reviewed claim,single_run_20261103/chunk06
+61980418,Reviewed claim,single_run_20261103/chunk06
+62004466,No clear evidence in scoped review,single_run_20261103/chunk06
+62078083,Reviewed claim,single_run_20261103/chunk07
+62288230,Reviewed claim,single_run_20261103/chunk07
+62518360,No usable public page,single_run_20261103/final
+62533129,Reviewed claim,single_run_20261103/chunk07
+62544265,Reviewed claim,single_run_20261103/chunk07
+62569730,Reviewed claim,single_run_20261103/step2
+62707060,No clear evidence in scoped review,single_run_20261103/chunk07
+62862066,Reviewed claim,second_pass_20261118
+63111806,Reviewed claim,single_run_20261103/chunk07
+63150475,Reviewed claim,single_run_20261103/chunk07
+63300625,No clear evidence in scoped review,single_run_20261103/chunk07
+63321041,Reviewed claim,single_run_20261103/manual
+63329692,Reviewed claim,single_run_20261103/chunk07
+63542436,No clear evidence in scoped review,single_run_20261103/chunk07
+63581692,No clear evidence in scoped review,single_run_20261103/chunk07
+63592981,Reviewed claim,single_run_20261103/step2
+63682476,Reviewed claim,single_run_20261103/chunk07
+63742407,Reviewed claim,single_run_20261103/followup_blocked
+63954028,Reviewed claim,single_run_20261103/chunk07
+64065082,Reviewed claim,single_run_20261103/chunk07
+64081877,No clear evidence in scoped review,single_run_20261103/chunk07
+64285853,No clear evidence in scoped review,single_run_20261103/chunk07
+64732323,Reviewed claim,single_run_20261103/chunk07
+64736967,Reviewed claim,single_run_20261103/chunk07
+64836806,Reviewed claim,single_run_20261103/chunk07
+64949601,No clear evidence in scoped review,single_run_20261103/chunk08
+65487837,Reviewed claim,single_run_20261103/final
+65545391,Reviewed claim,single_run_20261103/step2
+65717061,Reviewed claim,single_run_20261103/followup_blocked
+65839656,No clear evidence in scoped review,single_run_20261103/chunk08
+65927702,Reviewed claim,single_run_20261103/chunk08
+66161099,Reviewed claim,single_run_20261103/step2
+66283082,Reviewed claim,single_run_20261103/chunk08
+66383692,No clear evidence in scoped review,rule_e_20261117
+66455663,Reviewed claim,single_run_20261103/chunk08
+66475520,No clear evidence in scoped review,single_run_20261103/followup_blocked
+66620411,Reviewed claim,single_run_20261103/chunk08
+66634449,Reviewed claim,single_run_20261103/chunk08
+66851849,Reviewed claim,single_run_20261103/chunk08
+67662754,Reviewed claim,single_run_20261103/chunk08
+67731691,Reviewed claim,single_run_20261103/chunk08
+67742754,Reviewed claim,single_run_20261103/final
+67743631,Reviewed claim,single_run_20261103/chunk08
+67788311,No clear evidence in scoped review,single_run_20261103/chunk08
+67809355,Reviewed claim,single_run_20261103/chunk08
+67926479,Reviewed claim,single_run_20261103/chunk08
+68361133,Reviewed claim,single_run_20261103/followup_blocked
+68403656,Reviewed claim,single_run_20261103/chunk08
+68422076,No clear evidence in scoped review,single_run_20261103/followup_blocked
+68602166,Reviewed claim,single_run_20261103/chunk08
+68812584,Reviewed claim,single_run_20261103/chunk09
+68893390,Reviewed claim,single_run_20261103/chunk09
+68939834,Reviewed claim,single_run_20261103/chunk09
+69004747,No clear evidence in scoped review,single_run_20261103/followup_blocked
+69043808,Reviewed claim,single_run_20261103/chunk09
+69088221,No clear evidence in scoped review,single_run_20261103/chunk09
+69195602,Reviewed claim,single_run_20261103/chunk09
+69266159,No clear evidence in scoped review,single_run_20261103/chunk09
+69329486,No clear evidence in scoped review,single_run_20261103/chunk09
+69895255,Reviewed claim,single_run_20261103/chunk09
+69909271,No clear evidence in scoped review,single_run_20261103/followup_blocked
+70089804,Reviewed claim,single_run_20261103/chunk09
+70182130,Reviewed claim,single_run_20261103/chunk09
+70201551,Reviewed claim,single_run_20261103/followup_blocked
+70329261,No clear evidence in scoped review,single_run_20261103/chunk09
+70398560,Reviewed claim,single_run_20261103/chunk09
+70481988,No usable public page,single_run_20261103/final
+70592143,No clear evidence in scoped review,single_run_20261103/chunk09
+70803136,Reviewed claim,single_run_20261103/chunk09
+71078874,No clear evidence in scoped review,single_run_20261103/chunk09
+71363923,Reviewed claim,single_run_20261103/chunk09
+71375812,Reviewed claim,single_run_20261103/chunk09
+71638763,Reviewed claim,single_run_20261103/chunk09
+71669600,Reviewed claim,single_run_20261103/chunk09
+71677992,No clear evidence in scoped review,single_run_20261103/chunk09
+71754599,Reviewed claim,single_run_20261103/chunk10
+71992738,Reviewed claim,single_run_20261103/chunk10
+72009890,No clear evidence in scoped review,single_run_20261103/chunk10
+72074288,No clear evidence in scoped review,single_run_20261103/chunk10
+72120589,Reviewed claim,single_run_20261103/chunk10
+72266104,No clear evidence in scoped review,single_run_20261103/chunk10
+72345466,Reviewed claim,single_run_20261103/chunk10
+72370577,No clear evidence in scoped review,single_run_20261103/chunk10
+72378947,Reviewed claim,single_run_20261103/chunk10
+72392930,No clear evidence in scoped review,single_run_20261103/chunk10
+72471883,No clear evidence in scoped review,single_run_20261103/chunk10
+72509254,Reviewed claim,single_run_20261103/chunk10
+72584192,No clear evidence in scoped review,single_run_20261103/followup_blocked
+72624886,Reviewed claim,single_run_20261103/step2
+72627865,Reviewed claim,single_run_20261103/chunk10
+72672270,Reviewed claim,single_run_20261103/chunk10
+72769342,Reviewed claim,single_run_20261103/step2
+73075913,Reviewed claim,single_run_20261103/chunk10
+73083470,Reviewed claim,single_run_20261103/chunk10
+73184968,No clear evidence in scoped review,single_run_20261103/chunk10
+73272488,Reviewed claim,single_run_20261103/followup_blocked
+73581523,Reviewed claim,single_run_20261103/chunk10
+73629371,Reviewed claim,single_run_20261103/followup_blocked
+73893187,Reviewed claim,single_run_20261103/chunk10
+73926940,Reviewed claim,single_run_20261103/chunk10
+74174879,No clear evidence in scoped review,single_run_20261103/chunk11
+74358019,Reviewed claim,single_run_20261103/step2
+74396596,Reviewed claim,single_run_20261103/chunk11
+74482611,Reviewed claim,single_run_20261103/step2
+74489639,Reviewed claim,single_run_20261103/chunk11
+74631147,Reviewed claim,single_run_20261103/chunk11
+74706113,Reviewed claim,single_run_20261103/followup_blocked
+74723082,Reviewed claim,single_run_20261103/chunk11
+74920766,No clear evidence in scoped review,single_run_20261103/chunk11
+75017455,No clear evidence in scoped review,single_run_20261103/chunk11
+75109796,Reviewed claim,single_run_20261103/chunk11
+75255864,Reviewed claim,single_run_20261103/chunk11
+75387026,No clear evidence in scoped review,single_run_20261103/chunk11
+75401552,Reviewed claim,single_run_20261103/chunk11
+75505688,No clear evidence in scoped review,single_run_20261103/chunk11
+75527289,Reviewed claim,single_run_20261103/final
+75565366,No clear evidence in scoped review,single_run_20261103/chunk11
+75580959,Reviewed claim,single_run_20261103/final
+75614609,Reviewed claim,single_run_20261103/chunk11
+75656508,Reviewed claim,single_run_20261103/chunk11
+75834458,No clear evidence in scoped review,single_run_20261103/chunk11
+76033436,Reviewed claim,single_run_20261103/chunk11
+76222592,No clear evidence in scoped review,single_run_20261103/chunk11
+76440567,No clear evidence in scoped review,single_run_20261103/chunk11
+76550010,No clear evidence in scoped review,single_run_20261103/followup_blocked
+76557608,Reviewed claim,single_run_20261103/chunk12
+76952966,No clear evidence in scoped review,single_run_20261103/chunk12
+77002828,Reviewed claim,single_run_20261103/chunk12
+77314942,Reviewed claim,single_run_20261103/chunk12
+77370320,Reviewed claim,single_run_20261103/chunk12
+77624936,Reviewed claim,single_run_20261103/chunk12
+77656740,No clear evidence in scoped review,single_run_20261103/chunk12
+77763178,No clear evidence in scoped review,single_run_20261103/chunk12
+78491090,No clear evidence in scoped review,single_run_20261103/chunk12
+78508835,Reviewed claim,single_run_20261103/chunk12
+78801570,No clear evidence in scoped review,single_run_20261103/step2
+78808043,Reviewed claim,second_pass_20261118
+78918091,No clear evidence in scoped review,single_run_20261103/chunk12
+79004521,Reviewed claim,single_run_20261103/followup_blocked
+79012683,Reviewed claim,single_run_20261103/chunk12
+79034924,No usable public page,single_run_20261103/final
+79093755,Reviewed claim,single_run_20261103/step2
+79466321,No clear evidence in scoped review,single_run_20261103/chunk12
+79626756,No clear evidence in scoped review,single_run_20261103/chunk12
+79708334,Reviewed claim,single_run_20261103/step2
+79969356,Reviewed claim,single_run_20261103/chunk12
+80274643,No clear evidence in scoped review,single_run_20261103/chunk12
+80378022,Reviewed claim,single_run_20261103/chunk12
+80509560,Reviewed claim,single_run_20261103/chunk12
+80561156,Reviewed claim,single_run_20261103/chunk12
+80612612,Reviewed claim,single_run_20261103/chunk13
+80731562,Reviewed claim,single_run_20261103/chunk13
+80746043,Reviewed claim,single_run_20261103/chunk13
+80752058,Reviewed claim,single_run_20261103/chunk13
+81021363,No clear evidence in scoped review,single_run_20261103/chunk13
+81266343,Reviewed claim,single_run_20261103/chunk13
+81396509,Reviewed claim,single_run_20261103/chunk13
+81453817,Reviewed claim,single_run_20261103/chunk13
+81611939,No clear evidence in scoped review,single_run_20261103/chunk13
+81680693,No clear evidence in scoped review,single_run_20261103/chunk13
+81857869,Reviewed claim,single_run_20261103/chunk13
+81903519,Reviewed claim,single_run_20261103/chunk13
+82047013,No clear evidence in scoped review,single_run_20261103/chunk13
+82075850,No clear evidence in scoped review,single_run_20261103/chunk13
+82110758,Reviewed claim,single_run_20261103/chunk13
+82137009,No clear evidence in scoped review,single_run_20261103/followup_blocked
+82212978,Reviewed claim,single_run_20261103/chunk13
+82408375,Reviewed claim,single_run_20261103/chunk13
+82624830,Reviewed claim,single_run_20261103/followup_blocked
+82757734,Reviewed claim,single_run_20261103/chunk13
+82838118,No clear evidence in scoped review,single_run_20261103/chunk13
+82854505,Reviewed claim,single_run_20261103/chunk13
+82962565,Reviewed claim,single_run_20261103/chunk13
+82982309,Reviewed claim,single_run_20261103/step2
+83020784,No clear evidence in scoped review,single_run_20261103/followup_blocked
+83454509,No clear evidence in scoped review,single_run_20261103/chunk14
+83584296,Reviewed claim,single_run_20261103/step2
+83623446,No clear evidence in scoped review,single_run_20261103/chunk14
+83735665,Reviewed claim,single_run_20261103/step2
+83810698,Reviewed claim,single_run_20261103/chunk14
+83828066,Reviewed claim,single_run_20261103/chunk14
+84103650,No clear evidence in scoped review,single_run_20261103/followup_blocked
+84230778,Reviewed claim,single_run_20261103/chunk14
+84520303,Reviewed claim,single_run_20261103/followup_blocked
+84584068,Reviewed claim,single_run_20261103/chunk14
+84585645,Reviewed claim,single_run_20261103/chunk14
+84704913,Reviewed claim,single_run_20261103/chunk14
+84884375,No clear evidence in scoped review,single_run_20261103/chunk14
+85200474,Reviewed claim,single_run_20261103/chunk14
+85440729,No clear evidence in scoped review,single_run_20261103/followup_blocked
+85558618,Reviewed claim,single_run_20261103/followup_blocked
+85670099,No usable public page,single_run_20261103/final
+85759071,Reviewed claim,single_run_20261103/followup_blocked
+85777315,Reviewed claim,single_run_20261103/chunk14
+85796724,Reviewed claim,single_run_20261103/chunk14
+86086213,Reviewed claim,single_run_20261103/chunk14
+86117924,No clear evidence in scoped review,single_run_20261103/chunk14
+86192571,Reviewed claim,single_run_20261103/followup_blocked
+86271166,No clear evidence in scoped review,single_run_20261103/chunk14
+86337537,No clear evidence in scoped review,single_run_20261103/chunk14
+86363147,Reviewed claim,single_run_20261103/followup_blocked
+86440798,Reviewed claim,second_pass_20261118
+86597125,Reviewed claim,single_run_20261103/chunk15
+86758230,Reviewed claim,single_run_20261103/step2
+86917350,Reviewed claim,single_run_20261103/chunk15
+86937935,Reviewed claim,single_run_20261103/chunk15
+86985859,Reviewed claim,single_run_20261103/followup_blocked
+87382179,Reviewed claim,single_run_20261103/chunk15
+87412084,No clear evidence in scoped review,single_run_20261103/chunk15
+87425546,Reviewed claim,single_run_20261103/chunk15
+87521048,Reviewed claim,single_run_20261103/chunk15
+87665835,Reviewed claim,single_run_20261103/chunk15
+87719096,Reviewed claim,single_run_20261103/chunk15
+87838841,No clear evidence in scoped review,single_run_20261103/chunk15
+87920455,Reviewed claim,single_run_20261103/step3
+87967939,No clear evidence in scoped review,single_run_20261103/chunk15
+87999453,Reviewed claim,single_run_20261103/chunk15
+88207732,No clear evidence in scoped review,single_run_20261103/chunk15
+88283203,No clear evidence in scoped review,single_run_20261103/chunk15
+88454421,No clear evidence in scoped review,single_run_20261103/chunk15
+88712672,Reviewed claim,single_run_20261103/chunk15
+88795871,Reviewed claim,single_run_20261103/chunk15
+89053805,No clear evidence in scoped review,single_run_20261103/chunk15
+89317818,No clear evidence in scoped review,single_run_20261103/chunk15
+89424201,No clear evidence in scoped review,single_run_20261103/step3
+89510449,No clear evidence in scoped review,single_run_20261103/chunk16
+89605548,No clear evidence in scoped review,single_run_20261103/chunk16
+89615900,No clear evidence in scoped review,single_run_20261103/chunk16
+89692072,Reviewed claim,single_run_20261103/chunk16
+89701816,No clear evidence in scoped review,single_run_20261103/followup_blocked
+89751941,Reviewed claim,single_run_20261103/chunk16
+89847413,Reviewed claim,single_run_20261103/chunk16
+89851619,Reviewed claim,single_run_20261103/chunk16
+89893224,Reviewed claim,single_run_20261103/chunk16
+90207041,Reviewed claim,single_run_20261103/followup_blocked
+90537318,Reviewed claim,single_run_20261103/chunk16
+90561266,No clear evidence in scoped review,single_run_20261103/chunk16
+90719952,Reviewed claim,single_run_20261103/chunk16
+90732940,Reviewed claim,single_run_20261103/step2
+90850620,Reviewed claim,single_run_20261103/chunk16
+90879048,No clear evidence in scoped review,single_run_20261103/step2
+90886859,Reviewed claim,single_run_20261103/chunk16
+91067048,Reviewed claim,single_run_20261103/chunk16
+91213471,Reviewed claim,single_run_20261103/chunk16
+91816093,No clear evidence in scoped review,single_run_20261103/chunk16
+92007673,Reviewed claim,single_run_20261103/chunk16
+92127007,Reviewed claim,single_run_20261103/chunk16
+92284588,Reviewed claim,rule_e_20261117
+92347699,Reviewed claim,rule_e_20261117
+92416778,No clear evidence in scoped review,single_run_20261103/chunk16
+92689250,Reviewed claim,single_run_20261103/chunk17
+92750123,Reviewed claim,single_run_20261103/chunk17
+93301103,Reviewed claim,single_run_20261103/chunk17
+93320132,Reviewed claim,second_pass_20261118
+93412255,No clear evidence in scoped review,single_run_20261103/step3
+93844270,No clear evidence in scoped review,single_run_20261103/followup_blocked
+93968806,Reviewed claim,single_run_20261103/chunk17
+94113162,Reviewed claim,single_run_20261103/followup_blocked
+94279206,Reviewed claim,rule_e_20261117
+94301041,Reviewed claim,single_run_20261103/chunk17
+94600352,Reviewed claim,single_run_20261103/chunk17
+94677983,Reviewed claim,single_run_20261103/chunk17
+94791997,Reviewed claim,single_run_20261103/chunk17
+94836092,Reviewed claim,single_run_20261103/chunk17
+94864296,No clear evidence in scoped review,single_run_20261103/chunk17
+94902263,Reviewed claim,single_run_20261103/chunk17
+94943347,Reviewed claim,single_run_20261103/chunk17
+94987345,No clear evidence in scoped review,single_run_20261103/chunk17
+95057356,Reviewed claim,single_run_20261103/chunk17
+95432644,No clear evidence in scoped review,single_run_20261103/followup_blocked
+95676943,No clear evidence in scoped review,single_run_20261103/step2b
+95747197,No clear evidence in scoped review,single_run_20261103/chunk17
+95869861,No clear evidence in scoped review,single_run_20261103/chunk17
+95940425,No clear evidence in scoped review,single_run_20261103/chunk17
+96330648,Reviewed claim,single_run_20261103/chunk17
+96622957,Reviewed claim,single_run_20261103/chunk18
+96646603,Reviewed claim,rule_e_20261117
+96653388,Reviewed claim,single_run_20261103/chunk18
+96671986,Reviewed claim,single_run_20261103/followup_blocked
+96689751,No clear evidence in scoped review,single_run_20261103/chunk18
+96984023,Reviewed claim,single_run_20261103/chunk18
+97174070,Reviewed claim,single_run_20261103/manual
+97184063,No clear evidence in scoped review,single_run_20261103/chunk18
+97400863,Reviewed claim,single_run_20261103/chunk18
+97402564,No clear evidence in scoped review,single_run_20261103/chunk18
+97655739,No clear evidence in scoped review,single_run_20261103/chunk18
+97683561,No clear evidence in scoped review,single_run_20261103/chunk18
+97686250,No clear evidence in scoped review,single_run_20261103/chunk18
+97718207,Reviewed claim,single_run_20261103/chunk18
+97762139,No usable public page,single_run_20261103/final
+97777849,Reviewed claim,single_run_20261103/chunk18
+97927760,No clear evidence in scoped review,single_run_20261103/chunk18
+97942210,Reviewed claim,single_run_20261103/step2
+97966458,Reviewed claim,single_run_20261103/chunk18
+98070480,Reviewed claim,single_run_20261103/chunk18
+98239828,Reviewed claim,single_run_20261103/chunk18
+98477278,Reviewed claim,single_run_20261103/chunk18
+98515782,Reviewed claim,single_run_20261103/chunk18
+98531789,Reviewed claim,single_run_20261103/chunk18
+98666483,No clear evidence in scoped review,single_run_20261103/chunk19
+98753011,Reviewed claim,single_run_20261103/step2
+98760751,Reviewed claim,single_run_20261103/final
+98780182,No clear evidence in scoped review,single_run_20261103/chunk19
+98925408,No clear evidence in scoped review,single_run_20261103/chunk19
+99022046,No clear evidence in scoped review,single_run_20261103/chunk19
+99373839,Reviewed claim,single_run_20261103/chunk19
+99640618,No clear evidence in scoped review,single_run_20261103/followup_blocked
+99648792,Reviewed claim,single_run_20261103/chunk19
+99749462,No clear evidence in scoped review,single_run_20261103/chunk19
+99842607,No clear evidence in scoped review,single_run_20261103/chunk19

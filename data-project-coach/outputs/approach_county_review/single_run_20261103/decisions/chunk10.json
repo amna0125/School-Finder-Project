@@ -1,0 +1,47 @@
+[
+{"sid":"71754599","o":"R","note":"Gustav Vasa F–6: accessible-learning-environment focus with a special teaching group for pupils who do best in smaller settings.","ev":[
+ {"p":0,"q":"Därför erbjuder vi också en särskild undervisningsgrupp, där de elever som mår bäst i mindre sammanhang kan tillbringa delar av sin dag.","i":"On-site special teaching group; accessibility emphasis.","c":[["Support, inclusion, or wellbeing emphasis","Accessible teaching; special teaching group","S"]],"cn":"Part of the school, not whole-school profile."}]},
+{"sid":"71992738","o":"R","note":"Fornbacka F–6: Trivselprogrammet with trivselledare; language- and knowledge-developing approach with cooperative structures; also anpassad grundskola and municipal special group.","ev":[
+ {"p":0,"q":"Vi är delaktiga i trivselprogrammet, som är ett program för aktivitet och inkludering, där vänliga och respektfulla trivselledare i årskurs 3-6 skapar möjligheter för ökad aktivitet på rasterna.","i":"Named wellbeing programme.","c":[["Support, inclusion, or wellbeing emphasis","Trivselprogrammet / trivselledare","E"]],"cn":"Per precedent."},
+ {"p":0,"q":"Vi arbetar utifrån ett språk- och kunskapsutvecklande arbetssätt.","i":"Language-developing approach with cooperative structures.","c":[["Other stated profile","Language- and knowledge-developing approach","S"]],"cn":"Common municipal approach, stated as central."}]},
+{"sid":"72009890","o":"N","note":"Lilla Adolf Fredrik F–6: monthly assemblies with performances and spring soirée; occasional events, nothing distinctive."},
+{"sid":"72074288","o":"N","note":"Rydbo skola: ICT and programming F–3; thin page, nothing distinctive."},
+{"sid":"72120589","o":"R","note":"Stålhamra F–6: partial teaching in Finnish for pupils with Finnish at home; music traditions; anpassad grundskola and municipal special group on site.","ev":[
+ {"p":0,"q":"Om man har finska som ett levande språk i hemmet kan man på Stålhamraskolan få viss del av sin undervisning på finska.","i":"Finnish-language teaching option.","c":[["Language, international, or intercultural profile","Partial Finnish-language teaching","S"]],"cn":"Optional, small groups."}]},
+{"sid":"72266104","o":"N","note":"Vendelsömalm F–9: hosts anpassad grundskola, träningsskola and lärstudio; free breakfast; no distinctive approach for the grundskola."},
+{"sid":"72345466","o":"R","note":"Kvarnby F–6: English from förskoleklass; scheduled homework help; language development in all teaching.","ev":[
+ {"p":0,"q":"Redan från förskoleklass läser ditt barn engelska.","i":"Early English.","c":[["Language, international, or intercultural profile","English from förskoleklass","S"]],"cn":"Early start only; not bilingual."}]},
+{"sid":"72370577","o":"N","note":"Stocksund (shared with Långängsskolan): vision Våga, Vilja, Växa; renovation; generic."},
+{"sid":"72378947","o":"R","note":"Vallentuna Friskola 6–9: sport orientations with local clubs (dance, football, ice hockey, basketball).","ev":[
+ {"p":0,"q":"Genom samarbeten med lokala idrottsföreningar gör vi fysisk aktivitet till en självklar del av skoldagen","i":"Sport orientations chosen by all pupils.","c":[["Other stated profile","Sport orientations with local clubs","E"]],"cn":"Orientations offered from 25/26."}]},
+{"sid":"72392930","o":"N","note":"Ängsnäs 4–6: generic Huddinge text."},
+{"sid":"72471883","o":"N","note":"Länna F–9: small rural school; generic."},
+{"sid":"72509254","o":"R","note":"Lunaskolan Bromma: resource school (grundskola and anpassad grundskola), Utvecklingspedagogik.","ev":[
+ {"p":0,"q":"Lunaskolan Bromma är en resursskola med","i":"Resource school.","c":[["Support, inclusion, or wellbeing emphasis","Resource school","E"]],"cn":"Quote fragment as it appears on page."}]},
+{"sid":"72584192","o":"B","why":"school-specific source not found","note":"Registered Stockholm URL redirects to Gamla Enskede skola; no page for Nya Enskede skola collected. Unit identity needs checking."},
+{"sid":"72624886","o":"U","why":"provider-level source only","note":"IES Liljeholmen: only the IES network homepage reached; unit page not collected.","ev":[
+ {"p":0,"q":"Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil","i":"Network-level bilingual profile; unit not confirmed.","t":"Provider webpage"}]},
+{"sid":"72627865","o":"R","note":"Alvik F–9: hearing-impairment classes (city hub); Generation Pep certified; preparatory classes 7–9.","ev":[
+ {"p":0,"q":"Förutom undervisning i årskurserna F–9 tar Alviksskolan emot elever med hörselnedsättning i hörselklasser.","i":"Specialised support provision.","c":[["Support, inclusion, or wellbeing emphasis","Hearing-impairment classes","E"]],"cn":"City-wide assignment."},
+ {"p":0,"q":"Vår skola är en certifierad Generation pep-skola.","i":"Named health programme.","c":[["Support, inclusion, or wellbeing emphasis","Generation Pep","E"]],"cn":"Per precedent."}]},
+{"sid":"72672270","o":"R","note":"Aspudden F–9: football classes in 7–9 with two employed coaches.","ev":[
+ {"p":0,"q":"Aspuddens skola har en inriktning med särskilda fotbollsklasser i årskurs 7–9, som du kan välja när du söker skola för ditt barn.","i":"Sport profile.","c":[["Other stated profile","Football classes 7–9","E"]],"cn":"Admission by skills test."}]},
+{"sid":"72769342","o":"U","why":"unit scope unclear","note":"Täby Friskola provider homepage only; Ljungmyr merges into Enhagen from autumn 2027. No Ljungmyr-specific approach found.","ev":[
+ {"p":0,"q":"Höstterminen 2027 får Ljungmyr nya lokaler vid Enhagen och blir en del av Täby Friskola Enhagen.","i":"Unit mentioned only in merger news.","t":"Provider webpage"}]},
+{"sid":"73075913","o":"R","note":"Mikaelgården: Waldorf school with curative (läkepedagogisk) approach for children with disabilities/NPF.","ev":[
+ {"p":0,"q":"Här finns såväl boende som Waldorfskola och fritidsverksamhet.","i":"Waldorf school.","c":[["Alternative pedagogy","Waldorf / läkepedagogik","E"]],"cn":"Organisation-level page."},
+ {"p":0,"q":"Verksamheten har som målsättning att hjälpa barn och unga med olika funktionsvariationer att stärka självkänslan och ta till vara och utveckla de egna förmågorna.","i":"Special-needs provision.","c":[["Support, inclusion, or wellbeing emphasis","Pupils with disabilities/NPF","E"]],"cn":"Includes residential care."}]},
+{"sid":"73083470","o":"R","note":"Rydbo friskola F–6: Montessori, member of Svenska Montessoriförbundet; regular movement (Röris).","ev":[
+ {"p":0,"q":"Vi arbetar utifrån Maria Montessoris pedagogik","i":"Montessori.","c":[["Alternative pedagogy","Montessori","E"]],"cn":"Membership stated on profile page."}]},
+{"sid":"73184968","o":"N","note":"Brandberg: anpassad grundskola, lärstudio and preparatory classes on site; no distinctive approach for the grundskola."},
+{"sid":"73272488","o":"B","why":"school-specific source not found","note":"Registered URL is Österåker municipality homepage; no school page found."},
+{"sid":"73581523","o":"R","note":"Tallbacka F–9: international work as a thread with EU school ambassadors; reading prioritised.","ev":[
+ {"p":1,"q":"Internationellt arbete löper som en röd tråd genom verksamheten och vi har flera utbildade EU-skolambassadörer.","i":"International orientation.","c":[["Language, international, or intercultural profile","International work; EU school ambassadors","S"]],"cn":"No detail on activities."}]},
+{"sid":"73629371","o":"B","why":"school-specific source not found","note":"Registered Sollentuna URL returns a 404 page; no school page found."},
+{"sid":"73893187","o":"R","note":"Maria Elementarskola F–9: traditional teacher-led school with homework and handwriting to year 5; Erasmus+ exchange. Refetched after an earlier 429 rate limit.","ev":[
+ {"p":0,"q":"Maria Elementar är en traditionell F-9 skola med fritidshem. Undervisningen är lärarledd och alla elever har hemklassrum, med egna bänkar och läroböcker.","i":"Traditional teacher-led profile.","c":[["Other stated profile","Traditional teacher-led","E"]],"cn":"Cf. JENSEN Långholmen."},
+ {"p":0,"q":"Skolan deltar aktivt i programmet Erasmus+ och planerar fler utbyten och internationella kontakter som berikar undervisningen.","i":"International exchange.","c":[["Language, international, or intercultural profile","Erasmus+ exchanges","S"]],"cn":"First trip 2025."}]},
+{"sid":"73926940","o":"R","note":"Deltaskolan 7–9: sport and health profile (football SvFF-licensed, ice hockey); inquiry-based working stated.","ev":[
+ {"p":0,"q":"Deltaskolan är en skola med idrott och hälsa som profil.","i":"Sport profile with extra sport twice weekly.","c":[["Other stated profile","Sport and health profile","E"]],"cn":"School claim."},
+ {"p":1,"q":"använda ett undersökande och forskande arbetssätt","i":"Inquiry-based working listed in pedagogy.","c":[["Project- or inquiry-based learning","Investigative working methods","S"]],"cn":"Listed principle, no detail."}]}
+]

@@ -1,0 +1,61 @@
+{
+  "school_unit_code": "98515782",
+  "school_name": "Stiftelsen nya Ängkärrskolan",
+  "registered_url": "http://www.angkarrskolan.se",
+  "attempted_at": "2026-10-21T09:23:59.601912+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://angkarrskolan.se/",
+      "retrieved_at": "2026-10-21T09:24:12.764649+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.angkarrskolan.se",
+          "robots_url": "https://angkarrskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:24:03.121054+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.angkarrskolan.se/",
+          "robots_url": "https://angkarrskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:24:06.255896+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://angkarrskolan.se/",
+          "robots_url": "https://angkarrskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:24:08.448032+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98515782_0.txt"
+    },
+    {
+      "source_url": "https://angkarrskolan.se/specialpedagoger/",
+      "retrieved_at": "2026-10-21T09:24:12.778935+00:00",
+      "robots_checks": [
+        {
+          "url": "https://angkarrskolan.se/specialpedagoger/",
+          "robots_url": "https://angkarrskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:24:08.448032+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98515782_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

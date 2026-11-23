@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "53175499",
+  "school_name": "Tyska Skolan",
+  "registered_url": "http://www.tyskaskolan.se",
+  "attempted_at": "2026-10-21T09:16:29.640133+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.tyskaskolan.se",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

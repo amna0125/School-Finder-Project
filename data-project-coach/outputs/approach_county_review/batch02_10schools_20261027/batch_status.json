@@ -1,0 +1,22 @@
+{
+  "status": "Contextual review recorded for all 10; unresolved follow-ups remain separate",
+  "review_date": "2026-10-27",
+  "selection_file_note": "selection.json retained as historical queue snapshot; this file and review_log.csv supersede its queued status",
+  "school_ids": [
+    "10184517",
+    "10495223",
+    "10657244",
+    "11025388",
+    "11442396",
+    "11777750",
+    "12187987",
+    "12801932",
+    "13124830",
+    "13301127"
+  ],
+  "reviewed_claim_schools": 4,
+  "scoped_no_clear_evidence_schools": 4,
+  "requires_review_schools": 2,
+  "database_error": "OperationalError('disk I/O error')",
+  "database_writes": false
+}

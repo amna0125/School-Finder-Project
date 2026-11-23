@@ -1,0 +1,17 @@
+{
+  "school_id": "20054868",
+  "school_name": "Odensala skola",
+  "registered_url": "http://www.sigtuna.se/odensalaskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.sigtuna.se/odensalaskolan",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:29:50.470508+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

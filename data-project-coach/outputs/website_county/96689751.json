@@ -1,0 +1,66 @@
+{
+  "school_unit_code": "96689751",
+  "school_name": "Kräpplaskolan",
+  "registered_url": "http://www.huddinge.se/krapplaskolan",
+  "attempted_at": "2026-10-21T09:23:55.984629+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.huddinge.se/krapplaskolan",
+      "retrieved_at": "2026-10-21T09:23:58.535180+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.huddinge.se/krapplaskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:52.895723+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.huddinge.se/krapplaskolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.404163+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "96689751_0.txt"
+    },
+    {
+      "source_url": "https://www.huddinge.se/krapplaskolan/om-skolan",
+      "retrieved_at": "2026-10-21T09:23:58.567741+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/krapplaskolan/om-skolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:54.404163+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "96689751_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Eleverna får möta lärandet både i och utanför klassrummet. Besök på museum, teater, kyrkor och vandringar i naturen bidrar till att göra undervisningen varierad och meningsfull. Genom samarbetet med Kungsklippeskolan får eleverna också tillgång till skolbibliotek och praktisk-estetiska ämnen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "3c921d9950b0ea725f00aa3e85ebe60dc9914715527172ac14aac500c0cf9020",
+      "school_unit_code": "96689751",
+      "school_name": "Kräpplaskolan",
+      "source_url": "https://www.huddinge.se/krapplaskolan/om-skolan",
+      "retrieved_at": "2026-10-21T09:23:58.567741+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

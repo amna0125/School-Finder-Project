@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "29524966",
+  "school_name": null,
+  "registered_url": "http://www.kastanjen.nu",
+  "attempted_at": "2026-10-21T09:20:55.646117+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.kastanjen.nu/",
+      "retrieved_at": "2026-10-21T09:21:03.331125+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.kastanjen.nu",
+          "robots_url": "https://www.kastanjen.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:57.156733+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.kastanjen.nu/",
+          "robots_url": "https://www.kastanjen.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:00.384694+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29524966_0.txt"
+    },
+    {
+      "source_url": "https://www.kastanjen.nu/om-oss",
+      "retrieved_at": "2026-10-21T09:21:03.353667+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kastanjen.nu/om-oss",
+          "robots_url": "https://www.kastanjen.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:00.384694+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29524966_1.txt"
+    },
+    {
+      "source_url": "https://www.kastanjen.nu/kopia-pa-pedagogiken",
+      "retrieved_at": "2026-10-21T09:21:03.399753+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kastanjen.nu/kopia-pa-pedagogiken",
+          "robots_url": "https://www.kastanjen.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:00.384694+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "29524966_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

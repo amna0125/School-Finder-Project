@@ -1,0 +1,17 @@
+{
+  "school_id": "29705473",
+  "school_name": "Snösätraskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:31:44.053690+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

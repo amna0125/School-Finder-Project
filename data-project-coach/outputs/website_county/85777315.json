@@ -1,0 +1,66 @@
+{
+  "school_unit_code": "85777315",
+  "school_name": "Mikaelskolan",
+  "registered_url": "http://www.mikaelskolan.se",
+  "attempted_at": "2026-10-21T09:23:32.545397+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.mikaelskolan.se/",
+      "retrieved_at": "2026-10-21T09:23:38.044531+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.mikaelskolan.se",
+          "robots_url": "https://www.mikaelskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:34.170491+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.mikaelskolan.se/",
+          "robots_url": "https://www.mikaelskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:35.689279+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "85777315_0.txt"
+    },
+    {
+      "source_url": "https://www.mikaelskolan.se/om-oss",
+      "retrieved_at": "2026-10-21T09:23:38.080413+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.mikaelskolan.se/om-oss",
+          "robots_url": "https://www.mikaelskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:35.689279+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "85777315_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "other_named_pedagogy",
+      "supporting_excerpt": "fristående grundskola med kristen profil. På skolan finns verksamhet från förskoleklass till år 9 med ett integrerat fritidshem i skolans lokaler. För yngre barn finns Solglimtens Reggio Emilia inspirerade förskola även den med kristen profil, därmed erbjuder vi en trygg plats för ditt barn från första början.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "05257efff5ee84c3d12796ac7f951bdc8de48d7ffb934762e5ef05dfb664898a",
+      "school_unit_code": "85777315",
+      "school_name": "Mikaelskolan",
+      "source_url": "https://www.mikaelskolan.se/",
+      "retrieved_at": "2026-10-21T09:23:38.044531+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

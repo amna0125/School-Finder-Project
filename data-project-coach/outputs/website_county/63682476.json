@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "63682476",
+  "school_name": "Grantomta Montessoriskola",
+  "registered_url": "http://www.grantomta.se",
+  "attempted_at": "2026-10-21T09:22:32.064780+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grantomta.se/",
+      "retrieved_at": "2026-10-21T09:22:49.669674+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.grantomta.se",
+          "robots_url": "https://grantomta.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:38.739698+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.grantomta.se/",
+          "robots_url": "https://grantomta.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:42.362276+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://grantomta.se/",
+          "robots_url": "https://grantomta.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:44.429879+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "63682476_0.txt"
+    },
+    {
+      "source_url": "https://grantomta.se/valkommen-till-grantomta-montessoriskolas-forskola/",
+      "retrieved_at": "2026-10-21T09:22:49.726188+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grantomta.se/valkommen-till-grantomta-montessoriskolas-forskola/",
+          "robots_url": "https://grantomta.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:44.429879+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "63682476_1.txt"
+    },
+    {
+      "source_url": "https://grantomta.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:49.788521+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grantomta.se/grundskola/",
+          "robots_url": "https://grantomta.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:44.429879+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "63682476_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "s en varierad undervisning som består av både genomgångar, arbete med praktiskt material (montessorimaterial), individuellt arbete och arbete i grupp. Redan i F-klass har eleverna musik och idrott med ämneslärare. Eleverna får möjlighet att fördjupa sig i ämnen som de är intresserade av. Vi följer läroplanen Lgr 22 och kunskapsplanen ” En samlad plan för montessoripedagogiken i Sverige”.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "e7466d3ff0098a95d424a0a460959902632d51eb0df7446d3af26d520d7165ac",
+      "school_unit_code": "63682476",
+      "school_name": "Grantomta Montessoriskola",
+      "source_url": "https://grantomta.se/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:49.788521+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

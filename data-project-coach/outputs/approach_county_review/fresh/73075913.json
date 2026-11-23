@@ -1,0 +1,52 @@
+{
+  "school_id": "73075913",
+  "school_name": "Mikaelgårdens Skola",
+  "registered_url": "http://www.mikaelgarden.se",
+  "pages": [
+    {
+      "requested_url": "https://www.mikaelgarden.se/",
+      "source_url": "https://www.mikaelgarden.se/",
+      "page_title": "Mikaelgården - Där alla får en chans",
+      "accessed_at": "2026-10-21T17:40:27.287246+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73075913_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mikaelgarden.se/",
+          "robots_url": "https://www.mikaelgarden.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:26.568098+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.mikaelgarden.se/lakepedagogik",
+      "source_url": "https://www.mikaelgarden.se/lakepedagogik",
+      "page_title": "Läkepedagogiken på Mikaelgården",
+      "accessed_at": "2026-10-21T17:40:28.055545+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "73075913_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.mikaelgarden.se/lakepedagogik",
+          "robots_url": "https://www.mikaelgarden.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:40:26.568098+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

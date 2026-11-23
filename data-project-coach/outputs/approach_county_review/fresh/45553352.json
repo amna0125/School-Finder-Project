@@ -1,0 +1,72 @@
+{
+  "school_id": "45553352",
+  "school_name": "Montessori Mondial Kungsholmen",
+  "registered_url": "https://montessorimondial.se/kungsholmen",
+  "pages": [
+    {
+      "requested_url": "https://montessorimondial.se/kungsholmen/",
+      "source_url": "https://montessorimondial.se/kungsholmen/",
+      "page_title": "Välkommen till Montessori Mondial Kungsholmen!",
+      "accessed_at": "2026-10-21T17:35:15.126344+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45553352_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kungsholmen/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:09.698327+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://montessorimondial.se/kungsholmen/om/grundskola/",
+      "source_url": "https://montessorimondial.se/kungsholmen/om/grundskola/",
+      "page_title": "Grundskola förskoleklass-åk 9 | Montessori Mondial Kungsholmen",
+      "accessed_at": "2026-10-21T17:35:15.902367+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45553352_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kungsholmen/om/grundskola/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:09.698327+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://montessorimondial.se/kungsholmen/montessoripedagogik/",
+      "source_url": "https://montessorimondial.se/kungsholmen/montessoripedagogik/",
+      "page_title": "Montessoripedagogik – Kungsholmen",
+      "accessed_at": "2026-10-21T17:35:16.679797+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45553352_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/kungsholmen/montessoripedagogik/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:32:09.698327+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

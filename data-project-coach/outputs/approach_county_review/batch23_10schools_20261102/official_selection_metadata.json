@@ -1,0 +1,92 @@
+[
+  {
+    "school_unit_code": "37887150",
+    "name": "Nordic International School Nacka",
+    "municipality_code": "0182",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://nordicinternational.se/nacka",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:10.150000"
+  },
+  {
+    "school_unit_code": "38096510",
+    "name": "Magelungens Grundskola Älvsjö",
+    "municipality_code": "0180",
+    "grades_json": "[\"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.magelungen.com",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:13.450000"
+  },
+  {
+    "school_unit_code": "38394561",
+    "name": "Södertälje friskola",
+    "municipality_code": "0181",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://www.sodertaljefriskola.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:25.960000"
+  },
+  {
+    "school_unit_code": "38526011",
+    "name": "Eddaskolan",
+    "municipality_code": "0191",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "http://www.sigtuna.se/eddaskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:27.080000"
+  },
+  {
+    "school_unit_code": "38653015",
+    "name": "Pershagenskolan",
+    "municipality_code": "0181",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.sodertalje.se/pershagenskolan.",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:18.440000"
+  },
+  {
+    "school_unit_code": "38661388",
+    "name": "Broängsskolan",
+    "municipality_code": "0127",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.botkyrka.se/broangsskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:11.840000"
+  },
+  {
+    "school_unit_code": "38758770",
+    "name": "Farsta grundskola",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:46.490000"
+  },
+  {
+    "school_unit_code": "38854084",
+    "name": "Steningehöjdens skola",
+    "municipality_code": "0191",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.sigtuna.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:59.360000"
+  },
+  {
+    "school_unit_code": "38935587",
+    "name": "Internationella Engelska Skolan Enskede",
+    "municipality_code": "0180",
+    "grades_json": "[\"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.engelska.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:57.120000"
+  },
+  {
+    "school_unit_code": "38975788",
+    "name": "Tungelsta skola",
+    "municipality_code": "0136",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://haninge.se/forskola-och-skola/grundskola/",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:13.870000"
+  }
+]

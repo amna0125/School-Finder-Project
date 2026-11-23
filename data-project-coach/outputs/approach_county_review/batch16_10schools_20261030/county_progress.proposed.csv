@@ -1,0 +1,763 @@
+school_id,official_directory_name,review_state,batch_reference,collection_status,registered_url,note
+10035236,Söderbymalmsskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10063280,Lärande Grundskola Skapa,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,https://www.larandegrundskola.se/skolor/huddinge/skapa,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10184517,Eleonoraskolan,Contextual review recorded; Reviewed explicit claim,batch02_10schools_20261027,reviewed_claim,,"No unresolved claim-scope blocker; profile does not imply universal participation in optional After School. Staged only, not loaded."
+10225038,Solfagraskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.huddinge.se/solfagraskolan,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10230535,Innovitaskolan Vällingby Park,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,https://innovitaskolan.se/vallingby-park/,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10311303,Lilla Kulturama,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.kulturama.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10495223,Tullingebergsskolan,Contextual review recorded; Scoped no clear approach evidence,batch02_10schools_20261027,scoped_no_clear_evidence,http://www.botkyrka.se/tullingebergsskolan,"Generic safety/learning, planned breaks and movement insufficient for distinctive school-wide category. Adapted years 1–9 and special teaching group not generalized. Staged only, not loaded."
+10657244,Skogsbacksskolan,Contextual review recorded; Reviewed explicit claim,batch02_10schools_20261027,reviewed_claim,https://www.botkyrka.se/barn--utbildning/skolbarn/grundskolor-i-kommunal-regi/skogsbacksskolan.html,"Facility booking terms flag assessed and cleared as unrelated to website collection; no blanket reuse permission claimed. Staged only, not loaded."
+10661388,Örjanskolan grund,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.orjanskolan.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10682125,Magitaskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.magitaskolan.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10715898,Akers Friskola,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.akersfriskola.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10735290,Långängsskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+10998117,Råbergsskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.sigtuna.se/rabergsskolan,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+11018018,Pops Academy Stockholm,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,https://www.popsacademy.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+11025388,Stenhamraskolan,Contextual review recorded; Scoped no clear approach evidence,batch02_10schools_20261027,scoped_no_clear_evidence,http://www.ekero.se/stenhamraskola,"Vision, learning environment and small special teaching group do not establish a school-wide approach. Staged only, not loaded."
+11193969,Karlslundsskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.vallentuna.se/karlslundsskolan,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+11364996,Lemshagastiftelsen,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.lemshaga.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+11442396,Stockholm International Academy Hägersten,Contextual review recorded; Uncertain evidence; Requires review,batch02_10schools_20261027,requires_review,https://siaskolan.se,"International environment/multicultural-background wording at provider level retained as an uncertain lead; concrete unit-specific language/curriculum or intercultural pedagogy not established. No firm code. Robots Crawl-delay 10; requests in separate tool rounds; exact historical timing not independently audited. Staged only, not loaded."
+11496096,Kunskapsskolan Saltsjöbaden,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,https://www.kunskapsskolan.se/skolor/saltsjobaden,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+11777750,Saltsjöbadens samskola,Contextual review recorded; Reviewed explicit claim,batch02_10schools_20261027,reviewed_claim,http://www.samskolan.org,"Do not infer international curriculum or all-pupil participation. Guessed /om-samskolan/ returned 404 and is excluded. Old samskolan.org permission issue not bypassed; current Nacka official site used. Staged only, not loaded."
+11914814,Rosenborgskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.sodertalje.se/rosenborgskolan,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+12092203,Brageskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,https://www.sollentuna.se/uweb/brageskolan/om-oss/,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+12187987,Katarina Södra skola,Contextual review recorded; Scoped no clear approach evidence,batch02_10schools_20261027,scoped_no_clear_evidence,https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-sodra-skola,"Values, support groups and attendance team insufficient to establish distinctive school-wide support approach. Culture floor and fritids creativity do not alone establish arts-learning pedagogy. Staged only, not loaded."
+12259212,Internationella Engelska Skolan Solna,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.engelska.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+12332278,Internationella Engelska Skolan Täby,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.engelska.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+12407147,Röllingbyskolan,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.osteraker.se,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+12757193,Vittra Östertälje,Prior contextual review; follow-ups may remain,batch01_followup_20261027,fetched_requires_context_review,http://www.vittra.se/ostertalje,Directory name retained; follow-up corrects earlier scraped names. Prior review is not exhaustive closure.
+12801932,Ulvsättraskolan,Contextual review recorded; Scoped no clear approach evidence,batch02_10schools_20261027,scoped_no_clear_evidence,http://www.jarfalla.se,"Bornholmsmodellen scoped to preschool class literacy, not a whole-school alternative pedagogy. Ordinary play, outings, curriculum wording and support provision insufficient. Conflicting pupil counts not used as approach evidence. Staged only, not loaded."
+13124830,Sjöängsskolan,Contextual review recorded; Prior-source scoped review; fresh source inaccessible; Requires review,batch02_10schools_20261027,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan,"Fresh sjoang.html unreadable despite HTTP 200. Earlier saved 2026-10-21 text reviewed for learning environment, ordinary aesthetic facilities, fritids and library claims; no firm approach code justified in that scope. Title remains candidate, not verified metadata. Follow-up: readable fresh source/title and official unit confirmation. Staged only, not loaded."
+13301127,Ekens skola,Contextual review recorded; Reviewed explicit claim,batch02_10schools_20261027,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola,"No unresolved blocker for the narrowly scoped subject-week code; team sizes are not class sizes. Staged only, not loaded."
+13384795,Raoul Wallenbergskolan Bagartorp,Contextual review recorded; Reviewed claim,batch03_10schools_20261027,reviewed_claim,http://www.raoulwallenbergskolan.se,7–9 body/register; metadata 6–9 discrepancy retained. Batch03 loaded; exact comparisons and idempotent replay passed.
+13493243,Viktor Rydbergs samskola Djursholm,Contextual review recorded; Reviewed claim,batch03_10schools_20261027,reviewed_claim,http://www.vrskolor.se,7–9 English spets only; not schoolwide bilingual curriculum. Batch03 loaded; exact comparisons and idempotent replay passed.
+13579948,S:t Olofs skola,Contextual review recorded; Uncertain evidence; Requires review,batch03_10schools_20261027,requires_review,http://www.sigtuna.se/stolofsskola,Broad digitalisation/accessibility/value emphasis insufficiently concrete; follow-up if distinctive model can be documented. Batch03 loaded; exact comparisons and idempotent replay passed.
+13582062,Järvaskolan,Contextual review recorded; Reviewed claim,batch03_10schools_20261027,reviewed_claim,http://www.jarvaskolan.se,7–9; optional AIK class plus supported additional teaching provision. Batch03 loaded; exact comparisons and idempotent replay passed.
+13654969,Balingsnässkolan,Contextual review recorded; Scoped no clear approach evidence,batch03_10schools_20261027,scoped_no_clear_evidence,http://www.huddinge.se/balingsnasskolan,Ordinary F–9 scoped main/about review: generic learning/safety/naturnära setting insufficient. Adapted 7–9 section excluded. Batch03 loaded; exact comparisons and idempotent replay passed.
+13665610,Brinkskolan,Contextual review recorded; Reviewed claim,batch03_10schools_20261027,reviewed_claim,http://www.taby.se/Brinkskolan,F–6 website; Pep self-description; no outdoor code from nearby forest or Green Flag alone. Batch03 loaded; exact comparisons and idempotent replay passed.
+13679897,Bagarmossens skola,Contextual review recorded; Uncertain evidence; Requires review,batch03_10schools_20261027,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/bagarmossens-skola,F–9; place-based statement too little structure for firm code. Robots response malformed; permission uncertainty retained. Batch03 loaded; exact comparisons and idempotent replay passed.
+13954336,Resursskolan vid Martinskolan,Contextual review recorded; Uncertain evidence; Requires review,batch03_10schools_20261027,requires_review,http://www.martinskolan.se,Identity blocker: directory resource-unit name versus different stored official name for same ID; reconcile before coding. Batch03 loaded; exact comparisons and idempotent replay passed.
+14040970,Stavsborgsskolan,Contextual review recorded; Scoped no clear approach evidence,batch03_10schools_20261027,scoped_no_clear_evidence,http://www.stavsborg.nacka.se,"F–9 main/about review: routines, mobile ban, textbooks/Chromebooks, generic wellbeing and nearby nature do not establish category. Exclude Älta resource school. Batch03 loaded; exact comparisons and idempotent replay passed."
+14115670,Friskolan & Fritidshemmet Hästens,Contextual review recorded; Reviewed claim,batch03_10schools_20261027,reviewed_claim,http://www.friskolanhastens.se,Arts school profile; outdoor only F–3; stored official grades 1–5. Website preschool class not silently added to register. Batch03 loaded; exact comparisons and idempotent replay passed.
+14121892,Bredängsskolan,Contextual review recorded; Reviewed claim,batch04_10schools_20261027,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/bredangsskolan,F–9 ordinary; adapted unit excluded. Music partnership explicit; precise delivery years/frequency unspecified. Malformed robots response retained. Loaded; exact comparisons and idempotent replay passed.
+14261356,Ekillaskolan,Contextual review recorded; Scoped no clear approach evidence,batch04_10schools_20261027,scoped_no_clear_evidence,http://www.sigtuna.se/ekillaskolan,"7–9; municipality-wide platform not a unit-specific profile. Scoped home/welcome/info/methods review found generic aspirations, ordinary staffing/student voice and transition teambuilding, not distinctive sustained approach. No clear approach evidence within scope; not proof of absence. Loaded; exact comparisons and idempotent replay passed."
+14440920,Visättraskolan,Contextual review recorded; Uncertain evidence; Requires review,batch04_10schools_20261027,requires_review,http://www.huddinge.se/visattraskolan,"F–6 website; 1–6 official grade list. Language/knowledge-development wording broad; no concrete model. Requires review, no firm category. Loaded; exact comparisons and idempotent replay passed."
+14472068,Kristna skolan,Contextual review recorded; Reviewed claim,batch04_10schools_20261027,reviewed_claim,http://www.kristnaskolan.se,"F–9 Hammarbyhöjden; Christian profile. Ordinary subjects, creativity slogan, culturschool offering and Chapel performances not by themselves integrated arts pedagogy. No arts code. Loaded; exact comparisons and idempotent replay passed."
+14479858,Tallkrogens skola,Contextual review recorded; Scoped no clear approach evidence,batch04_10schools_20261027,scoped_no_clear_evidence,https://grundskola.stockholm/hitta-grundskola/grundskola/tallkrogens-skola,"F–6; future temporary relocation not different present unit. Scoped full municipal school page reviewed: ordinary school/fritids cooperation, planned recess and nearby forest insufficient for firm approach. No clear approach evidence within scope; not proof of absence. Malformed robots retained. Loaded; exact comparisons and idempotent replay passed."
+14845171,Eviaskolan,Contextual review recorded; Reviewed claim,batch04_10schools_20261027,reviewed_claim,http://www.eviagruppen.se,6–9 Klockargatan 17 Västerhaninge matches fresh official ID. Registered eviagruppen site redirected to WeMind/HVB; HVB page excluded. School navigation leads Haninge exact address/year match. Other campuses excluded. Loaded; exact comparisons and idempotent replay passed.
+14872951,Magelungens Grundskola Södertälje,Contextual review recorded; Reviewed claim,batch04_10schools_20261027,reviewed_claim,http://www.magelungen.com,"4–9 from fresh official unit, same Hertig Carls väg 22 address. Unit resource teaching explicit; treatment service is separate optional social-service provision, not all pupils. School-specific page selected from provider homepage register. Loaded; exact comparisons and idempotent replay passed."
+15049834,Lilla Alby skola,Contextual review recorded; Reviewed claim,batch04_10schools_20261027,reviewed_claim,http://www.sundbyberg.se/lillaalbyskola,F–6 municipal school; stored grades 1–6. Named movement initiative and buddy-system context; no outdoor code from parks or project code from occasional themes. Loaded; exact comparisons and idempotent replay passed.
+15080815,Fjällenskolan,Contextual review recorded; Uncertain evidence; Requires review,batch04_10schools_20261027,requires_review,http://www.jarfalla.se,"F–9 ordinary unit; mixed resource-school page scope unresolved. Fresh official same address, specialSupportSchool=false. Shared page integrated resource groups/Järfälla resursskola not a schoolwide profile; requires review. Loaded; exact comparisons and idempotent replay passed."
+15171331,"Nordic International School, Stockholm",Contextual review recorded; Reviewed claim,batch04_10schools_20261027,reviewed_claim,https://nordicinternational.se/essingen,4–9 Essingen; teaching explicitly in Swedish. House-system concrete community work code; international milieu/inspired pedagogy insufficient for language category. No bilingual teaching inferred. Provider explanation linked by unit page. Loaded; exact comparisons and idempotent replay passed.
+15218794,Glömstaskolan,Contextual review recorded; Scoped no clear approach evidence,batch05_10schools_20261027,scoped_no_clear_evidence,https://www.huddinge.se/glomstaskolan,"F–9 website; official grades 1–9. Scoped main/about school-specific and municipal sections reviewed: generic curiosity, participation, digital tools and collaborative staffing insufficient for distinctive approach; no clear evidence within scope, not absence. Loaded; exact comparisons and idempotent replay passed."
+15331669,Sjöstadsskolan,Contextual review recorded; Uncertain evidence; Requires review,batch05_10schools_20261027,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sjostadsskolan,"Ordinary F–9; separately linked adapted unit excluded. Cross-subject teaching and reinforced mentorship under-specified; requires review, no firm codes. Loaded; exact comparisons and idempotent replay passed."
+15339442,Runbackaskolan,Contextual review recorded; Reviewed claim,batch05_10schools_20261027,reviewed_claim,http://www.sollentuna.se/sv/uweb/runbacka-skolor/,"F–9 unit; subgroup Fenix not generalised. Registered URL soft 404 (HTTP 200/title 404), replaced with current municipal school pages; fresh official name/municipality/grades confirmed. Health provision plus international exchanges; exchange participants/years unspecified. Loaded; exact comparisons and idempotent replay passed."
+15483394,Segeltorpsskolan,Contextual review recorded; Reviewed claim,batch05_10schools_20261027,reviewed_claim,http://www.huddinge.se/segeltorpsskolan,4–9 exact stored/website range. IBIS named within unit section; no extension to other Segeltorp rektorsområde units or municipal generic duties. Loaded; exact comparisons and idempotent replay passed.
+15547680,Vibyskolan ekonomisk förening,Contextual review recorded; Reviewed claim,batch05_10schools_20261027,reviewed_claim,http://www.vibyskolan.se,"F–9 Sollentuna, Kornettvägen 44; directory legal-name variant retained. Sustained cross-subject environmental learning with garden. Cooperative methods/ASL in year 1 noted but no additional profile code from varied method list; unspecified environmental projects do not establish whole-school inquiry. Future plans excluded. Loaded; exact comparisons and idempotent replay passed."
+15594566,Äppelviksskolan,Contextual review recorded; Reviewed claim,batch05_10schools_20261027,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/appelviksskolan,"7–9; Alviksvägen 97. Detailed peer-support work supports wellbeing interpretation; exclude quality/ranking claims, isolated events and self-reported numeric results from profile inference. Loaded; exact comparisons and idempotent replay passed."
+15620768,Eklidsskolan,Contextual review recorded; Reviewed claim,batch05_10schools_20261027,reviewed_claim,http://www.botkyrka.se/eklidsskolan,F–5 at Nibblevägen 9; exact fresh official address/grades. Registered short URL 404; linked current page explicitly outdoor pedagogy and cooperative learning; municipality-wide language/maths wording excluded. Loaded; exact comparisons and idempotent replay passed.
+15697742,Galaxskolan,Contextual review recorded; Scoped no clear approach evidence,batch05_10schools_20261027,scoped_no_clear_evidence,http://www.sigtuna.se/galaxskolan,"F–6 Steninge, official grades 1–6. Scoped home/welcome/methods pages: generic inclusion, digital environment, curiosity/creativity and statutory quality work insufficient for distinctive approach. Municipal platform not unit profile; no clear evidence within scope, not absence. Loaded; exact comparisons and idempotent replay passed."
+15968847,Olaus Petriskolan,Contextual review recorded; Uncertain evidence; Requires review,batch05_10schools_20261027,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/olaus-petri-skola,"F–3 Olaus Petri, part of Gärdesskolan; no Gärdesskolan-wide transfer. Practical nature use not sufficiently structured for firm outdoor code; daily reading ordinary literacy. Year-8 testimonial excluded as scope mismatch. Requires review. Loaded; exact comparisons and idempotent replay passed."
+16061350,Apolloniosskolan,Contextual review recorded; Reviewed claim,batch05_10schools_20261027,reviewed_claim,https://www.apolloniosskolan.se/,"F–9 school Långbro Park Älvsjö, Stora Mans Väg 11B. Substantive school page confirms Montessori-inspired (not metadata-only); school applies NTA themes F–9 with questions/experiments 8–10 weeks. Not certified Montessori or whole-curriculum project teaching. Loaded; exact comparisons and idempotent replay passed."
+16068461,Nyckelskolan,Contextual review recorded; Uncertain evidence; Requires review,batch06_10schools_20261027,requires_review,http://www.knippan.se,F–9 Nyckelskolan; shared provider/preschool scope. Shared Montessori-theory wording not sufficiently isolated to school; no firm code. Preschool Skogsmulle excluded. Loaded; exact comparisons and zero-insert replay passed.
+16348406,Matteusskolan,Contextual review recorded; Scoped no clear approach evidence,batch06_10schools_20261027,scoped_no_clear_evidence,https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan,"Ordinary F–9 Vanadisvägen 16; adapted Freja separate link excluded. Scoped full municipal school page: generic future skills, horizontal staff teams, ordinary digital provision, facilities and recess supervision do not establish controlled approach. Scoped no clear evidence, not proof of absence. Loaded; exact comparisons and zero-insert replay passed."
+16394249,Ellen Key skolan,Contextual review recorded; Reviewed claim,batch06_10schools_20261027,reviewed_claim,http://www.eks.se,"F–9 Ellen Key, Duvbovägen 94 Spånga. Unit explicit Waldorf and aesthetic/craft/theoretical integration. Generic philosophy page context only; no quality inference or preschool scope transfer. Loaded; exact comparisons and zero-insert replay passed."
+16426165,Kunskapsskolan Enskede,Contextual review recorded; Reviewed claim,batch06_10schools_20261027,reviewed_claim,https://www.kunskapsskolan.se/skolor/enskede,6–9 Enskedevägen 89. Unit applies individual goals/personal coaching; linked provider model context. Not named alternative pedagogy or inquiry from theme courses alone. Loaded; exact comparisons and zero-insert replay passed.
+16762245,Edessaskolan,Contextual review recorded; Reviewed claim,batch06_10schools_20261027,reviewed_claim,http://www.edessaskolan.se,"Official GR 1–6 plus preschool class; Sagas väg 1 Norsborg exact fresh match. HTML shell required browser. About page explicit extra Syriac/Aramaic and oriental music; no all-subject bilingual inference, preschool Lilla Edessa excluded; new orangery not firm outdoor code. Loaded; exact comparisons and zero-insert replay passed."
+16914123,Tavestaskolan,Contextual review recorded; Uncertain evidence; Requires review,batch06_10schools_20261027,requires_review,http://sodertalje.se/tavestaskolan,Website F–5 planned expansion to 6; register 1–6 discrepancy. Broad language-development approach retained uncertain. No language/international label from ordinary Swedish development; methods insufficient specific. Loaded; exact comparisons and zero-insert replay passed.
+16969143,Hagnässkolan,Contextual review recorded; Scoped no clear approach evidence,batch06_10schools_20261027,scoped_no_clear_evidence,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/hagnasskolan.html,"4–9 current official municipal page; fresh official name/grade/locality match. Registered URL 404 replaced via official navigation. Scoped full main content: generic inspiring methods, common lesson structure, youth-club staffing and safety insufficient distinctive approach. Scoped no clear evidence, not proof of absence. Loaded; exact comparisons and zero-insert replay passed."
+16983719,Broskolan,Contextual review recorded; Uncertain evidence; Requires review,batch06_10schools_20261027,requires_review,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/broskolan.html,7–9 Bro; fresh official name/grades/locality match. Registered URL 404 replaced via official navigation. Three strand claim retained uncertain: examples mostly ordinary technology/language/democracy provision; no firm code. Loaded; exact comparisons and zero-insert replay passed.
+17165481,Brotorpsskolan,Contextual review recorded; Uncertain evidence; Requires review,batch06_10schools_20261027,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/brotorpsskolan,"F–6 Brotorp Stockholm; separate official ID from Bagarmossen. Under-specified nature use, green yard and garden opportunity do not establish regular environmental/outdoor teaching. Generic creativity no arts code; requires review. Loaded; exact comparisons and zero-insert replay passed."
+17287315,Källtorpskolan,Contextual review recorded; Uncertain evidence; Requires review,batch06_10schools_20261027,requires_review,http://www.jarfalla.se,7–9 Källtorpsvägen 10; ordinary/resource/adapted provision mixed. Provider URL narrowed via official school directory. Shared-page subgroup scope unresolved; no firm inclusion code from special groups alone. Loaded; exact comparisons and zero-insert replay passed.
+17526606,Fryshuset Grundskola Akalla,Contextual review recorded; Reviewed claim,batch07_10schools_20261027,reviewed_claim,http://www.fryshuset.se,"F–6 Akalla; exclude provider other schools. Unit page explicitly Olweus/Trivselledar, no creative profile from generic wording or resource code from groups alone. Loaded; exact comparisons and zero-insert replay passed."
+17640364,Spånga grundskola,Contextual review recorded; Reviewed claim,batch07_10schools_20261027,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/spanga-grundskola,"Ordinary 7–9, maths/NO selective pathway only. Pathway and enhanced full-time mentoring; cultural visits/themes not integrated arts code. Numeric self-reported class sizes not imported into official statistics. Loaded; exact comparisons and zero-insert replay passed."
+17737193,Granbackaskolan,Contextual review recorded; Scoped no clear approach evidence,batch07_10schools_20261027,scoped_no_clear_evidence,http://www.solna.se,"F–3 Huvudsta Emmylundsvägen 10–12. Scoped official facts/about/fritids/safety page: generic targets, nearby farms, creativity in play and shared municipal safety wording insufficient distinctive approach. No clear within scope, not absence. Loaded; exact comparisons and zero-insert replay passed."
+17957898,Innovitaskolan Rudan,Contextual review recorded; Uncertain evidence; Requires review,batch07_10schools_20261027,requires_review,https://innovitaskolan.se/rudan/,"F–9 school versus preschool explicitly separated. Broad exploratory/creative/balance claims; concrete examples preschool-only, no firm code. Requires review for compulsory-school detail. Loaded; exact comparisons and zero-insert replay passed."
+18053776,Djurö skola,Contextual review recorded; Reviewed claim,batch07_10schools_20261027,reviewed_claim,http://varmdo.se,"F–9 Djurö school only, not all archipelago units. Named archipelago profile has age-scoped continuous canoeing/island paddle/sailing examples; strong place-based evidence. Loaded; exact comparisons and zero-insert replay passed."
+18064456,Söderholmsskolan,Contextual review recorded; Reviewed claim,batch07_10schools_20261027,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/soderholmsskolan,F–6 Vårholmsbackarna100; co-located Lillholmen separate. Daily nature in lessons/fritids supports outdoor interpretation; ordinary staffing/elevhälsa and isolated mural not support/arts profile. Loaded; exact comparisons and zero-insert replay passed.
+18193338,Svandammsskolan F-6,Contextual review recorded; Reviewed claim,batch07_10schools_20261027,reviewed_claim,https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/svandammsskolan-f-6,"F–6 Svandamm Nynäshamn current official replacement. Registered URL404; official navigation replacement. Arts cooperation, weekly outdoor lessons and F/third-year buddy practice; award alone not code. Loaded; exact comparisons and zero-insert replay passed."
+18595907,Edsbergsskolan,Contextual review recorded; Reviewed claim,batch07_10schools_20261027,reviewed_claim,http://www.sollentuna.se/sv/uweb/edsbergsskolan/,"Ordinary7–9; optional music/sport and selective English/maths pathways. Registered /sv/ redirects successfully. Music2extra hours; maths gymnasium courses year9; no universal participation, bilingual curriculum or adapted-unit claim. Loaded; exact comparisons and zero-insert replay passed."
+19089469,Montessoriskolan Fredsduvan,Contextual review recorded; Reviewed claim,batch07_10schools_20261027,reviewed_claim,http://www.fredsduvan.com,"Official1–5; website ages6–12, preschool class priority; Jordbro. Substantive Montessori model, not school name alone. Upper-year age/grade ambiguity retained; code does not extend official grade scope. Loaded; exact comparisons and zero-insert replay passed."
+19353396,Fruängens skola,Contextual review recorded; Uncertain evidence; Requires review,batch07_10schools_20261027,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/fruangens-skola,"OrdinaryF–9; adapted school excluded. External homework support twice weekly, year/participant scope unspecified; retain evidence without firm support code under conservative threshold. Loaded; exact comparisons and zero-insert replay passed."
+19377571,Karlbergs skola,Contextual review recorded; Reviewed claim,batch08_10schools_20261028,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/karlbergs-skola,"F–3 Karlberg, Norrbackagatan31–33. Visual support through day, small-group access, six-Hjärtan values context; not resource designation. Website class-size statement self-reported and not imported. Loaded; exact comparisons and zero-insert replay passed."
+19593535,JENSEN grundskola Bro-Mälarstrand 4-9,Contextual review recorded; Reviewed claim,batch08_10schools_20261028,reviewed_claim,http://www.jensengrundskola.se/bro-malarstrand,4–9 JENSEN Bro Mälarstrand; separate nearby F–3 excluded. Unit health-profile statement linked to provider concrete practices. Redirect preserved; no faith label from church ceremonies or outdoor code from location/building label. Loaded; exact comparisons and zero-insert replay passed.
+19657993,Fryshuset Grundskola Hammarby Sjöstad,Contextual review recorded; Reviewed claim,batch08_10schools_20261028,reviewed_claim,http://www.fryshuset.se/,7–9 Hammarby Sjöstad; fresh official identity matched. Optional arts/sport passion choices twice weekly and ALIS parent meetings7–8. Not Akalla/Husby provider transfer; no certification/effectiveness claims verified. Loaded; exact comparisons and zero-insert replay passed.
+19704413,Åkerstorpsskolan,Contextual review recorded; Reviewed claim,batch08_10schools_20261028,reviewed_claim,http://www.osteraker.se,"F–3 Åkerstorp school, official grades1–3. Goals page PAX and teacher coaching substantive; certification in-progress qualifier retained; no outdoor label from nearby nature. Loaded; exact comparisons and zero-insert replay passed."
+19733028,Lärande Grundskola Oden,Contextual review recorded; Reviewed claim,batch08_10schools_20261028,reviewed_claim,http://www.larandegrundskola.se,F–5 Oden Eddavägen1 exact official match. Unit Lärandemodellen/subject integration; provider recurring model supports inquiry/project interpretation. Daily schedule explicitly illustrative; Miljöakuten not verified actual delivery. Loaded; exact comparisons and zero-insert replay passed.
+19942197,Sandåkraskolan,Contextual review recorded; Scoped no clear approach evidence,batch08_10schools_20261028,scoped_no_clear_evidence,https://grundskola.stockholm/hitta-grundskola/grundskola/sandakraskolan,"F–6 Sandåkraskolan, Pepparkaksgränd2–4. Scoped full school page reviewed. Annual hike/ski trip, optional year6 movement leaders, ordinary homework/summer support and lekotop not enough sustained distinctive pedagogy. No clear within scope, not absence. Loaded; exact comparisons and zero-insert replay passed."
+19983531,Rodrets friskola,Contextual review recorded; Reviewed claim,batch08_10schools_20261028,reviewed_claim,http://www.rodret.nu,"F–3 school, Skolvägen8 Tungelsta exact fresh match; preschool excluded. School-specific integrated expressive thematic methods and experiential profile. No inquiry code solely from themes, no outdoor code from visits; class maximum self-report not official class-size data. Loaded; exact comparisons and zero-insert replay passed."
+20054868,Odensala skola,Contextual review recorded; Uncertain evidence; Requires review,batch08_10schools_20261028,requires_review,http://www.sigtuna.se/odensalaskolan,F–6 Odensala near Märsta; registered404 replaced. Arts/nature examples in rector statement under-scoped; uncertain without recurrence/year scope. Municipal methods links not unit approach; no firm code. Loaded; exact comparisons and zero-insert replay passed.
+20137688,Käppala skola,Contextual review recorded; Reviewed claim,batch08_10schools_20261028,reviewed_claim,https://www.lidingo.se/kappalaskola,"F–9 unit, optional football pathway with dated2025/26 rollout. Registered redirects to current Lidingö page. First years4and7, later expansion planned; no claim full4–9 implemented at current access. Scope caveat retained. Loaded; exact comparisons and zero-insert replay passed."
+20253736,Tegelhagens skola,Contextual review recorded; Reviewed claim,batch08_10schools_20261028,reviewed_claim,https://www.sollentuna.se/uweb/tegelhagens-skola/,F–9 Tegelhagen Skogstorpsvägen370. Explicit outdoor and digital profile; all-year teaching statement not location-only. No support label from generic duties or municipal-only policy. Loaded; exact comparisons and zero-insert replay passed.
+20561651,Herrängens skola,Contextual review recorded; Scoped no clear approach evidence,batch09_10schools_20261029,scoped_no_clear_evidence,https://grundskola.stockholm/hitta-grundskola/grundskola/herrangens-skola,"F–6 Konvaljestigen15. Full municipal page reviewed: generic access/safety, ordinary homework, buddy tradition and walking school bus; nearby nature only opportunity, not stated implemented outdoor model. No inference from results or facilities. Loaded; exact comparisons and zero-insert replay passed."
+20563782,Kyrkskolan F-6,Contextual review recorded; Reviewed claim,batch09_10schools_20261029,reviewed_claim,https://nynashamn.se/service/forskola--skola/grundskola/grundskolor-i-nynashamns-kommun/kyrkskolan-f-3,"F–6 Sorunda Kyrkgatan15, exact fresh official match. Old F–3 path404; current F–6 page, differentiated teaching/movement. Years5–6 temporary Lillbacka accommodation spring2026, return pavilions autumn2026; planned2027 Sunnerby not current replacement. Loaded; exact comparisons and zero-insert replay passed."
+20683111,Bäckahagens skola,Contextual review recorded; Uncertain evidence; Requires review,batch09_10schools_20261029,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/backahagens-skola,"Ordinary F–9; adapted7–9 excluded. Broad movement-learning emphasis lacks specific method/frequency, retain note, no firm code. Loaded; exact comparisons and zero-insert replay passed."
+21346638,Järla skola,Contextual review recorded; Uncertain evidence; Requires review,batch09_10schools_20261029,requires_review,http://www.jarla.nacka.se,Järla F–6 official21346638; Nacka musikklasser separating autumn2026. Current school pages generic; cookie-blocked YouTube not accessed or assumed reviewed. Music not attached to Järla. Attributed outdoor article concrete but undated/current coverage unconfirmed. No firm code. Loaded; exact comparisons and zero-insert replay passed.
+21576764,Söderfjärdsskolan,Contextual review recorded; Scoped no clear approach evidence,batch09_10schools_20261029,scoped_no_clear_evidence,http://www.vaxholm.se,"Ordinary F–6 Vaxön; integrated adapted school excluded. Scoped main and support pages: ordinary statutory safety/elevhälsa, councils, integrated fritids and generic ambitions insufficient distinctive approach. Loaded; exact comparisons and zero-insert replay passed."
+21724208,Sätraskolan,Contextual review recorded; Reviewed claim,batch09_10schools_20261029,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/satraskolan,Ordinary F–9 Bogsätravägen46; Mathivation higher years7–9 only. Named OLIKA plus mentoring context; sustained Mathivation peer-teaching. No whole-school maths spets or inquiry code from project name; fritids-only language/outdoor claims not generalised. Loaded; exact comparisons and zero-insert replay passed.
+21871265,Sollentuna musikklasser,Contextual review recorded; Reviewed claim,batch09_10schools_20261029,reviewed_claim,http://www.edu.sollentuna.se/smk,"4–9 music-profile unit, distinct from co-located Häggviksskolan. Current municipal replacement for old edu URL. Extended music/choir; selective tests, current2027 admission dates context only, not universal access. Loaded; exact comparisons and zero-insert replay passed."
+21997077,Viljaskolan Sollentuna,Contextual review recorded; Reviewed claim,batch09_10schools_20261029,reviewed_claim,https://viljaskolan.se/viljaskolan-sollentuna/,F–9 Sollentuna Kärleksbacken3 exact fresh match. Elmemodellen with concrete unit inclusion/Trivselledar; UDL-inspired introduced autumn2026 qualifier. Angered school dog not transferred. Loaded; exact comparisons and zero-insert replay passed.
+22019000,Södertörns friskola,Contextual review recorded; Inaccessible source; access assessment unresolved,batch09_10schools_20261029,inaccessible_requires_review,http://www.frisko.la,"6–9 Södertörns friskola Björnkullaringen42 municipal listing. Registered frisko.la robots500, server/access assessment incomplete; no school-host collection attempted or bypass. Official municipal listing confirms identity only, insufficient contextual approach coverage. Follow-up not scoped no-clear. Loaded; exact comparisons and zero-insert replay passed."
+22030561,Östbergaskolan,Contextual review recorded; Reviewed claim,batch09_10schools_20261029,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/ostbergaskolan,"F–6 Östberga, official1–6. Movement breaks, extraPE/swimming and structured physical activity collectively support wellbeing. Staffing/results not approach inference, LEGO values not robotics. Loaded; exact comparisons and zero-insert replay passed."
+22127801,Internationella Engelska Skolan Länna,Contextual review recorded; Reviewed claim,batch10_10schools_20261029,reviewed_claim,http://www.engelska.se,"Official2–9Länna Lunnarevägen7. Unit bilingual statement/up to halfEnglish, Swedish curriculum, provider preschool navigation not scope. Loaded; exact comparisons and zero-insert replay passed."
+22174435,Björnbodaskolan,Contextual review recorded; Scoped no clear approach evidence,batch10_10schools_20261029,scoped_no_clear_evidence,https://grundskola.stockholm/hitta-grundskola/grundskola/bjornbodaskolan,"F–3Vinsta Skogsnävegränd3. Scoped full municipal page: ordinary school/fritids integration, generic inclusion/digital tools/recess/nearby nature insufficient distinctive profile. Not absence. Loaded; exact comparisons and zero-insert replay passed."
+22202915,Tyresö Montessoriskola,Contextual review recorded; Reviewed claim,batch10_10schools_20261029,reviewed_claim,http://www.tmsv.se,"F–6Tyresö, officialgrades1–6plusF. Substantive Montessori; supported arts onlyF–1section. Nature use under-scoped, no outdoor code; robots404uncertainty retained. Loaded; exact comparisons and zero-insert replay passed."
+22472689,Jarlabergs skola,Contextual review recorded; Uncertain evidence; Requires review,batch10_10schools_20261029,requires_review,http://www.jarlaberg.nacka.se,Official1–6versus current municipalF–3; sameJarlaberg unit. Grade mismatch unresolved; nature aspiration not structured outdoor model; cookie-blocked videos left unreviewed. Loaded; exact comparisons and zero-insert replay passed.
+22513261,Kista grundskola,Contextual review recorded; Uncertain evidence; Requires review,batch10_10schools_20261029,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-f-3,"Official1–9 combined unit, F–3and4–9campuses; ordinary form only. Fresh official address Köpenhamnsgatan11matchesuppercampus, registeredF–3URL. Drama statement insufficiently specific, statutory resources/facilities not profile. Adapted form excluded. Loaded; exact comparisons and zero-insert replay passed."
+22531873,Norrgärdsskolan,Contextual review recorded; Scoped no clear approach evidence,batch10_10schools_20261029,scoped_no_clear_evidence,http://www.norrtalje.se,"F–6merged formerGrind/Park schools, official1–6. Scoped main/about: generic aims/ordinary statutory support not distinctive. Website northTimotejgatan4vsregister1difference retained; name/municipality/grades match, no official overwrite. Loaded; exact comparisons and zero-insert replay passed."
+22777703,Johannes skola,Contextual review recorded; Reviewed claim,batch10_10schools_20261029,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/johannes-skola,"F–6Johannes Stockholm Roslagsgatan61. Extra scheduledEnglish explicit; not bilingual all-subject claim, diverse intake alone not evidence. Loaded; exact comparisons and zero-insert replay passed."
+22807677,Näsbydalskolan,Contextual review recorded; Reviewed claim,batch10_10schools_20261029,reviewed_claim,http://www.taby.se/nasbydalskolan,"6–9Näsbydal ordinaryunit; selective maths startingyear7autumn2026. STEMprofile and maths pathway scoped separately, wellbeing lessons supported; co-locatedTäbymusikklasser not music code. Loaded; exact comparisons and zero-insert replay passed."
+22847273,Ängskolan,Contextual review recorded; Reviewed claim,batch10_10schools_20261029,reviewed_claim,http://www.sundbyberg.se/angskolan,"F–9Ängskolan Sundbyberg. MVPseriesyear8/lower-yearTrivselledare and all-stage socialpedagogues; no universalyearMVP, no effects verified. Loaded; exact comparisons and zero-insert replay passed."
+22904289,Vilans skola,Contextual review recorded; Reviewed claim,batch10_10schools_20261029,reviewed_claim,http://www.vilan.nacka.se,"F–6Vilan, Sickla rectorarea. Allclasses structured cooperativelearning. Mother-tongue teacher-office presence not pupil languageprofile; ordinary safety/fritids no extra code. Loaded; exact comparisons and zero-insert replay passed."
+23066257,Kulturama gr. Hammarby Sjöstad,Contextual review recorded; Reviewed claim,batch11_10schools_20261029,reviewed_claim,http://www.kulturama.se,"Hammarby4–9Virkesvägen21; metadata6–9discrepancy. Explicitmusical/music-singing/art profiles; body/facts4–9matches register. Music/musicalskillstests, artqueue route; exclude adult/gymnasium/othercampus navigation. No metadata-only decision. Loaded; exact comparisons and zero-insert replay passed."
+23312767,Noblaskolan Täby,Contextual review recorded; Reviewed claim,batch11_10schools_20261029,reviewed_claim,https://noblaskolan.se/taby/,"F–9Täby; advanced maths/English opportunityyear9only. Optional gymnasiumcourse opportunity not allpupils or designatedspets. Noblakoden structuralcontext, ordinarylanguage/development aims not separate profile; readingdog selectedpupils not generalised. Loaded; exact comparisons and zero-insert replay passed."
+23414344,Skolgrunden,Contextual review recorded; Reviewed claim,batch11_10schools_20261029,reviewed_claim,http://www.skolgrunden.se,6–9resourceSkolgrunden exactfreshID/address; shared Aspdamm page explicitlyapplies both. Freshresourceflag/organisationmatches. Contact distinguishesSkolgrundenfloors3–4fromAspdamm5; sharedleadershipnot duplicateID. Loaded; exact comparisons and zero-insert replay passed.
+23498302,Stockholms Montessoriskola Anne Frank,Prior pilot review; scope caveats remain,approach_redesign/pilot,pilot; see original log,,
+23617768,Katarina Norra skola,Contextual review recorded; Uncertain evidence; Requires review,batch11_10schools_20261029,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-norra-skola,"F–9KatarinaNorra,Tjärhovsgatan15–17. Flexible changinggroups explicit but method/scope under-specified for controlledcategory. Generic safety/weeklyelevhälsa/mixedactivities insufficient distinctiveprofile. Note not absence. Loaded; exact comparisons and zero-insert replay passed."
+23756252,Sjökarbyskolan,Contextual review recorded; Scoped no clear approach evidence,batch11_10schools_20261029,scoped_no_clear_evidence,http://www.osteraker.se,"OrdinaryF–6Sjökarby; separateadapted1–6scope excluded. Scopedabout/goalsfullreview: genericknowledge/safety/access, natureclassroom onlysometimes, library/use/multipleadult aspiration insufficient sustainedapproach. No absence inference. Loaded; exact comparisons and zero-insert replay passed."
+23828958,Näsbypark resursskola,Contextual review recorded; Reviewed claim,batch11_10schools_20261029,reviewed_claim,www.taby.se/nasbyparksskolan,4–9Näsbyparkresource separatefromordinaryNäsbyparksskolan. Freshofficial23828958resourceflag/address/gradesmatches; registered ordinaryschoolURLreplaced withspecificresourcepage; localresidency/needbasedselection recorded. Loaded; exact comparisons and zero-insert replay passed.
+23886554,I Ur och Skur Mullebo Mårtensbergsskolan,Contextual review recorded; Reviewed claim,batch11_10schools_20261029,reviewed_claim,http://www.iurochskur.se,"F–3Mårtensberg,VendelsöMårtensbergsvägen64; preschoolMulleboseparate. FreshofficialID/name/addressmatch; history2023move/providerownershipdifferentcurrentmentions retained. Unitappliedoutdoor/experiential, not preschool-only transfer or frequencyinvented. Loaded; exact comparisons and zero-insert replay passed."
+24046791,Innovitaskolan Farstaäng,Contextual review recorded; Uncertain evidence; Requires review,batch11_10schools_20261029,requires_review,https://innovitaskolan.se/farstaang/,"F–5body/GRschoolpage andofficial1–5; hometitleF–6different. Explore/Innovate/Balancebroad, limitedspecificdelivery; genericroutine/day/elevhälsa not firmapproach. Recurrentinquiryorartsnot established. Loaded; exact comparisons and zero-insert replay passed."
+24142153,Futuraskolan International Bergtorp,Contextual review recorded; Reviewed claim,batch11_10schools_20261029,reviewed_claim,http://www.futuraskolan.se,"6–9Bergtorp current; planned4–5Aug2027excluded. FreshdisplayName/addressresolvesgenericstoredname. UnitIMYC/up-to-halfEnglish/globalcitizenship, optionalarts/sportsprofiles. IMYCtopicintegrationnot automaticallyinquirycategory; promotionalquality/effects excluded. Loaded; exact comparisons and zero-insert replay passed."
+24146389,Hallsta skola,Contextual review recorded; Uncertain evidence; Requires review,batch11_10schools_20261029,requires_review,http://www.norrtalje.se,"F–9HallstaHallstavikSkolvägen15–17. Scopedmain/about/rector. Broadteacherdevelopment priorities not pupil-appliedspecificmodel, generichealth/results not distinctiveprofile; keepnote. Loaded; exact comparisons and zero-insert replay passed."
+24172067,Kulturskolan Raketen,Contextual review recorded; Reviewed claim,batch12_10schools_20261029,reviewed_claim,http://www.kulturskolanraketen.se,"Official1–9; lower-yeargardenF–3andculturechoice6–9scoped. Explicitarts/project/justiceprofile; supportedstructuredgardening. Historicaldatedmenus/themesretained, notpresentdayobservations. No schoolname-onlycoding. Loaded; exact comparisons and zero-insert replay passed."
+24199792,Da Vinciskolan,Contextual review recorded; Reviewed claim,batch12_10schools_20261029,reviewed_claim,http://www.davinciskolan.com,"F–3Ringvägen50Saltsjöbadenfreshmatch; preschoolsseparate. RegisteredwwwDNSfailure, nonwwwrobots/readableofficialsite recovered. School-specificMontessori-oriented,weeklyarts,questionthemes,rotatingoutdoordays,SingaporeMath; noteachpupiloutdoorsweekly or fullfidelityMontessori. Loaded; exact comparisons and zero-insert replay passed."
+24374886,Vittra Väsby,Contextual review recorded; Reviewed claim,batch12_10schools_20261029,reviewed_claim,http://www.vittra.se/vasby,"F–9VittraVäsby unit. Combinedunitstatementsofreal-worldprojectthemes/civicclimatework supportprojectcategory; yearcoverage/frequencyunspecified, no outdoorcode fromclimatealone. Loaded; exact comparisons and zero-insert replay passed."
+24402537,Internationella Engelska Skolan Upplands Väsby,Contextual review recorded; Reviewed claim,batch12_10schools_20261029,reviewed_claim,http://www.engelska.se,"F–9IESUpplandsVäsby,stored1–9. ExplicitbilingualSwedishcurriculum/up-to-halfEnglish; notfixed50/50orquality/effectclaim. Loaded; exact comparisons and zero-insert replay passed."
+24561769,Hemmestaskolan,Contextual review recorded; Uncertain evidence; Requires review,batch12_10schools_20261029,requires_review,http://www.varmdo.se,OrdinaryF–9twoadjacentcampuses; KSU7–9separateparticipants. Weeklyvaluesmentorshipunder-specifiedapproach; KSUlanguage-disordergroupnotentireunit. Nearbywoods/outdoorPEweatherdependentnotoutdoorpedagogy. Loaded; exact comparisons and zero-insert replay passed.
+24606968,Härneviskolan,Contextual review recorded; Scoped no clear approach evidence,batch12_10schools_20261029,scoped_no_clear_evidence,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/harneviskolan.html,"F–6HärneviBro;freshofficialname/address/gradecheck. OldregisteredURL404,currentofficialnavreplacement. Fullschoolmainmethodsreviewgenericquality/safety/standardfritidsintegration; no distinctiveapproachwithinscope, notabsence. Loaded; exact comparisons and zero-insert replay passed."
+24671487,Kunskapsskolans Resursskola,Contextual review recorded; Reviewed claim,batch12_10schools_20261029,reviewed_claim,https://www.kunskapsskolan.se,"7–9resourceHägerstenRiksdalervägen5exactofficialmatch. Unitresourceflagconfirmed, continuousspecialpedagogicalsupportandweeklycoachingspecific; providerordinarymodelnotsoleevidence. Loaded; exact comparisons and zero-insert replay passed."
+24716970,Högalidsskolan,Contextual review recorded; Reviewed claim,batch12_10schools_20261029,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/hogalidsskolan,"F–9HögalidHornstullFolkskolegatan13. NamedPBS; central specialgroupsordinaryunitgeneralisationexcluded, websiteclasssizesnotofficialclasssizeavailability. Loaded; exact comparisons and zero-insert replay passed."
+24754913,Knutbyskolan,Contextual review recorded; Reviewed claim,batch12_10schools_20261029,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/knutbyskolan,"F–6KnutbyStockholmKnutbygränd4. TågetF–3/MVP4–6explicit, notschoolnamesakeoutsidecounty; genericSwedishlanguagefocusnotinternational. Loaded; exact comparisons and zero-insert replay passed."
+25090415,Fågelvik skola,Contextual review recorded; Uncertain evidence; Requires review,batch12_10schools_20261029,requires_review,http://www.varmdo.se,"F–3FågelvikIngaröofficial25090415. Forestusefrequentbutmethod/frequencyunder-specified. Adjacentpreschoolnotunittocopy, noartsfromcreativeplayground; keepfollowup. Loaded; exact comparisons and zero-insert replay passed."
+25253749,Albatross Montessoriskola,Contextual review recorded; Reviewed claim,batch13_10schools_20261029,reviewed_claim,http://www.albatross-montessori.se,"F–6Lidingö, official1–6+F, Larsbergsvägen29. Substantive Montessori applied mixed-agegroups and materials; no name-only inference. Dated2025openhouse on homepage not new access/publication date. Classsizes self-reported not officialstatistics. Loaded; exact comparisons and zero-insert replay passed."
+25309669,Kunskapsskolan Täby,Contextual review recorded; Reviewed claim,batch13_10schools_20261029,reviewed_claim,https://www.kunskapsskolan.se/skolor/taby,"4–9KunskapsskolanTäby. Unit-applied personalised model, providercontext; no inquiry from themesalone. Contact textKälltorpsvägen4 versus mapMaskinvägen4 inconsistency retained, unitidentity/name/grades match. Loaded; exact comparisons and zero-insert replay passed."
+25506439,Kassmyraskolan,Contextual review recorded; Reviewed claim,batch13_10schools_20261029,reviewed_claim,http://www.botkyrka.se/kassmyraskolan,"OrdinaryF–6Kassmyra Tumba, adapted1–6excluded. Current municipal replacement from404navigation; TÅGETsharedTumba-södra approach explicit, no officialIDmerge withBroäng. Municipal language/maths/breakfast prose excluded. Loaded; exact comparisons and zero-insert replay passed."
+25555358,Eiraskolan,Contextual review recorded; Reviewed claim,batch13_10schools_20261029,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/eiraskolan,F–6EiraskolanStockholmParmmätargatan10. Trained pupil-ledrecess concrete; genericvalues/events/artdisplays not artsintegration. No subjectivequalityclaim. Loaded; exact comparisons and zero-insert replay passed.
+25772114,Vaxö skola,Contextual review recorded; Scoped no clear approach evidence,batch13_10schools_20261029,scoped_no_clear_evidence,http://www.vaxholm.se,"F–6VaxöLägergatan9. Scoped main/quality/supportpages: statutory quality/elevhälsa, ROSENvalues and ordinary safety without concrete distinctive approach. Nearbyparks/modernrooms not profile; no absence inference. Loaded; exact comparisons and zero-insert replay passed."
+25918983,Hammerstaskolan,Contextual review recorded; Reviewed claim,batch13_10schools_20261029,reviewed_claim,http://www.botkyrka.se/hammerstaskolan,"OrdinaryF–9HammerstaHallundavägen199. Current replacement for404; all-yearTåget explicit; special languagegroup1–9not whole-school designation, ordinaryreadingfocus not languageinternationalprofile. Loaded; exact comparisons and zero-insert replay passed."
+26138955,Skå skola,Contextual review recorded; Scoped no clear approach evidence,batch13_10schools_20261029,scoped_no_clear_evidence,http://www.ekero.se/skaskola,"F–3SkåFäringsö, official1–3. Scoped full schoolpage, routinecollaboration/pupilparticipation/genericindividual challenge and naturallocation insufficient model. Redirect currentURL preserved; not absence. Loaded; exact comparisons and zero-insert replay passed."
+26172429,International School of the Stockholm Region,Contextual review recorded; Reviewed claim,batch13_10schools_20261029,reviewed_claim,http://www.internationalschoolofthestockholmregion.stockholm.se/,OfficialGR1–9+F; PYP0–5/MYP6–9; M10/DP/CPexcluded. Current.schoolhost official programme pages; EnglishPYP and inquiryPYP direct. MYP6–10page clipped conceptually to compulsory6–9; no automaticPYP-to-MYPmethod/languagetransfer. Source robotsmalformed caveat. Loaded; exact comparisons and zero-insert replay passed.
+26281697,Montessoriskolan - Gustafslund,Contextual review recorded; Reviewed claim,batch13_10schools_20261029,reviewed_claim,http://www.montessoriskolan.nu,"Gustafslund5–9, officialgenericname reconciledfreshdisplayName. Montessori-inspired unitstatement; LundenF–4separate,5–6currentlyhousedLundennot sameunit. Broadfriluftslivandordinaryhomeworksupport not additionalfirmprofile. Loaded; exact comparisons and zero-insert replay passed."
+26480342,Nordanskolan,Contextual review recorded; Reviewed claim,batch13_10schools_20261029,reviewed_claim,http://www.upplandsvasby.se,"6–9NordanskolanVårvägen1, officialresourceflagtrue. Smallgroups/closeadults/individualplans specific; no needsorqualityinference fromresults, no numericalclasssizesubstitution. Loaded; exact comparisons and zero-insert replay passed."
+26742346,Solna Enskilda Skola,Contextual review recorded; Reviewed claim,batch14_10schools_20261029,reviewed_claim,http://www.bma.nu,"SolnaEnskildaF–3,Industrivägen16exactofficialidentity. UnitMontessori-inspiredexplicit, schoolmixedagecontext; no providerpreschoolname-only inference. Loaded; exact comparisons and zero-insert replay passed."
+26804905,Mora Parks skola,Contextual review recorded; Uncertain evidence; Requires review,batch14_10schools_20261029,requires_review,http://www.morapark.se,MoraParksID26804905GRandGRAN1–9; pageadapted-only. Exactidentityresolvedfreshdisplayname/address; currentarts/support/themes onadaptedpage not transferred toordinaryGR. LSSboendeexcluded. Formapplicability unresolved. Loaded; exact comparisons and zero-insert replay passed.
+26808959,Parkskolan,Contextual review recorded; Uncertain evidence; Requires review,batch14_10schools_20261029,requires_review,https://www.solna.se,"ParkskolanSolnaF–3Blomgatan3. Generationalvolunteers/readingbuddiesyears2–3 concretebutstructurelimited; co-locatedkulturskola no artslabel, genericmunicipalsafetyexcluded. Loaded; exact comparisons and zero-insert replay passed."
+26852132,Solhemsskolan,Contextual review recorded; Reviewed claim,batch14_10schools_20261029,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan,SolhemF–6Sörgårdsvägen40; linkedSolhemsängenseparatephysicalschool. Younger-yearorchestracollaborationSupportedarts; NTAall1–6notfirm inquirywithoutmethoddetail. Trips/artvenuesnotseparateoutdoorartsproof. Loaded; exact comparisons and zero-insert replay passed.
+26878879,Stallets Skola,Contextual review recorded; Reviewed claim,batch14_10schools_20261029,reviewed_claim,http://www.stalletsskola.se,"StalletF–3Landsvägen24,Sollentuna. Freshname/addressmatch exceptpostal19270site/19272register; schoolfriendshipmodelconcrete. .se redirects .com; .comrobots404 caveat retained. Loaded; exact comparisons and zero-insert replay passed."
+27181501,Viktor Rydbergs skola Nacka,Contextual review recorded; Uncertain evidence; Requires review,batch14_10schools_20261029,requires_review,http://www.vrskolor.se,VRSNackaF–6FisksätraBrantvägen1. Broadart/science/experiential/creativewording andonepupiltheatretestimonialnot enough sustainedmodel; providercampus/gymnasiumnavexcluded. Loaded; exact comparisons and zero-insert replay passed.
+27273328,Årstadalsskolan,Contextual review recorded; Scoped no clear approach evidence,batch14_10schools_20261029,scoped_no_clear_evidence,https://grundskola.stockholm/hitta-grundskola/grundskola/arstadalsskolan,"ÅrstadalF–6Sjöviksbacken19. RawfetchunreadableHTTP200/titlemissing, browserreadfullschooltextrendered normally; selectedfaithfulexcerpt saved, no fabricatedHTMLtitle. Genericvalues/fritids/naturelocationinsufficient distinctapproachwithinreviewscope. Loaded; exact comparisons and zero-insert replay passed."
+27323097,Noblaskolan Solna,Contextual review recorded; Uncertain evidence; Requires review,batch14_10schools_20261029,requires_review,https://noblaskolan.se/solna/,NoblaSolnaF–9formerlyAlfaskolan. Noblakodenbroadstructureandsupportunder-specified; advancedTäbycoursesnottransferred; ordinaryarts/backgroundmusicnotprofile. Loaded; exact comparisons and zero-insert replay passed.
+27344011,Neglinge skola,Contextual review recorded; Reviewed claim,batch14_10schools_20261029,reviewed_claim,http://www.neglinge.nacka.se,"NeglingeF–5; unitprofileagesF–1,2–3,4–5. Recurringfriluftslivandnamedmovementprofiles. Outdoorpage2023datevisible/currentlinkreaffirms; Fweeklyforestnotallyears. Movementpage2026; researchteacherdevelopmentnotpupilinquiry. Loaded; exact comparisons and zero-insert replay passed."
+27357778,Oxhagsskolan,Contextual review recorded; Uncertain evidence; Requires review,batch14_10schools_20261029,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/oxhagsskolan,"OxhagenStockholmF–6Helsingforsgatan4. Natureuse/ordinarysupportunder-specified, no firmprofilefromgenericstatement; schedulehomeworkaloneinsufficient. Notabsence. Loaded; exact comparisons and zero-insert replay passed."
+27595656,Birkaskolan,Contextual review recorded; Reviewed claim,batch15_10schools_20261029,reviewed_claim,http://www.birkaskolan.se,"F–9BirkaskolanEkerö,2025newaddressBjörkuddsvägen98freshmatch. SubstantiveMontessoriandErasmusexchanges; participantyearsunspecified. MixedageF–6vs7–9homogeneous,2025/26classlistingdated. Yeartrips/PRAOnotextraoutdoor/inquirycode. Persistence tracked in batch_status.json."
+27830075,Ljungbackens skola,Contextual review recorded; Reviewed claim,batch15_10schools_20261029,reviewed_claim,https://www.lidingo.se/ljungbackensskola,"F–3LjungbackenLidingöHerkulesvägen23. NamedSTLmodelandweeklycrossyearbuddygrouppractice;ordinaryreading/librarynotstandaloneprofile, genericresultsnotverified. Persistence tracked in batch_status.json."
+28138418,Vintertullsskolan i Stockholm,Contextual review recorded; Reviewed claim,batch15_10schools_20261029,reviewed_claim,http://www.vintertullsskolan.se,"7–9resourceVintertullstorget54,freshofficialexactID. Specificsupportmodel, rawgroup-sizeclaims12–14homepage/up-to16methodpage retainednotofficialmetric. Restricted/ansok/,vardnadshavare/,api/pathsnotvisited. Persistence tracked in batch_status.json."
+28145722,Aktiviaskolan Enhet Eken,Contextual review recorded; Reviewed claim,batch15_10schools_20261029,reviewed_claim,http://www.aktiviaskolan.se,"OfficialEnhetEken/Hus6,6–9resourceHjälmstavägen6. FreshdisplayNameandcontactHus6/Hus8resolvecommonhomepageaddress8; commonall-pupilmethods, notmergeunits. Placeholderstats/loremipsum/dogallergyclaimsexcluded. Persistence tracked in batch_status.json."
+28184857,Lundaskolan,Contextual review recorded; Reviewed claim,batch15_10schools_20261029,reviewed_claim,http://lundaskolan.se,"F–3LundaStockholmLundagatan43. Working.comreplacementcheckedrobots, schoolhubfollowedtoFplan. BornholmmodelandweeklynatureFONLY. MandatoryMusic/Bild/PEinFordinarysubjectlistnotenoughartsprofile. Statutorysafetyexcluded. Persistence tracked in batch_status.json."
+28231215,Drottningholmskolan,Contextual review recorded; Reviewed claim,batch15_10schools_20261029,reviewed_claim,http://www.drottningholmskolan.se,"F–6LovöSkolallén3,official1–6. ExplicitWaldorfandartsintegration,periodteaching2–5weekssubjectfocusnotautomaticallyproject/inquiry. GrönFlagg/naturelocationnotoutdoorlabelalone; futureKristoffercontinuationnotjoinedunit. Persistence tracked in batch_status.json."
+28313791,Tomtbergaskolan,Contextual review recorded; Scoped no clear approach evidence,batch15_10schools_20261029,scoped_no_clear_evidence,http://www.huddinge.se/tomtbergaskolan,"F–6TomtbergaSjödalenKommunalvägen31A. Scopedmain/aboutfullreview: genericknowledge/safety/continuity/commonmunicipalroutinesinsufficientdistinctivecontrolledapproach. Notabsence, nopersonalqualityjudgement. Persistence tracked in batch_status.json."
+28799594,Kärrdalsskolan,Contextual review recorded; Reviewed claim,batch15_10schools_20261029,reviewed_claim,http://sites.google.com/a/edu.sollentuna.se/kdl/,"F–6KärrdalSj öbergcurrentmunicipalsubsite. OldregisteredGoogleSitesnotusedasproof,currentofficialmatchedname/grades;Olweusexplicit, Naturskolancollaborationunder-scopedforoutdoorprofile. Persistence tracked in batch_status.json."
+28845963,Majtorpskolan,Contextual review recorded; Uncertain evidence; Requires review,batch15_10schools_20261029,requires_review,http://www.sodertalje.se/rosenborgskolan,"MajtorpF–3freshID28845963Klätterstigen4,sharedRosenborgsenhetenpage. Allnamedmusic/sport/theoryprofilesexplicitRosenborg7–9excluded. CurrentapproachcoverageMajtorplimited, nofirmcodeandnotabsence. SharedrectorarenotsameofficialID. Persistence tracked in batch_status.json."
+29096335,Bergsundsskolan,Contextual review recorded; Reviewed claim,batch15_10schools_20261029,reviewed_claim,http://www.bergsundsskolan.se,"F–3BergsundLångholmsgatan24freshofficialmatch. Schoolestheticorientationexplicit; ownFplanBornholm/weeklynature scopedFonly. SharedLundacollaborationnotimplicittransfer. Old.se robotsredirectedhome, destination.comrobotsreadablebeforecollection. Persistence tracked in batch_status.json."
+29158808,Observatorielundens skola,Contextual review recorded; Reviewed claim,batch16_10schools_20261030,reviewed_claim,https://grundskola.stockholm/hitta-grundskola/grundskola/observatorielundens-skola,"2–6, Sandåsgatan/Odengatan; municipal identity and grades match. Closure announced after 2026/27, not already closed. Lundenlektionen noted; no additional alternative label. Creative breaks/fritids not arts profile. Load tracked in batch_status.json."
+29270748,Vanadisskolan,Contextual review recorded; Reviewed claim,batch16_10schools_20261030,reviewed_claim,http://www.iofi.se,"Stockholm resource GR unit, site F–9; official grades 1–9. Registered IOFI provider replaced by Vanadisskolan dedicated resource page linked back to IOFI. Adapted-only schooling and SU/PDA follow-ups not automatically transferred. Load tracked in batch_status.json."
+29278599,Lovisedalsskolan,Contextual review recorded; Reviewed claim,batch16_10schools_20261030,reviewed_claim,http://www.vallentuna.se/lovisedal/,"Vallentuna Lovisedal F–9; official 1–9. Registered path 404; current municipal school page selected. Erasmus+ opportunity, not universal completed exchange. Staff interview about fritids excluded from GR-wide inference. Load tracked in batch_status.json."
+29371242,Campus Manilla,Contextual review recorded; Reviewed claim,batch16_10schools_20261030,reviewed_claim,http://www.campusmanilla.se,"Campus Manilla GR F–9, Manillavägen 32–36; refreshed official name Campus Manilla Utbildning AB. Weekly assembly supports F–4 arts only. Gymnasium and staff international exchanges excluded; isolated school events not extra project profile. No verification of promotional quality claims. Load tracked in batch_status.json."
+29410344,Kungsholmens grundskola,Contextual review recorded; Uncertain evidence; Requires review,batch16_10schools_20261030,requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/kungsholmens-grundskola,"Kungsholmen F–6 page; official ID grades 1–9. Nearby nature/culture teaching under-specified; no firm profile. Separate 7–9 and adapted pages not reviewed in this batch; unresolved full-unit coverage follow-up, not no-evidence conclusion. Load tracked in batch_status.json."
+29497099,Internationella Engelska Skolan Södertälje,Contextual review recorded; Reviewed claim,batch16_10schools_20261030,reviewed_claim,http://www.engelska.se,"IES Södertälje GR, local about page F–9; official 1–9. Provider generic registered domain resolved to Södertälje pages; FAQ provider-wide statements attributed as such. Gradual English F–3, up to half English. No quality/outcome codes. Load tracked in batch_status.json."
+29524966,Freinetskolan Kastanjen,Contextual review recorded; Reviewed claim,batch16_10schools_20261030,reviewed_claim,http://www.kastanjen.nu,"Initial directory Freinetskolan Kastanjen, registered kastanjen.nu, Slagsta Botkyrka; refreshed official name null. Name-null metadata follow-up retained, not silently replaced. School-about explicitly Freinet/aesthetic/term themes. Separate Förskola page excluded. Diverse intake and natural surroundings not profiles alone. Load tracked in batch_status.json."
+29585072,Innovitaskolan Enskede,Contextual review recorded; Reviewed claim,batch16_10schools_20261030,reviewed_claim,https://innovitaskolan.se/enskede/,"Innovitaskolan Enskede F–6, matches official 1–6. Local concept page hosts provider wording. Explore/Innovate explicit exploratory approach; Balance broad note only. Generic creativity does not independently establish arts integration. Load tracked in batch_status.json."
+29705473,Snösätraskolan,Contextual review recorded; Scoped no clear approach evidence,batch16_10schools_20261030,scoped_no_clear_evidence,https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan,"Snösätra F–6, Vallhornsgatan 21; matches official 1–6. Defined scope: complete current municipal school page, pedagogy/learning environment/other sections. Reading/library, safety, excursions and optional chess insufficient distinctive approach detail. This is not evidence of absence. Load tracked in batch_status.json."
+29725531,Engelska Skolan Norr,Contextual review recorded; Reviewed claim,batch16_10schools_20261030,reviewed_claim,http://www.esn.se,"Engelska skolan Norr, Roslagstullsbacken 4, F–9; official 1–9. Bilingual programme and whole-class inclusion explicit. Optional choir/band and year9 Cambridge not arts-wide or all-year certification. Robots404 HTML is not permission; policy uncertainty retained. Load tracked in batch_status.json."
+29796042,ESF Skarpnäck AB,Not yet contextually reviewed,,fetched_requires_context_review,https://www.esgondolen.se/,
+29998540,Sagaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/sagaskolan,
+30255409,JENSEN grundskola Tungelsta,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jensengrundskola.se/tungelsta,
+30270791,Åbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+30490775,Riala skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+31018677,Väsby skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.upplandsvasby.se/vasbyskola,
+31281674,Nyboda skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+31528772,Mariaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.mariaskolan.nu,
+31608087,Urfjälls Montessoriskola,Not yet contextually reviewed,,inaccessible_requires_review,http://www.urfjall.se,
+31758556,Margretelundsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+31851256,Roslagsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+31903219,Magelungsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan,
+32231541,Täby Friskola-Enhagen,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tabyfriskola.se,
+32479095,Vaxmoraskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.edu.sollentuna.se/vax/,
+32585503,Grisslehamns skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+32886383,Mörtviksskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/mortviksskolan,
+32965692,Noblaskolan Saltsjö-Boo,Not yet contextually reviewed,,fetched_requires_context_review,https://noblaskolan.se/saltsjo-boo/,
+32993837,Ursvikskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sundbyberg.se/ursvikskolan,
+33159363,Munsö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/munsoskola,
+33455004,Njupkärrs skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+33565539,Gustav Vasaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.skolor.vallentuna.se/gustavvasa/,
+33624606,Måsöskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+33733966,International School of Kungsholmen,Not yet contextually reviewed,,inaccessible_requires_review,https://www.internationalschoolofkungsholmen.com/,
+33794207,Sandvikskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+33922950,Smedslättsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/smedslattsskolan,
+33951941,Råsunda Centralskola,Not yet contextually reviewed,,inaccessible_requires_review,www.solna.se,
+34125463,Nytorpsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://nytida.se/skola/vara-skolor/nytorpsskolan/,
+34135484,Montessori Mondial Nacka,Not yet contextually reviewed,,fetched_requires_context_review,https://montessorimondial.se/nacka/,
+34148887,Blombackaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sodertalje.se/blombackaskolan,
+34225123,Furuborgskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.nykvarn.se,
+34540901,Estniska Skolan i Stockholm,Not yet contextually reviewed,,fetched_requires_context_review,http://www.estniskaskolan.se,
+34625544,Raoul Wallenbergskolan Källberga,Not yet contextually reviewed,,fetched_requires_context_review,http://www.raoulwallenbergskolan.se,
+34671128,Solbergaskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/solbergaskolan,
+34672217,Älta resursskola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.nacka.se/altaresursskola,
+34946479,Runmarö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://varmdo.se,
+35008423,Skolan Bergius,Not yet contextually reviewed,,fetched_requires_context_review,http://www.skolanbergius.se,
+35129114,Internationella Engelska Skolan Årsta,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+35311563,Lilla Nacka Skola,Not yet contextually reviewed,,inaccessible_requires_review,lillanacka.se,
+35547286,Carlssons skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.carlssonsskola.se,
+35784391,Distra IRS,Not yet contextually reviewed,,fetched_requires_context_review,http://www.distraresursskolor.se,
+35890890,Västerholms friskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vasterholm.se,
+35933721,Rudboda skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.lidingo.se/rudbodaskola,
+36021631,Montessoriskolan Växthuset,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ahavaxthuset.se,
+36031993,Vällingbyskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan,
+36066067,Musikskolan Lilla Akademien,Prior pilot review; scope caveats remain,approach_redesign/pilot,pilot; see original log,,
+36185466,I Ur och Skur Utsikten skola,Not yet contextually reviewed,,fetched_requires_context_review,https://iurochskur.friluftsframjandet.se/i-ur-och-skur-forskola--skola/i-ur-och-skurs-verksamheter/i-ur-och-skur-utsikten-skola/,
+36232577,Bromma Enskilda Skola ek.fören.,Not yet contextually reviewed,,fetched_requires_context_review,http://www.brommaenskilda.se,
+36262199,Nytorpsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://salem.se/forskolaochskola/grundskola/nytorpsskolan.4.335d63281936795eddcd07c.html,
+36276828,Futuraskolan International Kottla,Not yet contextually reviewed,,fetched_requires_context_review,http://www.futuraskolan.se,
+36281817,Höglandsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan,
+36350546,Tunaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/tunaskolan,
+36513280,Futuraskolan International Gåshaga,Not yet contextually reviewed,,fetched_requires_context_review,http://www.futuraskolan.se,
+36520624,Nybohovsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/nybohovsskolan,
+36628382,Iljansbodaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+37112288,Kulturama Grundsk. Sundbyberg,Not yet contextually reviewed,,fetched_requires_context_review,http://www.kulturama.se,
+37147254,Kumla skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+37328635,Montessori Mondial Lidingö,Not yet contextually reviewed,,fetched_requires_context_review,https://montessorimondial.se/lidingo/,
+37416253,Rinkebyskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/rinkebyskolan,
+37472911,Stenmoskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://www.huddinge.se/stenmoskolan,
+37556682,Kista International School,Not yet contextually reviewed,,fetched_requires_context_review,http://www.kistaschool.se,
+37796564,Akalla grundskola F-9,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/akalla-grundskola,
+37887150,Nordic International School Nacka,Not yet contextually reviewed,,inaccessible_requires_review,https://nordicinternational.se/nacka,
+38096510,Magelungens Grundskola Älvsjö,Not yet contextually reviewed,,fetched_requires_context_review,http://www.magelungen.com,
+38394561,Södertälje friskola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.sodertaljefriskola.se,
+38526011,Eddaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/eddaskolan,
+38653015,Pershagenskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sodertalje.se/pershagenskolan.,
+38661388,Broängsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/broangsskolan,
+38758770,Farsta grundskola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser,
+38854084,Steningehöjdens skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se,
+38935587,Internationella Engelska Skolan Enskede,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+38975788,Tungelsta skola,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+39130058,Montessoriskolan Vigelsjö,Not yet contextually reviewed,,fetched_requires_context_review,http://www.montessoriskolan.nu,
+39171821,Örbyskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/orbyskolan,
+39195819,Sanduddens skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/sanduddensskola,
+39229061,Östra grundskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.huddinge.se/ostragrundskolan,
+39351914,Norrsundsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+39453214,Sofiebergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+39568857,Berghemskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+39907811,Sofielundsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sollentuna.se/sv/uweb/sofielundsskolan/,
+39923451,Sverigefinska skolan i Kista,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sverigefinskaskolanikista.se,
+40175889,Soldalaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/soldalaskolan,
+40383398,Bromma kyrkskola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/bromma-kyrkskola,
+40467992,Futuraskolan International Hertig Karl,Not yet contextually reviewed,,fetched_requires_context_review,http://www.futuraskolan.se,
+40610606,"Lycée Francais Saint Louis, gr",Not yet contextually reviewed,,fetched_requires_context_review,http://www.lfsl.net,
+40618486,Råsunda skola,Not yet contextually reviewed,,fetched_requires_context_review,http://solna.se,
+40631085,Fittjaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/fittjaskolanbotkyrkanorra,
+40847752,Björkebyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+40904373,Närlundaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/narlundaskolan,
+40978257,Futuraskolan International School of Stockholm,Not yet contextually reviewed,,fetched_requires_context_review,http://www.futuraskolaninternational.se,
+41176931,Gärdesskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/gardesskolan,
+41181908,Hägerneholmsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://www.taby.se/hagerneholmsskolan,
+41213404,Källbrinksskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.huddinge.se/kallbrinksskolan,
+41285467,Adolfsbergsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/adolfsbergsskolan,
+41357379,Skogsbacksskolan Trampolinen,Not yet contextually reviewed,,terms_review_required,https://www.botkyrka.se/skola-och-forskola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan,
+41377165,Sundby skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/sundbyskola,
+41405700,Storkyrkoskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/storkyrkoskolan,
+41507895,Noblaskolan Nacka Strand,Not yet contextually reviewed,,fetched_requires_context_review,https://noblaskolan.se/nacka-strand/,
+41554150,Slottsparksskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.taby.se/slottsparksskolan,
+41584790,Järna friskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarnafriskola.se,
+41764666,Långbrodalsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan,
+41888515,Fårdala skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+41955701,Järvastadens skola,Not yet contextually reviewed,,inaccessible_requires_review,www.solna.se,
+42149666,Husbygårdsskolan F-9,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/husbygardsskolan,
+42179975,Farsta Strandsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.mavatterosen.se,
+42202683,Kungsholmens friskola,Not yet contextually reviewed,,inaccessible_requires_review,http://www.kungsholmens-friskola.se,
+42215279,S:t Pers skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/stpersskola,
+42328518,Franska Skolan/Ecole francaise,Not yet contextually reviewed,,fetched_requires_context_review,http://www.franskaskolan.se,
+42434583,Brunns skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.varmdo.se,
+42601396,Trångsundsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.huddinge.se/trangsundsskolan,
+42912378,Vinsta grundskola östra,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-ostra,
+42986451,Fribergaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.danderyd.se/skolor/fribergaskolan/,
+43038662,Färentuna skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/farentunaskola,
+43088454,Björkhagens skola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/bjorkhagens-skola,
+43133926,Bergshamraskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.solna.se,
+43138370,Vittra Brotorp,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/brotorp,
+43140379,Nakterhusskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.haninge.se/forskola-och-skola/grundskola/,
+43166282,Nälstaskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/nalstaskolan,
+43238662,Björkhaga Skola,Not yet contextually reviewed,,terms_review_required,http://www.botkyrka.se/bjorkhagaskola,
+43245047,Saltängens skola,Not yet contextually reviewed,,inaccessible_requires_review,https://www.nacka.se/valfard-skola/saltsjo-duvnas-skola/,
+43289917,Vasaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.danderyd.se/skolor/vasaskolan/,
+43375546,Rälsen AB åk 4-9,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ralsen.se,
+43403496,Mariekällskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor/mariekallskolan/,
+43632318,Enbacksskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/enbacksskolan,
+43802065,Lilla Parkskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.lillaparkskolan.se,
+43869172,Fredsborgskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.fredsborgskolan.se,
+44002887,Ellagårdsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.taby.se/ellagardsskolan,
+44031601,Höglundaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+44046131,Sundbyskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sundbyskolan,
+44175786,Boo Gårds skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.boogard.nacka.se,
+44227469,Grimstaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.upplandsvasby.se/grimstaskolan,
+44373961,Idunskolan Östra Stockholms Waldorfskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.idunskolan.se,
+44673074,Abrahamsbergsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/abrahamsbergsskolan,
+44836298,Sigfridsborgs skola,Not yet contextually reviewed,,inaccessible_requires_review,http://www.skolor.nacka.se/sigfridsborg,
+45104329,Torsviks skola,Not yet contextually reviewed,,fetched_requires_context_review,https://lidingo.se/torsviksskola,
+45133950,Freinetskolan Mimer,Not yet contextually reviewed,,fetched_requires_context_review,http://www.mimer.org,
+45279651,Bergshöjdens skola,Not yet contextually reviewed,,missing_registered_website,,
+45364437,Bandhagens skola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/bandhagens-skola,
+45436515,Sofia skola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sofia-skola,
+45553352,Montessori Mondial Kungsholmen,Not yet contextually reviewed,,fetched_requires_context_review,https://montessorimondial.se/kungsholmen,
+45757947,Tallidsskolan,Not yet contextually reviewed,,terms_review_required,http://www.botkyrka.se/tallidsskolan,
+45882318,Töjnaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.edu.sollentuna.se/ton/,
+45984740,Helleborusskolan Täby AB,Not yet contextually reviewed,,fetched_requires_context_review,http://www.helleborusskolan.se,
+45986032,Vega skola,Not yet contextually reviewed,,fetched_requires_context_review,https://vegaskola.haninge.se/,
+45994471,Solvikskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://solvikskolan.se,
+46097781,Christinaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.christinaskolan.se,
+46165232,Mälarhöjdens skola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola,
+46206050,Vittra Vallentuna,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/vallentuna,
+46239244,Kolarängskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+46518352,Elmsta skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+46581319,Lillholmsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/lillholmsskolan,
+46616391,Beckombergaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/beckombergaskolan,
+46646143,Innovitaskolan Joriel,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/joriel/,
+46706680,Ulriksdalsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.solna.se,
+46796995,Kunskapsskolan Spånga,Not yet contextually reviewed,,fetched_requires_context_review,https://www.kunskapsskolan.se/skolor/spanga,
+47034991,Muskö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+47140640,Utö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+47204443,Mölnboskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/molnboskolan,
+47243834,Eklidens skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekliden.nacka.se,
+47244612,Ornö skola,Not yet contextually reviewed,,inaccessible_requires_review,http://www.haninge.se/sv/Barn--Utbildning/Grundskola/Kommunala-grundskolor/,
+47273038,Klastorpsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/klastorpsskolan,
+47290443,Rälsen AB i Viby,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ralsen.se,
+47462120,Dibber International School Sollentuna,Not yet contextually reviewed,,fetched_requires_context_review,https://dibber.se/skola/international-school-sollentuna/,
+47640376,Dalarö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+47705565,Munkmoraskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.varmdo.se,
+47727629,Skärsta Friskola,Not yet contextually reviewed,,missing_registered_website,,
+47969716,"Sigtunaskolan hum. läroverket, int gr",Not yet contextually reviewed,,fetched_requires_context_review,http://www.sshl.se,
+47979659,Backluraskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/backluraskolan,
+47986219,Futuraskolan International Rådan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.futuraskolan.se,
+48184058,Aktiviaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.aktiviaskolan.se,
+48312263,Hanvikens skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+48328583,Årstaskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/arstaskolan,
+48363218,Solhemsängens skola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola,
+48724676,Kronängsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://vaxholm.se,
+48760074,Vittra Frösunda,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/frosunda,
+48791751,Magelungens Grundskola Solna,Not yet contextually reviewed,,fetched_requires_context_review,http://www.magelungen.com,
+49021135,Södervikskolan AB,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodervikskolan.se,
+49631077,Högsätra skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.lidingo.se/hogsatraskola,
+49669037,Vätö skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/,
+49741755,Lugnets skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/lugnets-skola,
+49762104,Viksbergskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/viksbergskolan,
+49862579,Fagersjöskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/fagersjoskolan,
+50060022,Smedshagsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/smedshagsskolan,
+50783450,Vistaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.huddinge.se/vistaskolan,
+50848996,Raoul Wallenbergskolan Bromma,Not yet contextually reviewed,,fetched_requires_context_review,http://www.raoulwallenbergskolan.se,
+50905672,Rådmansö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+51041954,Rälsen AB i Norrviken,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ralsen.se,
+51100048,Kymlingeskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sundbyberg.se,
+51210001,Ronnaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sodertalje.se/ronnaskolan,
+51305351,Tråsättraskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+51341279,Grimstaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/grimstaskolan,
+51863294,Parkhemsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/parkhemsskolan,
+52064811,Skederids skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/,
+52217632,Tappströmsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/tappstromsskolan,
+52293921,Bällstabergsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.skolor.vallentuna.se/ballstaberg/,
+52423184,Bo skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.lidingo.se/boskola,
+52479822,Nockebyhovsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/nockebyhovsskolan,
+52531425,Stimmets skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+52863414,Vasa Real,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/vasa-real,
+52866214,Myrängsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.taby.se/Myrangsskolan,
+52885189,Ektorps skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ektorp.nacka.se,
+52925821,JENSEN grundskola Sickla,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jensengrundskola.se/sickla,
+52965560,Vasa International School of Stockholm,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vasainternationalschoolofstockholm.com,
+53075005,Skarpnäcks skola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/skarpnacks-skola,
+53133366,Orminge skola,Not yet contextually reviewed,,inaccessible_requires_review,http://www.orminge.se,
+53147557,Stefanskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.stefanskolan.se,
+53175499,Tyska skolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyskaskolan.se,
+53259263,"Ingridskolan, grundskola",Not yet contextually reviewed,,fetched_requires_context_review,http://www.ingridskolan.se,
+53319802,Ljusterö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+53352683,Viggbyskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.taby.se/viggbyskolan,
+53576482,Nacka Musikklasser,Not yet contextually reviewed,,missing_registered_website,,
+54067262,Fågelsångens skola,Not yet contextually reviewed,,fetched_requires_context_review,https://salem.se/forskolaochskola/grundskola/fagelsangensskola.4.71690677193678e483bfa6.html,
+54332921,Mellansjö skola,Not yet contextually reviewed,,fetched_requires_context_review,https://nytida.se/skola/vara-skolor/mellansjoskolan/,
+54348763,Nacka Idrottsgrundskola,Not yet contextually reviewed,,fetched_requires_context_review,https://idrottsgrundskolannacka.se/,
+54516737,Kvarnbergsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.huddinge.se/kvarnbergsskolan,
+54752734,Västra Ekoskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekoskolan.se,
+54806839,Viby friskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vibyfriskola.se,
+54847211,Entréskolan Stockholm,Not yet contextually reviewed,,fetched_requires_context_review,http://www.entreskolan.se,
+55233055,Innovitaskolan Söderby,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/soderby/,
+55267088,Täby Friskola-Gribbylund,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tabyfriskola.se,
+55382103,Björngårdsskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/bjorngardsskolan,
+55508705,"Josefinaskolan, grundskola",Not yet contextually reviewed,,fetched_requires_context_review,http://www.josefinaskolan.se,
+55512387,Breddenskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.upplandsvasby.se/breddenskolan,
+55690064,Resursskolan Ängsrosen,Not yet contextually reviewed,,inaccessible_requires_review,www.osteraker.se,
+56130729,Dalskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+56299553,Bergaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/bergaskolan.html,
+56315778,Brunnaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/brunnaskolan.html,
+56417100,Kvarnhagsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/kvarnhagsskolan,
+56501561,Essingeskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/essingeskolan,
+56568612,Wasaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/wasaskolan,
+56662185,Balderskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.up.se/balderskolan/,
+56858061,Söderby friskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.soderbyfriskola.se,
+56867397,Silverbäcken Dibber,Not yet contextually reviewed,,fetched_requires_context_review,https://dibber.se/skola/silverbacken-dibber/,
+56949296,Blackebergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/blackebergsskolan,
+57034070,Magelungens Grundskola Södermalm,Not yet contextually reviewed,,fetched_requires_context_review,http://www.magelungen.com,
+57106833,Vendestigens skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vendestigen.se,
+57184925,Hökarängsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hokarangsskolan,
+57206066,Vallatorpsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/vallatorpsskolan,
+57228484,Grindtorpsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/grindtorpsskolan,
+57317316,JENSEN grundskola Långholmen,Not yet contextually reviewed,,fetched_requires_context_review,https://www.jensengrundskola.se/langholmen,
+57329777,Konradsbergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/konradsbergsskolan,
+57368693,Sickla skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sickla.nacka.se,
+57370453,Karbyskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.vallentuna.se/karby,
+57467562,Freinetskolan Mimer Tingshuset,Not yet contextually reviewed,,inaccessible_requires_review,http://www.mimer.org,
+57510246,Snitz Grundskola,Not yet contextually reviewed,,fetched_requires_context_review,https://snitz.se/grundskola/,
+57755652,Neptuniskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+57850353,"Sverigefinska skolan, Botkyrka",Not yet contextually reviewed,,fetched_requires_context_review,http://www.sverigefinskaskolan.com,
+58004018,Noraskolan,Not yet contextually reviewed,,missing_registered_website,,
+58102266,Vittra Sollentuna,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/sollentuna,
+58173761,Olovslundskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+58286716,Norrbackaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/norrbackaskolan,
+58294404,Tellusborgsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/tellusborgsskolan,
+58294981,Rösjöskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.sollentuna.se/uweb/rosjoskolan/,
+58310322,Trädgårdsstadsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/tradgardsstadsskolan,
+58338225,Rindö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vaxholm.se,
+58385274,Skogsängsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://salem.se/forskolaochskola/grundskola/skogsangsskolan.4.335d63281936795eddcd74f.html,
+58653522,Roslags Kulla skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+58747846,Midsommarkransens skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/midsommarkransens-skola,
+58862351,Bergfotens skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+58994357,Innovitaskolan Segeltorp,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/segeltorp/,
+59249600,Eriksdalsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/eriksdalsskolan,
+59266692,Vittra Rösjötorp,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/rosjotorp,
+59457803,Helleborusskolan Österåker,Not yet contextually reviewed,,fetched_requires_context_review,http://www.helleborusskolan.se,
+59468219,Slättgårdsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/slattgardsskolan,
+59497255,Ribbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+59848694,Danderyds Montessoriskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.dmskola.se,
+59900714,Vittra Södermalm,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/sodermalm,
+59975651,Svanberga skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/,
+60131588,Sticklinge skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.lidingo.se/sticklingeskola,
+60211862,Lärande Grundskola Vira,Not yet contextually reviewed,,fetched_requires_context_review,http://www.larandegrundskola.se,
+60308449,Filosofiska,Not yet contextually reviewed,,fetched_requires_context_review,http://www.filosofiska.nu,
+60382920,Rågsveds grundskola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/ragsveds-grundskola,
+60521412,Igelbäckskolan,Not yet contextually reviewed,,inaccessible_requires_review,https://www.sundbyberg.se/forskola-utbildning/grundskola-och-grundsarskola/sundbybergs-resursskola.html,
+60570294,Brunnsängskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sodertalje.se/brunnsangskolan,
+60904587,Internationella Engelska Skolan Tyresö,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+61043089,Ekensbergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.solna.se,
+61056172,Centralskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/centralskolan,
+61061763,Finnstaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/finnstaskolan.html,
+61184554,Eviaskolan Söder,Not yet contextually reviewed,,fetched_requires_context_review,https://wemind.se/hvb-och-skola/eviaskolan-soder/,
+61686233,Rålambshovsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/ralambshovsskolan,
+61980418,I Ur och Skur Mullekojan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.iurochskur.com,
+62004466,Stensängsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.huddinge.se/stensangsskolan,
+62078083,Lärande Grundskola Fresta,Not yet contextually reviewed,,fetched_requires_context_review,http://www.larandegrundskola.se,
+62288230,Lina grundskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/linagrundskola,
+62518360,Resursskola Annersta,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/annerstaskolan,
+62533129,Bobergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/bobergsskolan,
+62544265,Fria Maria Barnskolas ekonomiska förening,Not yet contextually reviewed,,fetched_requires_context_review,http://www.friamaria.com,
+62569730,Internationella Engelska Skolan Värmdö,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+62707060,Skälbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+62862066,Helenelundsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sollentuna.se/sv/uweb/helenelundsskolan/,
+63111806,Källskolan F-5,Not yet contextually reviewed,,fetched_requires_context_review,http://www.kallskolan.se,
+63150475,Sjumilaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.upplandsvasby.se/4.4888d21515e5a932a771172.html,
+63300625,Duvboskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sundbyberg.se/duvboskolan,
+63321041,Kungliga Svenska Balettskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.kungligasvenskabalettskolan.se/grundskolan,
+63329692,Sörgårdsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sorgardsskolan,
+63542436,Sätunaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/satunaskolan,
+63581692,Enebybergs skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.danderyd.se/skolor/enebybergs-skola/,
+63592981,Internationella Engelska Skolan Sigtuna,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+63682476,Grantomta Montessoriskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.grantomta.se,
+63742407,Rosendalsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vallentuna.se,
+63954028,Kunskapsskolan Fruängen,Not yet contextually reviewed,,fetched_requires_context_review,https://www.kunskapsskolan.se/skolor/fruangen,
+64065082,Fredrikshovs slotts skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.fredrikshov.se,
+64081877,Snättringeskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/snattringeskolan,
+64285853,Duvnäs skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.duvnas.nacka.se,
+64732323,The Tanto International School,Not yet contextually reviewed,,fetched_requires_context_review,https://www.tantoschool.se,
+64736967,Västbergaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vastbergaskolan.se,
+64836806,Vallaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sodertalje.se/vallaskolan,
+64949601,Vårbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/varbyskolan,
+65487837,Futuraskolan International Stockholm,Not yet contextually reviewed,,fetched_requires_context_review,http://www.futuraskolan.se,
+65545391,Täby Friskola-Hägernäs,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tabyfriskola.se,
+65717061,Gröndalsskolan F-9,Not yet contextually reviewed,,inaccessible_requires_review,https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/grondalsskolan-f-9,
+65839656,Byängsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.byangsskolan.se,
+65927702,Innovitaskolan Vendelsö,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/vendelso/,
+66161099,Internationella Engelska Skolan Österåker,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+66283082,Hammarbyskolan Norra,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-norra,
+66383692,Sjötorpsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/sjotorpsskolan,
+66455663,Engelska Skolan Novia,Not yet contextually reviewed,,fetched_requires_context_review,https://www.engelskaskolannovia.se,
+66475520,Träkvista skola,Not yet contextually reviewed,,inaccessible_requires_review,http://www.ekero.se/trakvista,
+66620411,British International School,Not yet contextually reviewed,,fetched_requires_context_review,http://www.bisstockholm.se,
+66634449,Vittra Jakobsberg,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/jakobsberg,
+66851849,Olovslundsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/olovslundsskolan,
+67662754,Vittra Telefonplan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/telefonplan,
+67731691,Lunaskolan Södra,Not yet contextually reviewed,,fetched_requires_context_review,https://www.up.se/lunaskolansodra/,
+67742754,Karsby International School,Not yet contextually reviewed,,terms_review_required,http://www.botkyrka.se/karsbyinternationalschool,
+67743631,Internationella Engelska Skolan Norrtälje,Not yet contextually reviewed,,fetched_requires_context_review,https://engelska.se/our-schools/norrtalje/,
+67788311,Noblaskolan Sundbyberg,Not yet contextually reviewed,,fetched_requires_context_review,https://noblaskolan.se/sundbyberg/,
+67809355,Innovitaskolan Norrtälje,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/norrtalje/,
+67926479,Stiftelsen Lagnövallen,Not yet contextually reviewed,,inaccessible_requires_review,lagnovallen.se,
+68361133,Vanstaskolan F-9,Not yet contextually reviewed,,inaccessible_requires_review,https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/vanstaskolan-f-9,
+68403656,Sverigefinska Språkskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sprakskolanvasby.se,
+68422076,Björkestaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.nykvarn.se,
+68602166,Hammarbyskolan Södra,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-sodra,
+68812584,Askebyskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/askebyskolan,
+68893390,Ulvsundaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/ulvsundaskolan,
+68939834,Hillelskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.hillel.nu,
+69004747,Fryshuset Grundskola Husby,Not yet contextually reviewed,,fetched_requires_context_review,https://fryshuset.se/,
+69043808,Byleskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/byleskolan,
+69088221,Skolhagenskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/skolhagenskolan,
+69195602,Silverdalsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sollentuna.se/sv/uweb/utbildning-silverdal/,
+69266159,Hjulsta grundskola F-9,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hjulsta-grundskola,
+69329486,Källängens skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.lidingo.se/kallangensskola,
+69895255,Mariaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/mariaskolan,
+69909271,Resarö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vaxholm.se,
+70089804,Loviselundsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/loviselundsskolan,
+70182130,Drottningdals skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+70201551,Gärdesskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sollentuna.se/sv/uweb/gardesskolan-med-forskolor/,
+70329261,Hägerstensåsens skola,Not yet contextually reviewed,,inaccessible_requires_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstensasens-skola,
+70398560,Kämpetorpsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/kampetorpsskolan,
+70481988,Svartsö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://varmdo.se,
+70592143,Sjöviksskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sjoviksskolan,
+70803136,Kyrkskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.varmdo.se,
+71078874,Fornuddens skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+71363923,Djurgårdsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.djurgardsskolan.se,
+71375812,Vallentuna internationella montessoriskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vallentunaims.se,
+71638763,Norskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/norskolan,
+71669600,Vittra Luma Park,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vittra.se/luma-park,
+71677992,Rönninge skola,Not yet contextually reviewed,,fetched_requires_context_review,https://salem.se/forskolaochskola/grundskola/ronningeskola.4.335d63281936795eddcda10.html,
+71754599,Gustav Vasa skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/gustav-vasa-skola,
+71992738,Fornbackaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/fornbackaskolan,
+72009890,Lilla Adolf Fredriks skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/lilla-adolf-fredriks-skola,
+72074288,Rydbo skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+72120589,Stålhamraskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/stalhamraskolan,
+72266104,Vendelsömalmsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+72345466,Kvarnbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/kvarnbyskolan,
+72370577,Stocksundsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/,
+72378947,Vallentuna Friskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vallentunafriskola.se,
+72392930,Ängsnässkolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/angsnasskolan,
+72471883,Länna skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+72509254,Lunaskolan Bromma,Not yet contextually reviewed,,fetched_requires_context_review,https://www.up.se/lunaskolanbromma/,
+72584192,Nya Enskede skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/enskede-skola,
+72624886,Internationella Engelska Skolan Liljeholmen,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+72627865,Alviksskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/,
+72672270,Aspuddens skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/aspuddens-skola,
+72769342,Täby Friskola-Ljungmyr,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tabyfriskola.se,
+73075913,Mikaelgården Läkeped. Institut,Not yet contextually reviewed,,fetched_requires_context_review,http://www.mikaelgarden.se,
+73083470,Rydbo friskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.rydbofriskola.se,
+73184968,Brandbergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+73272488,Skärgårdsstadsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+73581523,Tallbackaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.solna.se,
+73629371,Gillbo-Gröndalsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sollentuna.se/sv/uweb/utbildning-rotebro,
+73893187,Maria Elementarskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.mariaelementar.se,
+73926940,Deltaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.deltaskolan.se,
+74174879,Bollstanäs skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.upplandsvasby.se/bollstanasskola,
+74358019,Internationella Engelska Skolan Nacka,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+74396596,Kvarnbackaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/kvarnbackaskolan,
+74482611,Internationella Engelska skolan Hässelby,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+74489639,Innovitaskolan Södertälje,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/sodertalje/,
+74631147,Enskedefältets skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/enskedefaltets-skola,
+74706113,Danaskolan,Not yet contextually reviewed,,missing_registered_website,,
+74723082,Gullingeskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/gullingeskolan,
+74920766,Mariehällsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/mariehallsskolan,
+75017455,Skytteholmsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.solna.se,
+75109796,Lillåkers skola,Not yet contextually reviewed,,fetched_requires_context_review,https://lidingo.se/lillakersskola,
+75255864,Pilgrimsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.pilgrimsskolan.se,
+75387026,Vårbackaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/varbackaskolan,
+75401552,Turebergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.sollentuna.se/uweb/turebergsskolan/,
+75505688,Igelsta grundskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/igelstagrundskola,
+75527289,Västerhaninge Montessoriskola,Not yet contextually reviewed,,terms_review_required,http://www.ugglan.net,
+75565366,Myrstugubergets Friskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.myrstuguskolan.se,
+75580959,Rikstens skola,Not yet contextually reviewed,,terms_review_required,http://www.botkyrka.se/rikstensskola,
+75614609,Södermalmsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sodermalmsskolan,
+75656508,Vasastans Montessoriskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vasastansmontessoriskola.se,
+75834458,Björknässkolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.bjorknas.nacka.se,
+76033436,Barkarbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+76222592,Innovitaskolan Rönninge,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/ronninge/,
+76440567,Kvarnbäcksskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+76550010,Tjustaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/tjustaskolan.html,
+76557608,Lindeskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/lindeskolan,
+76952966,Skanskvarnsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/skanskvarnsskolan,
+77002828,Skebo skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/,
+77314942,Norra Ängby skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/norra-angby-skola,
+77370320,Ytterbyskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.taby.se/ytterbyskolan,
+77624936,Runby skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.upplandsvasby.se/runbyskolor,
+77656740,Rosholmen Education Academy AB,Not yet contextually reviewed,,fetched_requires_context_review,http://www.rosholmen.se,
+77763178,Kvarnskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+78491090,Tingvallaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/tingvallaskolan,
+78508835,Sverigefinska skolan Sthlm,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sverigefinskaskolan.eu,
+78801570,Raoul Wallenbergskolan Jungfrusund,Not yet contextually reviewed,,inaccessible_requires_review,www.rws.se,
+78808043,Ösbyskolan AB,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osbyskolan.se,
+78918091,Kyrkskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/kyrkskolan,
+79004521,Viaskolan F-6,Not yet contextually reviewed,,inaccessible_requires_review,https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/viaskolan-f-9,
+79012683,Annerstaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/annerstaskolan,
+79034924,Haninge resursskola,Not yet contextually reviewed,,missing_registered_website,,
+79093755,Internationella Engelska Skolan Järfälla,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+79466321,Hölöskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/holoskolan,
+79626756,Hästhagsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hasthagsskolan,
+79708334,Viktor Rydbergs skola Sundbyberg,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vrskolor.se,
+79969356,Europaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.europaskolan.nu,
+80274643,Skepptuna skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/skepptunaskola,
+80378022,Botkyrka Friskola F-9,Not yet contextually reviewed,,fetched_requires_context_review,http://www.botfri.se,
+80509560,Engelska Språkskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sprakskolanvasby.se,
+80561156,Skuru-Duvnäs resursskola,Not yet contextually reviewed,,inaccessible_requires_review,nacka.se/valfard-skola/skuru-duvnasresursskola,
+80612612,Kristinebergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan,
+80731562,JENSEN grundskola Kvarnsjön,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jensengrundskola.se/kvarnsjon,
+80746043,Ribbybergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+80752058,JENSEN grundskola Steninge,Not yet contextually reviewed,,fetched_requires_context_review,https://www.jensengrundskola.se/steninge,
+81021363,Herrestaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se/underwebbar/herrestaskolan/valkommen-till-herrestaskolan.html,
+81266343,Kunskapsskolan Tyresö,Not yet contextually reviewed,,fetched_requires_context_review,https://www.kunskapsskolan.se/skolor/tyreso,
+81396509,Innovitaskolan Banérporten,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/banerporten/,
+81453817,Lärande Grundskola Magneten,Not yet contextually reviewed,,fetched_requires_context_review,http://www.larandegrundskola.se,
+81611939,Grindstuskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.huddinge.se/grindstuskolan,
+81680693,HagaLyckebyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+81857869,Skärsätra skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.lidingo.se/skarsatraskola,
+81903519,Långsjöskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.huddinge.se/langsjoskolan,
+82047013,Älta skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.alta.nacka.se,
+82075850,Skarpatorpsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/skarpatorpsskolan,
+82110758,Hagsätraskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hagsatraskolan,
+82137009,Hovsjöskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sodertalje.se/hovsjoskolor,
+82212978,Stockholms Montessoriskola Färgargårdstorget,Not yet contextually reviewed,,inaccessible_requires_review,www.stockholmsmontessoriskola.se,
+82408375,Montessori Mondial Kista,Not yet contextually reviewed,,fetched_requires_context_review,https://montessorimondial.se/kista/,
+82624830,Solskiftesskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+82757734,Lundskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+82838118,Alla Nationers Fria Skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.anfs.se,
+82854505,Martinskolan Söders waldorfskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.martinskolan.se,
+82962565,Hörningsnässkolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/horningsnasskolan,
+82982309,Internationella Engelska Skolan Kista,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+83020784,Tyresö skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+83454509,Skarpängsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/skarpangsskolan,
+83584296,Internationella Engelska Skolan Älvsjö,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+83623446,Rösjöskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/rosjoskolan,
+83735665,Stockholm International Academy Häggvik,Not yet contextually reviewed,,inaccessible_requires_review,https://siaskolan.se,
+83810698,Elinsborgsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/elinsborgsskolan,
+83828066,Nya Elementar,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/nya-elementar,
+84103650,Kårsta skola,Not yet contextually reviewed,,inaccessible_requires_review,http://www.vallentuna.se/karsta/,
+84230778,Svalnäs skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.svalnas.se,
+84520303,Hagaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://vallentuna.se/haga,
+84584068,Frötuna skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+84585645,Hagaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.hagaskolan.se,
+84704913,Krusboda skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+84884375,Myrsjöskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.myrsjo.nacka.se,
+85200474,Magelungens Grundskola Långbropark,Not yet contextually reviewed,,fetched_requires_context_review,http://www.magelungen.com,
+85440729,Häggvik- Skälbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sollentuna.se/sv/skola--forskola/grundskola/skolor/haggviks-skolor/,
+85558618,Falkbergsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/falkbergsskolan,
+85670099,Stift. Sthlm Intern. School gr,Not yet contextually reviewed,,inaccessible_requires_review,http://www.intsch.se,
+85759071,Lillsjöskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/lillsjoskolan.html,
+85777315,Mikaelskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.mikaelskolan.se,
+85796724,Källskolan 6-9,Not yet contextually reviewed,,fetched_requires_context_review,http://www.kallskolan.se,
+86086213,Sofiaängens skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sofiaangen.se,
+86117924,Gamla Enskede skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/enskede-skola,
+86192571,Banslättsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/banslattskolan,
+86271166,Vattmyraskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+86337537,Maltesholmsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/maltesholmsskolan,
+86363147,Sjöängsskolan,Not yet contextually reviewed,,inaccessible_requires_review,www.varmdo.se,
+86440798,Haninge Montessoriskola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.haningemontessoriskola.se,
+86597125,Hässelby Villastads skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hasselby-villastads-skola,
+86758230,Viktor Rydbergs skola Jarlaplan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.vrskolor.se,
+86917350,Köpmanholms skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/,
+86937935,Sågtorpsskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.sagtorp.nacka.se,
+86985859,Malmsjö skola,Not yet contextually reviewed,,inaccessible_requires_review,http://www.botkyrka.se/malmsjoskola,
+87382179,Väringaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.varingaskolan.se,
+87412084,Skolan LÄR,Not yet contextually reviewed,,fetched_requires_context_review,http://www.skolanlar.nu,
+87425546,Kunskapsskolan Nacka,Not yet contextually reviewed,,fetched_requires_context_review,https://www.kunskapsskolan.se/skolor/nacka,
+87521048,Engelbrektsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/engelbrektsskolan,
+87665835,Strandskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.tyreso.se,
+87719096,Ålstensskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/alstensskolan,
+87838841,Hässelbygårdsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hasselbygardsskolan,
+87920455,Skönstaholmsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/skonstaholmsskolan,
+87967939,Noblaskolan Lännersta,Not yet contextually reviewed,,fetched_requires_context_review,https://noblaskolan.se/lannersta/,
+87999453,Tellusskolan Thea Bromma,Not yet contextually reviewed,,fetched_requires_context_review,https://tellusskolan.se/skolor/thea-bromma/,
+88207732,Blommensbergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/blommensbergsskolan,
+88283203,Ösbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.varmdo.se,
+88454421,Aspnässkolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+88712672,Söraskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+88795871,Södra Ängby skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sodra-angby-skola,
+89053805,Fastebolskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+89317818,Kyrkskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.danderyd.se/skolor/kyrkskolan/,
+89424201,Spirande lärande i Täby AB,Not yet contextually reviewed,,fetched_requires_context_review,http://www.spiraskolan.se,
+89510449,Kungsklippeskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/kungsklippeskolan,
+89605548,Trollbodaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/trollbodaskolan,
+89615900,Bålbroskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/,
+89692072,Freinetskolan Hugin,Not yet contextually reviewed,,fetched_requires_context_review,http://www.freinetskolanhugin.se,
+89701816,Kästaskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://grundskolor.huddinge.se/kastaskola/,
+89751941,Drakskeppsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/drakskeppsskolan,
+89847413,Skansbergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.huddinge.se/skansbergsskolan,
+89851619,JENSEN grundskola Bro-Mälarstrand,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jensengrundskola.se/bro-malarstrand,
+89893224,Svedenskolan Bergshamra,Not yet contextually reviewed,,fetched_requires_context_review,https://www.up.se/svedenskolanbergshamra/,
+90207041,Myrsjö resursskola,Not yet contextually reviewed,,inaccessible_requires_review,nacka.se/valfard-skola/myrsjoresursskola,
+90537318,Vikingaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+90561266,Hedvig Eleonora skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hedvig-eleonora-skola,
+90719952,Edsbro skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+90732940,Internationella Engelska Skolan Bromma,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+90850620,Grundskolan Metapontum,Not yet contextually reviewed,,fetched_requires_context_review,http://www.metapontum.se,
+90879048,Raoul Wallenbergskolan Järvastaden,Not yet contextually reviewed,,fetched_requires_context_review,http://www.raoulwallenbergskolan.se,
+90886859,Utsäljeskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/utsaljeskolan,
+91067048,Ebba Braheskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ebbabraheskolan.se,
+91213471,Klockargårdens skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.lidingo.se/klockargardensskola,
+91816093,Sturebyskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/sturebyskolan,
+92007673,Västertorpsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/vastertorpsskolan,
+92127007,Norrbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrbyskolan.se,
+92284588,Ekhammarskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/ekhammarskolan.html,
+92347699,Bromstensskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/bromstensskolan,
+92416778,Hjorthagens skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hjorthagens-skola,
+92689250,Montessori Mondial Mälarhöjden,Not yet contextually reviewed,,fetched_requires_context_review,https://montessorimondial.se/malarhojden/,
+92750123,"Enskilda gymnasiet, gr",Not yet contextually reviewed,,fetched_requires_context_review,http://www.enskildagymnasiet.se,
+93301103,Aspdammskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.aspdammskolan.se,
+93320132,S:ta Gertruds skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sigtuna.se/stagertrudsskola,
+93412255,Gubbängsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/gubbangsskolan,
+93844270,Turingeskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.nykvarn.se,
+93968806,Grönkullaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sundbyberg.se/gronkullaskolan,
+94113162,Österskärsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.osteraker.se,
+94279206,Resursskola Sjötorp,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/sjotorpsskolan,
+94301041,Innovitaskolan Myrängen,Not yet contextually reviewed,,fetched_requires_context_review,https://innovitaskolan.se/myrangen/,
+94600352,Ekedalsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://varmdo.se,
+94677983,Tullgårdsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/tullgardsskolan,
+94791997,Svartbäcksskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://haninge.se/forskola-och-skola/grundskola/,
+94836092,Borgvallaskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.nacka.se/valfard-skola/ektorps-skolenhet/borgvallaskolan/,
+94864296,Åsö grundskola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/aso-grundskola,
+94902263,Viks skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.varmdo.se,
+94943347,S:t Eriks Katolska Skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sterikskatolskaskola.se,
+94987345,Ekebyskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.danderyd.se/skolor/ekebyskolan/,
+95057356,Uppgårdskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/uppgardskolan,
+95432644,Baldersskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.danderyd.se,
+95676943,Kevingeskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://www.danderyd.se/skolor/kevingeskolan/,
+95747197,Noblaskolan Brevik,Not yet contextually reviewed,,fetched_requires_context_review,https://noblaskolan.se/brevik/,
+95869861,Kvisthamraskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+95940425,Elevverket,Not yet contextually reviewed,,fetched_requires_context_review,http://www.elevverket.se,
+96330648,Näsbyparksskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.taby.se/nasbyparksskolan,
+96622957,Backeboskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.backeboskolan.se,
+96646603,Lommarskolan,Not yet contextually reviewed,,inaccessible_requires_review,www.norrtalje.se,
+96653388,Robinson Valsjön,Not yet contextually reviewed,,fetched_requires_context_review,https://tellusskolan.se/skolor/robinson-valsjon/,
+96671986,Väsjöskolan,Not yet contextually reviewed,,missing_registered_website,,
+96689751,Kräpplaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/krapplaskolan,
+96984023,Östermalmsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/ostermalmsskolan,
+97174070,Mörbyskolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.morbyskolan.se,
+97184063,Högbyskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+97400863,Vinsta grundskola västra,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-vastra,
+97402564,Kvarnbergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://varmdo.se,
+97655739,Eneskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/eneskolan,
+97683561,Johan Skytteskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/johan-skytteskolan,
+97686250,Rödabergsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/rodabergsskolan,
+97718207,Gottsta Skola,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+97762139,Sandbergska skolan,Not yet contextually reviewed,,inaccessible_requires_review,http://www.thorenframtid.se,
+97777849,Tallbohovskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+97927760,Noblaskolan Rönninge,Not yet contextually reviewed,,fetched_requires_context_review,https://noblaskolan.se/ronninge/,
+97942210,Internationella Engelska Skolan Huddinge,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+97966458,Ormkärrsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/ormkarrsskolan,
+98070480,Hägerstenshamnens skola,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstenshamnens-skola,
+98239828,"Ekebyholmsskolan, gr",Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekebyholm.se,
+98477278,Edboskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.huddinge.se/edboskolan,
+98515782,Ängkärrskolan i Solna,Not yet contextually reviewed,,fetched_requires_context_review,http://www.angkarrskolan.se,
+98531789,Rånäs skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/,
+98666483,Ålstaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+98753011,Internationella Engelska Skolan Sundbyberg,Not yet contextually reviewed,,fetched_requires_context_review,http://www.engelska.se,
+98760751,"Kristofferskolan, gr",Prior pilot review; scope caveats remain,approach_redesign/pilot,pilot; see original log,,
+98780182,Bodals skola,Not yet contextually reviewed,,fetched_requires_context_review,https://www.lidingo.se/bodalsskola,
+98925408,Viksjöskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.jarfalla.se,
+99022046,Sköndalsskolan,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/skondalsskolan,
+99373839,Ekebyhovsskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.ekero.se/ekebyhovskolan,
+99640618,Lillhagaskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.nykvarn.se,
+99648792,Adolf Fredriks musikklasser,Not yet contextually reviewed,,fetched_requires_context_review,https://grundskola.stockholm/hitta-grundskola/grundskola/adolf-fredriks-musikklasser,
+99749462,Långsjöskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.norrtalje.se,
+99842607,Oxbacksskolan,Not yet contextually reviewed,,fetched_requires_context_review,http://www.sodertalje.se/oxbacksskolan,

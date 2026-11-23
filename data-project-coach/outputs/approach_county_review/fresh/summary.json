@@ -1,0 +1,15 @@
+{
+  "directory_units": 759,
+  "checkpointed_units": 759,
+  "not_attempted_this_refresh": 0,
+  "collection_statuses": {
+    "fetched_requires_context_review": 574,
+    "missing_registered_website": 8,
+    "inaccessible_requires_review": 170,
+    "terms_review_required": 7
+  },
+  "fresh_pages": 1061,
+  "new_approach_codes": 0,
+  "live_database_modified": false,
+  "updated_at": "2026-10-21T17:46:12.287106+00:00"
+}

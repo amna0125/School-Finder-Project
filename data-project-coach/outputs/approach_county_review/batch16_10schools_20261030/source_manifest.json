@@ -1,0 +1,137 @@
+[
+  {
+    "file": "campus.html",
+    "bytes": 150627,
+    "sha256": "de8b63cd3d880f1fb4bc2a67a8043fbb006ccfff8f46834a7161ab5daadf052d"
+  },
+  {
+    "file": "campus_about.html",
+    "bytes": 232786,
+    "sha256": "ddee4db8892b100f90dc9aadbbaa372a4ed2798d5c74fb5a4d747ece6784ce10"
+  },
+  {
+    "file": "campus_f9.html",
+    "bytes": 227600,
+    "sha256": "238b4a9eac95135fda4ebf94903662eec40f45423e713f6b86caa4d14ef099dc"
+  },
+  {
+    "file": "esn_about.html",
+    "bytes": 173711,
+    "sha256": "7f6954dac9ebe19a2b4e29b3e5a7f5cc477e8bbdce07dd44a2d2eddcea526a11"
+  },
+  {
+    "file": "esn_class.html",
+    "bytes": 166569,
+    "sha256": "02357c44ad15e1208b54c4c69310741548a74e4956c3ff6196e94e71a2f5b6d4"
+  },
+  {
+    "file": "esn_education.html",
+    "bytes": 195988,
+    "sha256": "511546bf86ca6aecd97753164133665c96bd2b10361892264d1bc718da9bd39a"
+  },
+  {
+    "file": "ies_about.html",
+    "bytes": 270406,
+    "sha256": "1f75277802d3db3b88175fbbcae80579a219bdc14914f5897df46cd546f8d66a"
+  },
+  {
+    "file": "ies_teaching.html",
+    "bytes": 286896,
+    "sha256": "df46d580680569556e025c2d8b7f99cb19f09882d484745a1b33e7da286bc024"
+  },
+  {
+    "file": "innovita.html",
+    "bytes": 68227,
+    "sha256": "41d227e62d33417de7fd23db414fa07715e9bb1b8ab2e2eaf4d8b1fad4187e8a"
+  },
+  {
+    "file": "innovita_concept.html",
+    "bytes": 68058,
+    "sha256": "65fc3a0bcb0d6cf4c016bfe39f224a7d0516e43ca2fac432050df9718f6048fb"
+  },
+  {
+    "file": "kastanjen.html",
+    "bytes": 608098,
+    "sha256": "35c25fedefbab19f365c439cbc6da5f7f5a8a86010abe314c7a8963dc3e9685e"
+  },
+  {
+    "file": "kastanjen_about.html",
+    "bytes": 614351,
+    "sha256": "a8bb597f3b81a73e037e74f0afd421ea9c7fc3bf22cb5c9623f00de82f489c0e"
+  },
+  {
+    "file": "kungsholm_listing.html",
+    "bytes": 143544,
+    "sha256": "6d07914caebb76849fbbf8a4e2346b0725ba35d4d1f7d53bce614cb5892b0322"
+  },
+  {
+    "file": "lovisedal.html",
+    "bytes": 125664,
+    "sha256": "ba1d547ca5cd9fc7e5f9a8b8a7bfc8778a2f3a64b7b66c58f55eece5e75c99d8"
+  },
+  {
+    "file": "lovisedal_current.html",
+    "bytes": 97337,
+    "sha256": "8d4a5aea86fdf4b9fd2c03885abb11474fe71ca53700c96c1e7b8425249442c4"
+  },
+  {
+    "file": "observatorie_listing.html",
+    "bytes": 141510,
+    "sha256": "695a7957b7df3dfe31c0a15d6d504f64622a9ae2e6ee773028e5a856d160321c"
+  },
+  {
+    "file": "robots_campus.txt",
+    "bytes": 248,
+    "sha256": "bd54b1fbeb15afebb30731cb675e0d6d6bb10845837ce5fc7f3cb481a07580bd"
+  },
+  {
+    "file": "robots_esn.txt",
+    "bytes": 153565,
+    "sha256": "8b02ca89cea403da8bef4c06f4b75fd554104f267ec27f3adf2891399f0255ef"
+  },
+  {
+    "file": "robots_ies.txt",
+    "bytes": 201,
+    "sha256": "0cdf671e9a727a54209a5b350ee119c17003b314ccef21b4ce8eb022f2644f0b"
+  },
+  {
+    "file": "robots_innovita.txt",
+    "bytes": 3455,
+    "sha256": "3c30864c6159e3036e63012770dfdcc00cf69705efffaf388cf5568f221c1895"
+  },
+  {
+    "file": "robots_iofi.txt",
+    "bytes": 1502,
+    "sha256": "e990da61265cb112043237e6814b6f30bfbe2c4005200b772a8c06c80883a4af"
+  },
+  {
+    "file": "robots_kastanjen.txt",
+    "bytes": 490,
+    "sha256": "f7b2a8f6e9c6c67d3d93c4b99a3a103096d58a196c58f3c8b74659de5ed2e8ae"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 67,
+    "sha256": "bba51e84f7a5a0904a456f6e4b3e79b919e43800d60b2e6a7508062cec4d2106"
+  },
+  {
+    "file": "robots_vallentuna.txt",
+    "bytes": 574,
+    "sha256": "6fc07751694f15315a500d4e60c15d81c4900bf13d4cd17a824a7257ef97d95e"
+  },
+  {
+    "file": "robots_vanadis.txt",
+    "bytes": 1511,
+    "sha256": "bd9ba43da3dd37eb78a4bd3da08dbd472c6036ad486cf2c9d55591d221f679b6"
+  },
+  {
+    "file": "snosatra_listing.html",
+    "bytes": 136752,
+    "sha256": "c7bd2c42fad25e0c5a6c8941c9c2e2bef9aeb12010c35761bd6ff742fee4d56b"
+  },
+  {
+    "file": "vanadis_resource.html",
+    "bytes": 961310,
+    "sha256": "af52b6dbf08b8c2b51ba89cd3fc55f80ecdcec2b4aec14da63c6a277c3e9d974"
+  }
+]

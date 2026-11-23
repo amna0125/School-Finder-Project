@@ -1,0 +1,189 @@
+[
+  {
+    "code_id": "ac_sr_89692072_01",
+    "school_id": "89692072",
+    "category": "Alternative pedagogy",
+    "subcategory": "Freinet",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_89692072_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_89692072_02",
+    "school_id": "89692072",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Thematic work; Mästaråret in year 9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_89692072_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Thematic work described for all stages.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_89751941_01",
+    "school_id": "89751941",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_89751941_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_89847413_01",
+    "school_id": "89847413",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "PAX",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_89847413_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_89847413_02",
+    "school_id": "89847413",
+    "category": "Other stated profile",
+    "subcategory": "Aski-Raski reading model",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_89847413_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Cf. Bornholmsmodellen precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_89851619_01",
+    "school_id": "89851619",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Health profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_89851619_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Cf. JENSEN Långholmen.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_89851619_02",
+    "school_id": "89851619",
+    "category": "Other stated profile",
+    "subcategory": "Traditional teacher-led; handwriting emphasis",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_89851619_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Cf. JENSEN Långholmen.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_89893224_01",
+    "school_id": "89893224",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school; tydliggörande pedagogik",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_89893224_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Page title 'Resursskola i Solna'.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_90537318_01",
+    "school_id": "90537318",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Sweden-Finnish classes F–6",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_90537318_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Optional classes; half of theoretical teaching in Finnish in lower years.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_90719952_01",
+    "school_id": "90719952",
+    "category": "Other stated profile",
+    "subcategory": "Literacy emphasis",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_90719952_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Norrtälje template text; cf. Skebo.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_90850620_01",
+    "school_id": "90850620",
+    "category": "Arts and creative learning",
+    "subcategory": "Music profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_90850620_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_90850620_02",
+    "school_id": "90850620",
+    "category": "Other stated profile",
+    "subcategory": "Maths profile; spets from year 7",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_90850620_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_90886859_01",
+    "school_id": "90886859",
+    "category": "Other stated profile",
+    "subcategory": "Language- and knowledge-developing approach",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_90886859_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Common Huddinge wording.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_91067048_01",
+    "school_id": "91067048",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Cross-subject teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_91067048_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Site may be outdated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_91213471_01",
+    "school_id": "91213471",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Long school-wide themes; NTA",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_91213471_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_92007673_01",
+    "school_id": "92007673",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Special teaching group (Supernova)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_92007673_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Part of the school, not whole-school profile.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_92127007_01",
+    "school_id": "92127007",
+    "category": "Other stated profile",
+    "subcategory": "Maths focus",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_92127007_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No programme detail.",
+    "review_status": "Reviewed"
+  }
+]

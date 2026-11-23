@@ -1,0 +1,123 @@
+[
+  {
+    "code_id": "ac_sr_86597125_01",
+    "school_id": "86597125",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Studio 19; NPF-trained staff",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_86597125_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Part of the school, not whole-school profile.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_86917350_01",
+    "school_id": "86917350",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Woods and sea as learning environment",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_86917350_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No frequency stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_86937935_01",
+    "school_id": "86937935",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Generation Pep",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_86937935_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_87382179_01",
+    "school_id": "87382179",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Project-based working methods",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_87382179_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Stated as aim ('strävar'); no detail.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_87425546_01",
+    "school_id": "87425546",
+    "category": "Other stated profile",
+    "subcategory": "Personalised learning (Kunskapsskolan model)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_87425546_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Consistent with other Kunskapsskolan units.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_87521048_01",
+    "school_id": "87521048",
+    "category": "Other stated profile",
+    "subcategory": "Maths spets 7–9; football profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_87521048_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Profile details on linked pages not collected.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_87665835_01",
+    "school_id": "87665835",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Cross-subject teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_87665835_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No detail on frequency.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_87719096_01",
+    "school_id": "87719096",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Erasmus+ projects",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_87719096_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. May be staff-focused exchanges.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_87999453_01",
+    "school_id": "87999453",
+    "category": "Other stated profile",
+    "subcategory": "Rhetoric profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_87999453_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_88712672_01",
+    "school_id": "88712672",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Erasmus+ project",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_88712672_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Headline only; detail not collected.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_88795871_01",
+    "school_id": "88795871",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledare",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_88795871_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  }
+]

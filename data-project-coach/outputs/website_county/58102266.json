@@ -1,0 +1,101 @@
+{
+  "school_unit_code": "58102266",
+  "school_name": "Vittra Sollentuna",
+  "registered_url": "http://www.vittra.se/sollentuna",
+  "attempted_at": "2026-10-21T09:22:16.924284+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vittra.se/sollentuna/",
+      "retrieved_at": "2026-10-21T09:22:20.878763+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vittra.se/sollentuna",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.345093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vittra.se/sollentuna",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:03.914768+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vittra.se/sollentuna/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58102266_0.txt"
+    },
+    {
+      "source_url": "https://vittra.se/sollentuna/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:20.907215+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/sollentuna/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58102266_1.txt"
+    },
+    {
+      "source_url": "https://vittra.se/sollentuna/artikel/pedagoger/",
+      "retrieved_at": "2026-10-21T09:22:20.923464+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/sollentuna/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58102266_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "FN-dagen skapar stolthet hos Vittra Rösjötorps elever Vittra Rösjötorp International i Sollentuna är en tvåspråkig förskola och skola med både engelska och svenska. Här går barn och elever som inte har svenska som förstaspråk tillsammans med de som valt Vittra Rösjötorp för möjligheten att tidigt lära sig engelska. FN-dagen som i år firas torsdagen den...",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1dcd6cd91880347439298e912e9026a4e1493649dfbeeeec23d8e5339c1be11e",
+      "school_unit_code": "58102266",
+      "school_name": "Vittra Sollentuna",
+      "source_url": "https://vittra.se/sollentuna/",
+      "retrieved_at": "2026-10-21T09:22:20.878763+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Eftermiddagen rymmer ämnen som NO, SO, bild, slöjd, musik och engelska, med ett genomgående fokus på läsning, skrivande och språkutveckling i alla ämnen. Skoldagen avslutas med mellanmål i klassrummet innan fritidshemmet tar vid. På fritids finns ett tydligt fokus på rörelse, gemenskap och trygghet, med återkommande samarbeten med lokala idrottsföreningar samt daglig högläsning för att varva ner.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a019f9e22d73f998fd2ea95803d40f00bc186ca090f1858b8eac8b6da3edc77d",
+      "school_unit_code": "58102266",
+      "school_name": "Vittra Sollentuna",
+      "source_url": "https://vittra.se/sollentuna/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:20.907215+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

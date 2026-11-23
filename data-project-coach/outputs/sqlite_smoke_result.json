@@ -1,0 +1,14 @@
+{
+  "scope": "offline saved-fixture replay, not live extraction",
+  "status": "PASSED",
+  "prefect_orchestrated": true,
+  "loads": 2,
+  "row_counts": {
+    "schools": 1,
+    "statistics": 84,
+    "survey_observations": 149,
+    "source_coverage": 1
+  },
+  "database_path": ".state/smoke/schools.sqlite",
+  "load_status": "LOADED"
+}

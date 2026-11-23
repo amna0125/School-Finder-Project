@@ -1,0 +1,152 @@
+[
+  {
+    "source_file": "sources/boo_international.html",
+    "bytes": 36792,
+    "sha256": "f61ecf69975f66c63c23ccadfbe6f2d6a4a2319c1839b2c82bef0724c9732afa"
+  },
+  {
+    "source_file": "sources/boo_method.html",
+    "bytes": 39280,
+    "sha256": "35d510aa593327a28b4a0d55ede54d5e5230d0e6597bcede690348221d8a26f1"
+  },
+  {
+    "source_file": "sources/boo_nta.html",
+    "bytes": 38392,
+    "sha256": "96db995ff15566ffbc3f11ced27869970d4f493b946b43aa3e11f71134ed336b"
+  },
+  {
+    "source_file": "sources/boo_registered.html",
+    "bytes": 38190,
+    "sha256": "1512d11df81565d7d3e1ac8c9215801b6e9ba96927c60d87fd07291ac717492d"
+  },
+  {
+    "source_file": "sources/ellagard.html",
+    "bytes": 72613,
+    "sha256": "c091d2be79d337f555846ddc055fd36d1b3b595cd4a7bc5ef671a47a6e7b4e20"
+  },
+  {
+    "source_file": "sources/enback.html",
+    "bytes": 141067,
+    "sha256": "9241958f7c75f0df295e835f4bebd64ad9424b3bd2e8efd1314dbb2066d73e05"
+  },
+  {
+    "source_file": "sources/fredsborg.html",
+    "bytes": 119326,
+    "sha256": "298c5b2c30b38ea703e726188d791b87138dbccba39000f9de12a3512b95a906"
+  },
+  {
+    "source_file": "sources/fredsborg_profile.html",
+    "bytes": 87349,
+    "sha256": "0797eed6ad2e8b2f004afca75b59d944a19774b160c1185438a1c3983727b967"
+  },
+  {
+    "source_file": "sources/fredsborg_unit.html",
+    "bytes": 96825,
+    "sha256": "a74d53f0d2a900219835f3123c7bd069de5fd24e670e9b517c2ee6bc424a900f"
+  },
+  {
+    "source_file": "sources/grimsta.html",
+    "bytes": 69672,
+    "sha256": "bcb4ce1b89e649d27202895112b4ab73e8d6b62d1e335843bf49cef9aaee4b47"
+  },
+  {
+    "source_file": "sources/grimsta_about.html",
+    "bytes": 75744,
+    "sha256": "38389d13e54fdaded4309d9f1a08eb7fa79a0a1a8e0117d097867ed21ba5c268"
+  },
+  {
+    "source_file": "sources/hoglunda.html",
+    "bytes": 39636,
+    "sha256": "c4d1a731c3f3bd17583fa7c7cb298af1cf2c05ae1543121daa9c9cc61b876560"
+  },
+  {
+    "source_file": "sources/hoglunda_about.html",
+    "bytes": 36987,
+    "sha256": "993b534221dfe1bc28d1ea8c1a500cb5edcdc7a775d2cd40f2b3663541ea97b8"
+  },
+  {
+    "source_file": "sources/hoglunda_work.html",
+    "bytes": 34884,
+    "sha256": "a530d89c510270f875bb35c4463e4ea1fe2a6a4709b131dabd807edaf95bf253"
+  },
+  {
+    "source_file": "sources/idun.html",
+    "bytes": 90653,
+    "sha256": "66775a3c858d297ec52089a627b11cff15f6cf048e084c6c9ba95d75f13006b8"
+  },
+  {
+    "source_file": "sources/idun_method.html",
+    "bytes": 91129,
+    "sha256": "72e9890e82a470746baf872b09b1b0005425687185810bbd56980035e67d68c9"
+  },
+  {
+    "source_file": "sources/idun_today.html",
+    "bytes": 94813,
+    "sha256": "796dc0bfc2df347ce630b1234771a0b8ceca22da875a323fb89278017a0b8289"
+  },
+  {
+    "source_file": "sources/lillapark.html",
+    "bytes": 218433,
+    "sha256": "cfa1995550f0e28719b5438fdde7d759618d2583eba6ccc8cc8dd4f76622b806"
+  },
+  {
+    "source_file": "sources/lillapark_about.html",
+    "bytes": 194103,
+    "sha256": "326940bd05d9639fd93749e62c68bbf3eabdb19e8ad693885e1052c82e8174f8"
+  },
+  {
+    "source_file": "sources/marie.html",
+    "bytes": 53513,
+    "sha256": "77743a48424dbb5dad733e40d58de3f2f223000bfdc2b740e43af4608a99b68e"
+  },
+  {
+    "source_file": "sources/robots_fredsborg.txt",
+    "bytes": 196,
+    "sha256": "1b9c4f03df642c3837ea9c85dc42aefaa15dbdc53a78af1968ff5e3670e14669"
+  },
+  {
+    "source_file": "sources/robots_haninge.txt",
+    "bytes": 122,
+    "sha256": "6ca0ce93f502e70d40f498842e5d58b52072e535c1215d83075749113c7c185c"
+  },
+  {
+    "source_file": "sources/robots_idun.txt",
+    "bytes": 158,
+    "sha256": "51515d96c3ae995bb68e82436add0a53bae9ece2b8de52e7de401fccb04a210c"
+  },
+  {
+    "source_file": "sources/robots_lillapark.txt",
+    "bytes": 14,
+    "sha256": "fd89345af6aca5dab85f2aa6a830e270a362b1fa6b5f19607ddd773a081ed651"
+  },
+  {
+    "source_file": "sources/robots_nacka.txt",
+    "bytes": 90,
+    "sha256": "64fe41969e11ec84b6931292db50ef815df7f9d69b40957717f3836cfc06a702"
+  },
+  {
+    "source_file": "sources/robots_sodertalje.txt",
+    "bytes": 100,
+    "sha256": "2ae70aeef40d856f7e60c10c2195f903ff788173bd8a62a12c11c85b5fb9c492"
+  },
+  {
+    "source_file": "sources/robots_stockholm.txt",
+    "bytes": 68,
+    "sha256": "884a702f28cae7691d050d58f687e2d29412b1e5a799000e5769742bc5818d17"
+  },
+  {
+    "source_file": "sources/robots_taby.txt",
+    "bytes": 494,
+    "sha256": "2eb5c8782f1b259c3f513391f0b866049643bc6c37bdd44301d403299da0c003"
+  },
+  {
+    "source_file": "sources/robots_vasby.txt",
+    "bytes": 735,
+    "sha256": "392174139ecef31e13a1eba9bbfdb2892d5c42ad824a5b0744565e1b2cb053f2"
+  },
+  {
+    "source_file": "sources/sundby.html",
+    "bytes": 137208,
+    "sha256": "92dd4d4f2f475acaa67d8262fa1b669b00b3cbe345931e6cc161a5fe220aa2f2"
+  }
+]

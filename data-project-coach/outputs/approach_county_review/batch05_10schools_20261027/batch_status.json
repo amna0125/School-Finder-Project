@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 6,
+  "scoped_no_clear_schools": 2,
+  "requires_review_schools": 2,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 13,
+  "new_code_rows": 9,
+  "database_evidence_total": 56,
+  "database_codes_total": 46,
+  "first_load_flow": "shaggy-koel",
+  "replay_flow": "snobbish-mastiff",
+  "replay_inserted_rows": 0,
+  "tests": "22 existing tests passed",
+  "validation": "load_validation.json"
+}

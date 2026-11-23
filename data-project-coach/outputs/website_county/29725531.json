@@ -1,0 +1,75 @@
+{
+  "school_unit_code": "29725531",
+  "school_name": "Engelska skolan norr",
+  "registered_url": "http://www.esn.se",
+  "attempted_at": "2026-10-21T09:20:56.045960+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.esn.se/",
+      "retrieved_at": "2026-10-21T09:21:03.571710+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.esn.se",
+          "robots_url": "https://www.esn.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:57.922296+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.esn.se/",
+          "robots_url": "https://www.esn.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:01.399217+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "29725531_0.txt"
+    },
+    {
+      "source_url": "https://www.esn.se/om-oss",
+      "retrieved_at": "2026-10-21T09:21:03.600830+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.esn.se/om-oss",
+          "robots_url": "https://www.esn.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:01.399217+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "29725531_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Engelska skolan Norr grundades 1993 för att erbjuda elever en tvåspråkig utbildning av hög kvalitet. Vår pedagogik präglas av ett hållbart arbetssätt där vi arbetar för att hjälpa varje elev att förverkliga sin fulla potential, både akademiskt och som människa. Det är vår gåva till dem och när de bär det vidare i sina framtida liv blir det deras gåva till oss.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "7fdba5eebe3775d41c05374a17f8c67c4f526a788ffb699d74acd4040693601d",
+      "school_unit_code": "29725531",
+      "school_name": "Engelska skolan norr",
+      "source_url": "https://www.esn.se/",
+      "retrieved_at": "2026-10-21T09:21:03.571710+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Engelska skolan Norr grundades 1993, som den första fristående skolan i Sverige som tillhandahåller ett tvåspråkigt program enligt den svenska läroplanen och där hälften av alla lektioner genomförs på engelska.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a85720ec890a20171726502ce4493a68a5c1c0a6b9e11f36f072f8cad56ca005",
+      "school_unit_code": "29725531",
+      "school_name": "Engelska skolan norr",
+      "source_url": "https://www.esn.se/om-oss",
+      "retrieved_at": "2026-10-21T09:21:03.600830+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

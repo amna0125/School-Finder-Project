@@ -1,0 +1,72 @@
+{
+  "school_id": "29524966",
+  "school_name": null,
+  "registered_url": "http://www.kastanjen.nu",
+  "pages": [
+    {
+      "requested_url": "https://www.kastanjen.nu/",
+      "source_url": "https://www.kastanjen.nu/",
+      "page_title": "Home | kastanjen",
+      "accessed_at": "2026-10-21T17:31:40.275730+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29524966_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kastanjen.nu/",
+          "robots_url": "https://www.kastanjen.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:39.454551+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kastanjen.nu/om-oss",
+      "source_url": "https://www.kastanjen.nu/om-oss",
+      "page_title": "Om oss | kastanjen",
+      "accessed_at": "2026-10-21T17:31:41.122669+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29524966_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kastanjen.nu/om-oss",
+          "robots_url": "https://www.kastanjen.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:39.454551+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kastanjen.nu/kopia-pa-pedagogiken",
+      "source_url": "https://www.kastanjen.nu/kopia-pa-pedagogiken",
+      "page_title": "Förskola | kastanjen",
+      "accessed_at": "2026-10-21T17:31:42.091779+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "29524966_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kastanjen.nu/kopia-pa-pedagogiken",
+          "robots_url": "https://www.kastanjen.nu/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:39.454551+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

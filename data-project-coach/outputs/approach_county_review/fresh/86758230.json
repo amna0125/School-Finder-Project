@@ -1,0 +1,52 @@
+{
+  "school_id": "86758230",
+  "school_name": "Viktor Rydbergs skola Jarlaplan",
+  "registered_url": "http://www.vrskolor.se",
+  "pages": [
+    {
+      "requested_url": "https://vrskolor.se/",
+      "source_url": "https://vrskolor.se/",
+      "page_title": "Stiftelsen Viktor Rydbergs skolor i StockholmExpandExpandExpandExpandSearchToggle MenuLäs mer om VRS DjursholmLäs mer om VRG DjursholmLäs mer om Campus Viktor RydbergLäs mer om VRS SundbybergLäs mer om VRG SundbybergLäs mer om VRS NackaStiftelsen Viktor Rydberg på FacebookStiftelsen Viktor Rydberg på InstagramStiftelsen Viktor Rydbergs skolor på LinkedInStiftelsen Viktor Rydbergs skolor på YoutubeExpandExpandExpandExpandFacebookInstagramTwitterLinkedinYouTubeToggle Menu CloseSearch",
+      "accessed_at": "2026-10-21T17:42:31.331456+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "86758230_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vrskolor.se/",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:28.828652+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vrskolor.se/om-oss/",
+      "source_url": "https://vrskolor.se/om-oss/",
+      "page_title": "Om Stiftelsen - vrskolor.seExpandExpandExpandExpandSearchToggle MenuStiftelsen Viktor Rydberg på FacebookStiftelsen Viktor Rydberg på InstagramStiftelsen Viktor Rydbergs skolor på LinkedInStiftelsen Viktor Rydbergs skolor på YoutubeExpandExpandExpandExpandFacebookInstagramTwitterLinkedinYouTubeToggle Menu CloseSearch",
+      "accessed_at": "2026-10-21T17:42:32.262097+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "86758230_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vrskolor.se/om-oss/",
+          "robots_url": "https://vrskolor.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:41:28.828652+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

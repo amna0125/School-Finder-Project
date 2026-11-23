@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "56568612",
+  "school_name": "Wasaskolan",
+  "registered_url": "http://www.sodertalje.se/wasaskolan",
+  "attempted_at": "2026-10-21T09:16:33.846791+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.sodertalje.se/wasaskolan",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

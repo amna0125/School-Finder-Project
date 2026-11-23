@@ -1,0 +1,520 @@
+[
+{
+"school_id": "46097781",
+"name": "Christinaskolan",
+"reg": "http://www.christinaskolan.se",
+"reason": "content not readable",
+"muni": "0186"
+},
+{
+"school_id": "86440798",
+"name": "Haninge Montessoriskola",
+"reg": "http://www.haningemontessoriskola.se",
+"reason": "content not readable",
+"muni": "0136"
+},
+{
+"school_id": "54348763",
+"name": "Nacka Idrottsgrundskola",
+"reg": "https://idrottsgrundskolannacka.se/",
+"reason": "content not readable",
+"muni": "0182"
+},
+{
+"school_id": "45279651",
+"name": "Bergshöjdens skola",
+"reg": "",
+"reason": "no registered website",
+"muni": "0139"
+},
+{
+"school_id": "74706113",
+"name": "Danaskolan",
+"reg": "",
+"reason": "no registered website",
+"muni": "0162"
+},
+{
+"school_id": "79034924",
+"name": "Haninge resursskola",
+"reg": "",
+"reason": "no registered website",
+"muni": "0136"
+},
+{
+"school_id": "53576482",
+"name": "Nacka Musikklasser",
+"reg": "",
+"reason": "no registered website",
+"muni": "0182"
+},
+{
+"school_id": "58004018",
+"name": "Noraskolan",
+"reg": "",
+"reason": "no registered website",
+"muni": "0162"
+},
+{
+"school_id": "47727629",
+"name": "Skärsta Friskola",
+"reg": "",
+"reason": "no registered website",
+"muni": "0188"
+},
+{
+"school_id": "96671986",
+"name": "Väsjöskolan",
+"reg": "",
+"reason": "no registered website",
+"muni": "0163"
+},
+{
+"school_id": "95432644",
+"name": "Baldersskolan",
+"reg": "http://www.danderyd.se",
+"reason": "school-specific source not found",
+"muni": "0162"
+},
+{
+"school_id": "68422076",
+"name": "Björkestaskolan",
+"reg": "http://www.nykvarn.se",
+"reason": "school-specific source not found",
+"muni": "0140"
+},
+{
+"school_id": "69004747",
+"name": "Fryshuset Grundskola Husby",
+"reg": "https://fryshuset.se/",
+"reason": "school-specific source not found",
+"muni": "0180"
+},
+{
+"school_id": "73629371",
+"name": "Gillbo-Gröndalsskolan",
+"reg": "http://www.sollentuna.se/sv/uweb/utbildning-rotebro",
+"reason": "school-specific source not found",
+"muni": "0163"
+},
+{
+"school_id": "48724676",
+"name": "Kronängsskolan",
+"reg": "http://vaxholm.se",
+"reason": "school-specific source not found",
+"muni": "0187"
+},
+{
+"school_id": "99640618",
+"name": "Lillhagaskolan",
+"reg": "http://www.nykvarn.se",
+"reason": "school-specific source not found",
+"muni": "0140"
+},
+{
+"school_id": "10735290",
+"name": "Långängsskolan",
+"reg": "https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/",
+"reason": "school-specific source not found",
+"muni": "0162"
+},
+{
+"school_id": "72584192",
+"name": "Nya Enskede skola",
+"reg": "https://grundskola.stockholm/hitta-grundskola/grundskola/enskede-skola",
+"reason": "school-specific source not found",
+"muni": "0180"
+},
+{
+"school_id": "69909271",
+"name": "Resarö skola",
+"reg": "http://www.vaxholm.se",
+"reason": "school-specific source not found",
+"muni": "0187"
+},
+{
+"school_id": "62518360",
+"name": "Resursskola Annersta",
+"reg": "http://www.huddinge.se/annerstaskolan",
+"reason": "school-specific source not found",
+"muni": "0126"
+},
+{
+"school_id": "55690064",
+"name": "Resursskolan Ängsrosen",
+"reg": "www.osteraker.se",
+"reason": "school-specific source not found",
+"muni": "0117"
+},
+{
+"school_id": "58338225",
+"name": "Rindö skola",
+"reg": "http://www.vaxholm.se",
+"reason": "school-specific source not found",
+"muni": "0187"
+},
+{
+"school_id": "63742407",
+"name": "Rosendalsskolan",
+"reg": "http://www.vallentuna.se",
+"reason": "school-specific source not found",
+"muni": "0115"
+},
+{
+"school_id": "51041954",
+"name": "Rälsen AB i Norrviken",
+"reg": "http://www.ralsen.se",
+"reason": "school-specific source not found",
+"muni": "0163"
+},
+{
+"school_id": "47290443",
+"name": "Rälsen AB i Viby",
+"reg": "http://www.ralsen.se",
+"reason": "school-specific source not found",
+"muni": "0163"
+},
+{
+"school_id": "12407147",
+"name": "Röllingbyskolan",
+"reg": "http://www.osteraker.se",
+"reason": "school-specific source not found",
+"muni": "0117"
+},
+{
+"school_id": "86363147",
+"name": "Sjöängsskolan",
+"reg": "www.varmdo.se",
+"reason": "school-specific source not found",
+"muni": "0120"
+},
+{
+"school_id": "73272488",
+"name": "Skärgårdsstadsskolan",
+"reg": "http://www.osteraker.se",
+"reason": "school-specific source not found",
+"muni": "0117"
+},
+{
+"school_id": "82624830",
+"name": "Solskiftesskolan",
+"reg": "http://www.osteraker.se",
+"reason": "school-specific source not found",
+"muni": "0117"
+},
+{
+"school_id": "85670099",
+"name": "Stift. Sthlm Intern. School gr",
+"reg": "http://www.intsch.se",
+"reason": "school-specific source not found",
+"muni": "0180"
+},
+{
+"school_id": "70481988",
+"name": "Svartsö skola",
+"reg": "http://varmdo.se",
+"reason": "school-specific source not found",
+"muni": "0120"
+},
+{
+"school_id": "51305351",
+"name": "Tråsättraskolan",
+"reg": "http://www.osteraker.se",
+"reason": "school-specific source not found",
+"muni": "0117"
+},
+{
+"school_id": "93844270",
+"name": "Turingeskolan",
+"reg": "http://www.nykvarn.se",
+"reason": "school-specific source not found",
+"muni": "0140"
+},
+{
+"school_id": "83020784",
+"name": "Tyresö skola",
+"reg": "http://www.tyreso.se",
+"reason": "school-specific source not found",
+"muni": "0138"
+},
+{
+"school_id": "55267088",
+"name": "Täby Friskola-Gribbylund",
+"reg": "http://www.tabyfriskola.se",
+"reason": "school-specific source not found",
+"muni": "0160"
+},
+{
+"school_id": "94113162",
+"name": "Österskärsskolan",
+"reg": "http://www.osteraker.se",
+"reason": "school-specific source not found",
+"muni": "0117"
+},
+{
+"school_id": "86192571",
+"name": "Banslättsskolan",
+"reg": "http://www.botkyrka.se/banslattskolan",
+"reason": "source inaccessible",
+"muni": "0127"
+},
+{
+"school_id": "56299553",
+"name": "Bergaskolan",
+"reg": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/bergaskolan.html",
+"reason": "source inaccessible",
+"muni": "0139"
+},
+{
+"school_id": "56315778",
+"name": "Brunnaskolan",
+"reg": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/brunnaskolan.html",
+"reason": "source inaccessible",
+"muni": "0139"
+},
+{
+"school_id": "52293921",
+"name": "Bällstabergsskolan",
+"reg": "http://www.skolor.vallentuna.se/ballstaberg/",
+"reason": "source inaccessible",
+"muni": "0115"
+},
+{
+"school_id": "92284588",
+"name": "Ekhammarskolan",
+"reg": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/ekhammarskolan.html",
+"reason": "source inaccessible",
+"muni": "0139"
+},
+{
+"school_id": "85558618",
+"name": "Falkbergsskolan",
+"reg": "http://www.botkyrka.se/falkbergsskolan",
+"reason": "source inaccessible",
+"muni": "0127"
+},
+{
+"school_id": "61061763",
+"name": "Finnstaskolan",
+"reg": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/finnstaskolan.html",
+"reason": "source inaccessible",
+"muni": "0139"
+},
+{
+"school_id": "57228484",
+"name": "Grindtorpsskolan",
+"reg": "http://www.botkyrka.se/grindtorpsskolan",
+"reason": "source inaccessible",
+"muni": "0127"
+},
+{
+"school_id": "65717061",
+"name": "Gröndalsskolan F-9",
+"reg": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/grondalsskolan-f-9",
+"reason": "source inaccessible",
+"muni": "0192"
+},
+{
+"school_id": "70201551",
+"name": "Gärdesskolan",
+"reg": "http://www.sollentuna.se/sv/uweb/gardesskolan-med-forskolor/",
+"reason": "source inaccessible",
+"muni": "0163"
+},
+{
+"school_id": "84520303",
+"name": "Hagaskolan",
+"reg": "http://vallentuna.se/haga",
+"reason": "source inaccessible",
+"muni": "0115"
+},
+{
+"school_id": "82137009",
+"name": "Hovsjöskolan",
+"reg": "http://www.sodertalje.se/hovsjoskolor",
+"reason": "source inaccessible",
+"muni": "0181"
+},
+{
+"school_id": "85440729",
+"name": "Häggvik- Skälbyskolan",
+"reg": "http://www.sollentuna.se/sv/skola--forskola/grundskola/skolor/haggviks-skolor/",
+"reason": "source inaccessible",
+"muni": "0163"
+},
+{
+"school_id": "60521412",
+"name": "Igelbäckskolan",
+"reg": "https://www.sundbyberg.se/forskola-utbildning/grundskola-och-grundsarskola/sundbybergs-resursskola.html",
+"reason": "source inaccessible",
+"muni": "0183"
+},
+{
+"school_id": "57370453",
+"name": "Karbyskolan",
+"reg": "http://www.vallentuna.se/karby",
+"reason": "source inaccessible",
+"muni": "0115"
+},
+{
+"school_id": "56417100",
+"name": "Kvarnhagsskolan",
+"reg": "http://www.botkyrka.se/kvarnhagsskolan",
+"reason": "source inaccessible",
+"muni": "0127"
+},
+{
+"school_id": "89701816",
+"name": "Kästaskolan",
+"reg": "http://grundskolor.huddinge.se/kastaskola/",
+"reason": "source inaccessible",
+"muni": "0126"
+},
+{
+"school_id": "84103650",
+"name": "Kårsta skola",
+"reg": "http://www.vallentuna.se/karsta/",
+"reason": "source inaccessible",
+"muni": "0115"
+},
+{
+"school_id": "85759071",
+"name": "Lillsjöskolan",
+"reg": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/lillsjoskolan.html",
+"reason": "source inaccessible",
+"muni": "0139"
+},
+{
+"school_id": "86985859",
+"name": "Malmsjö skola",
+"reg": "http://www.botkyrka.se/malmsjoskola",
+"reason": "source inaccessible",
+"muni": "0127"
+},
+{
+"school_id": "53133366",
+"name": "Orminge skola",
+"reg": "http://www.orminge.se",
+"reason": "source inaccessible",
+"muni": "0182"
+},
+{
+"school_id": "47244612",
+"name": "Ornö skola",
+"reg": "http://www.haninge.se/sv/Barn--Utbildning/Grundskola/Kommunala-grundskolor/",
+"reason": "source inaccessible",
+"muni": "0136"
+},
+{
+"school_id": "51863294",
+"name": "Parkhemsskolan",
+"reg": "http://www.botkyrka.se/parkhemsskolan",
+"reason": "source inaccessible",
+"muni": "0127"
+},
+{
+"school_id": "44836298",
+"name": "Sigfridsborgs skola",
+"reg": "http://www.skolor.nacka.se/sigfridsborg",
+"reason": "source inaccessible",
+"muni": "0182"
+},
+{
+"school_id": "13124830",
+"name": "Sjöängsskolan",
+"reg": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+"reason": "source inaccessible",
+"muni": "0180"
+},
+{
+"school_id": "34671128",
+"name": "Solbergaskolan",
+"reg": "https://grundskola.stockholm/hitta-grundskola/grundskola/solbergaskolan",
+"reason": "source inaccessible",
+"muni": "0180"
+},
+{
+"school_id": "39923451",
+"name": "Sverigefinska skolan i Kista",
+"reg": "http://www.sverigefinskaskolanikista.se",
+"reason": "source inaccessible",
+"muni": "0180"
+},
+{
+"school_id": "22019000",
+"name": "Södertörns friskola",
+"reg": "http://www.frisko.la",
+"reason": "source inaccessible",
+"muni": "0126"
+},
+{
+"school_id": "76550010",
+"name": "Tjustaskolan",
+"reg": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/tjustaskolan.html",
+"reason": "source inaccessible",
+"muni": "0139"
+},
+{
+"school_id": "58310322",
+"name": "Trädgårdsstadsskolan",
+"reg": "http://www.botkyrka.se/tradgardsstadsskolan",
+"reason": "source inaccessible",
+"muni": "0127"
+},
+{
+"school_id": "66475520",
+"name": "Träkvista skola",
+"reg": "http://www.ekero.se/trakvista",
+"reason": "source inaccessible",
+"muni": "0125"
+},
+{
+"school_id": "45882318",
+"name": "Töjnaskolan",
+"reg": "http://www.edu.sollentuna.se/ton/",
+"reason": "source inaccessible",
+"muni": "0163"
+},
+{
+"school_id": "68361133",
+"name": "Vanstaskolan F-9",
+"reg": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/vanstaskolan-f-9",
+"reason": "source inaccessible",
+"muni": "0192"
+},
+{
+"school_id": "79004521",
+"name": "Viaskolan F-6",
+"reg": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/viaskolan-f-9",
+"reason": "source inaccessible",
+"muni": "0192"
+},
+{
+"school_id": "90207041",
+"name": "Myrsjö resursskola",
+"reg": "nacka.se/valfard-skola/myrsjoresursskola",
+"reason": "substantive page not reached",
+"muni": "0182"
+},
+{
+"school_id": "58286716",
+"name": "Norrbackaskolan",
+"reg": "http://www.sigtuna.se/norrbackaskolan",
+"reason": "substantive page not reached",
+"muni": "0191"
+},
+{
+"school_id": "93320132",
+"name": "S:ta Gertruds skola",
+"reg": "http://www.sigtuna.se/stagertrudsskola",
+"reason": "substantive page not reached",
+"muni": "0191"
+},
+{
+"school_id": "97762139",
+"name": "Sandbergska skolan",
+"reg": "http://www.thorenframtid.se",
+"reason": "substantive page not reached",
+"muni": "0114"
+}
+]

@@ -1,0 +1,71 @@
+{
+  "school_unit_code": "48791751",
+  "school_name": "Magelungens Grundskola Solna",
+  "registered_url": "http://www.magelungen.com",
+  "attempted_at": "2026-10-21T09:21:55.099892+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://magelungen.com/",
+      "retrieved_at": "2026-10-21T09:21:59.121993+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.magelungen.com",
+          "robots_url": "https://magelungen.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:11.292342+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.magelungen.com/",
+          "robots_url": "https://magelungen.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:13.773853+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://magelungen.com/",
+          "robots_url": "https://magelungen.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:15.493631+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "48791751_0.txt"
+    },
+    {
+      "source_url": "https://magelungen.com/om-oss/",
+      "retrieved_at": "2026-10-21T09:21:59.211499+00:00",
+      "robots_checks": [
+        {
+          "url": "https://magelungen.com/om-oss/",
+          "robots_url": "https://magelungen.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:15.493631+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "48791751_1.txt"
+    },
+    {
+      "source_url": "https://magelungen.com/om-oss/aktuellt-pa-magelungen/",
+      "retrieved_at": "2026-10-21T09:21:59.264441+00:00",
+      "robots_checks": [
+        {
+          "url": "https://magelungen.com/om-oss/aktuellt-pa-magelungen/",
+          "robots_url": "https://magelungen.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:15.493631+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "48791751_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

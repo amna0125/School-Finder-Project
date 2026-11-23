@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "24172067",
+    "official_directory_name": "Kulturskolan Raketen",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.kulturskolanraketen.se",
+    "note": ""
+  },
+  {
+    "school_id": "24199792",
+    "official_directory_name": "Da Vinciskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.davinciskolan.com",
+    "note": ""
+  },
+  {
+    "school_id": "24374886",
+    "official_directory_name": "Vittra Väsby",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vittra.se/vasby",
+    "note": ""
+  },
+  {
+    "school_id": "24402537",
+    "official_directory_name": "Internationella Engelska Skolan Upplands Väsby",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.engelska.se",
+    "note": ""
+  },
+  {
+    "school_id": "24561769",
+    "official_directory_name": "Hemmestaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.varmdo.se",
+    "note": ""
+  },
+  {
+    "school_id": "24606968",
+    "official_directory_name": "Härneviskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/harneviskolan.html",
+    "note": ""
+  },
+  {
+    "school_id": "24671487",
+    "official_directory_name": "Kunskapsskolans Resursskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.kunskapsskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "24716970",
+    "official_directory_name": "Högalidsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hogalidsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "24754913",
+    "official_directory_name": "Knutbyskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/knutbyskolan",
+    "note": ""
+  },
+  {
+    "school_id": "25090415",
+    "official_directory_name": "Fågelvik skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.varmdo.se",
+    "note": ""
+  }
+]

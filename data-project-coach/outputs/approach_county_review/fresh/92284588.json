@@ -1,0 +1,17 @@
+{
+  "school_id": "92284588",
+  "school_name": "Ekhammarskolan",
+  "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/ekhammarskolan.html",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/ekhammarskolan.html",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:43:56.886132+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

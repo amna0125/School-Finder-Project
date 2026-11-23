@@ -1,0 +1,17 @@
+{
+  "school_id": "23828958",
+  "school_name": "Näsbypark resursskola",
+  "registered_url": "www.taby.se/nasbyparksskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "www.taby.se/nasbyparksskolan",
+      "error": "Unsafe URL",
+      "attempted_at": "2026-10-21T17:30:10.313814+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

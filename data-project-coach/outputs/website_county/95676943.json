@@ -1,0 +1,60 @@
+{
+  "school_unit_code": "95676943",
+  "school_name": "Kevingeskolan",
+  "registered_url": "https://www.danderyd.se/skolor/kevingeskolan/",
+  "attempted_at": "2026-10-21T09:17:33.957614+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.danderyd.se/skolor/kevingeskolan/",
+      "retrieved_at": "2026-10-21T09:17:49.224005+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/kevingeskolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:17.296287+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "95676943_0.txt"
+    },
+    {
+      "source_url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/",
+      "retrieved_at": "2026-10-21T09:17:49.254474+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:17.296287+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "95676943_1.txt"
+    },
+    {
+      "source_url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/sa-arbetar-vi/",
+      "retrieved_at": "2026-10-21T09:17:49.286551+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/kevingeskolan/om-skolan/sa-arbetar-vi/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:17.296287+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "95676943_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

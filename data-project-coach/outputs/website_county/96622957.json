@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "96622957",
+  "school_name": "Backeboskolan ekonomisk förening",
+  "registered_url": "http://www.backeboskolan.se",
+  "attempted_at": "2026-10-21T09:17:34.397271+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.backeboskolan.se/",
+      "retrieved_at": "2026-10-21T09:17:40.484578+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.backeboskolan.se",
+          "robots_url": "http://www.backeboskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:35.882482+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.backeboskolan.se/",
+          "robots_url": "https://www.backeboskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:37.528345+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "96622957_0.txt"
+    },
+    {
+      "source_url": "https://www.backeboskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:40.503416+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.backeboskolan.se/om-oss/",
+          "robots_url": "https://www.backeboskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:37.528345+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "96622957_1.txt"
+    },
+    {
+      "source_url": "https://www.backeboskolan.se/pedagogik/",
+      "retrieved_at": "2026-10-21T09:17:40.526062+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.backeboskolan.se/pedagogik/",
+          "robots_url": "https://www.backeboskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:37.528345+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "96622957_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

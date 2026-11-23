@@ -1,0 +1,38 @@
+{
+  "school_unit_code": "19089469",
+  "school_name": "Montessoriskolan Fredsduvan",
+  "registered_url": "http://www.fredsduvan.com",
+  "attempted_at": "2026-10-21T09:20:21.870758+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.fredsduvan.com/",
+      "retrieved_at": "2026-10-21T09:20:25.777903+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.fredsduvan.com",
+          "robots_url": "https://www.fredsduvan.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:23.397837+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.fredsduvan.com/",
+          "robots_url": "https://www.fredsduvan.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:24.935369+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "19089469_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

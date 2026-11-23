@@ -1,0 +1,72 @@
+{
+  "school_id": "76222592",
+  "school_name": "Innovitaskolan Rönninge",
+  "registered_url": "https://innovitaskolan.se/ronninge/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/ronninge/",
+      "source_url": "https://innovitaskolan.se/ronninge/",
+      "page_title": "Innovitaskolan Rönninge | Förskola & grundskola",
+      "accessed_at": "2026-10-21T17:40:50.952274+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "76222592_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/ronninge/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/ronninge/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/ronninge/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Rönninge | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:40:52.142202+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "76222592_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/ronninge/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/ronninge/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/ronninge/om/grundskola/",
+      "page_title": "Vår grundskola | Innovitaskolan Rönninge | Om skolan",
+      "accessed_at": "2026-10-21T17:40:53.270610+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "76222592_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/ronninge/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

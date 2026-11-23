@@ -1,0 +1,36 @@
+{
+  "school_unit_code": "61980418",
+  "school_name": "I Ur och Skur skolan Skarpnäck",
+  "registered_url": "http://www.iurochskur.com",
+  "attempted_at": "2026-10-21T09:22:27.674221+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.iurochskur.com/",
+      "retrieved_at": "2026-10-21T09:22:32.063067+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.iurochskur.com",
+          "robots_url": "https://www.iurochskur.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:29.376071+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.iurochskur.com/",
+          "robots_url": "https://www.iurochskur.com/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:31.065348+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "61980418_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

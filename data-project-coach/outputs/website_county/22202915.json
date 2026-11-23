@@ -1,0 +1,77 @@
+{
+  "school_unit_code": "22202915",
+  "school_name": "Tyresö Montessoriskola",
+  "registered_url": "http://www.tmsv.se",
+  "attempted_at": "2026-10-21T09:20:30.994436+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.tmsv.se/",
+      "retrieved_at": "2026-10-21T09:20:38.747831+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.tmsv.se",
+          "robots_url": "https://www.tmsv.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:32.905882+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.tmsv.se/",
+          "robots_url": "https://www.tmsv.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:35.535153+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "22202915_0.txt"
+    },
+    {
+      "source_url": "https://www.tmsv.se/om-oss",
+      "retrieved_at": "2026-10-21T09:20:38.774777+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.tmsv.se/om-oss",
+          "robots_url": "https://www.tmsv.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:35.535153+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "22202915_1.txt"
+    },
+    {
+      "source_url": "https://www.tmsv.se/om-oss/montessoripedagogiken",
+      "retrieved_at": "2026-10-21T09:20:38.804145+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.tmsv.se/om-oss/montessoripedagogiken",
+          "robots_url": "https://www.tmsv.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:35.535153+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "22202915_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "montessori",
+      "supporting_excerpt": "Tyresö Montessoriskola är en fristående F-6 skola samt förskola och fritidshem.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ff78359a3748ebdc215265452d033d3cc0393495b43e63a03decdc9d80537dfd",
+      "school_unit_code": "22202915",
+      "school_name": "Tyresö Montessoriskola",
+      "source_url": "https://www.tmsv.se/om-oss",
+      "retrieved_at": "2026-10-21T09:20:38.774777+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

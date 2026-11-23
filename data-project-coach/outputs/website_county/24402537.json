@@ -1,0 +1,59 @@
+{
+  "school_unit_code": "24402537",
+  "school_name": "Internationella Engelska Skolan Upplands Väsby",
+  "registered_url": "http://www.engelska.se",
+  "attempted_at": "2026-10-21T09:20:43.014819+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://engelska.se/",
+      "retrieved_at": "2026-10-21T09:20:45.512956+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.engelska.se",
+          "robots_url": "https://engelska.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:02.343326+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.engelska.se/",
+          "robots_url": "https://engelska.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.533162+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://engelska.se/",
+          "robots_url": "https://engelska.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:06.326596+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "24402537_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Internationella Engelska Skolan is a bilingual Swedish school with an international profile, where every student is given the possibility to meet high academic expectations and where teaching takes place in a safe and calm environment.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "798c83343524f6212f427085d3f462e073f4a87ac3dec8542dd75a49cb1550e6",
+      "school_unit_code": "24402537",
+      "school_name": "Internationella Engelska Skolan Upplands Väsby",
+      "source_url": "https://engelska.se/",
+      "retrieved_at": "2026-10-21T09:20:45.512956+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

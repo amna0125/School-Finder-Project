@@ -1,0 +1,32 @@
+{
+  "school_id": "94987345",
+  "school_name": "Ekebyskolan",
+  "registered_url": "https://www.danderyd.se/skolor/ekebyskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.danderyd.se/skolor/ekebyskolan/",
+      "source_url": "https://www.danderyd.se/skolor/ekebyskolan/",
+      "page_title": "Ekebyskolan – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:44:29.871037+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "94987345_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/ekebyskolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.536226+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

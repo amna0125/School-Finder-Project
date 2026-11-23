@@ -1,0 +1,1 @@
+{"robots_url": "https://vegaskola.haninge.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T17:35:15.281555+00:00", "state": "parsed", "crawl_delay": 0, "body": "# All robots allowed!\r\nUser-agent: *\r\nDisallow:\r\n\r\n# Sitemap files\r\nSitemap: https://vegaskola.haninge.se/sitemap.xml"}

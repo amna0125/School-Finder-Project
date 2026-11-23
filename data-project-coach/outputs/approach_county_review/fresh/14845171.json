@@ -1,0 +1,32 @@
+{
+  "school_id": "14845171",
+  "school_name": "Eviaskolan",
+  "registered_url": "http://www.eviagruppen.se",
+  "pages": [
+    {
+      "requested_url": "https://wemind.se/hvb/hvb-evia/",
+      "source_url": "https://wemind.se/hvb/hvb-evia/",
+      "page_title": "HVB Evia - WeMind",
+      "accessed_at": "2026-10-21T17:27:57.147337+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "14845171_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://wemind.se/hvb/hvb-evia/",
+          "robots_url": "https://wemind.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:56.310395+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

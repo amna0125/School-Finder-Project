@@ -1,0 +1,51 @@
+"""One-time Batch26 checkpoint; verify before changing progress."""
+from pathlib import Path
+import csv,json,hashlib,difflib
+from collections import Counter
+import duckdb
+from school_pipeline.approach_migration import E_FIELDS,C_FIELDS,validate_records
+from school_pipeline.duckdb_migration import OFFICIAL,q,digest
+from outputs.approach_county_review.extract19 import parse
+P=Path('outputs/approach_county_review');B=P/'batch26_10schools_20261102'
+def read(p):return json.loads(p.read_text())
+def dump(p,v):p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
+old=P/'county_progress_20261102_after_batch25.csv';new=P/'county_progress_20261102_after_batch26.csv';assert not new.exists()
+loads=[read(p) for p in sorted((B/'loads').glob('*/validation.json'))]
+assert len(loads)==2 and [(v['inserted_evidence'],v['inserted_codes']) for v in loads]==[(8,7),(0,0)]
+assert all(v['status']=='PASSED' and v['existing_records_preserved'] and v['exact_target_comparison'] and v['exact_staging_comparison'] for v in loads)
+assert read(B/'source_hashes.json')=={p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in (B/'sources').iterdir() if p.is_file()}
+e=read(B/'Approach_evidence.staged.json');c=read(B/'Approach_codes.staged.json');validate_records(e,c)
+logs=list(csv.DictReader((B/'collection_log.csv').open()))
+for r in e:
+ l=next(x for x in logs if x['school_id']==r['school_id'] and x['selected_url']==r['source_url']);assert r['quoted_text'] in parse(B/l['saved_file'])[0] and r['accessed_date']=='2026-11-02' and r['page_title']==l['page_title']
+rows=list(csv.DictReader(old.open()));before={r['school_id']:dict(r) for r in rows};ids={r['school_id'] for r in read(B/'selection.json')};reviews=list(csv.DictReader((B/'review_log.csv').open()));rev={r['school_id']:r for r in reviews}
+assert len(rows)==len(before)==762 and len(ids)==len(rev)==10
+assert ids=={r['school_id'] for r in sorted((r for r in rows if r['review_state']=='Not yet contextually reviewed'),key=lambda r:r['school_id'])[:10]}
+with duckdb.connect('.state/schools.duckdb',read_only=True) as db:
+ assert {r[0] for r in db.execute('select school_unit_code from schools').fetchall()}==set(before)
+ assert {t:digest(db.execute('select * from '+q(t)).fetchall()) for t in OFFICIAL}==loads[0]['official_fingerprints']==loads[1]['official_fingerprints']
+ for table,fields,incoming,key in [('approach_evidence',E_FIELDS,e,'evidence_id'),('approach_codes',C_FIELDS,c,'code_id')]:
+  actual=db.execute('select '+','.join(map(q,fields))+' from '+table+' where '+key+' in ('+','.join('?' for _ in incoming)+')',[r[key] for r in incoming]).fetchall();assert Counter(actual)==Counter(tuple(r[f] for f in fields) for r in incoming)
+ assert db.execute('select count(*) from approach_evidence').fetchone()[0]==299 and db.execute('select count(*) from approach_codes').fetchone()[0]==221
+for r in rows:
+ if r['school_id'] in ids:r.update(review_state=rev[r['school_id']]['outcome'],batch_reference=B.name,collection_status=('terms_review_required' if r['school_id']=='41357379' else 'contextually_reviewed_followups_retained'),note=rev[r['school_id']]['unit_scope'])
+assert {r['school_id'] for r in rows if r!=before[r['school_id']]}==ids
+remaining=sorted((r for r in rows if r['review_state']=='Not yet contextually reviewed'),key=lambda r:r['school_id']);assert len(remaining)==489
+# Preserve campaign/workflow before updating them.
+dump(B/'campaign_before_batch26.json',read(P/'campaign_200_status.json'))
+(B/'workflow_before_batch26.md').write_text((P/'CURRENT_WORKFLOW.md').read_text())
+with new.open('w',newline='') as f:w=csv.DictWriter(f,fieldnames=rows[0]);w.writeheader();w.writerows(rows)
+(B/'ledger.diff').write_text(''.join(difflib.unified_diff(old.read_text().splitlines(True),new.read_text().splitlines(True),fromfile=old.name,tofile=new.name)))
+dump(P/'next_batch_after_batch26.json',remaining[:10])
+campaign=read(P/'campaign_200_status.json');campaign.update(latest_committed_batch=B.name,committed_contextual_reviews=273,latest_ledger=new.name,next_selection='next_batch_after_batch26.json',continuation_note='273 documented outcomes including unresolved cases;489 pending. Not273 resolved schools.',note='County incomplete; no audited county scope totals.');dump(P/'campaign_200_status.json',campaign)
+(P/'CURRENT_WORKFLOW.md').write_text('# Current checkpoint — Batch26, 2026-11-02\n\n273 documented outcomes /489 pending /762 unique IDs. Ledger '+new.name+'. Next next_batch_after_batch26.json.\n\nBatch26:10 outcomes,8 evidence,7 codes;4 reviewed-claim schools,1 uncertain uncoded,4 scoped no-clear,1 permission/identity blocker. Append famous-ibex +8/+7; replay amber-swallow +0/+0. DB299 evidence/221 codes.22 tests passed. Exact staging/target comparisons, preservation, source quotes/hashes and official fingerprints checked. Prior batches untouched.\n\nSkogsbacksskolan Trampolinen retains terms_review_required and unresolved unit mapping; general school profiles not transferred. Källbrink broad accessibility note uncoded. Nobla and Slottspark target years1–3; Järna Montessori-inspired/outdoor; Fårdala developing cooperative learning and Trivselledare from year2, separate language studio excluded.\n\nBatch25 and26 complete as separately validated batches; county incomplete. No reconciled county scope audit exists; approach outcomes are not clear/unclear applicability counts.\n')
+status=read(B/'batch_status.json');status.update(status='CHECKPOINTED',documented_outcomes=273,pending=489,tests_passed=22);dump(B/'batch_status.json',status)
+with (B/'REPORT.md').open('a') as f:f.write('\nCheckpointed: append +8 evidence/+7 codes; replay +0/+0.22 tests passed. Source hashes/quotes, exact records, preservation and official fingerprints PASSED. County273 documented outcomes/489 pending. No audited county scope totals.\n')
+for r in reviews:r['load_state']='Append/replay validated; checkpointed; unresolved follow-ups retained'
+with (B/'review_log.csv').open('w',newline='') as f:w=csv.DictWriter(f,fieldnames=reviews[0]);w.writeheader();w.writerows(reviews)
+dump(B/'independent_staging_target_check.json',dict(status='PASSED',exact_quotes=8,source_hashes=True,target_tuples=True,official_fingerprints_unchanged=True))
+after=list(csv.DictReader(new.open()));assert len(after)==762 and sum(r['review_state']!='Not yet contextually reviewed' for r in after)==273
+assert read(P/'next_batch_after_batch26.json')==remaining[:10]
+assert sum(r!=before[r['school_id']] for r in after)==10
+dump(B/'independent_checkpoint_check.json',dict(status='PASSED',official_ids=762,changed_rows=10,unchanged_rows=752,documented_outcomes=273,pending=489,next_selection_matches=True))
+print(json.dumps(dict(status='CHECKPOINTED',documented_outcomes=273,pending=489)))

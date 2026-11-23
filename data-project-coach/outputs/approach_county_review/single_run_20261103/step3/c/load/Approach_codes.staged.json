@@ -1,0 +1,112 @@
+[
+  {
+    "code_id": "ac_s3c_13679897_01",
+    "school_id": "13679897",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nearby nature reserve used in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_13679897_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. Nackareservatet stated as used in teaching; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_17165481_01",
+    "school_id": "17165481",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nearby nature reserve used in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_17165481_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. Nackareservatet stated as used in teaching; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_25090415_01",
+    "school_id": "25090415",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Forest used often in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_25090415_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. forest stated as used often in teaching; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_22472689_01",
+    "school_id": "22472689",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nearby nature used, aim to be outdoors a lot",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_22472689_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. nearby area used and much time outdoors stated (hedged); Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_29410344_01",
+    "school_id": "29410344",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nearby lake shore and city used as learning environments",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_29410344_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. nearby Mälaren surroundings stated as learning environments in teaching; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_20054868_01",
+    "school_id": "20054868",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Local nature projects (stream, bees)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_20054868_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. local nature projects described as part of teaching; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_15968847_01",
+    "school_id": "15968847",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nearby nature used for practical learning",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_15968847_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. nearby nature stated as used for practical learning and excursions; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_27357778_01",
+    "school_id": "27357778",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nearby nature used in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_27357778_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. nearby area stated as part of teaching; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_29998540_01",
+    "school_id": "29998540",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Nearby nature used regularly",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_29998540_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. nature areas stated as used regularly in school; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3c_21346638_01",
+    "school_id": "21346638",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Scheduled outdoor life every third week",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3c_21346638_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. scheduled outdoor life (2.5 h every third week); Supported, since the source page is undated.",
+    "review_status": "Reviewed"
+  }
+]

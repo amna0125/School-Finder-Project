@@ -1,0 +1,55 @@
+{
+  "school_unit_code": "58747846",
+  "school_name": "Midsommarkransens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/midsommarkransens-skola",
+  "attempted_at": "2026-10-21T09:16:38.354872+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/midsommarkransens-skola",
+      "retrieved_at": "2026-10-21T09:16:40.175624+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/midsommarkransens-skola",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58747846_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Eleverna har praktisk-estetiska ämnen i rymliga salar högst upp i skolhuset med panoramautsikt som inspirerar till kreativt lärande.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5b4d3b2973f62f315c908368945859c1e6ef2dfc90daccdf2b822e3323cf6536",
+      "school_unit_code": "58747846",
+      "school_name": "Midsommarkransens skola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/midsommarkransens-skola",
+      "retrieved_at": "2026-10-21T09:16:40.175624+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Våning 4: Kreativa ämnen – slöjdsalar, bildsalen, musiksalar, multisalen, rörelserum.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "fe849743056fa8b23b0bdaa8608b9ad187c4d4d56c955d8f2bcda1e20a73f7fc",
+      "school_unit_code": "58747846",
+      "school_name": "Midsommarkransens skola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/midsommarkransens-skola",
+      "retrieved_at": "2026-10-21T09:16:40.175624+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

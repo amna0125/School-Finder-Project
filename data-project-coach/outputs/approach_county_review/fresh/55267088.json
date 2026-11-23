@@ -1,0 +1,32 @@
+{
+  "school_id": "55267088",
+  "school_name": "Täby Friskola",
+  "registered_url": "http://www.tabyfriskola.se",
+  "pages": [
+    {
+      "requested_url": "https://tabyfriskola.se/",
+      "source_url": "https://tabyfriskola.se/",
+      "page_title": "Skola i Täby - Täby Friskola",
+      "accessed_at": "2026-10-21T17:37:49.951674+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "55267088_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://tabyfriskola.se/",
+          "robots_url": "https://tabyfriskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:37:48.945248+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

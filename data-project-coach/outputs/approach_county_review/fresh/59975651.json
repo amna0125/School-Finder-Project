@@ -1,0 +1,72 @@
+{
+  "school_id": "59975651",
+  "school_name": "Svanberga skola",
+  "registered_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/",
+  "pages": [
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/",
+      "page_title": "Svanberga skola - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:38:33.240237+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59975651_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/var-skola/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/var-skola/",
+      "page_title": "Om Svanberga skola - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:38:34.262160+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59975651_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/var-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/rektor-har-ordet/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/rektor-har-ordet/",
+      "page_title": "Rektor har ordet - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:38:35.847198+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "59975651_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/rektor-har-ordet/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

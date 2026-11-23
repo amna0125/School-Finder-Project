@@ -1,0 +1,72 @@
+{
+  "school_id": "45994471",
+  "school_name": "Solvikskolan",
+  "registered_url": "http://solvikskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://solvikskolan.se/",
+      "source_url": "https://solvikskolan.se/",
+      "page_title": "Solvikskolan – En Waldorfskola i Järna",
+      "accessed_at": "2026-10-21T17:35:20.074007+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45994471_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://solvikskolan.se/",
+          "robots_url": "https://solvikskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:18.893554+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://solvikskolan.se/om-skolan/kontakt/",
+      "source_url": "https://solvikskolan.se/om-skolan/kontakt/",
+      "page_title": "Kontakt – Solvikskolan",
+      "accessed_at": "2026-10-21T17:35:21.124911+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45994471_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://solvikskolan.se/om-skolan/kontakt/",
+          "robots_url": "https://solvikskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:18.893554+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://solvikskolan.se/om-skolan/hitta-hit/",
+      "source_url": "https://solvikskolan.se/om-skolan/hitta-hit/",
+      "page_title": "Hitta till Solvikskolan – Solvikskolan",
+      "accessed_at": "2026-10-21T17:35:22.153772+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45994471_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://solvikskolan.se/om-skolan/hitta-hit/",
+          "robots_url": "https://solvikskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:18.893554+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

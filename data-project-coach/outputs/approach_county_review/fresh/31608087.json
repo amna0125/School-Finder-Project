@@ -1,0 +1,17 @@
+{
+  "school_id": "31608087",
+  "school_name": "Urfjälls Montessoriskola",
+  "registered_url": "http://www.urfjall.se",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://urfjall.se/",
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "attempted_at": "2026-10-21T17:31:48.088842+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "code_id": "ac_b24_39171821_01",
+    "school_id": "39171821",
+    "category": "Other stated profile",
+    "subcategory": "Programming emphasis, F–6",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b24_39171821_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. Current school page explicitly F–6 from2026/27 after7–9 move to Nya Enskede; official1–6 consistent. Programming stated as a continuous thread, with annual shared programming day in collaboration with Tekniska museet. Other stated profile, not alternative or inquiry pedagogy. No effectiveness inference. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b24_39453214_01",
+    "school_id": "39453214",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Attached lärstudio / special teaching group only",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b24_39453214_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. F–3 website vs official1–3. Support code restricted to attached lärstudio, explicitly a central special teaching group offering support and family intervention; not every pupil. Grön Flagg and nearby nature descriptions retained as context, not automatically an outdoor approach code. No quality/staffing verification. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b24_39907811_01",
+    "school_id": "39907811",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Olweus anti-bullying programme, municipal-wide",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b24_39907811_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. F–9 vs official1–9. School-specific navigation hosts explicit Olweus programme description with coordinated routines and pupil/staff/guardian participation; municipal-wide programme, not unique to this school. STL abbreviation/visitors alone not sufficient alternative/inquiry category. School wording, no independently verified impact. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b24_40175889_01",
+    "school_id": "40175889",
+    "category": "Arts and creative learning",
+    "subcategory": "El Sistema opportunity, F–2 only",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b24_40175889_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-11-02. F–9 website vs official1–9. Explicit El Sistema opportunity for F–2 only (within official compulsory scope years1–2); no universal music profile. Generic multimodal/creative wording not separately coded. Outdoor opportunities in woodland not evidence of implemented outdoor approach. Named staff/social content excluded. Self-description, not independently verified practice.",
+    "review_status": "Reviewed"
+  }
+]

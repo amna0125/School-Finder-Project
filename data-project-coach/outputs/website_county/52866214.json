@@ -1,0 +1,38 @@
+{
+  "school_unit_code": "52866214",
+  "school_name": "Myrängsskolan",
+  "registered_url": "http://www.taby.se/Myrangsskolan",
+  "attempted_at": "2026-10-21T09:22:01.577138+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.taby.se/Myrangsskolan",
+      "retrieved_at": "2026-10-21T09:22:05.114464+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.taby.se/Myrangsskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:06.192175+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.taby.se/Myrangsskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:07.626534+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "52866214_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

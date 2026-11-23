@@ -1,0 +1,36 @@
+name: school_finder
+version: "1.0.0"
+config-version: 2
+profile: school_finder
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+analysis-paths: ["analyses"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+seeds:
+  school_finder:
+    +schema: seeds
+    municipalities:
+      +column_types: {municipality_code: varchar}
+    review_labels:
+      +column_types: {school_id: varchar}
+    metric_dictionary:
+      +column_types: {year_group: integer}
+
+models:
+  school_finder:
+    bronze:
+      +schema: bronze
+      +materialized: view
+    silver:
+      +schema: silver
+      +materialized: table
+    gold:
+      +schema: gold
+      # Gold tables are written as Parquet files that the website reads in the browser (DuckDB-WASM).
+      +materialized: external
+      +format: parquet

@@ -1,0 +1,64 @@
+{
+  "school_unit_code": "10715898",
+  "school_name": "Akers Friskola",
+  "registered_url": "http://www.akersfriskola.se",
+  "attempted_at": "2026-10-21T09:19:50.878172+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.akersfriskola.se/",
+      "retrieved_at": "2026-10-21T09:19:58.451705+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.akersfriskola.se",
+          "robots_url": "https://www.akersfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:19:53.393195+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.akersfriskola.se/",
+          "robots_url": "https://www.akersfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:19:55.248214+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "10715898_0.txt"
+    },
+    {
+      "source_url": "https://www.akersfriskola.se/om-oss",
+      "retrieved_at": "2026-10-21T09:19:58.494842+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.akersfriskola.se/om-oss",
+          "robots_url": "https://www.akersfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:19:55.248214+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "10715898_1.txt"
+    },
+    {
+      "source_url": "https://www.akersfriskola.se/om-oss/akers-friskola",
+      "retrieved_at": "2026-10-21T09:19:58.541731+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.akersfriskola.se/om-oss/akers-friskola",
+          "robots_url": "https://www.akersfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:19:55.248214+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "10715898_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

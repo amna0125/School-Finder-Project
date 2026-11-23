@@ -1,0 +1,51 @@
+{
+  "school_unit_code": "22807677",
+  "school_name": "Näsbydalskolan",
+  "registered_url": "http://www.taby.se/nasbydalskolan",
+  "attempted_at": "2026-10-21T09:20:34.956201+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.taby.se/nasbydalskolan",
+      "retrieved_at": "2026-10-21T09:20:36.498970+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.taby.se/nasbydalskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:06.192175+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.taby.se/nasbydalskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:07.626534+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "22807677_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "kolan är en kommunal skola för årskurserna 6–9 i centrala Täby med cirka 340 elever. Skolan är belägen nära både stad och grönområden med bra kommunikationer. Här finns också Täby musikklasser.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "de8769c61cafe43b99e9d9fe8a7ed25ea8b8c236d455624a633af3c9d7f10182",
+      "school_unit_code": "22807677",
+      "school_name": "Näsbydalskolan",
+      "source_url": "https://www.taby.se/nasbydalskolan",
+      "retrieved_at": "2026-10-21T09:20:36.498970+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

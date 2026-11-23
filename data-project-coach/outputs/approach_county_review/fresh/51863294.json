@@ -1,0 +1,17 @@
+{
+  "school_id": "51863294",
+  "school_name": "Parkhemsskolan",
+  "registered_url": "http://www.botkyrka.se/parkhemsskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.botkyrka.se/parkhemsskolan",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:37:09.257161+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

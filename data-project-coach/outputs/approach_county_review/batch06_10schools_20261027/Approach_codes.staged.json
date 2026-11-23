@@ -1,0 +1,57 @@
+[
+  {
+    "code_id": "ac_b06_16394249_01",
+    "school_id": "16394249",
+    "category": "Alternative pedagogy",
+    "subcategory": "Waldorf/Steiner",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b06_16394249_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Ellen Keyskolan F–9 at Duvbovägen 94 Spånga. Direct unit statement following Lgr22 but working according to Waldorf pedagogy; no quality/effect claim inferred. Exclude Solhemmet preschool. Public self-description, not verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b06_16394249_02",
+    "school_id": "16394249",
+    "category": "Arts and creative learning",
+    "subcategory": "Aesthetic, craft and theoretical-subject integration",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b06_16394249_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. School-specific description explicitly integrates aesthetic learning processes, craft and art with theoretical subjects. Distinct from ordinary arts subject list and not inferred solely from Waldorf name. F–9 school context; no quality/implementation judgement. Public self-description, not verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b06_16426165_01",
+    "school_id": "16426165",
+    "category": "Other stated profile",
+    "subcategory": "Personalised goals and personal coaching model",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b06_16426165_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Enskede-specific years 6–9 page explicitly applies individual goals and personal coaching. Linked provider pedagogy explains steps, courses, planning and base groups; provider detail contextual, not sole unit evidence. Other stated model, not statutory special support or Montessori/inquiry inferred. Outcomes language is school wording only. Public self-description, not verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b06_16762245_01",
+    "school_id": "16762245",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Additional Syriac/Aramaic teaching and heritage",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b06_16762245_01",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. Fresh official ID 16762245 matches Sagas väg 1 Norsborg and Stiftelsen Bar Hebreus; official grades 1–6 plus preschool class. Browser-rendered school about page; raw fetched HTML shell not coding evidence. Preserve two-language self-label but concretely means additional Syriac/Aramaic teaching; do not infer two-medium instruction across subjects. Public self-description, not verified practice.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b06_16762245_02",
+    "school_id": "16762245",
+    "category": "Arts and creative learning",
+    "subcategory": "Additional oriental-music teaching",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b06_16762245_02",
+    "coder_note": "Assistant contextual review, codebook v1, 2026-10-27. School explicitly says all pupils receive additional oriental music beyond timetable; official years 1–6 and preschool-class form, no specific delivery schedule stated. No beliefs or ethnicity inferred from pupils. New orangery/nearby nature not established structured outdoor pedagogy. Public self-description, not verified practice.",
+    "review_status": "Reviewed"
+  }
+]

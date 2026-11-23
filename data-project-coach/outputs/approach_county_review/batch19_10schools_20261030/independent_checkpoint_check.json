@@ -1,0 +1,20 @@
+{
+  "status": "PASSED",
+  "exact_changed_school_ids": [
+    "33565539",
+    "33624606",
+    "33733966",
+    "33794207",
+    "33922950",
+    "33951941",
+    "34125463",
+    "34135484",
+    "34148887",
+    "34225123"
+  ],
+  "documented_outcomes": 203,
+  "pending": 559,
+  "source_hashes_verified": true,
+  "checkpoint_diff_lines": 56,
+  "ledger_diff_lines": 29
+}

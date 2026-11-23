@@ -1,0 +1,51 @@
+{
+  "school_unit_code": "40175889",
+  "school_name": "Soldalaskolan",
+  "registered_url": "http://www.sodertalje.se/soldalaskolan",
+  "attempted_at": "2026-10-21T09:21:24.503972+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.sodertalje.se/soldalaskolan",
+      "retrieved_at": "2026-10-21T09:21:26.066824+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sodertalje.se/soldalaskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:59.357737+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.sodertalje.se/soldalaskolan",
+          "robots_url": "https://www.sodertalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:00.848981+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "40175889_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "På Soldalaskolan tror vi på allas förmåga att lyckas. Våra elever uppmuntras att uttrycka sig på många olika sätt – genom språk, rörelse, bild, musik och skapande. Det ger fler vägar till lärande och skapar nyfikenhet och engagemang. Våra pedagoger samarbetar tätt för att varje elev ska bli sedd, utmanad och få rätt stöd. Vi arbetar både förebyggande och främjande, med en undervisning som vilar på aktuell forskning och ett starkt elevfokus.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "cf3e3708573037144528ea22d96c693beb292d5ce36ea436e1b6e532fc0d0d98",
+      "school_unit_code": "40175889",
+      "school_name": "Soldalaskolan",
+      "source_url": "https://www.sodertalje.se/soldalaskolan",
+      "retrieved_at": "2026-10-21T09:21:26.066824+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

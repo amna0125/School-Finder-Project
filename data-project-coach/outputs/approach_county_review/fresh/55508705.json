@@ -1,0 +1,52 @@
+{
+  "school_id": "55508705",
+  "school_name": "Stiftelsen Josefinaskolan",
+  "registered_url": "http://www.josefinaskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.josefinaskolan.se/",
+      "source_url": "https://www.josefinaskolan.se/",
+      "page_title": "Josefinaskolan | Waldorfskola i Märsta och Sigtuna | Rävsta gård, Märsta, Sweden",
+      "accessed_at": "2026-10-21T17:37:49.836498+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "55508705_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.josefinaskolan.se/",
+          "robots_url": "https://www.josefinaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:37:48.902979+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.josefinaskolan.se/pedagogik",
+      "source_url": "https://www.josefinaskolan.se/pedagogik",
+      "page_title": "Pedagogik | Josefinaskolan",
+      "accessed_at": "2026-10-21T17:37:50.745671+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "55508705_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.josefinaskolan.se/pedagogik",
+          "robots_url": "https://www.josefinaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:37:48.902979+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

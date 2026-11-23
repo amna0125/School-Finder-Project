@@ -1,0 +1,276 @@
+{"Legend": [{
+  "layerName": "lc-nmd:LC.LandCoverRaster.Bas.2023.v2.x",
+  "title": "LC.LandCoverRaster.Bas 2023, v2.x",
+  "rules": [{"symbolizers": [{"Raster":   {
+    "colormap":     {
+      "entries":       [
+                {
+          "label": "3 Åkermark",
+          "quantity": "3",
+          "color": "#FFFFBE"
+        },
+                {
+          "label": "23 Låg fjällskog på våtmark",
+          "quantity": "23",
+          "color": "#00E6A9"
+        },
+                {
+          "label": "43 Låg fjällskog på fastmark",
+          "quantity": "43",
+          "color": "#55FF00"
+        },
+                {
+          "label": "51 Byggnad",
+          "quantity": "51",
+          "color": "#5A1414"
+        },
+                {
+          "label": "52 Anlagd mark, ej byggnad eller väg/järnväg",
+          "quantity": "52",
+          "color": "#E5464B"
+        },
+                {
+          "label": "53 Väg/järnväg",
+          "quantity": "53",
+          "color": "#191919"
+        },
+                {
+          "label": "54 Torvtäkt",
+          "quantity": "54",
+          "color": "#800080"
+        },
+                {
+          "label": "61 Inlandsvatten",
+          "quantity": "61",
+          "color": "#6699CD"
+        },
+                {
+          "label": "62 Hav",
+          "quantity": "62",
+          "color": "#8ACCFA"
+        },
+                {
+          "label": "111 Tallskog på fastmark",
+          "quantity": "111",
+          "color": "#6E8C05"
+        },
+                {
+          "label": "112 Granskog på fastmark",
+          "quantity": "112",
+          "color": "#2D5F00"
+        },
+                {
+          "label": "113 Barrblandskog på fastmark",
+          "quantity": "113",
+          "color": "#4E7000"
+        },
+                {
+          "label": "114 Lövblandad barrskog på fastmark",
+          "quantity": "114",
+          "color": "#38A800"
+        },
+                {
+          "label": "115 Triviallövskog på fastmark",
+          "quantity": "115",
+          "color": "#4CE600"
+        },
+                {
+          "label": "116 Ädellövskog på fastmark",
+          "quantity": "116",
+          "color": "#AAFF00"
+        },
+                {
+          "label": "117 Triviallövskog med ädellövinslag på fastmark",
+          "quantity": "117",
+          "color": "#97E600"
+        },
+                {
+          "label": "118 Temporärt ej skog på fastmark",
+          "quantity": "118",
+          "color": "#CDCD66"
+        },
+                {
+          "label": "121 Tallskog på våtmark",
+          "quantity": "121",
+          "color": "#598C55"
+        },
+                {
+          "label": "122 Granskog på våtmark",
+          "quantity": "122",
+          "color": "#305E50"
+        },
+                {
+          "label": "123 Barrblandskog på våtmark",
+          "quantity": "123",
+          "color": "#23735A"
+        },
+                {
+          "label": "124 Lövblandad barrskog på våtmark",
+          "quantity": "124",
+          "color": "#438870"
+        },
+                {
+          "label": "125 Triviallövskog på våtmark",
+          "quantity": "125",
+          "color": "#89CD9B"
+        },
+                {
+          "label": "126 Ädellövskog på våtmark",
+          "quantity": "126",
+          "color": "#A5F578"
+        },
+                {
+          "label": "127 Triviallövskog med ädellövinslag på våtmark",
+          "quantity": "127",
+          "color": "#ABCD78"
+        },
+                {
+          "label": "128 Temporärt ej skog på våtmark",
+          "quantity": "128",
+          "color": "#898944"
+        },
+                {
+          "label": "200 Öppen våtmark (underindelning saknas)",
+          "quantity": "200",
+          "color": "#C29ED7"
+        },
+                {
+          "label": "211 Buskmyr",
+          "quantity": "211",
+          "color": "#894465"
+        },
+                {
+          "label": "212 Ristuvemyr",
+          "quantity": "212",
+          "color": "#CD6699"
+        },
+                {
+          "label": "213 Fastmattemyr, mager",
+          "quantity": "213",
+          "color": "#F57AB6"
+        },
+                {
+          "label": "214 Fastmattemyr, frodig",
+          "quantity": "214",
+          "color": "#D69DBC"
+        },
+                {
+          "label": "215 Sumpkärr",
+          "quantity": "215",
+          "color": "#73004C"
+        },
+                {
+          "label": "216 Mjukmattemyr",
+          "quantity": "216",
+          "color": "#A80084"
+        },
+                {
+          "label": "217 Våtmark utan växttäcke",
+          "quantity": "217",
+          "color": "#E600A9"
+        },
+                {
+          "label": "218 Övrig öppen myr",
+          "quantity": "218",
+          "color": "#FF00C5"
+        },
+                {
+          "label": "221 Våtmark med buskar ",
+          "quantity": "221",
+          "color": "#704489"
+        },
+                {
+          "label": "222 Risdominerad våtmark ",
+          "quantity": "222",
+          "color": "#AA66CD"
+        },
+                {
+          "label": "223 Gräsdominerad  våtmark, mager ",
+          "quantity": "223",
+          "color": "#CA7AF5"
+        },
+                {
+          "label": "224 Gräsdominerad våtmark, frodvuxen ",
+          "quantity": "224",
+          "color": "#C29ED7"
+        },
+                {
+          "label": "225 Gräsdominerad våtmark, högvuxen ",
+          "quantity": "225",
+          "color": "#4C0073"
+        },
+                {
+          "label": "226 Mossdominerad våtmark ",
+          "quantity": "226",
+          "color": "#8400A8"
+        },
+                {
+          "label": "227 Lösbottnad våtmark ",
+          "quantity": "227",
+          "color": "#A900E6"
+        },
+                {
+          "label": "228 Övrig öppen våtmark ",
+          "quantity": "228",
+          "color": "#C500FF"
+        },
+                {
+          "label": "411 Öppen fastmark utan vegetation (ej glaciär eller varaktigt snöfält)",
+          "quantity": "411",
+          "color": "#E1E1E1"
+        },
+                {
+          "label": "4 211 Buskdominerad mark, torr",
+          "quantity": "4211",
+          "color": "#CCD79E"
+        },
+                {
+          "label": "4 212 Buskdominerad mark, frisk",
+          "quantity": "4212",
+          "color": "#ABC9A6"
+        },
+                {
+          "label": "4 213 Buskdominerad mark, frisk-fuktig",
+          "quantity": "4213",
+          "color": "#9EB591"
+        },
+                {
+          "label": "4 221 Risdominerad mark, torr",
+          "quantity": "4221",
+          "color": "#D7C29E"
+        },
+                {
+          "label": "4 222 Risdominerad mark, frisk",
+          "quantity": "4222",
+          "color": "#CDAA66"
+        },
+                {
+          "label": "4 223 Risdominerad mark, frisk-fuktig",
+          "quantity": "4223",
+          "color": "#897044"
+        },
+                {
+          "label": "4 231 Gräsdominerad mark, torr",
+          "quantity": "4231",
+          "color": "#FFEBAF"
+        },
+                {
+          "label": "4 232 Gräsdominerad mark, frisk",
+          "quantity": "4232",
+          "color": "#FFD37F"
+        },
+                {
+          "label": "4 233 Gräsdominerad mark, frisk-fuktig",
+          "quantity": "4233",
+          "color": "#FFBF7F"
+        }
+      ],
+      "type": "values"
+    },
+    "opacity": "1.0",
+    "vendor-options":     {
+      "labelInFeatureInfo": "add",
+      "labelAttributeName": "Klass"
+    }
+  }}]}]
+}]}

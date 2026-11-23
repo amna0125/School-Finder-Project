@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "29278599",
+  "school_name": "Lovisedalsskolan",
+  "registered_url": "http://www.vallentuna.se/lovisedal/",
+  "attempted_at": "2026-10-21T09:15:49.625581+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.vallentuna.se/lovisedal/",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

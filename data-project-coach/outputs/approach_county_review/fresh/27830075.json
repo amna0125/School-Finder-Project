@@ -1,0 +1,72 @@
+{
+  "school_id": "27830075",
+  "school_name": "Ljungbackens skola",
+  "registered_url": "https://www.lidingo.se/ljungbackensskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/",
+      "page_title": "Ljungbackens skola F-3 - Lidingö",
+      "accessed_at": "2026-10-21T17:31:29.200893+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27830075_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/var-pedagogik-ljungbackens-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/var-pedagogik-ljungbackens-skola/",
+      "page_title": "Vår pedagogik, Ljungbackens skola - Lidingö",
+      "accessed_at": "2026-10-21T17:31:30.984601+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27830075_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/var-pedagogik-ljungbackens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/fritidshem-ljungbackens-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/fritidshem-ljungbackens-skola/",
+      "page_title": "Fritidshem, Ljungbackens skola - Lidingö",
+      "accessed_at": "2026-10-21T17:31:32.734776+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "27830075_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/ljungbackens-skola/fritidshem-ljungbackens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

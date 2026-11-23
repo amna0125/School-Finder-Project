@@ -1,0 +1,78 @@
+{
+  "school_unit_code": "16394249",
+  "school_name": "Ellen Key skolan",
+  "registered_url": "http://www.eks.se",
+  "attempted_at": "2026-10-21T09:20:16.083041+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://eks.se/",
+      "retrieved_at": "2026-10-21T09:20:39.913058+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.eks.se",
+          "robots_url": "https://eks.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:22.544641+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://eks.se/",
+          "robots_url": "https://eks.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:27.798438+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "16394249_0.txt"
+    },
+    {
+      "source_url": "https://eks.se/waldorfpedagogik-2/",
+      "retrieved_at": "2026-10-21T09:20:39.938878+00:00",
+      "robots_checks": [
+        {
+          "url": "https://eks.se/waldorfpedagogik-2/",
+          "robots_url": "https://eks.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:27.798438+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "16394249_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "waldorf",
+      "supporting_excerpt": "Ellen Key-skolan är en Waldorfskola från förskoleklass till årskurs 9. Välkommen att söka till oss!",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "52ad383c3a93ccb707c2dcd99d886ad531e7c1dfeffbb7a52ef24262ecd1b487",
+      "school_unit_code": "16394249",
+      "school_name": "Ellen Key skolan",
+      "source_url": "https://eks.se/",
+      "retrieved_at": "2026-10-21T09:20:39.913058+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Waldorfpedagogiken sätter människan i centrum. Här växer barn och unga genom konst, lek, rytm och gemenskap – med undervisning som väcker både tanken och känslan.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1297a571031cd4c6b23819a74ada503afa606df7ff5ab1f160c6303434d34809",
+      "school_unit_code": "16394249",
+      "school_name": "Ellen Key skolan",
+      "source_url": "https://eks.se/waldorfpedagogik-2/",
+      "retrieved_at": "2026-10-21T09:20:39.938878+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

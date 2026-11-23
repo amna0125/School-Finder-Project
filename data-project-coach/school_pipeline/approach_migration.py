@@ -1,0 +1,128 @@
+"""One-off, approved legacy-focus migration; no network collection."""
+import hashlib
+import json
+from pathlib import Path
+import sqlite3
+from datetime import datetime, timezone
+import dlt
+from prefect import flow
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / 'outputs/approach_redesign'
+LEGACY = ['school_focus_evidence', 'school_focus_coverage', 'school_focus_profiles',
+          'school_focus_county_coverage__terms_urls', 'school_focus_county_candidates',
+          'school_focus_county_coverage__errors', 'school_focus_county_coverage',
+          'school_focus_county_coverage__pages', 'school_focus_county_coverage__pages__robots_checks']
+OFFICIAL = ['schools', 'statistics', 'survey_observations', 'source_coverage']
+CATEGORIES = ['Arts and creative learning', 'Alternative pedagogy',
+              'Project- or inquiry-based learning', 'Outdoor, nature, or place-based learning',
+              'Language, international, or intercultural profile',
+              'Support, inclusion, or wellbeing emphasis', 'Other stated profile']
+E_FIELDS = ['evidence_id','school_id','source_url','page_title','accessed_date','quoted_text','evidence_type','interpretation_note']
+C_FIELDS = ['code_id','school_id','category','subcategory','coding_level','confidence','evidence_id','coder_note','review_status']
+
+def fingerprint(conn, table):
+    digest = hashlib.sha256()
+    for row in conn.execute(f'SELECT * FROM "{table}" ORDER BY rowid'):
+        digest.update(json.dumps(row, ensure_ascii=False, default=str).encode())
+    return {'rows': conn.execute(f'SELECT COUNT(*) FROM "{table}"').fetchone()[0], 'sha256': digest.hexdigest()}
+
+def validate_records(evidence, codes):
+    assert len({e['evidence_id'] for e in evidence}) == len(evidence)
+    assert len({c['code_id'] for c in codes}) == len(codes)
+    lookup = {e['evidence_id']: e for e in evidence}
+    for e in evidence:
+        assert set(e) == set(E_FIELDS)
+        assert all(e[f] for f in E_FIELDS)
+        datetime.strptime(e['accessed_date'], '%Y-%m-%d')
+        assert e['source_url'].startswith(('https://','http://'))
+    seen = set()
+    for c in codes:
+        assert set(c) == set(C_FIELDS)
+        assert c['category'] in CATEGORIES
+        assert (c['coding_level'], c['confidence']) in [('Explicit','High'),('Supported','Medium'),('Unclear','Low')]
+        assert c['review_status'] in ['Reviewed','Requires review']
+        assert lookup[c['evidence_id']]['school_id'] == c['school_id']
+        key = (c['school_id'], c['category'], c['subcategory'])
+        assert key not in seen
+        seen.add(key)
+
+@flow(name='replace-legacy-focus-with-approach')
+def migrate():
+    evidence = json.loads((OUT/'pilot_evidence.json').read_text())
+    codes = json.loads((OUT/'pilot_codes.json').read_text())
+    validate_records(evidence, codes)
+    stamp = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
+    run = OUT / ('migration_' + stamp)
+    run.mkdir()
+    stage = run/'staging.sqlite'
+    pipeline = dlt.pipeline(pipeline_name='approach_pilot_staging',
+        destination=dlt.destinations.sqlalchemy(f'sqlite:///{stage}'),
+        dataset_name='main', pipelines_dir=str(run/'dlt'))
+    info = pipeline.run([dlt.resource(evidence,name='approach_evidence',write_disposition='replace'),
+                         dlt.resource(codes,name='approach_codes',write_disposition='replace')])
+    info.raise_on_failed_jobs()
+    with sqlite3.connect(stage) as st:
+        loaded_e = [dict(zip(E_FIELDS,row)) for row in st.execute('SELECT '+','.join(E_FIELDS)+' FROM approach_evidence')]
+        loaded_c = [dict(zip(C_FIELDS,row)) for row in st.execute('SELECT '+','.join(C_FIELDS)+' FROM approach_codes')]
+    validate_records(loaded_e, loaded_c)
+    assert sorted(loaded_e,key=lambda r:r['evidence_id']) == sorted(evidence,key=lambda r:r['evidence_id'])
+    assert sorted(loaded_c,key=lambda r:r['code_id']) == sorted(codes,key=lambda r:r['code_id'])
+    db = ROOT/'.state/schools.sqlite'
+    backup = run/'schools_before_replacement.sqlite'
+    with sqlite3.connect(db,timeout=20) as conn:
+        conn.execute('PRAGMA foreign_keys=ON')
+        with sqlite3.connect(backup) as dst:
+            conn.backup(dst)
+            assert dst.execute('PRAGMA integrity_check').fetchone()[0] == 'ok'
+        before = {t:fingerprint(conn,t) for t in OFFICIAL}
+        existing = {r[0] for r in conn.execute("SELECT name FROM sqlite_master WHERE type='table'")}
+        assert set(LEGACY) <= existing, 'Legacy inventory changed; stop for review'
+        assert not {'Approach_evidence','Approach_codes'} & existing
+        school_ids = {r[0] for r in conn.execute('SELECT school_unit_code FROM schools')}
+        assert all(e['school_id'] in school_ids for e in evidence)
+        conn.execute('BEGIN IMMEDIATE')
+        try:
+            conn.execute('''CREATE TABLE Approach_evidence (
+                evidence_id TEXT PRIMARY KEY, school_id TEXT NOT NULL,
+                source_url TEXT NOT NULL, page_title TEXT NOT NULL, accessed_date TEXT NOT NULL,
+                quoted_text TEXT NOT NULL, evidence_type TEXT NOT NULL, interpretation_note TEXT NOT NULL,
+                UNIQUE(evidence_id, school_id))''')
+            cats = ','.join("'"+v+"'" for v in CATEGORIES)
+            conn.execute(f'''CREATE TABLE Approach_codes (
+                code_id TEXT PRIMARY KEY, school_id TEXT NOT NULL,
+                category TEXT NOT NULL CHECK(category IN ({cats})), subcategory TEXT,
+                coding_level TEXT NOT NULL, confidence TEXT NOT NULL, evidence_id TEXT NOT NULL,
+                coder_note TEXT NOT NULL, review_status TEXT NOT NULL CHECK(review_status IN ('Reviewed','Requires review')),
+                CHECK((coding_level='Explicit' AND confidence='High') OR
+                      (coding_level='Supported' AND confidence='Medium') OR
+                      (coding_level='Unclear' AND confidence='Low')),
+                FOREIGN KEY(evidence_id,school_id) REFERENCES Approach_evidence(evidence_id,school_id),
+                UNIQUE(school_id,category,subcategory))''')
+            for table, fields, records in [('Approach_evidence',E_FIELDS,loaded_e),('Approach_codes',C_FIELDS,loaded_c)]:
+                conn.executemany(f'INSERT INTO {table} ({",".join(fields)}) VALUES ({",".join("?" for _ in fields)})',
+                                 [[r[f] for f in fields] for r in records])
+            for table in reversed(LEGACY):
+                conn.execute(f'DROP TABLE "{table}"')
+            after = {t:fingerprint(conn,t) for t in OFFICIAL}
+            assert before == after, 'Official data changed'
+            assert conn.execute('PRAGMA integrity_check').fetchone()[0] == 'ok'
+            assert not conn.execute('PRAGMA foreign_key_check').fetchall()
+            conn.commit()
+        except BaseException:
+            conn.rollback()
+            raise
+        report = {'status':'COMPLETED','backup':str(backup.relative_to(ROOT)),
+                  'dlt_load_ids':list(info.loads_ids),'dropped_tables':LEGACY,
+                  'official_before':before,'official_after':after,
+                  'integrity_check':'ok','foreign_key_violations':0,
+                  'evidence_rows':len(evidence),'code_rows':len(codes),
+                  'schools_coded':len({c['school_id'] for c in codes}),
+                  'county_schools_not_recoded':len(school_ids)-len({c['school_id'] for c in codes})}
+        (run/'validation.json').write_text(json.dumps(report,indent=2))
+        (OUT/'latest_validation.json').write_text(json.dumps(report,indent=2))
+        print(json.dumps(report,indent=2))
+    return str(run)
+
+if __name__ == '__main__':
+    migrate()

@@ -1,0 +1,17 @@
+{
+  "school_id": "66475520",
+  "school_name": "Träkvista skolan",
+  "registered_url": "http://www.ekero.se/trakvista",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.ekero.se/trakvista",
+      "error": "HTTP 404",
+      "attempted_at": "2026-10-21T17:39:18.092201+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

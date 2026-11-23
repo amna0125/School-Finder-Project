@@ -1,0 +1,101 @@
+[
+  {
+    "code_id": "ac_b10_22127801_01",
+    "school_id": "22127801",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Swedish-English bilingual school, years2–9",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b10_22127801_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Länna unit-specific page, Lunnarevägen7. Swedish curriculum; same paragraph says up to half education through English. Preserve upper bound, not fixed50/50 or every subject. Provider preschool navigation excluded; official grades2–9. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b10_22202915_01",
+    "school_id": "22202915",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b10_22202915_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Named Montessori model substantively explained with freedom/responsibility, concrete-to-abstract materials and self-correction. Registered domain and fresh officialF–6 identity/grades checked; school-specific page covers F–1,2–3,4–6. Not name-only or preschool transfer. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b10_22202915_02",
+    "school_id": "22202915",
+    "category": "Arts and creative learning",
+    "subcategory": "Expressive arts supporting learning, F–1 only",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b10_22202915_02",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. School-specific F–1 section describes multiple expressive forms used to consolidate learning, not ordinary subject list. Supported arts interpretation scoped F–1 only, not allF–6. General nature sentence lacks recurring outdoor structure; no outdoor code. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b10_22777703_01",
+    "school_id": "22777703",
+    "category": "Language, international, or intercultural profile",
+    "subcategory": "Extended scheduled English",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b10_22777703_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Johannes F–6 Roslagsgatan61, official1–6. Extra scheduled English direct claim, not international from diverse intake alone. Exact minutes/year allocation unspecified; no bilingual all-subject or international curriculum claim. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b10_22807677_01",
+    "school_id": "22807677",
+    "category": "Other stated profile",
+    "subcategory": "STEM profile",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b10_22807677_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Unit6–9 describes STEM profile and collaboration with Åva gymnasium/business for contextual learning; not inquiry automatically or claim of quality/effects. Co-located Täby musikklasser not assigned music code. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b10_22807677_02",
+    "school_id": "22807677",
+    "category": "Other stated profile",
+    "subcategory": "Selective mathematics spets pathway, startingyear7",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b10_22807677_02",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Selective nationally recruited mathematics pathway started autumn2026, entry toyear7 with minB year6 and stated admissions. Not all6–9 pupils or all pathway cohorts already rolled out. Additional50minutes self-reported; no causal effect claims accepted. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b10_22807677_03",
+    "school_id": "22807677",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Wellbeing teaching and active-break context",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_b10_22807677_03",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Unit6–9 concrete wellbeing lessons plus active breaks/SkolIF support wellbeing interpretation; not generic safety alone. Lesson schedule/year allocation unspecified; claimed emotional/academic effects not verified. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b10_22847273_01",
+    "school_id": "22847273",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "MVP year8 and lower-year Trivselledar wellbeing work",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b10_22847273_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Ängskolan F–9 Sundbyberg, not similarly named Ängsskolan elsewhere. Named MVP lessons year8, lower-year Trivselledar separately described, social pedagogues all stages. Do not generalise MVP to all years or verify effects. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_b10_22904289_01",
+    "school_id": "22904289",
+    "category": "Other stated profile",
+    "subcategory": "Structured cooperative learning",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_b10_22904289_01",
+    "coder_note": "Assistant contextual review, codebookv1,2026-10-29. Vilan F–6, current municipal directory and unit teaching page. Named structured cooperative model all classes; Other stated profile consistent with Eklid coding, not project/inquiry or named alternative pedagogy. Municipality mother-tongue staff based here not pupil language profile. Self-description, not verified implementation.",
+    "review_status": "Reviewed"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "school_id": "63581692",
+  "school_name": "Enebybergs skola",
+  "registered_url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+  "pages": [
+    {
+      "requested_url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+      "source_url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+      "page_title": "Enebybergs skola – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:38:57.266963+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "63581692_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:56.536226+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

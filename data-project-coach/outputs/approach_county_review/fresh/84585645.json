@@ -1,0 +1,52 @@
+{
+  "school_id": "84585645",
+  "school_name": "Djurgårdens Waldorfskoleförening, Hagaskolan",
+  "registered_url": "http://www.hagaskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://hagaskolan.se/",
+      "source_url": "https://hagaskolan.se/",
+      "page_title": "Hagaskolan – Waldorfskolan i Norrort Email",
+      "accessed_at": "2026-10-21T17:42:22.037273+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "84585645_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://hagaskolan.se/",
+          "robots_url": "https://hagaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:42:21.081179+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://hagaskolan.se/waldorf/",
+      "source_url": "https://hagaskolan.se/waldorf/",
+      "page_title": "Om Waldorf – Hagaskolan Email",
+      "accessed_at": "2026-10-21T17:42:23.972454+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "84585645_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://hagaskolan.se/waldorf/",
+          "robots_url": "https://hagaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:42:21.081179+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

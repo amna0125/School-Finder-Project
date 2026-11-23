@@ -1,0 +1,92 @@
+[
+  {
+    "evidence_id": "ae_b25_40467992_01",
+    "school_id": "40467992",
+    "source_url": "https://futuraskolan.se/schools/hertig-karl/",
+    "page_title": "Hertig Karl F-9 – Futuraskolan",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Futuraskolan International Hertig Karl is a small bilingual school with a global perspective and caters for Grade F-9.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Directory names Hertig Karl; database name is generic Futuraskolan AB. Unit page explicitly F–9, bilingual and thematic IPC/IMYC with Swedish curriculum; official-ID bridge beyond directory selection not independently verified. Claim retained Requires review for identity, not a resolved unit match. Provider-wide claims and social feed not automatically applied; sustainability award not an outdoor pedagogy code."
+  },
+  {
+    "evidence_id": "ae_b25_40610606_01",
+    "school_id": "40610606",
+    "source_url": "https://www.lfsl.net/cursus-scolaire/langues-au-lfsl/",
+    "page_title": "LANGUES AU LFSL – Lycée Français Saint Louis de Stockholm",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "La langue française est la langue de communication et de scolarisation au sein du LFSL. Le français est ainsi la langue utilisée durant les cours et la langue des épreuves d’examens.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Official1–9 unit; website spans preschool through upper secondary. French language of instruction statement applies institution-wide and language pathway explicitly starts CP; restrict interpretation to compulsory-school years, exclude preschool/lycee-specific activities. French educational cycle equivalence to Swedish years not independently mapped; curriculum comparability caveat retained."
+  },
+  {
+    "evidence_id": "ae_b25_40618486_01",
+    "school_id": "40618486",
+    "source_url": "https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/rasunda-skola",
+    "page_title": "Råsunda skola \n\n - Solna stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Skolan strävar efter att vara en läsande skola, där läsningen ligger i fokus. Skolans bibliotek har en utbildad bibliotekspedagog.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–6 overlaps official1–6. Explicit reading focus and extra mathematics years4–5 outside ordinary timetable. Extra maths does not mean all pupils participate; no inferred quality. Municipal safety section is not unique school profile."
+  },
+  {
+    "evidence_id": "ae_b25_40618486_02",
+    "school_id": "40618486",
+    "source_url": "https://www.solna.se/barn--utbildning/grundskola/hitta-grundskola/rasunda-skola",
+    "page_title": "Råsunda skola \n\n - Solna stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Skolan erbjuder extra matematik i årskurs 4 och 5. Den undervisningen ligger utanför ordinarie timplan.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–6 overlaps official1–6. Explicit reading focus and extra mathematics years4–5 outside ordinary timetable. Extra maths does not mean all pupils participate; no inferred quality. Municipal safety section is not unique school profile."
+  },
+  {
+    "evidence_id": "ae_b25_40631085_01",
+    "school_id": "40631085",
+    "source_url": "https://www.botkyrka.se/forskola-och-skola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/fittjaskolan",
+    "page_title": "Fittjaskolan - Botkyrka kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "På Fittjaskolan satsar vi mycket på att utveckla elevernas språkliga och matematiska strategier.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website4–9 agrees with official. Explicit language/mathematical strategies emphasis plus recurring maths holiday schools. External art/craft collaborations insufficiently specific for arts approach; special teaching group, newcomer classes and separate adapted school are not all-pupil descriptions. No website teacher-qualification or pupil quote curated as evidence."
+  },
+  {
+    "evidence_id": "ae_b25_40904373_01",
+    "school_id": "40904373",
+    "source_url": "https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/narlundaskolan-f-6",
+    "page_title": "Närlundaskolan F-6 - Ekerö kommun",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "Vi arbetar också med projektet “Lekande barn” för att främja aktivitet, gruppsammanhållning och inkludering på skolan.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–6 overlaps official1–6. Named Lekande barn project intended to promote activity, cohesion and inclusion. This is school self-description, not verified effects; project dates and detailed implementation unspecified."
+  },
+  {
+    "evidence_id": "ae_b25_40978257_01",
+    "school_id": "40978257",
+    "source_url": "https://futuraskolaninternational.se/",
+    "page_title": "Futuraskolan International School of Stockholm – International education in Grades 1–9",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "English is the language of instruction and it follows an international curriculum, not the Swedish National Curriculum.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Directory identifies International School of Stockholm; database generic Futuraskolan AB. Own page explicitly grades1–9, English medium, international rather than Swedish national curriculum, temporary-resident eligibility/special permit. Identity link not independently verified against an ID-bearing page, so Requires review. EAL push-in/pull-out instruction applies to EAL learners only; not coded as all-pupil support. Outcomes/promotional success claims excluded."
+  },
+  {
+    "evidence_id": "ae_b25_41176931_01",
+    "school_id": "41176931",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gardesskolan",
+    "page_title": "Gärdesskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "IBIS – ett skolövergripande program med inkluderande beteendestöd som fokuserar på positiva förväntningar och strategier för att bygga relationer.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–9 overlaps official1–9. IBIS is described as school-wide; PAX explicitly F–3 (compulsory overlap1–3). Separate adapted-school and Olaus Petri units excluded. Programmes describe stated practice, not independently verified effectiveness."
+  },
+  {
+    "evidence_id": "ae_b25_41176931_02",
+    "school_id": "41176931",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gardesskolan",
+    "page_title": "Gärdesskolan, F–9 - Stockholms stad",
+    "accessed_date": "2026-11-02",
+    "quoted_text": "PAX i skolan – ett program som har fokus självreglering för att öka trygghet och arbetsro. Det har vi i årskurs förskoleklass till årskurs 3.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Website F–9 overlaps official1–9. IBIS is described as school-wide; PAX explicitly F–3 (compulsory overlap1–3). Separate adapted-school and Olaus Petri units excluded. Programmes describe stated practice, not independently verified effectiveness."
+  }
+]

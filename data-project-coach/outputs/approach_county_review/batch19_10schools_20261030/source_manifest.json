@@ -1,0 +1,127 @@
+[
+  {
+    "file": "blombacka.html",
+    "bytes": 54665,
+    "sha256": "a27a528c5ecf6971e0cee05deac156ab74936f62756020c1638f24caa5d381ff"
+  },
+  {
+    "file": "furuborg.html",
+    "bytes": 106037,
+    "sha256": "a0d90d2743f8c7d3aa03c175606bff869b42580e02a7edd3a06b9a7085534e50"
+  },
+  {
+    "file": "furuborg_method.html",
+    "bytes": 109239,
+    "sha256": "4db08943a3bd52ac928dbc4f0f536078fe127db98332641326ff4b856c4aab86"
+  },
+  {
+    "file": "gustav.html",
+    "bytes": 95140,
+    "sha256": "1b892cf5b1164cdd5e1c1d9e49a11628b222f87aedbd331863813bfdba5ac565"
+  },
+  {
+    "file": "isk.html",
+    "bytes": 84265,
+    "sha256": "6da4fffabaaca0caabd0cb2eb03d690dfef2d1fdd274a2cbdae1c40f926d6e51"
+  },
+  {
+    "file": "isk_pyp.html",
+    "bytes": 72291,
+    "sha256": "371e2d58c3fec029bd35a5c319c699e7c18c57c7b1417b3a520e0469bf7bf917"
+  },
+  {
+    "file": "maso.html",
+    "bytes": 38406,
+    "sha256": "6bc0083a205e20e9cfcad306bb1e88847f8ff394b6553e3a84815d1eeaea1eee"
+  },
+  {
+    "file": "maso_development.html",
+    "bytes": 25868,
+    "sha256": "dcd79e52b2e379b7ce88579bb845fe209e2aac74ebf6bfca5e2a826956d124bd"
+  },
+  {
+    "file": "maso_method.html",
+    "bytes": 30762,
+    "sha256": "ad83a26e3e6cc873a4c047ea8f90452ab93ee7ccd1b3e41c6c314327bbd503c8"
+  },
+  {
+    "file": "mondial.html",
+    "bytes": 68626,
+    "sha256": "0fa8488ecbd0095aa994aca7c5e11fbf36fb972a8e572cc2ced42212d444b1ed"
+  },
+  {
+    "file": "mondial_method.html",
+    "bytes": 126314,
+    "sha256": "d522103de3d29ec15043b298afcf1a4e186868458873f851068d46391725f0e1"
+  },
+  {
+    "file": "nytida.html",
+    "bytes": 137926,
+    "sha256": "1589edd9eb2742ca78a2d765b3ccdd558cb8df16e22b1f2c8d7e8e037972ef74"
+  },
+  {
+    "file": "rasunda.html",
+    "bytes": 330467,
+    "sha256": "28980600c9b31074c14336ddf783082c2d1b9ab05daa9ed832c15b3fc7e7e19e"
+  },
+  {
+    "file": "robots_isk_nonwww.txt",
+    "bytes": 140,
+    "sha256": "fecb9363cd344b157204d7952d49d2ee7efef8052605c52520e199981308afad"
+  },
+  {
+    "file": "robots_jarfalla.txt",
+    "bytes": 498,
+    "sha256": "b4d90ed52acd48d20eb94fee3152b49f4419f7d213af8aec29e707f91f42988e"
+  },
+  {
+    "file": "robots_maso.txt",
+    "bytes": 118,
+    "sha256": "92515e136fbd235ec35f1cc1e1bbc872420f79f9a14e4f0bb8cc91759681ff95"
+  },
+  {
+    "file": "robots_mondial.txt",
+    "bytes": 1659,
+    "sha256": "59db5f987f99391215e19fabe6eb807444dd4c6c33395e30171d6f1902606b58"
+  },
+  {
+    "file": "robots_nykvarn.txt",
+    "bytes": 493,
+    "sha256": "7f45ae9cc5cd6be3973417df3d4c73cbaa4937954128b0631c6788e959bc454e"
+  },
+  {
+    "file": "robots_nytida.txt",
+    "bytes": 159,
+    "sha256": "8f67e55676e3ae9a44af8aac19999ab18b9a2e37b41a7beaf86fa0ab0cb9fa6d"
+  },
+  {
+    "file": "robots_sodertalje.txt",
+    "bytes": 100,
+    "sha256": "2ae70aeef40d856f7e60c10c2195f903ff788173bd8a62a12c11c85b5fb9c492"
+  },
+  {
+    "file": "robots_solna.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 67,
+    "sha256": "bba51e84f7a5a0904a456f6e4b3e79b919e43800d60b2e6a7508062cec4d2106"
+  },
+  {
+    "file": "robots_vallentuna.txt",
+    "bytes": 574,
+    "sha256": "6fc07751694f15315a500d4e60c15d81c4900bf13d4cd17a824a7257ef97d95e"
+  },
+  {
+    "file": "sandvik.html",
+    "bytes": 213367,
+    "sha256": "93277a61cc28b881b680ad8bc9c5ab78b45ff12f3bc27ebec8157aecced9cd63"
+  },
+  {
+    "file": "smedslatt.html",
+    "bytes": 137268,
+    "sha256": "df3ae3516099365136a0d1a82061cb00d96605c0fee4ea86696e59ba05dfbe9f"
+  }
+]

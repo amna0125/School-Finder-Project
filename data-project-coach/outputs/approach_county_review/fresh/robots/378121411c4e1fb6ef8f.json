@@ -1,0 +1,1 @@
+{"robots_url": "https://www.vasastansmontessoriskola.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T17:40:45.935028+00:00", "state": "parsed", "crawl_delay": 0, "body": "User-agent: *\nAllow: /\n\nSitemap: https://vasastansmontessoriskola.se/sitemap.xml\n"}

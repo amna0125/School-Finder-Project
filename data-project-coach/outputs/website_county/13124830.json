@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "13124830",
+  "school_name": "Sjöängsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+  "attempted_at": "2026-10-21T09:15:20.568482+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+      "retrieved_at": "2026-10-21T09:15:21.792877+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "13124830_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Sjöängsskolans olika hus skapar mindre öar av lärmiljöer och bildar samtidigt en helhet runt vår skolgård. Vi har väl utrustade facksalar för de praktiskt-estetiska ämnena och för NO och teknik. Den digitala lärmiljön är väl utbyggd.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1ebf51cd4d4dc5cf143ef66d98b6c2c21b29df17c7df5f8500ab81ff1282d072",
+      "school_unit_code": "13124830",
+      "school_name": "Sjöängsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+      "retrieved_at": "2026-10-21T09:15:21.792877+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

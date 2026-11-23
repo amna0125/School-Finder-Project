@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "89510449",
+  "school_name": "Kungsklippeskolan",
+  "registered_url": "http://www.huddinge.se/kungsklippeskolan",
+  "attempted_at": "2026-10-21T09:17:23.371050+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.huddinge.se/kungsklippeskolan",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

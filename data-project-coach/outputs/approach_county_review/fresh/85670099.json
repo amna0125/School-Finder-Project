@@ -1,0 +1,17 @@
+{
+  "school_id": "85670099",
+  "school_name": "Stift. Sthlm Intern. School gr",
+  "registered_url": "http://www.intsch.se",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.intsch.se",
+      "error": "Robots unresolved; manual review required",
+      "attempted_at": "2026-10-21T17:42:24.833156+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

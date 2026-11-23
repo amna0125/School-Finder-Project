@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 6,
+  "scoped_no_clear_schools": 2,
+  "requires_review_schools": 2,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 12,
+  "new_code_rows": 9,
+  "database_evidence_total": 120,
+  "database_codes_total": 91,
+  "first_load_flow": "hungry-deer",
+  "replay_flow": "weightless-camel",
+  "replay_inserted_rows": 0,
+  "tests": "22 existing tests passed"
+}

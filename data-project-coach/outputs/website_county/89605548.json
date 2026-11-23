@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "89605548",
+  "school_name": "Trollbodaskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/trollbodaskolan",
+  "attempted_at": "2026-10-21T09:17:23.379284+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/trollbodaskolan",
+      "retrieved_at": "2026-10-21T09:17:27.162598+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/trollbodaskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89605548_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vår skolmiljö präglas av konst, kreativa uttryck och grönska, med växter och träd som skapar en varm, inspirerande och trivsam miljö.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "1741d2c27f20e75c12029d2aa0ee853b46f6c42b0a91476d7e69fc2b15a0aea6",
+      "school_unit_code": "89605548",
+      "school_name": "Trollbodaskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/trollbodaskolan",
+      "retrieved_at": "2026-10-21T09:17:27.162598+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

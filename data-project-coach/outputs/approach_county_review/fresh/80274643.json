@@ -1,0 +1,32 @@
+{
+  "school_id": "80274643",
+  "school_name": "Skepptuna skola",
+  "registered_url": "http://www.sigtuna.se/skepptunaskola",
+  "pages": [
+    {
+      "requested_url": "https://www.sigtuna.se/skepptunaskola",
+      "source_url": "https://www.sigtuna.se/skepptunaskola",
+      "page_title": "Skepptuna skola - Sigtuna kommun",
+      "accessed_at": "2026-10-21T17:41:29.543206+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "80274643_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sigtuna.se/skepptunaskola",
+          "robots_url": "https://www.sigtuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:22.390077+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,32 @@
+{
+  "school_id": "28799594",
+  "school_name": "Kärrdalsskolan",
+  "registered_url": "http://sites.google.com/a/edu.sollentuna.se/kdl/",
+  "pages": [
+    {
+      "requested_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/edu.sollentuna.se/kdl/&followup=https://sites.google.com/a/edu.sollentuna.se/kdl/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-349846233:1792574461088539",
+      "source_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/edu.sollentuna.se/kdl/&followup=https://sites.google.com/a/edu.sollentuna.se/kdl/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-349846233:1792574461088539",
+      "page_title": "Google Drive: Sign-in",
+      "accessed_at": "2026-10-21T17:31:37.437008+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "28799594_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/edu.sollentuna.se/kdl/&followup=https://sites.google.com/a/edu.sollentuna.se/kdl/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-349846233:1792574461088539",
+          "robots_url": "https://accounts.google.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:36.150635+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

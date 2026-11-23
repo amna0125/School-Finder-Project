@@ -1,0 +1,72 @@
+{
+  "school_id": "28145722",
+  "school_name": "Aktiviaskolan Hus 6",
+  "registered_url": "http://www.aktiviaskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.aktiviaskolan.se/",
+      "source_url": "https://www.aktiviaskolan.se/",
+      "page_title": "Hem - Aktiviaskolan",
+      "accessed_at": "2026-10-21T17:31:32.613697+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "28145722_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.aktiviaskolan.se/",
+          "robots_url": "https://www.aktiviaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:31.750140+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.aktiviaskolan.se/om-oss/",
+      "source_url": "https://www.aktiviaskolan.se/om-oss/",
+      "page_title": "Om oss - Aktiviaskolan",
+      "accessed_at": "2026-10-21T17:31:33.777777+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "28145722_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.aktiviaskolan.se/om-oss/",
+          "robots_url": "https://www.aktiviaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:31.750140+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.aktiviaskolan.se/om-oss/terminstider/",
+      "source_url": "https://www.aktiviaskolan.se/om-oss/terminstider/",
+      "page_title": "Läsårstider - Aktiviaskolan",
+      "accessed_at": "2026-10-21T17:31:35.138461+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "28145722_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.aktiviaskolan.se/om-oss/terminstider/",
+          "robots_url": "https://www.aktiviaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:31:31.750140+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

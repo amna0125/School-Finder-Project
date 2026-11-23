@@ -1,0 +1,9 @@
+# Current checkpoint — Batch22, 2026-11-02
+
+233 documented outcomes /529 pending /762 unique official IDs. Exactly10 selected ledger rows changed;752 untouched. Not233 resolved schools or county completion. Next next_batch_after_batch22.json, ascending pending IDs. Ledger county_progress_20261102_after_batch22.csv.
+
+Batch22:6 schools with8 reviewed self-description codes;3 uncertain evidence/no firm code;1 scoped no-clear-evidence outcome.11 evidence rows. DB totals270 evidence/197 codes, not school counts. Append formidable-squid +11/+8; replay garnet-doberman +0/+0. Backups in batch22 loads. Exact staging/target comparison, prior record preservation, source quote/hash checks and official fingerprints passed.22 tests passed. Git diff unavailable: not a Git repository; ledger diff saved separately.
+
+Kumla music profile currently years4–7 at Kumla in2026/27; years8–9 at Nyboda. Akalla RSU and Rinkeby support groups restricted to placements, not whole pupil populations. Gåshaga official-directory campus label vs DB Futuraskolan AB preserved; F-class and official grade-range differences retained. Iljansboda stale curriculum and Stenmo/Kista insufficient profile evidence remain uncertain. Prior inaccessible Stockholm/Huddinge pages now200 without overwriting historical failures. Public self-descriptions, not verified practice. No all-county clear/unclear unit-scope count has been audited; approach-outcome totals must not substitute for scope counts.
+
+Earlier caveats preserved in workflow_before_batch22.md and prior logs: Solbergaskolan access restriction, Älta/Stavsborg identity mismatch, Runmarö dormant2026/27 and earlier reconciliation needs. Review logs preserve follow-ups. Do not rerun successful builders/checkpoints/finalizers. Dashboard deferred; on demand only, no unattended schedule.

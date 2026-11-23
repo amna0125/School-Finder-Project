@@ -1,0 +1,72 @@
+{
+  "school_id": "42986451",
+  "school_name": "Fribergaskolan",
+  "registered_url": "https://www.danderyd.se/skolor/fribergaskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.danderyd.se/skolor/fribergaskolan/",
+      "source_url": "https://www.danderyd.se/skolor/fribergaskolan/",
+      "page_title": "Fribergaskolan – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:34:01.270722+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "42986451_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/fribergaskolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.117771+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/",
+      "source_url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/",
+      "page_title": "Om oss – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:34:02.095145+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "42986451_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.117771+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/var-organisation/",
+      "source_url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/var-organisation/",
+      "page_title": "Vår skolidé – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:34:02.831796+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "42986451_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/fribergaskolan/om-oss/var-organisation/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.117771+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

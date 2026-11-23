@@ -1,0 +1,32 @@
+{
+  "school_id": "81021363",
+  "school_name": "Herrestaskolan",
+  "registered_url": "http://www.jarfalla.se/underwebbar/herrestaskolan/valkommen-till-herrestaskolan.html",
+  "pages": [
+    {
+      "requested_url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/barkarbyskalby/herrestaskolan.4.36ac70f31639ecd947f2e69.html",
+      "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/barkarbyskalby/herrestaskolan.4.36ac70f31639ecd947f2e69.html",
+      "page_title": "Herrestaskolan - Järfälla kommun",
+      "accessed_at": "2026-10-21T17:41:36.338956+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81021363_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/barkarbyskalby/herrestaskolan.4.36ac70f31639ecd947f2e69.html",
+          "robots_url": "https://www.jarfalla.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:16.938416+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

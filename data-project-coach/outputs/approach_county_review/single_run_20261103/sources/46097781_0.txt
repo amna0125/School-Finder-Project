@@ -1,0 +1,106 @@
+Samtycke
+Information
+[#IABV2SETTINGS#]
+Om
+Denna webbplats använder cookies
+Vi använder enhetsidentifierare för att anpassa innehållet och annonserna till användarna, tillhandahålla funktioner för sociala medier och analysera vår trafik. Vi vidarebefordrar även sådana identifierare och annan information från din enhet till de sociala medier och annons- och analysföretag som vi samarbetar med. Dessa kan i sin tur kombinera informationen med annan information som du har tillhandahållit eller som de har samlat in när du har använt deras tjänster.
+[#GPC_BANNER_ICON#]
+[#GPC_TOAST_TEXT#]
+Samtyckesval
+Nödvändig
+Inställningar
+Statistik
+Marknadsföring
+Visa detaljer
+Information
+Nödvändig
+3
+Nödvändiga cookies låter dig använda webbplatsen genom att aktivera grundläggande funktioner, såsom sidnavigering och åtkomst till säkra områden på webbplatsen. Webbplatsen fungerar inte korrekt utan dessa cookies.
+christinaskolan.se
+3
+CookieConsent
+Stores the user's cookie consent state for the current domain
+Maximal lagringstid
+: 1 år
+Typ
+: HTTP-cookie
+elementor
+Used in context with the website's WordPress theme. The cookie allows the website owner to implement or change the website's content in real-time.
+Maximal lagringstid
+: Beständig
+Typ
+: Lokal HTML-lagring
+wpEmojiSettingsSupports
+This cookie is part of a bundle of cookies which serve the purpose of content delivery and presentation. The cookies keep the correct state of font, blog/picture sliders, color themes and other website settings.
+Maximal lagringstid
+: Session
+Typ
+: Lokal HTML-lagring
+Inställningar
+0
+Cookies för inställningar låter en webbplats komma ihåg information som ändrar hur webbplatsen fungerar eller visas. Detta kan t.ex. vara föredraget språk eller regionen du befinner dig i.
+Vi använder inte cookies av den här typen
+Statistik
+2
+Cookies för statistik hjälper en webbplatsägare att förstå hur besökare interagerar med webbplatser genom att samla och rapportera in information anonymt.
+Google
+2
+Läs mer om den här leverantören
+En del av de uppgifter som samlas in av denna leverantör är för personanpassning och mätning av reklameffektivitet. Leverantören kan använda IP-adresserna för mätning och personanpassning av annonser.
+_ga
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximal lagringstid
+: 2 år
+Typ
+: HTTP-cookie
+_ga_#
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximal lagringstid
+: 2 år
+Typ
+: HTTP-cookie
+Marknadsföring
+0
+Cookies för marknadsföring används för att spåra besökare på webbplatser. Avsikten är att visa annonser som är relevanta och engagerande för enskilda användare, och därmed mer värdefull för utgivare och tredjepartsannonsörer.
+Vi använder inte cookies av den här typen
+Oklassificerade
+0
+Oklassificerade cookies är cookies som håller på att klassificeras tillsammans med utfärdarna av enskilda cookies.
+Vi använder inte cookies av den här typen
+Domänöverskridande godkännande
+[#BULK_CONSENT_DOMAINS_COUNT#]
+[#BULK_CONSENT_TITLE#]
+Lista över domäner som du ger samtycke till:
+[#BULK_CONSENT_DOMAINS#]
+Cookie-deklaration uppdaterades senast 10/5/26 av
+Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+Om
+Cookies är små textfiler som kan användas av webbplatser för att göra en användares upplevelse mer effektiv.
+Lagen säger att vi får lagra cookies på din enhet om de är absolut nödvändiga för att kunna använda den här webbplatsen. För alla andra ändamål krävs ditt medgivande.
+Denna webbplats använder olika typer av cookies. Vissa cookies placeras ut av tredjepartstjänster som visas på våra sidor.
+Du kan ändra eller dra tillbaka ditt samtycke till cookie-förklaringen på vår webbplats.
+Läs mer i vår sekretesspolicy om vilka vi är, hur du kontaktar oss och på vilket sätt vi behandlar personuppgifter.
+Ange ditt samtyckes-ID och datum för när du kontaktade oss gällande ditt samtycke.
+Sälj eller dela inte mina personuppgifter
+Avvisa
+Tillåt urval
+Anpassa
+Tillåt alla
+Hoppa till innehåll
+Christinaskolan
+Läs mer
+Christinagymnasiet
+Läs mer

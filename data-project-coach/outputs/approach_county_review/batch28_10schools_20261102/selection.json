@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "43038662",
+    "official_directory_name": "Färentuna skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.ekero.se/farentunaskola",
+    "note": ""
+  },
+  {
+    "school_id": "43088454",
+    "official_directory_name": "Björkhagens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjorkhagens-skola",
+    "note": ""
+  },
+  {
+    "school_id": "43133926",
+    "official_directory_name": "Bergshamraskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.solna.se",
+    "note": ""
+  },
+  {
+    "school_id": "43138370",
+    "official_directory_name": "Vittra Brotorp",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vittra.se/brotorp",
+    "note": ""
+  },
+  {
+    "school_id": "43140379",
+    "official_directory_name": "Nakterhusskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.haninge.se/forskola-och-skola/grundskola/",
+    "note": ""
+  },
+  {
+    "school_id": "43166282",
+    "official_directory_name": "Nälstaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nalstaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "43238662",
+    "official_directory_name": "Björkhaga Skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "terms_review_required",
+    "registered_url": "http://www.botkyrka.se/bjorkhagaskola",
+    "note": ""
+  },
+  {
+    "school_id": "43245047",
+    "official_directory_name": "Saltängens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://www.nacka.se/valfard-skola/saltsjo-duvnas-skola/",
+    "note": ""
+  },
+  {
+    "school_id": "43289917",
+    "official_directory_name": "Vasaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.danderyd.se/skolor/vasaskolan/",
+    "note": ""
+  },
+  {
+    "school_id": "43375546",
+    "official_directory_name": "Rälsen AB åk 4-9",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.ralsen.se",
+    "note": ""
+  }
+]

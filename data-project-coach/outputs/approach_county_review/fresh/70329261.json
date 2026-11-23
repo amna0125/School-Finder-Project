@@ -1,0 +1,17 @@
+{
+  "school_id": "70329261",
+  "school_name": "Hägerstensåsens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstensasens-skola",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstensasens-skola",
+      "error": "The read operation timed out",
+      "attempted_at": "2026-10-21T17:40:07.451897+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

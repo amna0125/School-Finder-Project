@@ -1,0 +1,72 @@
+{
+  "school_id": "24374886",
+  "school_name": "Vittra Väsby",
+  "registered_url": "http://www.vittra.se/vasby",
+  "pages": [
+    {
+      "requested_url": "https://vittra.se/vasby/",
+      "source_url": "https://vittra.se/vasby/",
+      "page_title": "Vittra Väsby | Skola i Upplands Väsby",
+      "accessed_at": "2026-10-21T17:30:15.145396+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24374886_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/vasby/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.139442+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/vasby/om/grundskola/",
+      "source_url": "https://vittra.se/vasby/om/grundskola/",
+      "page_title": "Vittra Väsby | Grundskola i Upplands Väsby",
+      "accessed_at": "2026-10-21T17:30:16.091089+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24374886_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/vasby/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.139442+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/vasby/artikel/pedagoger/",
+      "source_url": "https://vittra.se/vasby/artikel/pedagoger/",
+      "page_title": "Lär känna våra pedagoger | Vittra Väsby",
+      "accessed_at": "2026-10-21T17:30:17.158439+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24374886_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/vasby/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:27:37.139442+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

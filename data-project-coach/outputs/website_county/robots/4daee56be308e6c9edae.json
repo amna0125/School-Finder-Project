@@ -1,0 +1,1 @@
+{"robots_url": "http://tabyfriskola.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:21:04.944258+00:00", "state": "parsed", "crawl_delay": 0, "body": "Crawl-delay: 10\n# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://tabyfriskola.se/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"}

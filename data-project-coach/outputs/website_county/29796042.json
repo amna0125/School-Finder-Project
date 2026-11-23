@@ -1,0 +1,97 @@
+{
+  "school_unit_code": "29796042",
+  "school_name": "Engelska skolan Gondolen",
+  "registered_url": "https://www.esgondolen.se/",
+  "attempted_at": "2026-10-21T09:15:51.225147+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.esgondolen.se/",
+      "retrieved_at": "2026-10-21T09:15:56.203794+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.esgondolen.se/",
+          "robots_url": "https://www.esgondolen.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:15:53.366408+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "29796042_0.txt"
+    },
+    {
+      "source_url": "https://www.esgondolen.se/om-oss",
+      "retrieved_at": "2026-10-21T09:15:56.239145+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.esgondolen.se/om-oss",
+          "robots_url": "https://www.esgondolen.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:15:53.366408+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "29796042_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Kulturskolan och skolan delar lokaler med fina utrymmen för dans och musik. Skolans elever har en möjlighet att ta del av kulturskolans utbud genom ett nära samarbete med skolans fritids.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c3655095c3003e6d10e939fd3c9b57d86c6a26cdf68c2454b4d811bdf13649fc",
+      "school_unit_code": "29796042",
+      "school_name": "Engelska skolan Gondolen",
+      "source_url": "https://www.esgondolen.se/",
+      "retrieved_at": "2026-10-21T09:15:56.203794+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Kulturskolan och skolan delar lokaler med fina utrymmen för dans och musik. Skolans elever har en möjlighet att ta del av kulturskolans utbud genom ett nära samarbete med skolans fritids.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "898293cde625874754d18806d4a546e8f2e73517618ff0a0b1d61fe31e8078e6",
+      "school_unit_code": "29796042",
+      "school_name": "Engelska skolan Gondolen",
+      "source_url": "https://www.esgondolen.se/",
+      "retrieved_at": "2026-10-21T09:15:56.203794+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Engelska Skolan Gondolen erbjuder sina elever en tvåspråkig utbildning av hög kvalitet, utökad timplan i engelska och små klasser med upp till 20 elever. Vår pedagogik präglas av ett hållbart, elevnära och engagerande arbetssätt där vi på olika sätt, tryggt och inkluderande, arbetar för att hjälpa varje elev att förverkliga sin fulla potential både akademiskt och som människa.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "923d22ccfd6252d63e1ef5be2df2cf75cd9fc942036025cfa39b5bc8b6bb5d63",
+      "school_unit_code": "29796042",
+      "school_name": "Engelska skolan Gondolen",
+      "source_url": "https://www.esgondolen.se/",
+      "retrieved_at": "2026-10-21T09:15:56.203794+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Engelska Skolan Gondolen startade höstterminen 2025 och erbjuder en tvåspråkig utbildning för F-9 med en integrerad fritidshemsverksamhet. Våra lokaler finns på fyra våningsplan på Gondolgatan, med generösa utrymmen anpassade för undervisning.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "614b1186d0ded12a1c78dd59f3e8379e8b5367668ebdf17d6620b248c54d86c9",
+      "school_unit_code": "29796042",
+      "school_name": "Engelska skolan Gondolen",
+      "source_url": "https://www.esgondolen.se/om-oss",
+      "retrieved_at": "2026-10-21T09:15:56.239145+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.esgondolen.se/vår-inriktning-och-vision",
+      "error": "'ascii' codec can't encode character '\\xe5' in position 6: ordinal not in range(128)"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "school_unit_code": "55508705",
+  "school_name": "Stiftelsen Josefinaskolan",
+  "registered_url": "http://www.josefinaskolan.se",
+  "attempted_at": "2026-10-21T09:22:09.866830+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.josefinaskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:14.719675+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.josefinaskolan.se",
+          "robots_url": "https://www.josefinaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:11.340176+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.josefinaskolan.se/",
+          "robots_url": "https://www.josefinaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:12.801457+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "55508705_0.txt"
+    },
+    {
+      "source_url": "https://www.josefinaskolan.se/pedagogik",
+      "retrieved_at": "2026-10-21T09:22:14.761378+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.josefinaskolan.se/pedagogik",
+          "robots_url": "https://www.josefinaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:12.801457+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "55508705_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "waldorf",
+      "supporting_excerpt": "Josefinaskolan | Waldorfskola i Märsta och Sigtuna | Rävsta gård, Märsta, Sweden",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "35bbd42c14b362bc235be596011926710a2848d63d0dd780bf4bd6bb4a3f804b",
+      "school_unit_code": "55508705",
+      "school_name": "Stiftelsen Josefinaskolan",
+      "source_url": "https://www.josefinaskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:14.719675+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Vår undervisning bedrivs med väl genomtänkt pedagogik och erbjuder en bred sammanhållen studiegång där naturvetenskap, humaniora, musik, konst och hantverk bildar en enhet. Undervisningen utformas på ett sätt som utvecklar elevernas intellekt, känsla och vilja i samklang, där kunskap och lärande utgår från att upplevelser och erfarenheter föregår begreppsbildningen. All undervisning strävar efter att väcka engagemang och vilja att lära, nyfikenhet och förundran inför vår omvärld.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "940eb0d0d4d45800ee79fb1650c00fa44e614b799607b54ec80f89fb7aa1ef9c",
+      "school_unit_code": "55508705",
+      "school_name": "Stiftelsen Josefinaskolan",
+      "source_url": "https://www.josefinaskolan.se/pedagogik",
+      "retrieved_at": "2026-10-21T09:22:14.761378+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Vår undervisning bedrivs med väl genomtänkt pedagogik och erbjuder en bred sammanhållen studiegång där naturvetenskap, humaniora, musik, konst och hantverk bildar en enhet. Undervisningen utformas på ett sätt som utvecklar elevernas intellekt, känsla och vilja i samklang, där kunskap och lärande utgår från att upplevelser och erfarenheter föregår begreppsbildningen. All undervisning strävar efter att väcka engagemang och vilja att lära, nyfikenhet och förundran inför vår omvärld.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "b343948755d05bf239d59bed6f5d67954b5d2c37313b477afbd0b606e87b2c39",
+      "school_unit_code": "55508705",
+      "school_name": "Stiftelsen Josefinaskolan",
+      "source_url": "https://www.josefinaskolan.se/pedagogik",
+      "retrieved_at": "2026-10-21T09:22:14.761378+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

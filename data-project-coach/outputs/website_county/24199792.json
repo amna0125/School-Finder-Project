@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "24199792",
+  "school_name": "Da Vinciskolan",
+  "registered_url": "http://www.davinciskolan.com",
+  "attempted_at": "2026-10-21T09:15:39.063436+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.davinciskolan.com",
+      "error": "[Errno -2] Name does not resolve"
+    }
+  ]
+}

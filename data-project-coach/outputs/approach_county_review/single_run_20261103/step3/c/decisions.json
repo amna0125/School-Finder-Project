@@ -1,0 +1,202 @@
+[
+ {
+  "sid": "13679897",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): Nackareservatet stated as used in teaching; Supported.",
+  "ev": [
+   {
+    "q": "Våra elever får med sig många olika upplevelser och både Stockholms stad och närmiljön med Nackareservatet används som resurser i undervisningen.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Nearby nature reserve used in teaching",
+      "S"
+     ]
+    ],
+    "cn": "Nackareservatet stated as used in teaching; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "17165481",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): Nackareservatet stated as used in teaching; Supported.",
+  "ev": [
+   {
+    "q": "Våra elever får med sig många olika upplevelser och både Stockholms stad och närmiljön med Nackareservatet används som resurser i undervisningen.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Nearby nature reserve used in teaching",
+      "S"
+     ]
+    ],
+    "cn": "Nackareservatet stated as used in teaching; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "25090415",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): forest stated as used often in teaching; Supported.",
+  "ev": [
+   {
+    "q": "En kreativ skolgårnd med motorikbana, multiarena, sandlåda men även skogen används flitigt i vår undervisning.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Forest used often in teaching",
+      "S"
+     ]
+    ],
+    "cn": "forest stated as used often in teaching; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "22472689",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): nearby area used and much time outdoors stated (hedged); Supported.",
+  "ev": [
+   {
+    "q": "Vi utnyttjar vårt närområde och strävar efter att vistas mycket ute i naturen.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Nearby nature used, aim to be outdoors a lot",
+      "S"
+     ]
+    ],
+    "cn": "nearby area used and much time outdoors stated (hedged); Supported."
+   }
+  ]
+ },
+ {
+  "sid": "29410344",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): nearby Mälaren surroundings stated as learning environments in teaching; Supported.",
+  "ev": [
+   {
+    "q": "Närheten till Mälaren med omgivningar och stadens kulturutbud används som lärmiljöer i undervisningen.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Nearby lake shore and city used as learning environments",
+      "S"
+     ]
+    ],
+    "cn": "nearby Mälaren surroundings stated as learning environments in teaching; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "32886383",
+  "o": "N",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): nature described for play and movement, not teaching; No clear evidence. Nearby nature recorded in the school-setting card."
+ },
+ {
+  "sid": "20054868",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): local nature projects described as part of teaching; Supported.",
+  "ev": [
+   {
+    "q": "Det blir oftast ett annat engagemang när de får hjälpa fiskarna i Lövstaån eller göra ett hotell åt bina, eller när de med hjälp av Kulturskolans dans, sång och teater lär sig om Vikingatiden.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Local nature projects (stream, bees)",
+      "S"
+     ]
+    ],
+    "cn": "local nature projects described as part of teaching; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "15968847",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): nearby nature stated as used for practical learning and excursions; Supported.",
+  "ev": [
+   {
+    "q": "Vi utnyttjar närheten till naturen för praktisk inlärning och pedagogiska utflykter i närområdet.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Nearby nature used for practical learning",
+      "S"
+     ]
+    ],
+    "cn": "nearby nature stated as used for practical learning and excursions; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "27357778",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): nearby area stated as part of teaching; Supported.",
+  "ev": [
+   {
+    "q": "Vi använder även närområdet som en del av undervisningen, där eleverna får utforska, lära och röra sig i naturen.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Nearby nature used in teaching",
+      "S"
+     ]
+    ],
+    "cn": "nearby area stated as part of teaching; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "29998540",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): nature areas stated as used regularly in school; Supported.",
+  "ev": [
+   {
+    "q": "Vi ligger centralt i Valsta, med närhet till fina naturområden som vi regelbundet använder i både skola och fritids.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Nearby nature used regularly",
+      "S"
+     ]
+    ],
+    "cn": "nature areas stated as used regularly in school; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "24561769",
+  "o": "N",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): weekly mentorship only; nearby woods and weather-dependent outdoor PE are setting, not teaching approach; No clear evidence. Nearby nature recorded in the school-setting card."
+ },
+ {
+  "sid": "21346638",
+  "o": "R",
+  "note": "Step 3 rule 1 (outdoor, agreed with Amna): scheduled outdoor life (2.5 h every third week); Supported, since the source page is undated.",
+  "ev": [
+   {
+    "q": "Var tredje vecka har eleverna 2,5 timmes friluftsliv.",
+    "i": "Nature/nearby area stated as used in teaching.",
+    "c": [
+     [
+      "Outdoor, nature, or place-based learning",
+      "Scheduled outdoor life every third week",
+      "S"
+     ]
+    ],
+    "cn": "scheduled outdoor life (2.5 h every third week); Supported, since the source page is undated."
+   }
+  ]
+ }
+]

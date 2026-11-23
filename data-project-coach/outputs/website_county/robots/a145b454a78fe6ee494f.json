@@ -1,0 +1,1 @@
+{"robots_url": "http://www.elevverket.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:17:35.158117+00:00", "state": "parsed", "crawl_delay": 0, "body": "User-agent: *\nDisallow: /servers/frontend/\n\nCrawl-delay: 10\n\nSitemap: http://www.elevverket.se/sitemap.xml"}

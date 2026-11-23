@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "60521412",
+  "school_name": "Igelbäckskolan",
+  "registered_url": "https://www.sundbyberg.se/forskola-utbildning/grundskola-och-grundsarskola/sundbybergs-resursskola.html",
+  "attempted_at": "2026-10-21T09:16:41.404807+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "https://www.sundbyberg.se/forskola-utbildning/grundskola-och-grundsarskola/sundbybergs-resursskola.html",
+      "error": "HTTP 404"
+    }
+  ]
+}

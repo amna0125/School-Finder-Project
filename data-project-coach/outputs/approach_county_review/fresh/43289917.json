@@ -1,0 +1,72 @@
+{
+  "school_id": "43289917",
+  "school_name": "Vasaskolan",
+  "registered_url": "https://www.danderyd.se/skolor/vasaskolan/",
+  "pages": [
+    {
+      "requested_url": "https://www.danderyd.se/skolor/vasaskolan/",
+      "source_url": "https://www.danderyd.se/skolor/vasaskolan/",
+      "page_title": "Vasaskolan – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:34:42.781011+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "43289917_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/vasaskolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.117771+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.danderyd.se/skolor/vasaskolan/om-skolan/",
+      "source_url": "https://www.danderyd.se/skolor/vasaskolan/om-skolan/",
+      "page_title": "Om oss - Vasaskolan - Danderyds kommun – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:34:43.519575+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "43289917_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/vasaskolan/om-skolan/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.117771+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.danderyd.se/skolor/vasaskolan/om-skolan/forskoleklass/",
+      "source_url": "https://www.danderyd.se/skolor/vasaskolan/om-skolan/forskoleklass/",
+      "page_title": "Vasaskolans förskoleklass - Danderyds kommun – Danderyds kommun",
+      "accessed_at": "2026-10-21T17:34:44.264437+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "43289917_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.danderyd.se/skolor/vasaskolan/om-skolan/forskoleklass/",
+          "robots_url": "https://www.danderyd.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:28.117771+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,72 @@
+{
+  "school_id": "92750123",
+  "school_name": "Enskilda Gymnasiet",
+  "registered_url": "http://www.enskildagymnasiet.se",
+  "pages": [
+    {
+      "requested_url": "http://enskildagymnasiet.se/",
+      "source_url": "http://enskildagymnasiet.se/",
+      "page_title": "Enskilda gymnasiet – Bildning för livet",
+      "accessed_at": "2026-10-21T17:43:57.904810+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "92750123_0.txt",
+      "robots_checks": [
+        {
+          "url": "http://enskildagymnasiet.se/",
+          "robots_url": "http://enskildagymnasiet.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:56.647305+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "http://enskildagymnasiet.se/grundskolan/",
+      "source_url": "http://enskildagymnasiet.se/grundskolan/",
+      "page_title": "Grundskolan – Enskilda gymnasiet",
+      "accessed_at": "2026-10-21T17:43:59.092351+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "92750123_1.txt",
+      "robots_checks": [
+        {
+          "url": "http://enskildagymnasiet.se/grundskolan/",
+          "robots_url": "http://enskildagymnasiet.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:56.647305+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://enskildagymnasiet.se/grundskolan/",
+      "source_url": "https://enskildagymnasiet.se/grundskolan/",
+      "page_title": "Grundskolan – Enskilda gymnasiet",
+      "accessed_at": "2026-10-21T17:44:00.928945+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "92750123_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://enskildagymnasiet.se/grundskolan/",
+          "robots_url": "https://enskildagymnasiet.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:59.803838+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

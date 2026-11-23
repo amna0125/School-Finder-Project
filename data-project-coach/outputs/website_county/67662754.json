@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "67662754",
+  "school_name": "Vittra Telefonplan",
+  "registered_url": "http://www.vittra.se/telefonplan",
+  "attempted_at": "2026-10-21T09:22:44.269486+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vittra.se/telefonplan/",
+      "retrieved_at": "2026-10-21T09:22:50.532661+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vittra.se/telefonplan",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:01.345093+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.vittra.se/telefonplan",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:03.914768+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://vittra.se/telefonplan/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67662754_0.txt"
+    },
+    {
+      "source_url": "https://vittra.se/telefonplan/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:22:50.607587+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/telefonplan/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67662754_1.txt"
+    },
+    {
+      "source_url": "https://vittra.se/telefonplan/artikel/pedagoger/",
+      "retrieved_at": "2026-10-21T09:22:50.641225+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/telefonplan/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:05.343362+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "67662754_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "FN-dagen skapar stolthet hos Vittra Rösjötorps elever Vittra Rösjötorp International i Sollentuna är en tvåspråkig förskola och skola med både engelska och svenska. Här går barn och elever som inte har svenska som förstaspråk tillsammans med de som valt Vittra Rösjötorp för möjligheten att tidigt lära sig engelska. FN-dagen som i år firas torsdagen den...",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ca0415e33004376008c884e01a3342a3476c976dd6c44c902a331c49a8b6d5bb",
+      "school_unit_code": "67662754",
+      "school_name": "Vittra Telefonplan",
+      "source_url": "https://vittra.se/telefonplan/",
+      "retrieved_at": "2026-10-21T09:22:50.532661+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

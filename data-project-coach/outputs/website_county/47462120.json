@@ -1,0 +1,82 @@
+{
+  "school_unit_code": "47462120",
+  "school_name": "Dibber International School Sollentuna",
+  "registered_url": "https://dibber.se/skola/international-school-sollentuna/",
+  "attempted_at": "2026-10-21T09:16:20.676382+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://dibber.se/skola/international-school-sollentuna/",
+      "retrieved_at": "2026-10-21T09:16:25.373175+00:00",
+      "robots_checks": [
+        {
+          "url": "https://dibber.se/skola/international-school-sollentuna/",
+          "robots_url": "https://dibber.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:21.662239+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "47462120_0.txt"
+    },
+    {
+      "source_url": "https://dibber.se/skola/international-school-sollentuna/om-oss/",
+      "retrieved_at": "2026-10-21T09:16:25.426461+00:00",
+      "robots_checks": [
+        {
+          "url": "https://dibber.se/skola/international-school-sollentuna/om-oss/",
+          "robots_url": "https://dibber.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:21.662239+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "47462120_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "n auktoriserad IB World School för både PYP (Primary Years Programme) och MYP (Middle Years Programme). Vi har en helhetssyn på människan och ser ett samspel mellan teoretiska och estetiska ämnen. Vi ser även teknik och innovation som en naturlig del av dagens samhälle.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "01d814994de0aa145c9c7bb1a65889ee0e6d2525b45d554888492155c7d67552",
+      "school_unit_code": "47462120",
+      "school_name": "Dibber International School Sollentuna",
+      "source_url": "https://dibber.se/skola/international-school-sollentuna/",
+      "retrieved_at": "2026-10-21T09:16:25.373175+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Kunskap handlar också om att våga utforska. Därför ger vi plats åt kreativitet, estetiska ämnen och digital kompetens vid sidan av den akademiska undervisningen. Eleverna får öva på att tänka självständigt, samarbeta och hitta nya sätt att lösa problem.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "b8141132e50db951ed1a437468273cd5d6508d66889ee3b0c85b49dc5407acfe",
+      "school_unit_code": "47462120",
+      "school_name": "Dibber International School Sollentuna",
+      "source_url": "https://dibber.se/skola/international-school-sollentuna/om-oss/",
+      "retrieved_at": "2026-10-21T09:16:25.426461+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Vi är en tvåspråkig grundskola för årskurserna F–9. Här möts barn som vuxit upp i Sollentuna med barn som har erfarenheter från andra delar av världen. Tillsammans lär de sig att förstå både sin närmiljö och det större sammanhang de är en del av.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "c6f8c016690dd2e52e8986bd76a1f847e9573cc558c622bff9d78a01036c5c6c",
+      "school_unit_code": "47462120",
+      "school_name": "Dibber International School Sollentuna",
+      "source_url": "https://dibber.se/skola/international-school-sollentuna/om-oss/",
+      "retrieved_at": "2026-10-21T09:16:25.426461+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

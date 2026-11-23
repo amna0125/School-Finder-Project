@@ -1,0 +1,32 @@
+{
+  "school_id": "11193969",
+  "school_name": "Karlslundsskolan",
+  "registered_url": "http://www.vallentuna.se/karlslundsskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/karlslundsskolan?ae=karlslundsskolan",
+      "source_url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/karlslundsskolan?ae=karlslundsskolan",
+      "page_title": "Karlslundsskolan | Vallentuna kommun",
+      "accessed_at": "2026-10-21T17:26:43.642794+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "11193969_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/karlslundsskolan?ae=karlslundsskolan",
+          "robots_url": "https://www.vallentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:32.914726+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

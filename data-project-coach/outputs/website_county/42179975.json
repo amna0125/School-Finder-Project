@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "42179975",
+  "school_name": "Farsta Strandskolan",
+  "registered_url": "http://www.mavatterosen.se",
+  "attempted_at": "2026-10-21T09:21:29.796927+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.mavatterosen.se/",
+      "retrieved_at": "2026-10-21T09:21:38.824046+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.mavatterosen.se",
+          "robots_url": "https://www.mavatterosen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:33.342832+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.mavatterosen.se/",
+          "robots_url": "https://www.mavatterosen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:34.947934+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42179975_0.txt"
+    },
+    {
+      "source_url": "https://www.mavatterosen.se/om-oss/ansokan/",
+      "retrieved_at": "2026-10-21T09:21:38.845232+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.mavatterosen.se/om-oss/ansokan/",
+          "robots_url": "https://www.mavatterosen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:34.947934+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42179975_1.txt"
+    },
+    {
+      "source_url": "https://www.mavatterosen.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:21:38.867795+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.mavatterosen.se/om-oss/",
+          "robots_url": "https://www.mavatterosen.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:34.947934+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "42179975_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,72 @@
+{
+  "school_id": "91213471",
+  "school_name": "Klockargårdens skola",
+  "registered_url": "https://www.lidingo.se/klockargardensskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/",
+      "page_title": "Klockargårdens skola F-3 - Lidingö",
+      "accessed_at": "2026-10-21T17:43:51.767942+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "91213471_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/fritidshem-klockargardens-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/fritidshem-klockargardens-skola/",
+      "page_title": "Fritidshem, Klockargårdens skola - Lidingö",
+      "accessed_at": "2026-10-21T17:43:52.666148+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "91213471_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/fritidshem-klockargardens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/elev-och-foraldrainflytande-klockargardens-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/elev-och-foraldrainflytande-klockargardens-skola/",
+      "page_title": "Elev- och föräldrainflytande, Klockargårdens skola - Lidingö",
+      "accessed_at": "2026-10-21T17:43:53.547463+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "91213471_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/klockargardens-skola/elev-och-foraldrainflytande-klockargardens-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.201845+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

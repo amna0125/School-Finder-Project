@@ -1,0 +1,40 @@
+{
+  "integrity_check": "ok",
+  "rows": {
+    "schools": 762,
+    "statistics": 45868,
+    "survey_observations": 84610,
+    "source_coverage": 3048
+  },
+  "municipalities": 26,
+  "distinct_schools": 762,
+  "orphan_statistics": 0,
+  "orphan_surveys": 0,
+  "statistics_schools": 744,
+  "survey_schools": 732,
+  "coverage_by_kind": {
+    "register": {
+      "FETCHED": 762
+    },
+    "statistics": {
+      "FETCHED": 744,
+      "UNAVAILABLE": 18
+    },
+    "parents": {
+      "FETCHED": 732,
+      "UNAVAILABLE": 30
+    },
+    "pupils": {
+      "FETCHED": 664,
+      "UNAVAILABLE": 98
+    }
+  },
+  "table_counts_match": true,
+  "load_result": {
+    "status": "LOADED",
+    "load_ids": [
+      "1792519720.36041"
+    ],
+    "database_path": "/mnt/c/Users/amnaa/Rex/data-project-coach/.state/schools.sqlite"
+  }
+}

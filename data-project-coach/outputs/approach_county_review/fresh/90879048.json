@@ -1,0 +1,72 @@
+{
+  "school_id": "90879048",
+  "school_name": "Raoul Wallenbergskolan Järvastaden",
+  "registered_url": "http://www.raoulwallenbergskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://raoulwallenbergskolan.se/",
+      "source_url": "https://raoulwallenbergskolan.se/",
+      "page_title": "Raoul Wallenbergskolan – Lära för livet",
+      "accessed_at": "2026-10-21T17:43:52.075082+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90879048_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://raoulwallenbergskolan.se/",
+          "robots_url": "https://raoulwallenbergskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:50.101855+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://raoulwallenbergskolan.se/om-oss/",
+      "source_url": "https://raoulwallenbergskolan.se/om-oss/",
+      "page_title": "Om oss - Raoul Wallenbergskolan",
+      "accessed_at": "2026-10-21T17:43:52.932366+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90879048_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://raoulwallenbergskolan.se/om-oss/",
+          "robots_url": "https://raoulwallenbergskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:50.101855+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://raoulwallenbergskolan.se/om-oss/nyheter/",
+      "source_url": "https://raoulwallenbergskolan.se/om-oss/nyheter/",
+      "page_title": "Nyheter & uppdateringar - Raoul Wallenbergskolan",
+      "accessed_at": "2026-10-21T17:43:53.767745+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "90879048_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://raoulwallenbergskolan.se/om-oss/nyheter/",
+          "robots_url": "https://raoulwallenbergskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:50.101855+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

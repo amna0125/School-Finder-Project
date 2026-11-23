@@ -1,0 +1,72 @@
+{
+  "school_id": "12092203",
+  "school_name": "Brage- skola och språkförskola",
+  "registered_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+  "pages": [
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+      "source_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+      "page_title": "Brage resursskola",
+      "accessed_at": "2026-10-21T17:26:47.508913+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "12092203_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:46.701930+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/sveriges-basta-skolkommun/",
+      "source_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/sveriges-basta-skolkommun/",
+      "page_title": "Sveriges bästa skolkommun",
+      "accessed_at": "2026-10-21T17:26:48.335589+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "12092203_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/sveriges-basta-skolkommun/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:46.701930+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/oppet-hus/",
+      "source_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/oppet-hus/",
+      "page_title": "Öppet hus på Brageskolan 3/11.",
+      "accessed_at": "2026-10-21T17:26:49.143360+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "12092203_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/oppet-hus/",
+          "robots_url": "https://www.sollentuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:46.701930+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

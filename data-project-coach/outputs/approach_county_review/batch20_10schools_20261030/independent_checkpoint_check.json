@@ -1,0 +1,23 @@
+{
+  "status": "PASSED",
+  "ledger_ids": 762,
+  "changed_ids": [
+    "34540901",
+    "34625544",
+    "34671128",
+    "34672217",
+    "34946479",
+    "35008423",
+    "35129114",
+    "35311563",
+    "35547286",
+    "35784391"
+  ],
+  "documented_outcomes": 213,
+  "pending": 549,
+  "exact_own_source_quotes": 12,
+  "source_hashes_verified": true,
+  "next_selection_verified": true,
+  "ledger_diff_reviewed": true,
+  "audit_note": "Initial independent audit used an incorrect diff-header count; corrected check counts data lines only. No data mutation repeated."
+}

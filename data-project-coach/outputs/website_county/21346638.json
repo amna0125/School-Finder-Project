@@ -1,0 +1,96 @@
+{
+  "school_unit_code": "21346638",
+  "school_name": "Järla skola",
+  "registered_url": "http://www.jarla.nacka.se",
+  "attempted_at": "2026-10-21T09:20:29.292475+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/jarlaskola/",
+      "retrieved_at": "2026-10-21T09:20:38.432449+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.jarla.nacka.se",
+          "robots_url": "https://www.nacka.se/valfard-skola/jarla-skola/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:20:31.483907+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "http://www.nacka.se/valfard-skola/jarla-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.175460+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarla-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarlaskola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "21346638_0.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/",
+      "retrieved_at": "2026-10-21T09:20:38.452301+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "21346638_1.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/sok-till-jarla-skola/",
+      "retrieved_at": "2026-10-21T09:20:38.471818+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/sok-till-jarla-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "21346638_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "årskursvisa arbetslag som leds av en arbetslagsledare. Skolan består av tre parallellklasser från F[1]klass - årskurs 3 samt fem parallellklasser från årskurs 4 - årskurs 6. Nacka musikklasser är en del av Järla skola och börjar med start i årskurs 4 med två klasser i var årskurs upp till årskurs 6. Nacka musikklasser bildar detta verksamhetsår ett eget arbetslag inför processen med ombildande till en egen skolenhet under höstterminen 2026. Hösten 2026 blir Nacka Musikklasser en egen skola. Undervisningen sker som tidigare i Järla skolas och Eklidens skolas lokaler.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "887f33bb25efbf4f980f6526e4cc717c89691d63d54163f73394a6b522bd2e5e",
+      "school_unit_code": "21346638",
+      "school_name": "Järla skola",
+      "source_url": "https://www.nacka.se/valfard-skola/jarlaskola/om-oss/",
+      "retrieved_at": "2026-10-21T09:20:38.452301+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

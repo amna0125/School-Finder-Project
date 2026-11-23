@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "20561651",
+    "official_directory_name": "Herrängens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/herrangens-skola",
+    "note": ""
+  },
+  {
+    "school_id": "20563782",
+    "official_directory_name": "Kyrkskolan F-6",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://nynashamn.se/service/forskola--skola/grundskola/grundskolor-i-nynashamns-kommun/kyrkskolan-f-3",
+    "note": ""
+  },
+  {
+    "school_id": "20683111",
+    "official_directory_name": "Bäckahagens skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/backahagens-skola",
+    "note": ""
+  },
+  {
+    "school_id": "21346638",
+    "official_directory_name": "Järla skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarla.nacka.se",
+    "note": ""
+  },
+  {
+    "school_id": "21576764",
+    "official_directory_name": "Söderfjärdsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vaxholm.se",
+    "note": ""
+  },
+  {
+    "school_id": "21724208",
+    "official_directory_name": "Sätraskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/satraskolan",
+    "note": ""
+  },
+  {
+    "school_id": "21871265",
+    "official_directory_name": "Sollentuna musikklasser",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.edu.sollentuna.se/smk",
+    "note": ""
+  },
+  {
+    "school_id": "21997077",
+    "official_directory_name": "Viljaskolan Sollentuna",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+    "note": ""
+  },
+  {
+    "school_id": "22019000",
+    "official_directory_name": "Södertörns friskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.frisko.la",
+    "note": ""
+  },
+  {
+    "school_id": "22030561",
+    "official_directory_name": "Östbergaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostbergaskolan",
+    "note": ""
+  }
+]

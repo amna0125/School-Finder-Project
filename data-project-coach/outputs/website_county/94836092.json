@@ -1,0 +1,81 @@
+{
+  "school_unit_code": "94836092",
+  "school_name": "Borgvallaskolan",
+  "registered_url": "https://www.nacka.se/valfard-skola/ektorps-skolenhet/borgvallaskolan/",
+  "attempted_at": "2026-10-21T09:17:31.658832+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/",
+      "retrieved_at": "2026-10-21T09:17:34.920541+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/ektorps-skolenhet/borgvallaskolan/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:57.099110+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/borgvallaskolan/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:57.099110+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "94836092_0.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:34.947012+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:57.099110+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "94836092_1.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/lasarsdata/",
+      "retrieved_at": "2026-10-21T09:17:34.972515+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/lasarsdata/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:57.099110+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "94836092_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "nerad verksamhet med olika frivilliga aktiviteter på eftermiddagarna. Vi tycker att hälsa och välbefinnande är viktigt och därför är vi mycket ute och har rörelse till medryckande musik. Vi tycker att ett bra fritids är viktigt och därför satsar vi på att kontinuerligt kompetensutveckla personalen för att skapa en inspirerande verksamhet. Nyligen så blev Borgvallaskolan en \"trivselskola\" med utbildade trivselledare som drar igång lekar på rasterna. Detta ökar kamratandan bland alla elever på skolan.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "5cfa22c08d10545ff1dfba09707bc518954036974e399c4b4da3e9b6dba07467",
+      "school_unit_code": "94836092",
+      "school_name": "Borgvallaskolan",
+      "source_url": "https://www.nacka.se/valfard-skola/borgvallaskolan/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:34.947012+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,20 @@
+# Batch05 decisions
+
+Assistant review, codebook v1, 2026-10-27; no material category changes. Reviewed claims are not verified practice.
+
+- 15218794: F–9 website; official grades 1–9. Scoped main/about school-specific and municipal sections reviewed: generic curiosity, participation, digital tools and collaborative staffing insufficient for distinctive approach; no clear evidence within scope, not absence.
+- 15331669: Ordinary F–9; separately linked adapted unit excluded. Cross-subject teaching and reinforced mentorship under-specified; requires review, no firm codes.
+- 15339442: F–9 unit; subgroup Fenix not generalised. Registered URL soft 404 (HTTP 200/title 404), replaced with current municipal school pages; fresh official name/municipality/grades confirmed. Health provision plus international exchanges; exchange participants/years unspecified.
+- 15483394: 4–9 exact stored/website range. IBIS named within unit section; no extension to other Segeltorp rektorsområde units or municipal generic duties.
+- 15547680: F–9 Sollentuna, Kornettvägen 44; directory legal-name variant retained. Sustained cross-subject environmental learning with garden. Cooperative methods/ASL in year 1 noted but no additional profile code from varied method list; unspecified environmental projects do not establish whole-school inquiry. Future plans excluded.
+- 15594566: 7–9; Alviksvägen 97. Detailed peer-support work supports wellbeing interpretation; exclude quality/ranking claims, isolated events and self-reported numeric results from profile inference.
+- 15620768: F–5 at Nibblevägen 9; exact fresh official address/grades. Registered short URL 404; linked current page explicitly outdoor pedagogy and cooperative learning; municipality-wide language/maths wording excluded.
+- 15697742: F–6 Steninge, official grades 1–6. Scoped home/welcome/methods pages: generic inclusion, digital environment, curiosity/creativity and statutory quality work insufficient for distinctive approach. Municipal platform not unit profile; no clear evidence within scope, not absence.
+- 15968847: F–3 Olaus Petri, part of Gärdesskolan; no Gärdesskolan-wide transfer. Practical nature use not sufficiently structured for firm outdoor code; daily reading ordinary literacy. Year-8 testimonial excluded as scope mismatch. Requires review.
+- 16061350: F–9 school Långbro Park Älvsjö, Stora Mans Väg 11B. Substantive school page confirms Montessori-inspired (not metadata-only); school applies NTA themes F–9 with questions/experiments 8–10 weeks. Not certified Montessori or whole-curriculum project teaching.
+
+Consistency: named cooperative learning coded as Other stated profile for Eklid under its explicit Vår inriktning, not alternative or inquiry pedagogy. Vibys mixed methods list not separately promoted. Vibys environmental learning supported by sustained cross-subject emphasis plus garden, not award alone or claim of weekly outdoors. Apollonios NTA recurring 8–10-week themes support inquiry code without whole-curriculum inference. Olaus nature use remains uncertain consistently with Bagarmossen; daily reading alone not distinctive profile. Äppelvik detailed peer-supporter practice supported, not generic statutory safety promise.
+
+Robots checked before school pages: readable rules do not disallow reviewed paths; Stockholm response malformed/control bytes, uncertainty preserved. Minimal public page requests only; no controls bypassed, no login. Robots is not reuse permission; terms not comprehensively audited, no blanket permission claimed. Minimal quotations and links used.
+
+Collection failures retained: registered Eklid URL HTTP 404; Runbacka registered path redirects to soft-404 HTTP 200. Both current official pages found without bypass. Old apolloniosskolan.com search result excluded. Raw audit sources remain local; no employee/child personal data in evidence quotations. Fresh official JSON identity checks do not replace official database tables. All source access dates reflect actual 2026-10-27 retrieval, not load date.

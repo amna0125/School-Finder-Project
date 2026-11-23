@@ -1,0 +1,24 @@
+[
+  {
+    "code_id": "ac_sr_99373839_01",
+    "school_id": "99373839",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "A-spår (autism track)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_99373839_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per on-site special group precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_99648792_01",
+    "school_id": "99648792",
+    "category": "Arts and creative learning",
+    "subcategory": "Music profile (daily music)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_99648792_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "school_id": "71669600",
+  "school_name": "Vittra Luma Park",
+  "registered_url": "http://www.vittra.se/luma-park",
+  "pages": [
+    {
+      "requested_url": "https://vittra.se/luma-park/",
+      "source_url": "https://vittra.se/luma-park/",
+      "page_title": "Vittra Luma Park | Skola i Hammarby Sjöstad",
+      "accessed_at": "2026-10-21T17:40:14.202187+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "71669600_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/luma-park/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/luma-park/om/grundskola/",
+      "source_url": "https://vittra.se/luma-park/om/grundskola/",
+      "page_title": "Vittra Luma Park | Grundskola i Hammarby Sjöstad",
+      "accessed_at": "2026-10-21T17:40:15.063924+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "71669600_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/luma-park/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/luma-park/artikel/lokal/anneli-wisen-berattar-om-vittras-pedagogik",
+      "source_url": "https://vittra.se/luma-park/artikel/lokal/anneli-wisen-berattar-om-vittras-pedagogik",
+      "page_title": "Luma Park",
+      "accessed_at": "2026-10-21T17:40:16.363065+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "71669600_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/luma-park/artikel/lokal/anneli-wisen-berattar-om-vittras-pedagogik",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

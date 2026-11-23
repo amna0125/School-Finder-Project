@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "75109796",
+  "school_name": "Lillåkers skola",
+  "registered_url": "https://lidingo.se/lillakersskola",
+  "attempted_at": "2026-10-21T09:17:03.500232+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/",
+      "retrieved_at": "2026-10-21T09:17:06.729945+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/lillakersskola",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.076315+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.076315+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "75109796_0.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/ansok-till-lillakers-skola/",
+      "retrieved_at": "2026-10-21T09:17:06.804648+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/ansok-till-lillakers-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.076315+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "75109796_1.txt"
+    },
+    {
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/fritidshem-och-fritidsklubb-lillakers-skola/",
+      "retrieved_at": "2026-10-21T09:17:06.891278+00:00",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/lillakers-skola/fritidshem-och-fritidsklubb-lillakers-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:15.076315+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "75109796_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

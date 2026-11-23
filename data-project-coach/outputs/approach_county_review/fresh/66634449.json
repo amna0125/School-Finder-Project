@@ -1,0 +1,72 @@
+{
+  "school_id": "66634449",
+  "school_name": "Vittra Jakobsberg",
+  "registered_url": "http://www.vittra.se/jakobsberg",
+  "pages": [
+    {
+      "requested_url": "https://vittra.se/jakobsberg/",
+      "source_url": "https://vittra.se/jakobsberg/",
+      "page_title": "Vittra | Skola i Jakobsberg",
+      "accessed_at": "2026-10-21T17:39:20.660641+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "66634449_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/jakobsberg/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/jakobsberg/om/grundskola/",
+      "source_url": "https://vittra.se/jakobsberg/om/grundskola/",
+      "page_title": "Vittra | Grundskola i Jakobsberg",
+      "accessed_at": "2026-10-21T17:39:22.175476+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "66634449_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/jakobsberg/om/grundskola/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://vittra.se/jakobsberg/artikel/pedagoger/",
+      "source_url": "https://vittra.se/jakobsberg/artikel/pedagoger/",
+      "page_title": "Lär känna våra pedagoger | Vittra Jakobsberg",
+      "accessed_at": "2026-10-21T17:39:23.948046+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "66634449_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://vittra.se/jakobsberg/artikel/pedagoger/",
+          "robots_url": "https://vittra.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.286027+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,10 @@
+{
+  "status": "LOADED_CHECKPOINTED",
+  "schools": 10,
+  "evidence": 10,
+  "codes": 6,
+  "source_access_date": "2026-11-02",
+  "database_loaded": true,
+  "county_checkpointed": true,
+  "checkpoint_ledger": "county_progress_20261103_after_batch29_normalised.csv"
+}

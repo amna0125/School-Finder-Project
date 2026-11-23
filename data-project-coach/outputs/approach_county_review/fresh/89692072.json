@@ -1,0 +1,72 @@
+{
+  "school_id": "89692072",
+  "school_name": "Freinetskolan Hugin",
+  "registered_url": "http://www.freinetskolanhugin.se",
+  "pages": [
+    {
+      "requested_url": "https://www.freinetskolanhugin.se/",
+      "source_url": "https://www.freinetskolanhugin.se/",
+      "page_title": "Välkommen till Freinetskolan Hugin | Freinetskolan Hugin",
+      "accessed_at": "2026-10-21T17:43:41.159403+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "89692072_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.freinetskolanhugin.se/",
+          "robots_url": "https://www.freinetskolanhugin.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:38.973058+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.freinetskolanhugin.se/var-pedagogik/var-pedagogik/",
+      "source_url": "https://www.freinetskolanhugin.se/var-pedagogik/var-pedagogik/",
+      "page_title": "Vår pedagogik | Välkommen till Freinetskolan Hugin",
+      "accessed_at": "2026-10-21T17:43:43.432232+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "89692072_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.freinetskolanhugin.se/var-pedagogik/var-pedagogik/",
+          "robots_url": "https://www.freinetskolanhugin.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:38.973058+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.freinetskolanhugin.se/var-pedagogik/freinetpedagogik/",
+      "source_url": "https://www.freinetskolanhugin.se/var-pedagogik/freinetpedagogik/",
+      "page_title": "Freinetpedagogik | Välkommen till Freinetskolan Hugin",
+      "accessed_at": "2026-10-21T17:43:45.296145+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "89692072_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.freinetskolanhugin.se/var-pedagogik/freinetpedagogik/",
+          "robots_url": "https://www.freinetskolanhugin.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:38.973058+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

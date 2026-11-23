@@ -1,0 +1,78 @@
+{
+  "school_unit_code": "73075913",
+  "school_name": "Mikaelgårdens Skola",
+  "registered_url": "http://www.mikaelgarden.se",
+  "attempted_at": "2026-10-21T09:22:58.514969+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.mikaelgarden.se/",
+      "retrieved_at": "2026-10-21T09:23:03.352241+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.mikaelgarden.se",
+          "robots_url": "https://www.mikaelgarden.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:00.042684+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.mikaelgarden.se/",
+          "robots_url": "https://www.mikaelgarden.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:01.744500+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "73075913_0.txt"
+    },
+    {
+      "source_url": "https://www.mikaelgarden.se/lakepedagogik",
+      "retrieved_at": "2026-10-21T09:23:03.369158+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.mikaelgarden.se/lakepedagogik",
+          "robots_url": "https://www.mikaelgarden.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:23:01.744500+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "73075913_1.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "waldorf",
+      "supporting_excerpt": "en har som målsättning att hjälpa barn och unga med olika funktionsvariationer att stärka självkänslan och ta till vara och utveckla de egna förmågorna. Här finns såväl boende som Waldorfskola och fritidsverksamhet.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a5454eaf5881b0c45b402a0cb326b52f67385b7b3b5bde89481f2ae29004c935",
+      "school_unit_code": "73075913",
+      "school_name": "Mikaelgårdens Skola",
+      "source_url": "https://www.mikaelgarden.se/",
+      "retrieved_at": "2026-10-21T09:23:03.352241+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "waldorf",
+      "supporting_excerpt": "Skolan på Mikaelgården undervisar utifrån Lgr 11 för grundskolan och grundsärskolan och använder en Waldorfpedagogik, anpassad för elever i behov av extraordinära särskilda behov. Det är många olika delar som vi som skola ska förhålla oss till. Det är ett mycket viktigt och komplext uppdrag som vi har och tacksamt utvecklar oss i för att kunna möta varje elev efter bästa förmåga!",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "6152bb7784f7a54b7de7e9e33edfbe5320b1b0e29872e9623bb73eb422ebfa79",
+      "school_unit_code": "73075913",
+      "school_name": "Mikaelgårdens Skola",
+      "source_url": "https://www.mikaelgarden.se/lakepedagogik",
+      "retrieved_at": "2026-10-21T09:23:03.369158+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

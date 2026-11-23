@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "41213404",
+    "official_directory_name": "Källbrinksskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.huddinge.se/kallbrinksskolan",
+    "note": ""
+  },
+  {
+    "school_id": "41285467",
+    "official_directory_name": "Adolfsbergsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/adolfsbergsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "41357379",
+    "official_directory_name": "Skogsbacksskolan Trampolinen",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "terms_review_required",
+    "registered_url": "https://www.botkyrka.se/skola-och-forskola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan",
+    "note": ""
+  },
+  {
+    "school_id": "41377165",
+    "official_directory_name": "Sundby skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.ekero.se/sundbyskola",
+    "note": ""
+  },
+  {
+    "school_id": "41405700",
+    "official_directory_name": "Storkyrkoskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/storkyrkoskolan",
+    "note": ""
+  },
+  {
+    "school_id": "41507895",
+    "official_directory_name": "Noblaskolan Nacka Strand",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://noblaskolan.se/nacka-strand/",
+    "note": ""
+  },
+  {
+    "school_id": "41554150",
+    "official_directory_name": "Slottsparksskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.taby.se/slottsparksskolan",
+    "note": ""
+  },
+  {
+    "school_id": "41584790",
+    "official_directory_name": "Järna friskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarnafriskola.se",
+    "note": ""
+  },
+  {
+    "school_id": "41764666",
+    "official_directory_name": "Långbrodalsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "41888515",
+    "official_directory_name": "Fårdala skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.tyreso.se",
+    "note": ""
+  }
+]

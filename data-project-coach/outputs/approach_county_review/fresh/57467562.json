@@ -1,0 +1,27 @@
+{
+  "school_id": "57467562",
+  "school_name": "Freinetskolan Mimer Tingshuset",
+  "registered_url": "http://www.mimer.org",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.mimer.org/",
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "attempted_at": "2026-10-21T17:38:16.788742+00:00"
+    },
+    {
+      "url": "https://www.mimer.org/om-oss",
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "attempted_at": "2026-10-21T17:38:17.459239+00:00"
+    },
+    {
+      "url": "https://www.mimer.org/om-oss/Rektor",
+      "error": "<urlopen error [Errno 111] Connection refused>",
+      "attempted_at": "2026-10-21T17:38:18.105689+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

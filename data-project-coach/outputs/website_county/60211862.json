@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "60211862",
+  "school_name": "Lärande Grundskola Vira",
+  "registered_url": "http://www.larandegrundskola.se",
+  "attempted_at": "2026-10-21T09:22:24.122516+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.larandegrundskola.se/",
+      "retrieved_at": "2026-10-21T09:22:26.399118+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.larandegrundskola.se",
+          "robots_url": "https://www.larandegrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:28.678892+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.larandegrundskola.se/",
+          "robots_url": "https://www.larandegrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.154259+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "60211862_0.txt"
+    },
+    {
+      "source_url": "https://www.larandegrundskola.se/footer/om-larande-grundskola",
+      "retrieved_at": "2026-10-21T09:22:26.458106+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.larandegrundskola.se/footer/om-larande-grundskola",
+          "robots_url": "https://www.larandegrundskola.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:30.154259+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "60211862_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

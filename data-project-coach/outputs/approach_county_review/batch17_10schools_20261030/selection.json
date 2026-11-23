@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "29796042",
+    "official_directory_name": "ESF Skarpnäck AB",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.esgondolen.se/",
+    "note": ""
+  },
+  {
+    "school_id": "29998540",
+    "official_directory_name": "Sagaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sigtuna.se/sagaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "30255409",
+    "official_directory_name": "JENSEN grundskola Tungelsta",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jensengrundskola.se/tungelsta",
+    "note": ""
+  },
+  {
+    "school_id": "30270791",
+    "official_directory_name": "Åbyskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "note": ""
+  },
+  {
+    "school_id": "30490775",
+    "official_directory_name": "Riala skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.norrtalje.se",
+    "note": ""
+  },
+  {
+    "school_id": "31018677",
+    "official_directory_name": "Väsby skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.upplandsvasby.se/vasbyskola",
+    "note": ""
+  },
+  {
+    "school_id": "31281674",
+    "official_directory_name": "Nyboda skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.tyreso.se",
+    "note": ""
+  },
+  {
+    "school_id": "31528772",
+    "official_directory_name": "Mariaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.mariaskolan.nu",
+    "note": ""
+  },
+  {
+    "school_id": "31608087",
+    "official_directory_name": "Urfjälls Montessoriskola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.urfjall.se",
+    "note": ""
+  },
+  {
+    "school_id": "31758556",
+    "official_directory_name": "Margretelundsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.osteraker.se",
+    "note": ""
+  }
+]

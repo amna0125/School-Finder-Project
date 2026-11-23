@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "67926479",
+  "school_name": "Norra Lagnö Skola",
+  "registered_url": "lagnovallen.se",
+  "attempted_at": "2026-10-21T09:16:47.774498+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "lagnovallen.se",
+      "error": "Unsafe URL"
+    }
+  ]
+}

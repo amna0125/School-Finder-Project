@@ -1,0 +1,52 @@
+{
+  "school_id": "62544265",
+  "school_name": "Fria Maria Barnskola",
+  "registered_url": "http://www.friamaria.com",
+  "pages": [
+    {
+      "requested_url": "https://www.friamaria.com/",
+      "source_url": "https://www.friamaria.com/",
+      "page_title": "Fria Maria | Skola Södermalm",
+      "accessed_at": "2026-10-21T17:38:49.909818+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "62544265_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.friamaria.com/",
+          "robots_url": "https://www.friamaria.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:46.548254+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.friamaria.com/om-oss",
+      "source_url": "https://www.friamaria.com/om-oss",
+      "page_title": "Fria Maria - Om oss",
+      "accessed_at": "2026-10-21T17:38:51.053996+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "62544265_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.friamaria.com/om-oss",
+          "robots_url": "https://www.friamaria.com/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:46.548254+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

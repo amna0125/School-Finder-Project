@@ -1,0 +1,17 @@
+{
+  "school_id": "39229061",
+  "school_name": "Östra grundskolan",
+  "registered_url": "http://www.huddinge.se/ostragrundskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.huddinge.se/ostragrundskolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:33:14.332433+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

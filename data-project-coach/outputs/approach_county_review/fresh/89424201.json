@@ -1,0 +1,72 @@
+{
+  "school_id": "89424201",
+  "school_name": "Spirande Lärande i Täby AB",
+  "registered_url": "http://www.spiraskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://spiraskolan.se/",
+      "source_url": "https://spiraskolan.se/",
+      "page_title": "Spiraskolan",
+      "accessed_at": "2026-10-21T17:43:22.359849+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "89424201_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://spiraskolan.se/",
+          "robots_url": "https://spiraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:20.317459+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://spiraskolan.se/pedagogisk-modell/",
+      "source_url": "https://spiraskolan.se/pedagogisk-modell/",
+      "page_title": "Pedagogisk modell – Spiraskolan",
+      "accessed_at": "2026-10-21T17:43:24.197621+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "89424201_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://spiraskolan.se/pedagogisk-modell/",
+          "robots_url": "https://spiraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:20.317459+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://spiraskolan.se/om/montessori/",
+      "source_url": "https://spiraskolan.se/om/montessori/",
+      "page_title": "Montessori – Spiraskolan",
+      "accessed_at": "2026-10-21T17:43:25.943590+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "89424201_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://spiraskolan.se/om/montessori/",
+          "robots_url": "https://spiraskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:43:20.317459+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

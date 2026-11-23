@@ -1,0 +1,152 @@
+[
+  {
+    "evidence_id": "ae_sr_76557608_01",
+    "school_id": "76557608",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/lindeskolan",
+    "page_title": "Lindeskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi gör utflykter till parker och skogar i närheten och har även undervisning utomhus.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Outdoor teaching mentioned."
+  },
+  {
+    "evidence_id": "ae_sr_77002828_01",
+    "school_id": "77002828",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/",
+    "page_title": "Skebo skola - Barn & skola | Norrtälje kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi vill ge dem en god grund för fortsatt utbildning och lägger därför stor vikt vid matematik, läs- och skrivutveckling.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Basic-skills emphasis."
+  },
+  {
+    "evidence_id": "ae_sr_77314942_01",
+    "school_id": "77314942",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/norra-angby-skola",
+    "page_title": "Norra Ängby skola, F–6 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Till årskurs 4 kan våra elever söka ett fördjupningsämne i bild, musik eller matematik.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Optional deepening in arts or maths."
+  },
+  {
+    "evidence_id": "ae_sr_77370320_01",
+    "school_id": "77370320",
+    "source_url": "https://www.taby.se/ytterbyskolan",
+    "page_title": "Ytterbyskolan | Täby kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Här finns även Täby musikklasser.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Music classes located at the school."
+  },
+  {
+    "evidence_id": "ae_sr_77624936_01",
+    "school_id": "77624936",
+    "source_url": "https://www.upplandsvasby.se/runbyskolor",
+    "page_title": "Runby skola - Upplands Väsby kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Friluftsliv, hälsa och idrott är i fokus i vår skola.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Outdoor life and health focus."
+  },
+  {
+    "evidence_id": "ae_sr_78508835_01",
+    "school_id": "78508835",
+    "source_url": "https://www.sverigefinskaskolan.eu/",
+    "page_title": "Sverigefinska skolan i Stockholm – I hjärtat av Stockholm",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Undervisningen sker på både finska och svenska.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Bilingual Finnish–Swedish."
+  },
+  {
+    "evidence_id": "ae_sr_78801570_01",
+    "school_id": "78801570",
+    "source_url": "https://raoulwallenbergskolan.se/",
+    "page_title": "Raoul Wallenbergskolan – Lära för livet",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Genom det gemensamma arbetssättet ”Klättringen mot toppen” skapas trygghet, kontinuitet och hög måluppfyllelse.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Group-wide working model; unit not confirmed."
+  },
+  {
+    "evidence_id": "ae_sr_79012683_01",
+    "school_id": "79012683",
+    "source_url": "https://www.huddinge.se/annerstaskolan/om-skolan",
+    "page_title": "Om Annerstaskolan | Huddinge kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Språk- och kunskapsutvecklande arbetssätt genomsyrar undervisningen i alla ämnen och hjälper oss att möta elevernas olika erfarenheter och behov.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Language-developing approach."
+  },
+  {
+    "evidence_id": "ae_sr_79093755_01",
+    "school_id": "79093755",
+    "source_url": "https://engelska.se/sv/",
+    "page_title": "Internationella Engelska Skolan – En trygg skola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Internationella Engelska Skolan är en tvåspråkig svensk skola med en internationell profil",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Network-level bilingual profile; unit not confirmed."
+  },
+  {
+    "evidence_id": "ae_sr_79708334_01",
+    "school_id": "79708334",
+    "source_url": "https://vrskolor.se/",
+    "page_title": "Stiftelsen Viktor Rydbergs skolor i Stockholm",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Tim Musikprofil, VRS Sundbyberg",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "Label on a student quote suggests a music profile; not a unit description."
+  },
+  {
+    "evidence_id": "ae_sr_79969356_01",
+    "school_id": "79969356",
+    "source_url": "https://europaskolan.nu/about-us/",
+    "page_title": "About Us - Europaskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "we became an authorised IB world school, and run the PYP and MYP curricula in conjunction with the Swedish National curriculum",
+    "evidence_type": "School webpage",
+    "interpretation_note": "IB inquiry-based programmes."
+  },
+  {
+    "evidence_id": "ae_sr_79969356_02",
+    "school_id": "79969356",
+    "source_url": "https://europaskolan.nu/",
+    "page_title": "Home - Europaskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Bilingual Instruction (Swedish & English)",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Bilingual/international profile."
+  },
+  {
+    "evidence_id": "ae_sr_80378022_01",
+    "school_id": "80378022",
+    "source_url": "https://botfri.se/",
+    "page_title": "Botkyrka Friskola – F–9-skola i Botkyrka",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "För elever med ett stort fotbollsintresse finns vår fotbollsprofil, där fotboll blir en del av skolveckan samtidigt som skolarbetet står i centrum.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Sport profile."
+  },
+  {
+    "evidence_id": "ae_sr_80509560_01",
+    "school_id": "80509560",
+    "source_url": "https://sprakskolanvasby.se/",
+    "page_title": "Språkskolan i Upplands Väsby - Grundskolor och förskola med språkprofil",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi tillämpar en pedagogik som leder till tvåspråkighet i svenska och engelska.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Bilingual Swedish–English profile."
+  },
+  {
+    "evidence_id": "ae_sr_80561156_01",
+    "school_id": "80561156",
+    "source_url": "https://www.nacka.se/valfard-skola/skuru-duvnasresursskola",
+    "page_title": "Skuru-Duvnäs resursskola | Nacka kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Med anpassade lärmiljöer, hög personaltäthet och specialiserad kompetens skapar vi trygghet, utveckling och lärande varje dag.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Resource school."
+  }
+]

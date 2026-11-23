@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "34540901",
+    "official_database_name": "Estniska Skolan i Stockholm",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.estniskaskolan.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:23.790000"
+  },
+  {
+    "school_id": "34625544",
+    "official_database_name": "Raoul Wallenbergskolan Källberga",
+    "municipality_code": "0192",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\"]",
+    "website": "http://www.raoulwallenbergskolan.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:32.810000"
+  },
+  {
+    "school_id": "34671128",
+    "official_database_name": "Solbergaskolan",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "https://grundskola.stockholm/hitta-grundskola/grundskola/solbergaskolan",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:15.850000"
+  },
+  {
+    "school_id": "34672217",
+    "official_database_name": "Stavsborgsskolan",
+    "municipality_code": "0182",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "https://www.nacka.se/altaresursskola",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:38.770000"
+  },
+  {
+    "school_id": "34946479",
+    "official_database_name": "Runmarö skola",
+    "municipality_code": "0120",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://varmdo.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:44.220000"
+  },
+  {
+    "school_id": "35008423",
+    "official_database_name": "Skolan Bergius",
+    "municipality_code": "0191",
+    "grades_json": "[\"7\", \"8\", \"9\"]",
+    "website": "http://www.skolanbergius.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:10.230000"
+  },
+  {
+    "school_id": "35129114",
+    "official_database_name": "Internationella Engelska Skolan Årsta",
+    "municipality_code": "0180",
+    "grades_json": "[\"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.engelska.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:58.420000"
+  },
+  {
+    "school_id": "35311563",
+    "official_database_name": "Lilla Nacka skola",
+    "municipality_code": "0182",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\"]",
+    "website": "lillanacka.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:16:12.880000"
+  },
+  {
+    "school_id": "35547286",
+    "official_database_name": "Föreningen för Carlssons Skola",
+    "municipality_code": "0180",
+    "grades_json": "[\"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\"]",
+    "website": "http://www.carlssonsskola.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:11.410000"
+  },
+  {
+    "school_id": "35784391",
+    "official_database_name": "Distra IRS",
+    "municipality_code": "0180",
+    "grades_json": "[\"7\", \"8\", \"9\"]",
+    "website": "http://www.distraresursskolor.se",
+    "status": "AKTIV",
+    "source_extract_date": "2026-10-19 22:15:22.390000"
+  }
+]

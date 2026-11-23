@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "47244612",
+  "school_name": "Ornö skola",
+  "registered_url": "http://www.haninge.se/sv/Barn--Utbildning/Grundskola/Kommunala-grundskolor/",
+  "attempted_at": "2026-10-21T09:16:20.157905+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.haninge.se/sv/Barn--Utbildning/Grundskola/Kommunala-grundskolor/",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

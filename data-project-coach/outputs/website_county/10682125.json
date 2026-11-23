@@ -1,0 +1,46 @@
+{
+  "school_unit_code": "10682125",
+  "school_name": "Magitaskolan",
+  "registered_url": "http://www.magitaskolan.se",
+  "attempted_at": "2026-10-21T09:19:50.877291+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://magitaskolan.se/",
+      "retrieved_at": "2026-10-21T09:19:58.146307+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.magitaskolan.se",
+          "robots_url": "https://magitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:53.785293+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.magitaskolan.se/",
+          "robots_url": "https://magitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:55.976495+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://magitaskolan.se/",
+          "robots_url": "https://magitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:57.385079+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "10682125_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

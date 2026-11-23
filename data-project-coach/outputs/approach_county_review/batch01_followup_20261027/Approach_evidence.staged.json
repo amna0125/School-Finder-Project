@@ -1,0 +1,162 @@
+[
+  {
+    "evidence_id": "ae_31ac93eb99d06c4732f5b4a2",
+    "school_id": "10063280",
+    "source_url": "https://www.larandegrundskola.se/skolor/skapa",
+    "page_title": "Skapa | Lärande Grundskola",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Vi arbetar ämnesintegrerat och väver ihop flera ämnen i ett gemensamt uppdrag.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "School describes recurring period assignments; daily timetable is explicitly illustrative, not verified observation. Arts language in fritids does not justify a compulsory-school arts code."
+  },
+  {
+    "evidence_id": "ae_bbb36a1c6e555a9d0197d03d",
+    "school_id": "10661388",
+    "source_url": "https://orjanskolan.se/grundskola",
+    "page_title": "Grundskolan",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "På Örjanskolan arbetar vi utifrån de nationella läro- och kursplanerna LGR 22 och GY 11/GY 25, samt Waldorfskolans kompletterande dokument En väg till frihet.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Grundskola page also mentions gymnasium; named school-wide pedagogy explicitly includes grundskola. No claim about implementation fidelity."
+  },
+  {
+    "evidence_id": "ae_355be93789be16eee96b90ad",
+    "school_id": "10661388",
+    "source_url": "https://orjanskolan.se/grundskola",
+    "page_title": "Grundskolan",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Teoretiska, praktiska och konstnärliga ämnen vävs samman och är lika viktiga.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Direct statement under teaching characteristics on grundskola page; not inferred from Waldorf label."
+  },
+  {
+    "evidence_id": "ae_d32533513386fefa79359d37",
+    "school_id": "10661388",
+    "source_url": "https://orjanskolan.se/grundskola",
+    "page_title": "Grundskolan",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Skolan ligger nära skog, hav och trädgård där naturen används som en självklar del av undervisningen.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Includes explicit use of nature in teaching, not location alone; frequency and extent unspecified."
+  },
+  {
+    "evidence_id": "ae_bedf5d2a8eda50a5376b7912",
+    "school_id": "11193969",
+    "source_url": "https://www.vallentuna.se/forskola-skola-och-utbildning/grundskola-och-fritidshem/grundskolor/karlslundsskolan?ae=karlslundsskolan",
+    "page_title": "Karlslundsskolan | Vallentuna kommun",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Karlslundskolan är en skola F-9 med valbar musikinriktning för årskurs 4-9, samt med tillhörande fritidshem.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Optional music pathway, not every pupil; contextual description includes music courses and performances with municipal arts school."
+  },
+  {
+    "evidence_id": "ae_a496c827d3e4db087b31a227",
+    "school_id": "11914814",
+    "source_url": "https://www.sodertalje.se/rosenborgsenheten",
+    "page_title": "Rosenborgsenheten - Södertälje kommun",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "I Rosenborgskolans musikprofil får grundskoleelever i årskurs 7-9 en utökad och fördjupad musikundervisning inom ramen för sin grundskoleperiod.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Shared Rosenborgsenheten page explicitly names Rosenborgskolan profile; optional pathway in years 7–9, not whole-unit universal provision."
+  },
+  {
+    "evidence_id": "ae_455d582156edca61a8d5a620",
+    "school_id": "11914814",
+    "source_url": "https://www.sodertalje.se/rosenborgsenheten",
+    "page_title": "Rosenborgsenheten - Södertälje kommun",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "I idrottsprofilen får eleven träna sin idrott två pass i veckan, då tillsammans med pojkar och flickor från alla klasser i årskurs 7–9.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Heading names Rosenborgskolan. Optional profile requires active sports-club membership; not a profile shared by every pupil."
+  },
+  {
+    "evidence_id": "ae_5755c0bb1f8bfbf2f9fbc8dd",
+    "school_id": "11496096",
+    "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+    "page_title": "Kunskapsskolan Saltsjöbaden",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Hos oss arbetar du mot individuella mål och din personliga handledare ger stöd och coachar dig mot höga resultat.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "School-specific page describes personally designed education and individual goals. Not an effectiveness claim or named alternative pedagogy."
+  },
+  {
+    "evidence_id": "ae_e0937e5f1950e9f7217de5a3",
+    "school_id": "11914814",
+    "source_url": "https://www.sodertalje.se/rosenborgsenheten",
+    "page_title": "Rosenborgsenheten - Södertälje kommun",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "På den teoretiska profileringen får eleverna möjlighet att fördjupa och bredda sin kunskap inom ledarskap samt teoretiska ämnen.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Named structured pathway, two sessions weekly in years 7–9; no separate application required. Not generic academic-results promotion."
+  },
+  {
+    "evidence_id": "ae_cd8e5f13be39464c6fc6dd6b",
+    "school_id": "12757193",
+    "source_url": "https://vittra.se/ostertalje/",
+    "page_title": "Vittra | Skola i Östertälje",
+    "accessed_date": "2026-10-21",
+    "quoted_text": "Därför arbetar vi i Vittra med en samhällsförankrad undervisning. Det innebär att vi jobbar med verklighetsnära projekt och teman som gör lärandet motiverande och relevant.",
+    "evidence_type": "School website self-description",
+    "interpretation_note": "Provider concept explicitly presented on Östertälje school page, includes school not preschool alone. No implementation verification."
+  },
+  {
+    "evidence_id": "ae_e0783419932c27f3513e6cc1",
+    "school_id": "11018018",
+    "source_url": "https://popsacademy.se/stockholm/",
+    "page_title": "Välkommen | Pops Academy",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Vi har en musikprofil med ensemblespel som huvudsaklig inriktning. Där får alla elever lära sig att spela trummor, bas, gitarr, piano och att sjunga. Våra elever har fem lektioner musik varje vecka.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "4–9; Stockholm-specific page. Official register confirms same ID, years 4–9 and Vintertullstorget 2. Move article alone was prospective; register independently corroborates current registered address."
+  },
+  {
+    "evidence_id": "ae_8e8b7ea48989803746725f21",
+    "school_id": "10715898",
+    "source_url": "https://www.akersfriskola.se/trygghet/olweus",
+    "page_title": "Olweus",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Från och med läsåret 21/22 använder vi oss av Olweusmetoden.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "F–9 per school about page. Dedicated page uses present tense, unlike stale future-tense about-page sentence. Page update date unknown; currently published claim, not verification of continuity. Do not repeat exclusivity/research-superiority claims."
+  },
+  {
+    "evidence_id": "ae_c929ed8e8a0c150e7f18c161",
+    "school_id": "12092203",
+    "source_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+    "page_title": "Brage resursskola",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Här anpassas scheman, undervisning och hjälpmedel för varje individ.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "F–9 resource school; municipal page updated 2026-08-24. Register confirms Brageskolan and Hertig Karls väg 5; old-name VT25 links support continuity. Not preschool evidence."
+  },
+  {
+    "evidence_id": "ae_b44948003b670c7644c1ffee",
+    "school_id": "12259212",
+    "source_url": "https://engelska.se/sv/vara-skolor/solna/",
+    "page_title": "IES Solna – En ledande internationell skola i Solna",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Skolan är tvåspråkig och undervisar elever från årskurs 4 till 9.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "4–9; unit-specific page also states Swedish curriculum and up to half of teaching in English. Register confirms same unit/years and Diktarvägen 4 (site gives 2–4). Exclude testimonials and website statistics."
+  },
+  {
+    "evidence_id": "ae_228448084c7fd3253c626950",
+    "school_id": "12332278",
+    "source_url": "https://engelska.se/sv/vara-skolor/taby/",
+    "page_title": "IES Täby är en internationell skola i Täby",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Skolan är tvåspråkig och undervisar elever från årskurs 4 till 9.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "4–9; unit-specific page also states Swedish curriculum and up to half of teaching in English. Register confirms unit/years and Nytorpsvägen 7. Exclude testimonials and website statistics."
+  },
+  {
+    "evidence_id": "ae_f9dce0af10fd7181f55f6875",
+    "school_id": "10682125",
+    "source_url": "https://magitaskolan.se/",
+    "page_title": "Magitaskolan Magitaskolan - Resursskola i Gröndal för elever med NPF",
+    "accessed_date": "2026-10-27",
+    "quoted_text": "Magitaskolan erbjuder undervisning utifrån de enskilda elevernas behov av stöd, anpassning och extraordinära specialpedagogiska lösningar.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "F–6 school-wide description shared by grundskola and anpassad grundskola; register confirms both forms 1–6 plus preschool class under ID 10682125. Not a grundskola-only practice claim. Register/body establish Sköndal; Gröndal in actual HTML title is stale. Do not compare website 74 pupils with register approximate 50."
+  }
+]

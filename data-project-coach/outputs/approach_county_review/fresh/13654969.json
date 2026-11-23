@@ -1,0 +1,22 @@
+{
+  "school_id": "13654969",
+  "school_name": "Balingsnässkolan",
+  "registered_url": "http://www.huddinge.se/balingsnasskolan",
+  "pages": [],
+  "errors": [
+    {
+      "url": "https://www.huddinge.se/balingsnasskolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:27:47.003271+00:00"
+    },
+    {
+      "url": "https://www.huddinge.se/balingsnasskolan/om-skolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:27:48.741401+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

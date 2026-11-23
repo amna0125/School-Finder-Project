@@ -1,0 +1,38 @@
+{
+  "school_unit_code": "66620411",
+  "school_name": "British International School",
+  "registered_url": "http://www.bisstockholm.se",
+  "attempted_at": "2026-10-21T09:22:43.567173+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://bisstockholm.se/",
+      "retrieved_at": "2026-10-21T09:22:50.646696+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.bisstockholm.se",
+          "robots_url": "http://bisstockholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:46.889318+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://bisstockholm.se/",
+          "robots_url": "https://bisstockholm.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:49.461764+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "66620411_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

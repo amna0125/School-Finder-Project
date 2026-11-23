@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "36513280",
+    "official_directory_name": "Futuraskolan International Gåshaga",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.futuraskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "36520624",
+    "official_directory_name": "Nybohovsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nybohovsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "36628382",
+    "official_directory_name": "Iljansbodaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.jarfalla.se",
+    "note": ""
+  },
+  {
+    "school_id": "37112288",
+    "official_directory_name": "Kulturama Grundsk. Sundbyberg",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.kulturama.se",
+    "note": ""
+  },
+  {
+    "school_id": "37147254",
+    "official_directory_name": "Kumla skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.tyreso.se",
+    "note": ""
+  },
+  {
+    "school_id": "37328635",
+    "official_directory_name": "Montessori Mondial Lidingö",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://montessorimondial.se/lidingo/",
+    "note": ""
+  },
+  {
+    "school_id": "37416253",
+    "official_directory_name": "Rinkebyskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/rinkebyskolan",
+    "note": ""
+  },
+  {
+    "school_id": "37472911",
+    "official_directory_name": "Stenmoskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://www.huddinge.se/stenmoskolan",
+    "note": ""
+  },
+  {
+    "school_id": "37556682",
+    "official_directory_name": "Kista International School",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.kistaschool.se",
+    "note": ""
+  },
+  {
+    "school_id": "37796564",
+    "official_directory_name": "Akalla grundskola F-9",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/akalla-grundskola",
+    "note": ""
+  }
+]

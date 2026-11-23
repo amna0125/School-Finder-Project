@@ -1,0 +1,51 @@
+{
+  "school_unit_code": "31018677",
+  "school_name": "Väsby skola",
+  "registered_url": "http://www.upplandsvasby.se/vasbyskola",
+  "attempted_at": "2026-10-21T09:20:58.070132+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.upplandsvasby.se/vasbyskola",
+      "retrieved_at": "2026-10-21T09:21:01.325942+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.upplandsvasby.se/vasbyskola",
+          "robots_url": "https://www.upplandsvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:47.932957+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.upplandsvasby.se/vasbyskola",
+          "robots_url": "https://www.upplandsvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:49.476462+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "31018677_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Våra lokaler är väl anpassade för vår undervisning med specialsalar för kemi, fysik, slöjd, hemkunskap, bild och musik. Vår skolgård har klätternät, multisportarena, kingplaner, basketplaner samt flertalet lekplatser.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "2d09db68640f1082a82fb5436f0549e61455bfc154afd44790e1e05280736c63",
+      "school_unit_code": "31018677",
+      "school_name": "Väsby skola",
+      "source_url": "https://www.upplandsvasby.se/vasbyskola",
+      "retrieved_at": "2026-10-21T09:21:01.325942+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

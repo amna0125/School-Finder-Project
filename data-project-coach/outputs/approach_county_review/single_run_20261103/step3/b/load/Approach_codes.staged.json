@@ -1,0 +1,35 @@
+[
+  {
+    "code_id": "ac_s3b_35547286_01",
+    "school_id": "35547286",
+    "category": "Arts and creative learning",
+    "subcategory": "Music and creative activity emphasis",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3b_35547286_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. arts stated as a school emphasis on the pedagogy page; Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3b_23617768_01",
+    "school_id": "23617768",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Flexible small teaching groups",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3b_23617768_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. concrete flexible small-group model; Amna decided Support Supported.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_s3b_37556682_01",
+    "school_id": "37556682",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Two adults per lesson / two-teacher Swedish",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_s3b_37556682_01",
+    "coder_note": "Joint review step 3 (2026-11-04), rule agreed with Amna; assistant application, not independently verified practice. concrete two-adult staffing model; Amna decided Support Supported.",
+    "review_status": "Reviewed"
+  }
+]

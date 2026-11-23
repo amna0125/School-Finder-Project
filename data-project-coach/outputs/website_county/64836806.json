@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "64836806",
+  "school_name": "Vallaskolan",
+  "registered_url": "http://www.sodertalje.se/vallaskolan",
+  "attempted_at": "2026-10-21T09:22:36.853017+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.sodertalje.se/vallaskolan",
+      "error": "Too many redirects"
+    }
+  ]
+}

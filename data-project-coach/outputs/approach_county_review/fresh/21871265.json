@@ -1,0 +1,17 @@
+{
+  "school_id": "21871265",
+  "school_name": "Sollentuna musikklasser",
+  "registered_url": "http://www.edu.sollentuna.se/smk",
+  "pages": [],
+  "errors": [
+    {
+      "url": "http://www.edu.sollentuna.se/smk",
+      "error": "[Errno -2] Name does not resolve",
+      "attempted_at": "2026-10-21T17:29:56.112667+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

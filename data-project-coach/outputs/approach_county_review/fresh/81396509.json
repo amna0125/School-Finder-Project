@@ -1,0 +1,72 @@
+{
+  "school_id": "81396509",
+  "school_name": "Innovitaskolan Banérporten",
+  "registered_url": "https://innovitaskolan.se/banerporten/",
+  "pages": [
+    {
+      "requested_url": "https://innovitaskolan.se/banerporten/",
+      "source_url": "https://innovitaskolan.se/banerporten/",
+      "page_title": "Innovitaskolan Banérporten | För- och grundskola i Stockholm",
+      "accessed_at": "2026-10-21T17:41:43.954568+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81396509_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/banerporten/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/banerporten/pedagogiskt-koncept/",
+      "source_url": "https://innovitaskolan.se/banerporten/pedagogiskt-koncept/",
+      "page_title": "Innovitaskolan Banérporten | Pedagogiska koncept och metoder",
+      "accessed_at": "2026-10-21T17:41:45.433781+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81396509_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/banerporten/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://innovitaskolan.se/banerporten/om/grundskola/",
+      "source_url": "https://innovitaskolan.se/banerporten/om/grundskola/",
+      "page_title": "Vår grundskola | Innovitaskolan Banérporten | Om skolan",
+      "accessed_at": "2026-10-21T17:41:46.710307+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "81396509_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/banerporten/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:35:48.736193+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

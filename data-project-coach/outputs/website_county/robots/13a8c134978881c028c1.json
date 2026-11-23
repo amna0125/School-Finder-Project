@@ -1,0 +1,1 @@
+{"robots_url": "https://sites.google.com/robots.txt", "http_status": 200, "checked_at": "2026-10-21T09:20:54.998998+00:00", "state": "parsed", "crawl_delay": 0, "body": "User-Agent: *\nDisallow: /feeds\nAllow: /*/_/rsrc/\nAllow: /_/atari/*\nDisallow: /*/_/\n\n"}

@@ -1,0 +1,72 @@
+{
+  "school_id": "24671487",
+  "school_name": "Kunskapsskolans Resursskola",
+  "registered_url": "https://www.kunskapsskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.kunskapsskolan.se",
+      "source_url": "https://www.kunskapsskolan.se",
+      "page_title": "Kunskapsskolan",
+      "accessed_at": "2026-10-21T17:30:21.027481+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24671487_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/om-oss/kontakta-oss",
+      "source_url": "https://www.kunskapsskolan.se/om-oss/kontakta-oss",
+      "page_title": "Kontakta oss - Kunskapsskolan",
+      "accessed_at": "2026-10-21T17:30:25.407111+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24671487_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/om-oss/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.kunskapsskolan.se/om-oss/aktuellt",
+      "source_url": "https://www.kunskapsskolan.se/om-oss/aktuellt",
+      "page_title": "Aktuellt - Kunskapsskolan",
+      "accessed_at": "2026-10-21T17:30:39.003528+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "24671487_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/om-oss/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:47.246484+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

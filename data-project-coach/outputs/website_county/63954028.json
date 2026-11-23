@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "63954028",
+  "school_name": "Kunskapsskolan Fruängen",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/fruangen",
+  "attempted_at": "2026-10-21T09:16:44.853777+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/fruangen",
+      "retrieved_at": "2026-10-21T09:16:50.091464+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/fruangen",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "63954028_0.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/fruangen/om-skolan/kontakta-oss",
+      "retrieved_at": "2026-10-21T09:16:50.113250+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/fruangen/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "63954028_1.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/fruangen/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:16:50.291024+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/fruangen/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "63954028_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0e13b67e2b803322f85ef694ed0264d857a2db9cfb8f4477174338cd8cc0fd05",
+      "school_unit_code": "63954028",
+      "school_name": "Kunskapsskolan Fruängen",
+      "source_url": "https://www.kunskapsskolan.se/skolor/fruangen/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:16:50.291024+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Musik skapad av elever i åttan spelades upp av Västerås symfoniorkester",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a8bb26ed58e1d82164b606e76812adeb73ffa478e831e942dd566e1cd6410728",
+      "school_unit_code": "63954028",
+      "school_name": "Kunskapsskolan Fruängen",
+      "source_url": "https://www.kunskapsskolan.se/skolor/fruangen/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:16:50.291024+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

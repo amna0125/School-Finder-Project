@@ -1,0 +1,26 @@
+# Batch coding decisions — 26 October 2026
+
+Reviewer: assistant. Reviewed means review of source wording and coding, not teaching practice. Codebook v1 category definitions retained; no material category changes. Operational clarifications below must be applied to future batches.
+
+- **10035236 Söderbymalmsskolan**: Municipal directory and admissions pages do not establish Söderbymalmsskolan approach. Follow-up: Locate official school-specific about/pedagogy pages.
+- **10063280 Lärande Grundskola Skapa**: Recurring interdisciplinary assignments explicitly stated; timetable illustrative. Fritids arts excluded. Follow-up: Review linked Lärandemodellen and pedagogy pages before whole-school closure.
+- **10225038 Solfagraskolan**: Ordinary-school introduction has generic safety/quality claims. Concrete AKK/visual schedules belong to anpassad grundskola and are excluded for this unit. Follow-up: School-specific pedagogy follow-up; not a school-wide no-approach finding.
+- **10230535 Innovitaskolan Vällingby Park**: Preschool-specific arts/outdoor examples excluded. Explore/Innovate/Balance general wording insufficient for firm grundskola inquiry/wellbeing coding. Follow-up: Seek concrete compulsory-school practices; no inference from digital equipment.
+- **10311303 Lilla Kulturama**: Kulturama provider sources cover multiple locations and educational stages; Lilla Kulturama mapping unresolved. Follow-up: Reconcile registered unit with current campus/name before coding.
+- **10661388 Örjanskolan grund**: Grundskola source explicitly supports Waldorf, arts integration and nature used in teaching; location alone not used. Follow-up: Coverage limited to two saved pages; no verification of practice or frequency.
+- **10682125 Magitaskolan**: Substantive resource-school support statement on shared grundskola/anpassad page; title says Gröndal while body says Stora Sköndal. Follow-up: Resolve location and unit/school-form scope before firm code.
+- **10715898 Akers Friskola**: Olweus named with future-tense 2021/22 wording; Flex grade ranges differ. Cambridge exam option alone not language/international pedagogy. Follow-up: Verify current Olweus applicability and reconcile dated wording.
+- **10735290 Stocksundsskolan**: Shared Stocksund/Långängen landing page; vision and invitations do not establish approach. Follow-up: Review school-specific vision and pedagogy links.
+- **10998117 Råbergsskolan**: Thin saved navigation/landing content cannot support substantive review. Follow-up: Locate school-specific about/education page.
+- **11018018 Pops Academy Stockholm**: Provider-level music concept substantive but Stockholm unit applicability unresolved. Follow-up: Find Stockholm-specific official page/unit continuity.
+- **11193969 Karlslundsskolan**: Optional music years 4–9 explicit. Erasmus accreditation/opportunity alone excluded; ordinary EHT and fritids creative activities excluded. Follow-up: Music applies to optional pathway, not all pupils; additional profile pages may add context.
+- **11364996 Lemshaga Akademi**: About-page aspirational inquiry language and old 2010 context do not establish current named alternative/inquiry model. Follow-up: Review linked pedagogical profile and current attributable documents.
+- **11496096 Kunskapsskolan Saltsjöbaden**: School-specific personalised education, individual goals and personal coaching support Other stated profile; not inferred alternative pedagogy. Follow-up: News aggregation excluded as firm evidence; inspect pedagogy page in follow-up.
+- **11914814 Rosenborgskolan**: Shared unit page explicitly names Rosenborgskolan music/sport/theoretical pathways years 7–9. Ordinary support language excluded. Follow-up: Labels are pathways; theoretical route requires no separate application. Not universal provision.
+- **12092203 Brage- skola och språkförskola**: Current Brage resource-school page describes concrete adaptations F–9; registered name also includes language preschool. Follow-up: Reconcile official unit scope and name before firm code.
+- **12259212 Internationella Engelska Skolan Solna**: Redirected/shared IES provider page explicitly bilingual, but no Solna applicability established. Follow-up: Find Solna-specific official page and unit scope.
+- **12332278 Internationella Engelska Skolan Täby**: Same provider text as Solna; no Täby-specific applicability established. Follow-up: Find Täby-specific official page and unit scope.
+- **12407147 Röllingbyskolan**: Municipal home and pedagogical-service pages do not establish Röllingbyskolan approach. Follow-up: Find current official school page and reconcile identity.
+- **12757193 Vittra Östertälje**: School landing page states recurring real-world projects/themes; ordinary school-day arts and dated football news teaser excluded. Follow-up: Review pedagogical and football-profile pages; avoid attributing employee interview opinions as school policy.
+
+Permissions: robots records and existing permission status carried forward, not legal clearance; no new requests. Minimal quotations only. Unclear/Low claims must remain notes, not firm dashboard labels. No school-wide no-evidence conclusions; two no-clear-evidence outcomes refer only to saved pages.

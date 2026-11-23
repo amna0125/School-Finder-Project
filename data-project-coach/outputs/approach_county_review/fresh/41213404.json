@@ -1,0 +1,38 @@
+{
+  "school_id": "41213404",
+  "school_name": "Källbrinksskolan",
+  "registered_url": "https://www.huddinge.se/kallbrinksskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.huddinge.se/kallbrinksskolan/om-skolan",
+      "source_url": "https://www.huddinge.se/kallbrinksskolan/om-skolan",
+      "page_title": "Om Källbrinksskolan | Huddinge kommun",
+      "accessed_at": "2026-10-21T17:33:50.486364+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "41213404_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.huddinge.se/kallbrinksskolan/om-skolan",
+          "robots_url": "https://www.huddinge.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:26:21.763536+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.huddinge.se/kallbrinksskolan",
+      "error": "Remote end closed connection without response",
+      "attempted_at": "2026-10-21T17:33:46.429663+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

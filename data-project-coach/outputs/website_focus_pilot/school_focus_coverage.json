@@ -1,0 +1,4595 @@
+[
+  {
+    "school_unit_code": "10035236",
+    "school_name": "Söderbymalmsskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10063280",
+    "school_name": "Lärande Grundskola Skapa",
+    "source_url": "https://www.larandegrundskola.se/skolor/huddinge/skapa",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10184517",
+    "school_name": "Eleonoraskolan",
+    "source_url": null,
+    "collection_status": "missing_registered_website"
+  },
+  {
+    "school_unit_code": "10225038",
+    "school_name": "Solfagraskolan",
+    "source_url": "http://www.huddinge.se/solfagraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10230535",
+    "school_name": "Innovitaskolan Vällingby Park",
+    "source_url": "https://innovitaskolan.se/vallingby-park/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10311303",
+    "school_name": "Lilla Kulturama",
+    "source_url": "http://www.kulturama.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10495223",
+    "school_name": "Tullingebergsskolan",
+    "source_url": "http://www.botkyrka.se/tullingebergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10657244",
+    "school_name": "Skogsbacksskolan",
+    "source_url": "https://www.botkyrka.se/barn--utbildning/skolbarn/grundskolor-i-kommunal-regi/skogsbacksskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10661388",
+    "school_name": "Örjanskolan grund",
+    "source_url": "http://www.orjanskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10682125",
+    "school_name": "Magitaskolan",
+    "source_url": "http://www.magitaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10715898",
+    "school_name": "Akers Friskola",
+    "source_url": "http://www.akersfriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10735290",
+    "school_name": "Stocksundsskolan",
+    "source_url": "https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "10998117",
+    "school_name": "Råbergsskolan",
+    "source_url": "http://www.sigtuna.se/rabergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "11018018",
+    "school_name": "Pops Academy Stockholm",
+    "source_url": "https://www.popsacademy.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "11025388",
+    "school_name": "Stenhamraskolan",
+    "source_url": "http://www.ekero.se/stenhamraskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "11193969",
+    "school_name": "Karlslundsskolan",
+    "source_url": "http://www.vallentuna.se/karlslundsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "11364996",
+    "school_name": "Lemshaga Akademi",
+    "source_url": "http://www.lemshaga.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "11442396",
+    "school_name": "Stockholm International Academy Hägersten",
+    "source_url": "https://siaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "11496096",
+    "school_name": "Kunskapsskolan Saltsjöbaden",
+    "source_url": "https://www.kunskapsskolan.se/skolor/saltsjobaden",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "11777750",
+    "school_name": "Saltsjöbadens samskola",
+    "source_url": "http://www.samskolan.org",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "11914814",
+    "school_name": "Rosenborgskolan",
+    "source_url": "http://www.sodertalje.se/rosenborgskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "12092203",
+    "school_name": "Brage- skola och språkförskola",
+    "source_url": "https://www.sollentuna.se/uweb/brageskolan/om-oss/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "12187987",
+    "school_name": "Katarina Södra skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-sodra-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "12259212",
+    "school_name": "Internationella Engelska Skolan Solna",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "12332278",
+    "school_name": "Internationella Engelska Skolan Täby",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "12407147",
+    "school_name": "Röllingbyskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "12757193",
+    "school_name": "Vittra Östertälje",
+    "source_url": "http://www.vittra.se/ostertalje",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "12801932",
+    "school_name": "Ulvsättraskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13124830",
+    "school_name": "Sjöängsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13301127",
+    "school_name": "Ekens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13384795",
+    "school_name": "Raoul Wallenbergskolan Bagartorp",
+    "source_url": "http://www.raoulwallenbergskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13493243",
+    "school_name": "Viktor Rydberg samskola Djursholm",
+    "source_url": "http://www.vrskolor.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13579948",
+    "school_name": "S:t Olofs skola",
+    "source_url": "http://www.sigtuna.se/stolofsskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13582062",
+    "school_name": "Järvaskolan",
+    "source_url": "http://www.jarvaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13654969",
+    "school_name": "Balingsnässkolan",
+    "source_url": "http://www.huddinge.se/balingsnasskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13665610",
+    "school_name": "Brinkskolan",
+    "source_url": "http://www.taby.se/Brinkskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13679897",
+    "school_name": "Bagarmossens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bagarmossens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "13954336",
+    "school_name": "Martinskolan Söders Waldorfskola",
+    "source_url": "http://www.martinskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14040970",
+    "school_name": "Stavsborgsskolan",
+    "source_url": "http://www.stavsborg.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14115670",
+    "school_name": "Friskolan & Fritidshemmet Hästens",
+    "source_url": "http://www.friskolanhastens.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14121892",
+    "school_name": "Bredängsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bredangsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14261356",
+    "school_name": "Ekillaskolan",
+    "source_url": "http://www.sigtuna.se/ekillaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14440920",
+    "school_name": "Visättraskolan",
+    "source_url": "http://www.huddinge.se/visattraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14472068",
+    "school_name": "Kristna skolan",
+    "source_url": "http://www.kristnaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14479858",
+    "school_name": "Tallkrogens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tallkrogens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14845171",
+    "school_name": "Eviaskolan",
+    "source_url": "http://www.eviagruppen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "14872951",
+    "school_name": "Magelungen grundskola Södertälje",
+    "source_url": "http://www.magelungen.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15049834",
+    "school_name": "Lilla Alby skola",
+    "source_url": "http://www.sundbyberg.se/lillaalbyskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15080815",
+    "school_name": "Fjällenskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15171331",
+    "school_name": "Nordic International School, Stockholm",
+    "source_url": "https://nordicinternational.se/essingen",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15218794",
+    "school_name": "Glömstaskolan",
+    "source_url": "https://www.huddinge.se/glomstaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15331669",
+    "school_name": "Sjöstadsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjostadsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15339442",
+    "school_name": "Runbackaskolan",
+    "source_url": "http://www.sollentuna.se/sv/uweb/runbacka-skolor/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15483394",
+    "school_name": "Segeltorpsskolan",
+    "source_url": "http://www.huddinge.se/segeltorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15547680",
+    "school_name": "Vibyskolan",
+    "source_url": "http://www.vibyskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15594566",
+    "school_name": "Äppelviksskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/appelviksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15620768",
+    "school_name": "Eklidsskolan",
+    "source_url": "http://www.botkyrka.se/eklidsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15697742",
+    "school_name": "Galaxskolan",
+    "source_url": "http://www.sigtuna.se/galaxskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "15968847",
+    "school_name": "Olaus Petriskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/olaus-petri-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16061350",
+    "school_name": "Apolloniosskolan",
+    "source_url": "https://www.apolloniosskolan.se/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16068461",
+    "school_name": "Nyckelskolan",
+    "source_url": "http://www.knippan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16348406",
+    "school_name": "Matteusskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/matteusskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16394249",
+    "school_name": "Ellen Key skolan",
+    "source_url": "http://www.eks.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16426165",
+    "school_name": "Kunskapsskolan Enskede",
+    "source_url": "https://www.kunskapsskolan.se/skolor/enskede",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16762245",
+    "school_name": "Edessaskolan",
+    "source_url": "http://www.edessaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16914123",
+    "school_name": "Tavestaskolan",
+    "source_url": "http://sodertalje.se/tavestaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16969143",
+    "school_name": "Hagnässkolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/hagnasskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "16983719",
+    "school_name": "Broskolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/broskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "17165481",
+    "school_name": "Brotorpsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/brotorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "17287315",
+    "school_name": "Källtorpskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "17526606",
+    "school_name": "Fryshuset Grundskola Akalla",
+    "source_url": "http://www.fryshuset.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "17640364",
+    "school_name": "Spånga grundskola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/spanga-grundskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "17737193",
+    "school_name": "Granbackaskolan",
+    "source_url": "http://www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "17957898",
+    "school_name": "Innovitaskolan Rudan",
+    "source_url": "https://innovitaskolan.se/rudan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "18053776",
+    "school_name": "Djurö skola",
+    "source_url": "http://varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "18064456",
+    "school_name": "Söderholmsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/soderholmsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "18193338",
+    "school_name": "Svandammsskolan",
+    "source_url": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/svandammsskolan-f-6",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "18595907",
+    "school_name": "Edsbergsskolan",
+    "source_url": "http://www.sollentuna.se/sv/uweb/edsbergsskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19089469",
+    "school_name": "Montessoriskolan Fredsduvan",
+    "source_url": "http://www.fredsduvan.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19353396",
+    "school_name": "Fruängens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/fruangens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19377571",
+    "school_name": "Karlbergs skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/karlbergs-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19593535",
+    "school_name": "JENSEN grundskola Bro-Mälarstrand  4-9",
+    "source_url": "http://www.jensengrundskola.se/bro-malarstrand",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19657993",
+    "school_name": "Fryshuset Grundskola Hammarby Sjöstad",
+    "source_url": "http://www.fryshuset.se/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19704413",
+    "school_name": "Åkerstorpsskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19733028",
+    "school_name": "Lärande Grundskola Oden",
+    "source_url": "http://www.larandegrundskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19942197",
+    "school_name": "Sandåkraskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sandakraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "19983531",
+    "school_name": "Rodrets friskola",
+    "source_url": "http://www.rodret.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "20054868",
+    "school_name": "Odensala skola",
+    "source_url": "http://www.sigtuna.se/odensalaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "20137688",
+    "school_name": "Käppala skola",
+    "source_url": "https://www.lidingo.se/kappalaskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "20253736",
+    "school_name": "Tegelhagens skola",
+    "source_url": "https://www.sollentuna.se/uweb/tegelhagens-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "20561651",
+    "school_name": "Herrängens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/herrangens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "20563782",
+    "school_name": "Kyrkskolan",
+    "source_url": "https://nynashamn.se/service/forskola--skola/grundskola/grundskolor-i-nynashamns-kommun/kyrkskolan-f-3",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "20683111",
+    "school_name": "Bäckahagens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/backahagens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "21346638",
+    "school_name": "Järla skola",
+    "source_url": "http://www.jarla.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "21576764",
+    "school_name": "Söderfjärdsskolan",
+    "source_url": "http://www.vaxholm.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "21724208",
+    "school_name": "Sätraskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/satraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "21871265",
+    "school_name": "Sollentuna musikklasser",
+    "source_url": "http://www.edu.sollentuna.se/smk",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "21997077",
+    "school_name": "Viljaskolan Sollentuna",
+    "source_url": "https://viljaskolan.se/viljaskolan-sollentuna/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22019000",
+    "school_name": "Södertörns friskola",
+    "source_url": "http://www.frisko.la",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22030561",
+    "school_name": "Östbergaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostbergaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22127801",
+    "school_name": "Internationella Engelska Skolan Länna",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22174435",
+    "school_name": "Björnbodaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjornbodaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22202915",
+    "school_name": "Tyresö Montessoriskola",
+    "source_url": "http://www.tmsv.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22472689",
+    "school_name": "Jarlabergs skola",
+    "source_url": "http://www.jarlaberg.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22513261",
+    "school_name": "Kista grundskola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kista-grundskola-f-3",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22531873",
+    "school_name": "Norrgärdsskolan",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22777703",
+    "school_name": "Johannes skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/johannes-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22807677",
+    "school_name": "Näsbydalskolan",
+    "source_url": "http://www.taby.se/nasbydalskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22847273",
+    "school_name": "Ängskolan",
+    "source_url": "http://www.sundbyberg.se/angskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "22904289",
+    "school_name": "Vilans skola",
+    "source_url": "http://www.vilan.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "23066257",
+    "school_name": "Kulturama gr. Hammarby Sjöstad",
+    "source_url": "http://www.kulturama.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "23312767",
+    "school_name": "Noblaskolan Täby",
+    "source_url": "https://noblaskolan.se/taby/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "23414344",
+    "school_name": "Skolgrunden",
+    "source_url": "http://www.skolgrunden.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "23498302",
+    "school_name": "Stockholms Montessoriskola Anne Frank",
+    "source_url": "http://www.stockholmsmontessoriskola.se",
+    "retrieved_at": "2026-10-21T08:54:46.239081+00:00",
+    "scope_status": "unit_scope_needs_review",
+    "collection_scope": "registered_landing_page_only",
+    "method_version": "website_candidates_v1",
+    "robots_url": "http://www.stockholmsmontessoriskola.se/robots.txt",
+    "permission_status": "robots_not_found_terms_not_reviewed",
+    "collection_status": "fetched_needs_review",
+    "candidate_count": 1
+  },
+  {
+    "school_unit_code": "23617768",
+    "school_name": "Katarina Norra skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-norra-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "23756252",
+    "school_name": "Sjökarbyskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "23828958",
+    "school_name": "Näsbypark resursskola",
+    "source_url": "www.taby.se/nasbyparksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "23886554",
+    "school_name": "I Ur och Skur Mårtensbergsskolan",
+    "source_url": "http://www.iurochskur.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24046791",
+    "school_name": "Innovitaskolan Farstaäng",
+    "source_url": "https://innovitaskolan.se/farstaang/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24142153",
+    "school_name": "Futuraskolan AB",
+    "source_url": "http://www.futuraskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24146389",
+    "school_name": "Hallsta skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24172067",
+    "school_name": "Kulturskolan Raketen",
+    "source_url": "http://www.kulturskolanraketen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24199792",
+    "school_name": "Da Vinciskolan",
+    "source_url": "http://www.davinciskolan.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24374886",
+    "school_name": "Vittra Väsby",
+    "source_url": "http://www.vittra.se/vasby",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24402537",
+    "school_name": "Internationella Engelska Skolan Upplands Väsby",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24561769",
+    "school_name": "Hemmestaskolan",
+    "source_url": "http://www.varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24606968",
+    "school_name": "Härneviskolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/harneviskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24671487",
+    "school_name": "Kunskapsskolans Resursskola",
+    "source_url": "https://www.kunskapsskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24716970",
+    "school_name": "Högalidsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hogalidsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "24754913",
+    "school_name": "Knutbyskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/knutbyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "25090415",
+    "school_name": "Fågelviks skola",
+    "source_url": "http://www.varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "25253749",
+    "school_name": "Albatross Montessoriskola",
+    "source_url": "http://www.albatross-montessori.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "25309669",
+    "school_name": "Kunskapsskolan Täby",
+    "source_url": "https://www.kunskapsskolan.se/skolor/taby",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "25506439",
+    "school_name": "Kassmyraskolan",
+    "source_url": "http://www.botkyrka.se/kassmyraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "25555358",
+    "school_name": "Eiraskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/eiraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "25772114",
+    "school_name": "Vaxö skola",
+    "source_url": "http://www.vaxholm.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "25918983",
+    "school_name": "Hammerstaskolan",
+    "source_url": "http://www.botkyrka.se/hammerstaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26138955",
+    "school_name": "Skå Skola",
+    "source_url": "http://www.ekero.se/skaskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26172429",
+    "school_name": "International School of the Stockholm Region",
+    "source_url": "http://www.internationalschoolofthestockholmregion.stockholm.se/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26281697",
+    "school_name": "Montessoriskolan i Norrtälje",
+    "source_url": "http://www.montessoriskolan.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26480342",
+    "school_name": "Nordanskolan",
+    "source_url": "http://www.upplandsvasby.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26742346",
+    "school_name": "Solna Enskilda Skola",
+    "source_url": "http://www.bma.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26804905",
+    "school_name": "Stiftelsen Mora Park",
+    "source_url": "http://www.morapark.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26808959",
+    "school_name": "Parkskolan",
+    "source_url": "https://www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26852132",
+    "school_name": "Solhemsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "26878879",
+    "school_name": "Stallets skola",
+    "source_url": "http://www.stalletsskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "27181501",
+    "school_name": "Viktor Rydbergs skola Nacka",
+    "source_url": "http://www.vrskolor.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "27273328",
+    "school_name": "Årstadalsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/arstadalsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "27323097",
+    "school_name": "Noblaskolan Solna",
+    "source_url": "https://noblaskolan.se/solna/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "27344011",
+    "school_name": "Neglinge skola",
+    "source_url": "http://www.neglinge.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "27357778",
+    "school_name": "Oxhagsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/oxhagsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "27595656",
+    "school_name": "Birkaskolan",
+    "source_url": "http://www.birkaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "27830075",
+    "school_name": "Ljungbackens skola",
+    "source_url": "https://www.lidingo.se/ljungbackensskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "28138418",
+    "school_name": "Vintertullsskolan",
+    "source_url": "http://www.vintertullsskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "28145722",
+    "school_name": "Aktiviaskolan Hus 6",
+    "source_url": "http://www.aktiviaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "28184857",
+    "school_name": "Lundaskolan",
+    "source_url": "http://lundaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "28231215",
+    "school_name": "Drottningholmskolan",
+    "source_url": "http://www.drottningholmskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "28313791",
+    "school_name": "Tomtbergaskolan",
+    "source_url": "http://www.huddinge.se/tomtbergaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "28799594",
+    "school_name": "Kärrdalsskolan",
+    "source_url": "http://sites.google.com/a/edu.sollentuna.se/kdl/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "28845963",
+    "school_name": "Majtorpskolan",
+    "source_url": "http://www.sodertalje.se/rosenborgskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29096335",
+    "school_name": "Bergsundsskolan",
+    "source_url": "http://www.bergsundsskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29158808",
+    "school_name": "Observatorielundens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/observatorielundens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29270748",
+    "school_name": "Vanadisskolan",
+    "source_url": "http://www.iofi.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29278599",
+    "school_name": "Lovisedalsskolan",
+    "source_url": "http://www.vallentuna.se/lovisedal/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29371242",
+    "school_name": "Campus Manilla Utbildning AB",
+    "source_url": "http://www.campusmanilla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29410344",
+    "school_name": "Kungsholmens grundskola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kungsholmens-grundskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29497099",
+    "school_name": "Internationella Engelska Skolan Södertälje",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29524966",
+    "school_name": null,
+    "source_url": "http://www.kastanjen.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29585072",
+    "school_name": "Innovitaskolan Enskede",
+    "source_url": "https://innovitaskolan.se/enskede/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29705473",
+    "school_name": "Snösätraskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/snosatraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29725531",
+    "school_name": "Engelska skolan norr",
+    "source_url": "http://www.esn.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29796042",
+    "school_name": "Engelska skolan Gondolen",
+    "source_url": "https://www.esgondolen.se/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "29998540",
+    "school_name": "Sagaskolan",
+    "source_url": "http://www.sigtuna.se/sagaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "30255409",
+    "school_name": "JENSEN grundskola Tungelsta",
+    "source_url": "http://www.jensengrundskola.se/tungelsta",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "30270791",
+    "school_name": "Åbyskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "30490775",
+    "school_name": "Riala skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "31018677",
+    "school_name": "Väsby skola",
+    "source_url": "http://www.upplandsvasby.se/vasbyskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "31281674",
+    "school_name": "Nyboda skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "31528772",
+    "school_name": "Mariaskolan",
+    "source_url": "http://www.mariaskolan.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "31608087",
+    "school_name": "Urfjälls Montessoriskola",
+    "source_url": "http://www.urfjall.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "31758556",
+    "school_name": "Margretelundsskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "31851256",
+    "school_name": "Roslagsskolan",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "31903219",
+    "school_name": "Magelungsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "32231541",
+    "school_name": "Täby Friskola",
+    "source_url": "http://www.tabyfriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "32479095",
+    "school_name": "Vaxmoraskolan",
+    "source_url": "http://www.edu.sollentuna.se/vax/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "32585503",
+    "school_name": "Grisslehamns skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "32886383",
+    "school_name": "Mörtviksskolan",
+    "source_url": "http://www.huddinge.se/mortviksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "32965692",
+    "school_name": "Noblaskolan Saltsjö-Boo",
+    "source_url": "https://noblaskolan.se/saltsjo-boo/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "32993837",
+    "school_name": "Ursvikskolan",
+    "source_url": "http://www.sundbyberg.se/ursvikskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "33159363",
+    "school_name": "Munsö skola",
+    "source_url": "http://www.ekero.se/munsoskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "33455004",
+    "school_name": "Njupkärrs skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "33565539",
+    "school_name": "Gustav Vasaskolan",
+    "source_url": "http://www.skolor.vallentuna.se/gustavvasa/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "33624606",
+    "school_name": "Måsöskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "33733966",
+    "school_name": "International School of Kungsholmen",
+    "source_url": "https://www.internationalschoolofkungsholmen.com/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "33794207",
+    "school_name": "Sandvikskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "33922950",
+    "school_name": "Smedslättsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/smedslattsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "33951941",
+    "school_name": "Råsunda centralskola",
+    "source_url": "www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34125463",
+    "school_name": "Nytorpsskolan",
+    "source_url": "https://nytida.se/skola/vara-skolor/nytorpsskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34135484",
+    "school_name": "Montessori Mondial Nacka",
+    "source_url": "https://montessorimondial.se/nacka/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34148887",
+    "school_name": "Blombackaskolan",
+    "source_url": "http://www.sodertalje.se/blombackaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34225123",
+    "school_name": "Furuborgskolan",
+    "source_url": "http://www.nykvarn.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34540901",
+    "school_name": "Estniska Skolan i Stockholm",
+    "source_url": "http://www.estniskaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34625544",
+    "school_name": "Raoul Wallenbergskolan Källberga",
+    "source_url": "http://www.raoulwallenbergskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34671128",
+    "school_name": "Solbergaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solbergaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34672217",
+    "school_name": "Stavsborgsskolan",
+    "source_url": "https://www.nacka.se/altaresursskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "34946479",
+    "school_name": "Runmarö skola",
+    "source_url": "http://varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "35008423",
+    "school_name": "Skolan Bergius",
+    "source_url": "http://www.skolanbergius.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "35129114",
+    "school_name": "Internationella Engelska Skolan Årsta",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "35311563",
+    "school_name": "Lilla Nacka skola",
+    "source_url": "lillanacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "35547286",
+    "school_name": "Föreningen för Carlssons Skola",
+    "source_url": "http://www.carlssonsskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "35784391",
+    "school_name": "Distra IRS",
+    "source_url": "http://www.distraresursskolor.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "35890890",
+    "school_name": "Västerholms friskola",
+    "source_url": "http://www.vasterholm.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "35933721",
+    "school_name": "Rudboda skola",
+    "source_url": "https://www.lidingo.se/rudbodaskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36021631",
+    "school_name": "Montessoriskolan Växthuset",
+    "source_url": "http://www.ahavaxthuset.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36031993",
+    "school_name": "Vällingbyskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vallingbyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36066067",
+    "school_name": "Lilla Akademien Musikgymnasium",
+    "source_url": "http://www.lillaakademien.se",
+    "retrieved_at": "2026-10-21T08:54:48.625621+00:00",
+    "scope_status": "unit_scope_needs_review",
+    "collection_scope": "registered_landing_page_only",
+    "method_version": "website_candidates_v1",
+    "robots_url": "http://www.lillaakademien.se/robots.txt",
+    "permission_status": "robots_allows_target_terms_not_reviewed",
+    "collection_status": "collection_failed_needs_review",
+    "error_type": "ValueError"
+  },
+  {
+    "school_unit_code": "36185466",
+    "school_name": "I Ur och Skur Utsikten",
+    "source_url": "https://iurochskur.friluftsframjandet.se/i-ur-och-skur-forskola--skola/i-ur-och-skurs-verksamheter/i-ur-och-skur-utsikten-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36232577",
+    "school_name": "Bromma Enskilda Skola",
+    "source_url": "http://www.brommaenskilda.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36262199",
+    "school_name": "Nytorpsskolan",
+    "source_url": "https://salem.se/forskolaochskola/grundskola/nytorpsskolan.4.335d63281936795eddcd07c.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36276828",
+    "school_name": "Futuraskolan AB",
+    "source_url": "http://www.futuraskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36281817",
+    "school_name": "Höglandsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hoglandsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36350546",
+    "school_name": "Tunaskolan",
+    "source_url": "http://www.botkyrka.se/tunaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36513280",
+    "school_name": "Futuraskolan AB",
+    "source_url": "http://www.futuraskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36520624",
+    "school_name": "Nybohovsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nybohovsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "36628382",
+    "school_name": "Iljansbodaskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "37112288",
+    "school_name": "Kulturama Grundsk. Sundbyberg",
+    "source_url": "http://www.kulturama.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "37147254",
+    "school_name": "Kumla skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "37328635",
+    "school_name": "Montessori Mondial Lidingö",
+    "source_url": "https://montessorimondial.se/lidingo/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "37416253",
+    "school_name": "Rinkebyskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/rinkebyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "37472911",
+    "school_name": "Stenmoskolan",
+    "source_url": "https://www.huddinge.se/stenmoskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "37556682",
+    "school_name": "Kista International School",
+    "source_url": "http://www.kistaschool.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "37796564",
+    "school_name": "Akalla grundskola F-9",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/akalla-grundskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "37887150",
+    "school_name": "Nordic International School Nacka",
+    "source_url": "https://nordicinternational.se/nacka",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38096510",
+    "school_name": "Magelungens Grundskola Älvsjö",
+    "source_url": "http://www.magelungen.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38394561",
+    "school_name": "Södertälje friskola",
+    "source_url": "https://www.sodertaljefriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38526011",
+    "school_name": "Eddaskolan",
+    "source_url": "http://www.sigtuna.se/eddaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38653015",
+    "school_name": "Pershagenskolan",
+    "source_url": "http://www.sodertalje.se/pershagenskolan.",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38661388",
+    "school_name": "Broängsskolan",
+    "source_url": "http://www.botkyrka.se/broangsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38758770",
+    "school_name": "Farsta grundskola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/farsta-grundskola-med-adolf-fredriks-musikklasser",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38854084",
+    "school_name": "Steningehöjdens skola",
+    "source_url": "http://www.sigtuna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38935587",
+    "school_name": "Internationella Engelska Skolan Enskede",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "38975788",
+    "school_name": "Tungelsta skola",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39130058",
+    "school_name": "Montessoriskolan i Norrtälje",
+    "source_url": "http://www.montessoriskolan.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39171821",
+    "school_name": "Örbyskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/orbyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39195819",
+    "school_name": "Sanduddens skola",
+    "source_url": "http://www.ekero.se/sanduddensskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39229061",
+    "school_name": "Östra grundskolan",
+    "source_url": "http://www.huddinge.se/ostragrundskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39351914",
+    "school_name": "Norrsundsskolan",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39453214",
+    "school_name": "Sofiebergsskolan",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39568857",
+    "school_name": "Berghemskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39907811",
+    "school_name": "Sofielundsskolan",
+    "source_url": "http://www.sollentuna.se/sv/uweb/sofielundsskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "39923451",
+    "school_name": "SverigefinskaSkolan i Kista",
+    "source_url": "http://www.sverigefinskaskolanikista.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40175889",
+    "school_name": "Soldalaskolan",
+    "source_url": "http://www.sodertalje.se/soldalaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40383398",
+    "school_name": "Bromma kyrkskola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bromma-kyrkskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40467992",
+    "school_name": "Futuraskolan AB",
+    "source_url": "http://www.futuraskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40610606",
+    "school_name": "Lycée Francais Saint Louis, gr",
+    "source_url": "http://www.lfsl.net",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40618486",
+    "school_name": "Råsunda skola",
+    "source_url": "http://solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40631085",
+    "school_name": "Fittjaskolan",
+    "source_url": "http://www.botkyrka.se/fittjaskolanbotkyrkanorra",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40847752",
+    "school_name": "Björkebyskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40904373",
+    "school_name": "Närlundaskolan",
+    "source_url": "http://www.ekero.se/narlundaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "40978257",
+    "school_name": "Futuraskolan AB",
+    "source_url": "http://www.futuraskolaninternational.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41176931",
+    "school_name": "Gärdesskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gardesskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41181908",
+    "school_name": "Hägerneholmsskolan",
+    "source_url": "https://www.taby.se/hagerneholmsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41213404",
+    "school_name": "Källbrinksskolan",
+    "source_url": "https://www.huddinge.se/kallbrinksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41285467",
+    "school_name": "Adolfsbergsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/adolfsbergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41357379",
+    "school_name": "Skogsbacksskolan Trampolinen",
+    "source_url": "https://www.botkyrka.se/skola-och-forskola/grundskola/hitta-grundskola-och-ansok/grundskolor-i-botkyrka/skogsbacksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41377165",
+    "school_name": "Sundby skola",
+    "source_url": "http://www.ekero.se/sundbyskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41405700",
+    "school_name": "Storkyrkoskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/storkyrkoskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41507895",
+    "school_name": "Noblaskolan Nacka Strand",
+    "source_url": "https://noblaskolan.se/nacka-strand/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41554150",
+    "school_name": "Slottsparksskolan",
+    "source_url": "http://www.taby.se/slottsparksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41584790",
+    "school_name": "Järna Friskola",
+    "source_url": "http://www.jarnafriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41764666",
+    "school_name": "Långbrodalsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/langbrodalsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41888515",
+    "school_name": "Fårdala skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "41955701",
+    "school_name": "Järvastadens skola",
+    "source_url": "www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42149666",
+    "school_name": "Husbygårdsskolan F-9",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/husbygardsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42179975",
+    "school_name": "Farsta Strandskolan",
+    "source_url": "http://www.mavatterosen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42202683",
+    "school_name": "Kungsholmens friskola",
+    "source_url": "http://www.kungsholmens-friskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42215279",
+    "school_name": "S:t Pers skola",
+    "source_url": "http://www.sigtuna.se/stpersskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42328518",
+    "school_name": "Franska Skolan/Ecole francaise",
+    "source_url": "http://www.franskaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42434583",
+    "school_name": "Brunns skola",
+    "source_url": "http://www.varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42601396",
+    "school_name": "Trångsundsskolan",
+    "source_url": "http://www.huddinge.se/trangsundsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42912378",
+    "school_name": "Vinsta grundskola östra",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-ostra",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "42986451",
+    "school_name": "Fribergaskolan",
+    "source_url": "https://www.danderyd.se/skolor/fribergaskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43038662",
+    "school_name": "Färentuna skola",
+    "source_url": "http://www.ekero.se/farentunaskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43088454",
+    "school_name": "Björkhagens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjorkhagens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43133926",
+    "school_name": "Bergshamraskolan",
+    "source_url": "http://www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43138370",
+    "school_name": "Vittra Brotorp",
+    "source_url": "http://www.vittra.se/brotorp",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43140379",
+    "school_name": "Nakterhusskolan",
+    "source_url": "https://www.haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43166282",
+    "school_name": "Nälstaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nalstaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43238662",
+    "school_name": "Björkhaga Skola",
+    "source_url": "http://www.botkyrka.se/bjorkhagaskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43245047",
+    "school_name": "Saltängens skola",
+    "source_url": "https://www.nacka.se/valfard-skola/saltsjo-duvnas-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43289917",
+    "school_name": "Vasaskolan",
+    "source_url": "https://www.danderyd.se/skolor/vasaskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43375546",
+    "school_name": "Rälsen 4-9",
+    "source_url": "http://www.ralsen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43403496",
+    "school_name": "Mariekällskolan",
+    "source_url": "https://www.sodertalje.se/skola-och-forskola/grundskola/alla-grundskolor/mariekallskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43632318",
+    "school_name": "Enbacksskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/enbacksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43802065",
+    "school_name": "Lilla Parkskolan",
+    "source_url": "http://www.lillaparkskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "43869172",
+    "school_name": "Fredsborgskolan",
+    "source_url": "http://www.fredsborgskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "44002887",
+    "school_name": "Ellagårdsskolan",
+    "source_url": "http://www.taby.se/ellagardsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "44031601",
+    "school_name": "Höglundaskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "44046131",
+    "school_name": "Sundbyskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sundbyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "44175786",
+    "school_name": "Boo Gårds skola",
+    "source_url": "http://www.boogard.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "44227469",
+    "school_name": "Grimsta skola",
+    "source_url": "http://www.upplandsvasby.se/grimstaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "44373961",
+    "school_name": "Idunskolan",
+    "source_url": "http://www.idunskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "44673074",
+    "school_name": "Abrahamsbergsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/abrahamsbergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "44836298",
+    "school_name": "Sigfridsborgs skola",
+    "source_url": "http://www.skolor.nacka.se/sigfridsborg",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45104329",
+    "school_name": "Torsviks skola",
+    "source_url": "https://lidingo.se/torsviksskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45133950",
+    "school_name": "Freinetskolan Mimer",
+    "source_url": "http://www.mimer.org",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45279651",
+    "school_name": "Bergshöjdens skola",
+    "source_url": null,
+    "collection_status": "missing_registered_website"
+  },
+  {
+    "school_unit_code": "45364437",
+    "school_name": "Bandhagens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bandhagens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45436515",
+    "school_name": "Sofia skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sofia-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45553352",
+    "school_name": "Montessori Mondial Kungsholmen",
+    "source_url": "https://montessorimondial.se/kungsholmen",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45757947",
+    "school_name": "Tallidsskolan",
+    "source_url": "http://www.botkyrka.se/tallidsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45882318",
+    "school_name": "Töjnaskolan",
+    "source_url": "http://www.edu.sollentuna.se/ton/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45984740",
+    "school_name": "Helleborusskolan",
+    "source_url": "http://www.helleborusskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45986032",
+    "school_name": "Vega skola",
+    "source_url": "https://vegaskola.haninge.se/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "45994471",
+    "school_name": "Solvikskolan",
+    "source_url": "http://solvikskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46097781",
+    "school_name": "Christinaskolan",
+    "source_url": "http://www.christinaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46165232",
+    "school_name": "Mälarhöjdens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/malarhojdens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46206050",
+    "school_name": "Vittra Vallentuna",
+    "source_url": "http://www.vittra.se/vallentuna",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46239244",
+    "school_name": "Kolarängskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46518352",
+    "school_name": "Elmsta skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46581319",
+    "school_name": "Lillholmsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/lillholmsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46616391",
+    "school_name": "Beckombergaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/beckombergaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46646143",
+    "school_name": "Innovitaskolan Joriel",
+    "source_url": "https://innovitaskolan.se/joriel/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46706680",
+    "school_name": "Ulriksdalsskolan",
+    "source_url": "http://www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "46796995",
+    "school_name": "Kunskapsskolan Spånga",
+    "source_url": "https://www.kunskapsskolan.se/skolor/spanga",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47034991",
+    "school_name": "Muskö skola",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47140640",
+    "school_name": "Utö skola",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47204443",
+    "school_name": "Mölnboskolan",
+    "source_url": "http://www.sodertalje.se/molnboskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47243834",
+    "school_name": "Eklidens skola",
+    "source_url": "http://www.ekliden.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47244612",
+    "school_name": "Ornö skola",
+    "source_url": "http://www.haninge.se/sv/Barn--Utbildning/Grundskola/Kommunala-grundskolor/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47273038",
+    "school_name": "Klastorpsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/klastorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47290443",
+    "school_name": "Rälsen Viby",
+    "source_url": "http://www.ralsen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47462120",
+    "school_name": "Dibber International School Sollentuna",
+    "source_url": "https://dibber.se/skola/international-school-sollentuna/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47640376",
+    "school_name": "Dalarö skola",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47705565",
+    "school_name": "Munkmoraskolan",
+    "source_url": "http://www.varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47727629",
+    "school_name": "Skärsta friskola",
+    "source_url": null,
+    "collection_status": "missing_registered_website"
+  },
+  {
+    "school_unit_code": "47969716",
+    "school_name": "SSHL Sigtunaskolan Humanistiska Läroverket",
+    "source_url": "http://www.sshl.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47979659",
+    "school_name": "Backluraskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/backluraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "47986219",
+    "school_name": "Futuraskolan AB",
+    "source_url": "http://www.futuraskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "48184058",
+    "school_name": "Aktiviaskolan",
+    "source_url": "http://www.aktiviaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "48312263",
+    "school_name": "Hanvikens skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "48328583",
+    "school_name": "Årstaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/arstaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "48363218",
+    "school_name": "Solhemsängens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "48724676",
+    "school_name": "Kronängsskolan",
+    "source_url": "http://vaxholm.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "48760074",
+    "school_name": "Vittra Frösunda",
+    "source_url": "http://www.vittra.se/frosunda",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "48791751",
+    "school_name": "Magelungens Grundskola Solna",
+    "source_url": "http://www.magelungen.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "49021135",
+    "school_name": "Södervikskolan AB",
+    "source_url": "http://www.sodervikskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "49631077",
+    "school_name": "Högsätra skola",
+    "source_url": "https://www.lidingo.se/hogsatraskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "49669037",
+    "school_name": "Vätö skola",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "49741755",
+    "school_name": "Lugnets skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/lugnets-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "49762104",
+    "school_name": "Viksbergskolan",
+    "source_url": "http://www.sodertalje.se/viksbergskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "49862579",
+    "school_name": "Fagersjöskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/fagersjoskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "50060022",
+    "school_name": "Smedshagsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/smedshagsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "50783450",
+    "school_name": "Vistaskolan",
+    "source_url": "http://www.huddinge.se/vistaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "50848996",
+    "school_name": "Raoul Wallenbergskolan Bromma",
+    "source_url": "http://www.raoulwallenbergskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "50905672",
+    "school_name": "Rådmansö skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "51041954",
+    "school_name": "Rälsen Norrviken",
+    "source_url": "http://www.ralsen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "51100048",
+    "school_name": "Kymlingeskolan",
+    "source_url": "http://www.sundbyberg.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "51210001",
+    "school_name": "Ronnaskolan",
+    "source_url": "http://www.sodertalje.se/ronnaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "51305351",
+    "school_name": "Tråsättraskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "51341279",
+    "school_name": "Grimstaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/grimstaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "51863294",
+    "school_name": "Parkhemsskolan",
+    "source_url": "http://www.botkyrka.se/parkhemsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52064811",
+    "school_name": "Skederids skola",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skederids-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52217632",
+    "school_name": "Tappströmsskolan",
+    "source_url": "http://www.ekero.se/tappstromsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52293921",
+    "school_name": "Bällstabergsskolan",
+    "source_url": "http://www.skolor.vallentuna.se/ballstaberg/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52423184",
+    "school_name": "Bo skola",
+    "source_url": "http://www.lidingo.se/boskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52479822",
+    "school_name": "Nockebyhovsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nockebyhovsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52531425",
+    "school_name": "Stimmets skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52863414",
+    "school_name": "Vasa Real",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vasa-real",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52866214",
+    "school_name": "Myrängsskolan",
+    "source_url": "http://www.taby.se/Myrangsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52885189",
+    "school_name": "Ektorps skola",
+    "source_url": "http://www.ektorp.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52925821",
+    "school_name": "JENSEN grundskola Sickla",
+    "source_url": "http://www.jensengrundskola.se/sickla",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "52965560",
+    "school_name": "Vasa International School of Stockholm/F-9",
+    "source_url": "http://www.vasainternationalschoolofstockholm.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "53075005",
+    "school_name": "Skarpnäcks skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skarpnacks-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "53133366",
+    "school_name": "Orminge skola",
+    "source_url": "http://www.orminge.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "53147557",
+    "school_name": "Stefanskolan",
+    "source_url": "http://www.stefanskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "53175499",
+    "school_name": "Tyska Skolan",
+    "source_url": "http://www.tyskaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "53259263",
+    "school_name": "Ingridskolan",
+    "source_url": "http://www.ingridskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "53319802",
+    "school_name": "Ljusterö skola",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "53352683",
+    "school_name": "Viggbyskolan",
+    "source_url": "http://www.taby.se/viggbyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "53576482",
+    "school_name": "Eklidens skola",
+    "source_url": null,
+    "collection_status": "missing_registered_website"
+  },
+  {
+    "school_unit_code": "54067262",
+    "school_name": "Fågelsångens skola",
+    "source_url": "https://salem.se/forskolaochskola/grundskola/fagelsangensskola.4.71690677193678e483bfa6.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "54332921",
+    "school_name": "Mellansjö skola",
+    "source_url": "https://nytida.se/skola/vara-skolor/mellansjoskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "54348763",
+    "school_name": "Nacka Idrottsgrundskola",
+    "source_url": "https://idrottsgrundskolannacka.se/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "54516737",
+    "school_name": "Kvarnbergsskolan",
+    "source_url": "http://www.huddinge.se/kvarnbergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "54752734",
+    "school_name": "Västra Ekoskolan",
+    "source_url": "http://www.ekoskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "54806839",
+    "school_name": "Ogenholts friskola AB",
+    "source_url": "http://www.vibyfriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "54847211",
+    "school_name": "Entréskolan Stockholm",
+    "source_url": "http://www.entreskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "55233055",
+    "school_name": "Innovitaskolan Söderby",
+    "source_url": "https://innovitaskolan.se/soderby/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "55267088",
+    "school_name": "Täby Friskola",
+    "source_url": "http://www.tabyfriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "55382103",
+    "school_name": "Björngårdsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bjorngardsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "55508705",
+    "school_name": "Stiftelsen Josefinaskolan",
+    "source_url": "http://www.josefinaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "55512387",
+    "school_name": "Breddenskolan",
+    "source_url": "http://www.upplandsvasby.se/breddenskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "55690064",
+    "school_name": "Resursskolan Ängsrosen",
+    "source_url": "www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56130729",
+    "school_name": "Dalskolan",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56299553",
+    "school_name": "Bergaskolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/bergaskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56315778",
+    "school_name": "Brunnaskolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/brunnaskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56417100",
+    "school_name": "Kvarnhagsskolan",
+    "source_url": "http://www.botkyrka.se/kvarnhagsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56501561",
+    "school_name": "Essingeskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/essingeskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56568612",
+    "school_name": "Wasaskolan",
+    "source_url": "http://www.sodertalje.se/wasaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56662185",
+    "school_name": "Balderskolan",
+    "source_url": "https://www.up.se/balderskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56858061",
+    "school_name": "Söderby Friskola",
+    "source_url": "http://www.soderbyfriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56867397",
+    "school_name": "Silverbäcken Dibber",
+    "source_url": "https://dibber.se/skola/silverbacken-dibber/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "56949296",
+    "school_name": "Blackebergsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/blackebergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57034070",
+    "school_name": "Magelungens Grundskola Södermalm",
+    "source_url": "http://www.magelungen.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57106833",
+    "school_name": "Vendestigens Förskola och Skola AB",
+    "source_url": "http://www.vendestigen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57184925",
+    "school_name": "Hökarängsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hokarangsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57206066",
+    "school_name": "Vallatorpsskolan",
+    "source_url": "http://www.taby.se/vallatorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57228484",
+    "school_name": "Grindtorpsskolan",
+    "source_url": "http://www.botkyrka.se/grindtorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57317316",
+    "school_name": "JENSEN grundskola Långholmen",
+    "source_url": "https://www.jensengrundskola.se/langholmen",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57329777",
+    "school_name": "Konradsbergsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/konradsbergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57368693",
+    "school_name": "Sickla skola",
+    "source_url": "http://www.sickla.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57370453",
+    "school_name": "Karbyskolan",
+    "source_url": "http://www.vallentuna.se/karby",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57467562",
+    "school_name": "Freinetskolan Mimer Tingshuset",
+    "source_url": "http://www.mimer.org",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57510246",
+    "school_name": "Snitz Grundskola",
+    "source_url": "https://snitz.se/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57755652",
+    "school_name": "Neptuniskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "57850353",
+    "school_name": "Sverigefinskaskolan i Botkyrka",
+    "source_url": "http://www.sverigefinskaskolan.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58004018",
+    "school_name": "Noraskolan",
+    "source_url": null,
+    "collection_status": "missing_registered_website"
+  },
+  {
+    "school_unit_code": "58102266",
+    "school_name": "Vittra Sollentuna",
+    "source_url": "http://www.vittra.se/sollentuna",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58173761",
+    "school_name": "Olovslundskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58286716",
+    "school_name": "Norrbackaskolan",
+    "source_url": "http://www.sigtuna.se/norrbackaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58294404",
+    "school_name": "Tellusborgsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tellusborgsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58294981",
+    "school_name": "Rösjöskolan",
+    "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58310322",
+    "school_name": "Trädgårdsstadsskolan",
+    "source_url": "http://www.botkyrka.se/tradgardsstadsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58338225",
+    "school_name": "Rindö skola",
+    "source_url": "http://www.vaxholm.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58385274",
+    "school_name": "Skogsängsskolan",
+    "source_url": "https://salem.se/forskolaochskola/grundskola/skogsangsskolan.4.335d63281936795eddcd74f.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58653522",
+    "school_name": "Roslags Kulla skola",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58747846",
+    "school_name": "Midsommarkransens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/midsommarkransens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58862351",
+    "school_name": "Bergfotens skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "58994357",
+    "school_name": "Innovitaskolan Segeltorp",
+    "source_url": "https://innovitaskolan.se/segeltorp/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "59249600",
+    "school_name": "Eriksdalsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/eriksdalsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "59266692",
+    "school_name": "Vittra Rösjötorp",
+    "source_url": "http://www.vittra.se/rosjotorp",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "59457803",
+    "school_name": "Helleborusskolan Österåker AB",
+    "source_url": "http://www.helleborusskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "59468219",
+    "school_name": "Slättgårdsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/slattgardsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "59497255",
+    "school_name": "Ribbyskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "59848694",
+    "school_name": "Danderyds Montessoriskola",
+    "source_url": "http://www.dmskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "59900714",
+    "school_name": "Vittra Södermalm",
+    "source_url": "http://www.vittra.se/sodermalm",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "59975651",
+    "school_name": "Svanberga skola",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/svanberga-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "60131588",
+    "school_name": "Sticklinge skola",
+    "source_url": "https://www.lidingo.se/sticklingeskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "60211862",
+    "school_name": "Lärande Grundskola Vira",
+    "source_url": "http://www.larandegrundskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "60308449",
+    "school_name": "Filosofiska",
+    "source_url": "http://www.filosofiska.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "60382920",
+    "school_name": "Rågsveds grundskola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ragsveds-grundskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "60521412",
+    "school_name": "Igelbäckskolan",
+    "source_url": "https://www.sundbyberg.se/forskola-utbildning/grundskola-och-grundsarskola/sundbybergs-resursskola.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "60570294",
+    "school_name": "Brunnsängskolan",
+    "source_url": "http://www.sodertalje.se/brunnsangskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "60904587",
+    "school_name": "Internationella Engelska Skolan Tyresö",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "61043089",
+    "school_name": "Ekensbergsskolan",
+    "source_url": "http://www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "61056172",
+    "school_name": "Centralskolan",
+    "source_url": "http://www.sigtuna.se/centralskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "61061763",
+    "school_name": "Finnstaskolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/finnstaskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "61184554",
+    "school_name": "Eviaskolan Söder",
+    "source_url": "https://wemind.se/hvb-och-skola/eviaskolan-soder/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "61686233",
+    "school_name": "Rålambshovsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ralambshovsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "61980418",
+    "school_name": "I Ur och Skur skolan Skarpnäck",
+    "source_url": "http://www.iurochskur.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62004466",
+    "school_name": "Stensängsskolan",
+    "source_url": "https://www.huddinge.se/stensangsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62078083",
+    "school_name": "Lärande Grundskola Fresta",
+    "source_url": "http://www.larandegrundskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62288230",
+    "school_name": "Lina grundskola",
+    "source_url": "http://www.sodertalje.se/linagrundskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62518360",
+    "school_name": "Resursskola Annersta",
+    "source_url": "http://www.huddinge.se/annerstaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62533129",
+    "school_name": "Bobergsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bobergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62544265",
+    "school_name": "Fria Maria Barnskola",
+    "source_url": "http://www.friamaria.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62569730",
+    "school_name": "Internationella Engelska Skolan Värmdö",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62707060",
+    "school_name": "Skälbyskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "62862066",
+    "school_name": "Helenelundsskolan",
+    "source_url": "http://www.sollentuna.se/sv/uweb/helenelundsskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63111806",
+    "school_name": "Källskolan",
+    "source_url": "http://www.kallskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63150475",
+    "school_name": "Sjumilaskolan",
+    "source_url": "https://www.upplandsvasby.se/4.4888d21515e5a932a771172.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63300625",
+    "school_name": "Duvboskolan",
+    "source_url": "http://www.sundbyberg.se/duvboskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63321041",
+    "school_name": "Kungliga Svenska Balettskolan",
+    "source_url": "http://www.kungligasvenskabalettskolan.se/grundskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63329692",
+    "school_name": "Sörgårdsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sorgardsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63542436",
+    "school_name": "Sätunaskolan",
+    "source_url": "http://www.sigtuna.se/satunaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63581692",
+    "school_name": "Enebybergs skola",
+    "source_url": "https://www.danderyd.se/skolor/enebybergs-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63592981",
+    "school_name": "Internationella Engelska Skolan Sigtuna",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63682476",
+    "school_name": "Grantomta Montessoriskola",
+    "source_url": "http://www.grantomta.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63742407",
+    "school_name": "Rosendalsskolan",
+    "source_url": "http://www.vallentuna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "63954028",
+    "school_name": "Kunskapsskolan Fruängen",
+    "source_url": "https://www.kunskapsskolan.se/skolor/fruangen",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "64065082",
+    "school_name": "Fredrikshovs slotts skola",
+    "source_url": "http://www.fredrikshov.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "64081877",
+    "school_name": "Snättringeskolan",
+    "source_url": "http://www.huddinge.se/snattringeskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "64285853",
+    "school_name": "Duvnäs skola",
+    "source_url": "http://www.duvnas.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "64732323",
+    "school_name": "The Tanto International School",
+    "source_url": "https://www.tantoschool.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "64736967",
+    "school_name": "Västbergaskolan",
+    "source_url": "http://www.vastbergaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "64836806",
+    "school_name": "Vallaskolan",
+    "source_url": "http://www.sodertalje.se/vallaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "64949601",
+    "school_name": "Vårbyskolan",
+    "source_url": "http://www.huddinge.se/varbyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "65487837",
+    "school_name": "Futuraskolan AB",
+    "source_url": "http://www.futuraskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "65545391",
+    "school_name": "Täby Friskola",
+    "source_url": "http://www.tabyfriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "65717061",
+    "school_name": "Gröndalsskolan",
+    "source_url": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/grondalsskolan-f-9",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "65839656",
+    "school_name": "Byängsskolan AB",
+    "source_url": "http://www.byangsskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "65927702",
+    "school_name": "Innovitaskolan Vendelsö",
+    "source_url": "https://innovitaskolan.se/vendelso/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "66161099",
+    "school_name": "Internationella Engelska Skolan Österåker",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "66283082",
+    "school_name": "Hammarbyskolan Norra",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-norra",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "66383692",
+    "school_name": "Sjötorpsskolan",
+    "source_url": "http://www.huddinge.se/sjotorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "66455663",
+    "school_name": "Engelska skolan Novia",
+    "source_url": "https://www.engelskaskolannovia.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "66475520",
+    "school_name": "Träkvista skolan",
+    "source_url": "http://www.ekero.se/trakvista",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "66620411",
+    "school_name": "British International School",
+    "source_url": "http://www.bisstockholm.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "66634449",
+    "school_name": "Vittra Jakobsberg",
+    "source_url": "http://www.vittra.se/jakobsberg",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "66851849",
+    "school_name": "Olovslundsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/olovslundsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "67662754",
+    "school_name": "Vittra Telefonplan",
+    "source_url": "http://www.vittra.se/telefonplan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "67731691",
+    "school_name": "Lunaskolan Södra",
+    "source_url": "https://www.up.se/lunaskolansodra/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "67742754",
+    "school_name": "Karsby International School",
+    "source_url": "http://www.botkyrka.se/karsbyinternationalschool",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "67743631",
+    "school_name": "Internationella Engelska Skolan Norrtälje",
+    "source_url": "https://engelska.se/our-schools/norrtalje/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "67788311",
+    "school_name": "Noblaskolan Sundbyberg",
+    "source_url": "https://noblaskolan.se/sundbyberg/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "67809355",
+    "school_name": "Innovitaskolan Norrtälje",
+    "source_url": "https://innovitaskolan.se/norrtalje/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "67926479",
+    "school_name": "Norra Lagnö Skola",
+    "source_url": "lagnovallen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "68361133",
+    "school_name": "Vanstaskolan",
+    "source_url": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/vanstaskolan-f-9",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "68403656",
+    "school_name": "Sverigefinska Språkskolan",
+    "source_url": "http://www.sprakskolanvasby.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "68422076",
+    "school_name": "Björkestaskolan",
+    "source_url": "http://www.nykvarn.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "68602166",
+    "school_name": "Hammarbyskolan Södra",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hammarbyskolan-sodra",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "68812584",
+    "school_name": "Askebyskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/askebyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "68893390",
+    "school_name": "Ulvsundaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ulvsundaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "68939834",
+    "school_name": "Hillelskolan",
+    "source_url": "http://www.hillel.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "69004747",
+    "school_name": "Fryshuset Grundskola Husby",
+    "source_url": "https://fryshuset.se/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "69043808",
+    "school_name": "Byleskolan",
+    "source_url": "http://www.taby.se/byleskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "69088221",
+    "school_name": "Skolhagenskolan",
+    "source_url": "http://www.taby.se/skolhagenskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "69195602",
+    "school_name": "Silverdalsskolan",
+    "source_url": "http://www.sollentuna.se/sv/uweb/utbildning-silverdal/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "69266159",
+    "school_name": "Hjulsta grundskola F-9",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hjulsta-grundskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "69329486",
+    "school_name": "Källängens skola",
+    "source_url": "https://www.lidingo.se/kallangensskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "69895255",
+    "school_name": "Mariaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/mariaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "69909271",
+    "school_name": "Resarö skola",
+    "source_url": "http://www.vaxholm.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "70089804",
+    "school_name": "Loviselundsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/loviselundsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "70182130",
+    "school_name": "Drottningdals skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "70201551",
+    "school_name": "Gärdesskolan",
+    "source_url": "http://www.sollentuna.se/sv/uweb/gardesskolan-med-forskolor/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "70329261",
+    "school_name": "Hägerstensåsens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstensasens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "70398560",
+    "school_name": "Kämpetorpsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kampetorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "70481988",
+    "school_name": "Svartsö skola",
+    "source_url": "http://varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "70592143",
+    "school_name": "Sjöviksskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoviksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "70803136",
+    "school_name": "Kyrkskolan",
+    "source_url": "http://www.varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "71078874",
+    "school_name": "Fornuddens skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "71363923",
+    "school_name": "Djurgårdsskolan",
+    "source_url": "http://www.djurgardsskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "71375812",
+    "school_name": "Vallentuna Internationella Montessoriskola",
+    "source_url": "http://www.vallentunaims.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "71638763",
+    "school_name": "Norskolan",
+    "source_url": "http://www.taby.se/norskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "71669600",
+    "school_name": "Vittra Luma Park",
+    "source_url": "http://www.vittra.se/luma-park",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "71677992",
+    "school_name": "Rönninge skola",
+    "source_url": "https://salem.se/forskolaochskola/grundskola/ronningeskola.4.335d63281936795eddcda10.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "71754599",
+    "school_name": "Gustav Vasa skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gustav-vasa-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "71992738",
+    "school_name": "Fornbackaskolan",
+    "source_url": "http://www.sodertalje.se/fornbackaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72009890",
+    "school_name": "Lilla Adolf Fredriks skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/lilla-adolf-fredriks-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72074288",
+    "school_name": "Rydbo skola",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72120589",
+    "school_name": "Stålhamraskolan",
+    "source_url": "http://www.sodertalje.se/stalhamraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72266104",
+    "school_name": "Vendelsömalmsskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72345466",
+    "school_name": "Kvarnbyskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kvarnbyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72370577",
+    "school_name": "Stocksundsskolan",
+    "source_url": "https://www.danderyd.se/skolor/stocksundsskolan-och-langangsskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72378947",
+    "school_name": "Vallentuna Friskola",
+    "source_url": "http://www.vallentunafriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72392930",
+    "school_name": "Ängsnässkolan",
+    "source_url": "http://www.huddinge.se/angsnasskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72471883",
+    "school_name": "Länna skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72509254",
+    "school_name": "Lunaskolan Bromma",
+    "source_url": "https://www.up.se/lunaskolanbromma/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72584192",
+    "school_name": "Nya Enskede skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/enskede-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72624886",
+    "school_name": "Internationella Engelska Skolan Liljeholmen",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72627865",
+    "school_name": "Alviksskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alviksskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72672270",
+    "school_name": "Aspuddens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/aspuddens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "72769342",
+    "school_name": "Täby Friskola",
+    "source_url": "http://www.tabyfriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "73075913",
+    "school_name": "Mikaelgårdens Skola",
+    "source_url": "http://www.mikaelgarden.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "73083470",
+    "school_name": "Rydbo Friskola",
+    "source_url": "http://www.rydbofriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "73184968",
+    "school_name": "Brandbergsskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "73272488",
+    "school_name": "Skärgårdsstadsskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "73581523",
+    "school_name": "Tallbackaskolan",
+    "source_url": "http://www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "73629371",
+    "school_name": "Gillbo-Gröndalsskolan",
+    "source_url": "http://www.sollentuna.se/sv/uweb/utbildning-rotebro",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "73893187",
+    "school_name": "Maria Elementarskola",
+    "source_url": "http://www.mariaelementar.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "73926940",
+    "school_name": "Deltaskolan",
+    "source_url": "http://www.deltaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "74174879",
+    "school_name": "Bollstanäs skola",
+    "source_url": "http://www.upplandsvasby.se/bollstanasskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "74358019",
+    "school_name": "Internationella Engelska Skolan Nacka",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "74396596",
+    "school_name": "Kvarnbackaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kvarnbackaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "74482611",
+    "school_name": "Internationella Engelska skolan Hässelby",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "74489639",
+    "school_name": "Innovitaskolan Södertälje",
+    "source_url": "https://innovitaskolan.se/sodertalje/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "74631147",
+    "school_name": "Enskedefältets skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/enskedefaltets-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "74706113",
+    "school_name": "Danaskolan",
+    "source_url": null,
+    "collection_status": "missing_registered_website"
+  },
+  {
+    "school_unit_code": "74723082",
+    "school_name": "Gullingeskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gullingeskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "74920766",
+    "school_name": "Mariehällsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/mariehallsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75017455",
+    "school_name": "Skytteholmsskolan",
+    "source_url": "http://www.solna.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75109796",
+    "school_name": "Lillåkers skola",
+    "source_url": "https://lidingo.se/lillakersskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75255864",
+    "school_name": "Pilgrimsskolan",
+    "source_url": "http://www.pilgrimsskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75387026",
+    "school_name": "Vårbackaskolan",
+    "source_url": "http://www.huddinge.se/varbackaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75401552",
+    "school_name": "Turebergsskolan",
+    "source_url": "https://www.sollentuna.se/uweb/turebergsskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75505688",
+    "school_name": "Igelsta grundskola",
+    "source_url": "http://www.sodertalje.se/igelstagrundskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75527289",
+    "school_name": "Västerhaninge Montessoriskola Ugglan",
+    "source_url": "http://www.ugglan.net",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75565366",
+    "school_name": "Myrstugubergets Friskola",
+    "source_url": "http://www.myrstuguskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75580959",
+    "school_name": "Rikstens skola",
+    "source_url": "http://www.botkyrka.se/rikstensskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75614609",
+    "school_name": "Södermalmsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sodermalmsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75656508",
+    "school_name": "Vasastans Montessoriskola",
+    "source_url": "http://www.vasastansmontessoriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "75834458",
+    "school_name": "Björknässkolan",
+    "source_url": "http://www.bjorknas.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "76033436",
+    "school_name": "Barkarbyskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "76222592",
+    "school_name": "Innovitaskolan Rönninge",
+    "source_url": "https://innovitaskolan.se/ronninge/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "76440567",
+    "school_name": "Kvarnbäcksskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "76550010",
+    "school_name": "Tjustaskolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/tjustaskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "76557608",
+    "school_name": "Lindeskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/lindeskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "76952966",
+    "school_name": "Skanskvarnsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skanskvarnsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "77002828",
+    "school_name": "Skebo skola",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/skebo-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "77314942",
+    "school_name": "Norra Ängby skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/norra-angby-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "77370320",
+    "school_name": "Ytterbyskolan",
+    "source_url": "http://www.taby.se/ytterbyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "77624936",
+    "school_name": "Runby skola",
+    "source_url": "http://www.upplandsvasby.se/runbyskolor",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "77656740",
+    "school_name": "Rosholmen Education Academy AB",
+    "source_url": "http://www.rosholmen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "77763178",
+    "school_name": "Kvarnskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "78491090",
+    "school_name": "Tingvallaskolan",
+    "source_url": "http://www.sigtuna.se/tingvallaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "78508835",
+    "school_name": "Sverigefinska skolan i Stockholm",
+    "source_url": "http://www.sverigefinskaskolan.eu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "78801570",
+    "school_name": "Raoul Wallenbergskolan Jungfrusund",
+    "source_url": "www.rws.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "78808043",
+    "school_name": "Ösbyskolan AB",
+    "source_url": "http://www.osbyskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "78918091",
+    "school_name": "Kyrkskolan",
+    "source_url": "http://www.taby.se/kyrkskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "79004521",
+    "school_name": "Viaskolan",
+    "source_url": "https://nynashamn.se/service/forskola--skola/grundskola/hitta-skola/viaskolan-f-9",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "79012683",
+    "school_name": "Annerstaskolan",
+    "source_url": "http://www.huddinge.se/annerstaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "79034924",
+    "school_name": "Haninge resursskola",
+    "source_url": null,
+    "collection_status": "missing_registered_website"
+  },
+  {
+    "school_unit_code": "79093755",
+    "school_name": "Internationella Engelska Skolan Järfälla",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "79466321",
+    "school_name": "Hölöskolan",
+    "source_url": "http://www.sodertalje.se/holoskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "79626756",
+    "school_name": "Hästhagsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hasthagsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "79708334",
+    "school_name": "Viktor Rydbergs skola Sundbyberg",
+    "source_url": "http://www.vrskolor.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "79969356",
+    "school_name": "Europaskolan",
+    "source_url": "http://www.europaskolan.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "80274643",
+    "school_name": "Skepptuna skola",
+    "source_url": "http://www.sigtuna.se/skepptunaskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "80378022",
+    "school_name": "Botkyrka Friskola",
+    "source_url": "http://www.botfri.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "80509560",
+    "school_name": "Engelska Språkskolan",
+    "source_url": "http://www.sprakskolanvasby.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "80561156",
+    "school_name": "Ektorps skola",
+    "source_url": "nacka.se/valfard-skola/skuru-duvnasresursskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "80612612",
+    "school_name": "Kristinebergsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/kristinebergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "80731562",
+    "school_name": "JENSEN grundskola Kvarnsjön",
+    "source_url": "http://www.jensengrundskola.se/kvarnsjon",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "80746043",
+    "school_name": "Ribbybergsskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "80752058",
+    "school_name": "JENSEN grundskola Steninge",
+    "source_url": "https://www.jensengrundskola.se/steninge",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "81021363",
+    "school_name": "Herrestaskolan",
+    "source_url": "http://www.jarfalla.se/underwebbar/herrestaskolan/valkommen-till-herrestaskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "81266343",
+    "school_name": "Kunskapsskolan Tyresö",
+    "source_url": "https://www.kunskapsskolan.se/skolor/tyreso",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "81396509",
+    "school_name": "Innovitaskolan Banérporten",
+    "source_url": "https://innovitaskolan.se/banerporten/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "81453817",
+    "school_name": "Lärande Grundskola Magneten",
+    "source_url": "http://www.larandegrundskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "81611939",
+    "school_name": "Grindstuskolan",
+    "source_url": "https://www.huddinge.se/grindstuskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "81680693",
+    "school_name": "HagaLyckebyskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "81857869",
+    "school_name": "Skärsätra skola",
+    "source_url": "https://www.lidingo.se/skarsatraskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "81903519",
+    "school_name": "Långsjöskolan",
+    "source_url": "https://www.huddinge.se/langsjoskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82047013",
+    "school_name": "Älta skola",
+    "source_url": "http://www.alta.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82075850",
+    "school_name": "Skarpatorpsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skarpatorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82110758",
+    "school_name": "Hagsätraskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagsatraskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82137009",
+    "school_name": "Hovsjöskolan",
+    "source_url": "http://www.sodertalje.se/hovsjoskolor",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82212978",
+    "school_name": "Stockholms Montessoriskola Färgargårdstorget",
+    "source_url": "www.stockholmsmontessoriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82408375",
+    "school_name": "Montessori Mondial Kista",
+    "source_url": "https://montessorimondial.se/kista/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82624830",
+    "school_name": "Solskiftesskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82757734",
+    "school_name": "Lundskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82838118",
+    "school_name": "Alla Nationers Fria Skola",
+    "source_url": "http://www.anfs.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82854505",
+    "school_name": "Martinskolan Söders Waldorfskola",
+    "source_url": "http://www.martinskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82962565",
+    "school_name": "Hörningsnässkolan",
+    "source_url": "http://www.huddinge.se/horningsnasskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "82982309",
+    "school_name": "Internationella Engelska Skolan Kista",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "83020784",
+    "school_name": "Tyresö skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "83454509",
+    "school_name": "Skarpängsskolan",
+    "source_url": "http://www.taby.se/skarpangsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "83584296",
+    "school_name": "Internationella Engelska Skolan Älvsjö",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "83623446",
+    "school_name": "Rösjöskolan",
+    "source_url": "http://www.taby.se/rosjoskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "83735665",
+    "school_name": "Stockholm International Academy Häggvik",
+    "source_url": "https://siaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "83810698",
+    "school_name": "Elinsborgsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/elinsborgsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "83828066",
+    "school_name": "Nya Elementar",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/nya-elementar",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "84103650",
+    "school_name": "Kårstaskolan",
+    "source_url": "http://www.vallentuna.se/karsta/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "84230778",
+    "school_name": "Svalnäs skola",
+    "source_url": "http://www.svalnas.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "84520303",
+    "school_name": "Hagaskolan",
+    "source_url": "http://vallentuna.se/haga",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "84584068",
+    "school_name": "Frötuna skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "84585645",
+    "school_name": "Djurgårdens Waldorfskoleförening, Hagaskolan",
+    "source_url": "http://www.hagaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "84704913",
+    "school_name": "Krusboda skola",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "84884375",
+    "school_name": "Myrsjöskolan",
+    "source_url": "http://www.myrsjo.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "85200474",
+    "school_name": "Magelungens Grundskola Långbropark",
+    "source_url": "http://www.magelungen.com",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "85440729",
+    "school_name": "Häggvik- Skälbyskolan",
+    "source_url": "http://www.sollentuna.se/sv/skola--forskola/grundskola/skolor/haggviks-skolor/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "85558618",
+    "school_name": "Falkbergsskolan",
+    "source_url": "http://www.botkyrka.se/falkbergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "85670099",
+    "school_name": "Stift. Sthlm Intern. School gr",
+    "source_url": "http://www.intsch.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "85759071",
+    "school_name": "Lillsjöskolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/lillsjoskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "85777315",
+    "school_name": "Mikaelskolan",
+    "source_url": "http://www.mikaelskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "85796724",
+    "school_name": "Källskolan",
+    "source_url": "http://www.kallskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86086213",
+    "school_name": "Sofiaängens skola",
+    "source_url": "http://www.sofiaangen.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86117924",
+    "school_name": "Gamla Enskede skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/enskede-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86192571",
+    "school_name": "Banslättskolan",
+    "source_url": "http://www.botkyrka.se/banslattskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86271166",
+    "school_name": "Vattmyraskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86337537",
+    "school_name": "Maltesholmsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/maltesholmsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86363147",
+    "school_name": "Sjöängsskolan",
+    "source_url": "www.varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86440798",
+    "school_name": null,
+    "source_url": "http://www.haningemontessoriskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86597125",
+    "school_name": "Hässelby Villastads skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hasselby-villastads-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86758230",
+    "school_name": "Viktor Rydbergs skola Jarlaplan",
+    "source_url": "http://www.vrskolor.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86917350",
+    "school_name": "Köpmanholms skola",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/kopmanholms-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86937935",
+    "school_name": "Sågtorpsskolan",
+    "source_url": "http://www.sagtorp.nacka.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "86985859",
+    "school_name": "Malmsjö skola",
+    "source_url": "http://www.botkyrka.se/malmsjoskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87382179",
+    "school_name": "Väringaskolans föräldraförening",
+    "source_url": "http://www.varingaskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87412084",
+    "school_name": "Skolan LÄR",
+    "source_url": "http://www.skolanlar.nu",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87425546",
+    "school_name": "Kunskapsskolan Nacka",
+    "source_url": "https://www.kunskapsskolan.se/skolor/nacka",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87521048",
+    "school_name": "Engelbrektsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/engelbrektsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87665835",
+    "school_name": "Strandskolan",
+    "source_url": "http://www.tyreso.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87719096",
+    "school_name": "Ålstensskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/alstensskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87838841",
+    "school_name": "Hässelbygårdsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hasselbygardsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87920455",
+    "school_name": "Skönstaholmsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skonstaholmsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87967939",
+    "school_name": "Noblaskolan Lännersta",
+    "source_url": "https://noblaskolan.se/lannersta/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "87999453",
+    "school_name": "Tellusskolan Thea Bromma",
+    "source_url": "https://tellusskolan.se/skolor/thea-bromma/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "88207732",
+    "school_name": "Blommensbergsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/blommensbergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "88283203",
+    "school_name": "Ösbyskolan",
+    "source_url": "http://www.varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "88454421",
+    "school_name": "Aspnässkolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "88712672",
+    "school_name": "Söraskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "88795871",
+    "school_name": "Södra Ängby skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sodra-angby-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89053805",
+    "school_name": "Fastebolskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89317818",
+    "school_name": "Kyrkskolan",
+    "source_url": "https://www.danderyd.se/skolor/kyrkskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89424201",
+    "school_name": "Spirande Lärande i Täby AB",
+    "source_url": "http://www.spiraskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89510449",
+    "school_name": "Kungsklippeskolan",
+    "source_url": "http://www.huddinge.se/kungsklippeskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89605548",
+    "school_name": "Trollbodaskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/trollbodaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89615900",
+    "school_name": "Bålbroskolan",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/balbroskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89692072",
+    "school_name": "Freinetskolan Hugin",
+    "source_url": "http://www.freinetskolanhugin.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89701816",
+    "school_name": "Kästaskolan",
+    "source_url": "http://grundskolor.huddinge.se/kastaskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89751941",
+    "school_name": "Drakskeppsskolan",
+    "source_url": "http://www.taby.se/drakskeppsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89847413",
+    "school_name": "Skansbergsskolan",
+    "source_url": "https://www.huddinge.se/skansbergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89851619",
+    "school_name": "JENSEN grundskola Bro Mälarstrand F-3",
+    "source_url": "http://www.jensengrundskola.se/bro-malarstrand",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "89893224",
+    "school_name": "Svedenskolan Bergshamra",
+    "source_url": "https://www.up.se/svedenskolanbergshamra/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "90207041",
+    "school_name": "Orminge skola",
+    "source_url": "nacka.se/valfard-skola/myrsjoresursskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "90537318",
+    "school_name": "Vikingaskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "90561266",
+    "school_name": "Hedvig Eleonora skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hedvig-eleonora-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "90719952",
+    "school_name": "Edsbro skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "90732940",
+    "school_name": "Internationella Engelska Skolan Bromma",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "90850620",
+    "school_name": "Grundskolan Metapontum",
+    "source_url": "http://www.metapontum.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "90879048",
+    "school_name": "Raoul Wallenbergskolan Järvastaden",
+    "source_url": "http://www.raoulwallenbergskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "90886859",
+    "school_name": "Utsäljeskolan",
+    "source_url": "http://www.huddinge.se/utsaljeskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "91067048",
+    "school_name": "Ebba Braheskolan",
+    "source_url": "http://www.ebbabraheskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "91213471",
+    "school_name": "Klockargårdens skola",
+    "source_url": "https://www.lidingo.se/klockargardensskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "91816093",
+    "school_name": "Sturebyskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sturebyskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "92007673",
+    "school_name": "Västertorpsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vastertorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "92127007",
+    "school_name": "Norrbyskolan",
+    "source_url": "http://www.norrbyskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "92284588",
+    "school_name": "Ekhammarskolan",
+    "source_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/ekhammarskolan.html",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "92347699",
+    "school_name": "Bromstensskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/bromstensskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "92416778",
+    "school_name": "Hjorthagens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hjorthagens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "92689250",
+    "school_name": "Montessori Mondial Mälarhöjden",
+    "source_url": "https://montessorimondial.se/malarhojden/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "92750123",
+    "school_name": "Enskilda Gymnasiet",
+    "source_url": "http://www.enskildagymnasiet.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "93301103",
+    "school_name": "Aspdammskolan",
+    "source_url": "http://www.aspdammskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "93320132",
+    "school_name": "S:ta Gertruds skola",
+    "source_url": "http://www.sigtuna.se/stagertrudsskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "93412255",
+    "school_name": "Gubbängsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/gubbangsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "93844270",
+    "school_name": "Turingeskolan",
+    "source_url": "http://www.nykvarn.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "93968806",
+    "school_name": "Grönkullaskolan",
+    "source_url": "http://www.sundbyberg.se/gronkullaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94113162",
+    "school_name": "Österskärsskolan",
+    "source_url": "http://www.osteraker.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94279206",
+    "school_name": "Resursskola Sjötorp",
+    "source_url": "http://www.huddinge.se/sjotorpsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94301041",
+    "school_name": "Innovitaskolan Myrängen",
+    "source_url": "https://innovitaskolan.se/myrangen/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94600352",
+    "school_name": "Ekedalsskolan",
+    "source_url": "http://varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94677983",
+    "school_name": "Tullgårdsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tullgardsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94791997",
+    "school_name": "Svartbäcksskolan",
+    "source_url": "http://haninge.se/forskola-och-skola/grundskola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94836092",
+    "school_name": "Borgvallaskolan",
+    "source_url": "https://www.nacka.se/valfard-skola/ektorps-skolenhet/borgvallaskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94864296",
+    "school_name": "Åsö grundskola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/aso-grundskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94902263",
+    "school_name": "Viks skola",
+    "source_url": "http://www.varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94943347",
+    "school_name": "S:t Eriks katolska skola",
+    "source_url": "http://www.sterikskatolskaskola.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "94987345",
+    "school_name": "Ekebyskolan",
+    "source_url": "https://www.danderyd.se/skolor/ekebyskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "95057356",
+    "school_name": "Uppgårdskolan",
+    "source_url": "http://www.ekero.se/uppgardskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "95432644",
+    "school_name": "Kyrkskolan",
+    "source_url": "http://www.danderyd.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "95676943",
+    "school_name": "Kevingeskolan",
+    "source_url": "https://www.danderyd.se/skolor/kevingeskolan/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "95747197",
+    "school_name": "Noblaskolan Brevik",
+    "source_url": "https://noblaskolan.se/brevik/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "95869861",
+    "school_name": "Kvisthamraskolan",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "95940425",
+    "school_name": "Elevverket",
+    "source_url": "http://www.elevverket.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "96330648",
+    "school_name": "Näsbyparksskolan",
+    "source_url": "http://www.taby.se/nasbyparksskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "96622957",
+    "school_name": "Backeboskolan ekonomisk förening",
+    "source_url": "http://www.backeboskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "96646603",
+    "school_name": "Lommarskolan",
+    "source_url": "www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "96653388",
+    "school_name": "Robinson Valsjön",
+    "source_url": "https://tellusskolan.se/skolor/robinson-valsjon/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "96671986",
+    "school_name": "Väsjöskolan",
+    "source_url": null,
+    "collection_status": "missing_registered_website"
+  },
+  {
+    "school_unit_code": "96689751",
+    "school_name": "Kräpplaskolan",
+    "source_url": "http://www.huddinge.se/krapplaskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "96984023",
+    "school_name": "Östermalmsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ostermalmsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97174070",
+    "school_name": "Mörbyskolan",
+    "source_url": "http://www.morbyskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97184063",
+    "school_name": "Högbyskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97400863",
+    "school_name": "Vinsta grundskola västra",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/vinsta-grundskola-vastra",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97402564",
+    "school_name": "Kvarnbergskolan",
+    "source_url": "http://varmdo.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97655739",
+    "school_name": "Eneskolan",
+    "source_url": "http://www.sodertalje.se/eneskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97683561",
+    "school_name": "Johan Skytteskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/johan-skytteskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97686250",
+    "school_name": "Rödabergsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/rodabergsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97718207",
+    "school_name": "Gottsta skola",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97762139",
+    "school_name": "Sandbergska skolan Upplands Väsby",
+    "source_url": "http://www.thorenframtid.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97777849",
+    "school_name": "Tallbohovskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97927760",
+    "school_name": "Noblaskolan Rönninge",
+    "source_url": "https://noblaskolan.se/ronninge/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97942210",
+    "school_name": "Internationella Engelska Skolan Huddinge",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "97966458",
+    "school_name": "Ormkärrsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ormkarrsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98070480",
+    "school_name": "Hägerstenshamnens skola",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/hagerstenshamnens-skola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98239828",
+    "school_name": "Ekebyholmsskolan AB",
+    "source_url": "http://www.ekebyholm.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98477278",
+    "school_name": "Edboskolan",
+    "source_url": "http://www.huddinge.se/edboskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98515782",
+    "school_name": "Stiftelsen nya Ängkärrskolan",
+    "source_url": "http://www.angkarrskolan.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98531789",
+    "school_name": "Rånäs skola",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98666483",
+    "school_name": "Ålstaskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98753011",
+    "school_name": "Internationella Engelska Skolan Sundbyberg",
+    "source_url": "http://www.engelska.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98760751",
+    "school_name": "Kristofferskolan",
+    "source_url": "https://kristofferskolan.se",
+    "retrieved_at": "2026-10-21T08:54:50.636809+00:00",
+    "scope_status": "unit_scope_needs_review",
+    "collection_scope": "registered_landing_page_only",
+    "method_version": "website_candidates_v1",
+    "robots_url": "https://kristofferskolan.se/robots.txt",
+    "permission_status": "robots_allows_target_terms_not_reviewed",
+    "collection_status": "fetched_needs_review",
+    "candidate_count": 3
+  },
+  {
+    "school_unit_code": "98780182",
+    "school_name": "Bodals skola",
+    "source_url": "https://www.lidingo.se/bodalsskola",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "98925408",
+    "school_name": "Viksjöskolan",
+    "source_url": "http://www.jarfalla.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "99022046",
+    "school_name": "Sköndalsskolan",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/skondalsskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "99373839",
+    "school_name": "Ekebyhovskolan",
+    "source_url": "http://www.ekero.se/ekebyhovskolan",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "99640618",
+    "school_name": "Lillhagaskolan",
+    "source_url": "http://www.nykvarn.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "99648792",
+    "school_name": "Adolf Fredriks musikklasser",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/adolf-fredriks-musikklasser",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "99749462",
+    "school_name": "Långsjöskolan",
+    "source_url": "http://www.norrtalje.se",
+    "collection_status": "not_reviewed"
+  },
+  {
+    "school_unit_code": "99842607",
+    "school_name": "Oxbacksskolan",
+    "source_url": "http://www.sodertalje.se/oxbacksskolan",
+    "collection_status": "not_reviewed"
+  }
+]

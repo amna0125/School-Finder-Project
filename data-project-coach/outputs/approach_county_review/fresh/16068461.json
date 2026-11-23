@@ -1,0 +1,72 @@
+{
+  "school_id": "16068461",
+  "school_name": "Nyckelskolan",
+  "registered_url": "http://www.knippan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.knippan.se/",
+      "source_url": "https://www.knippan.se/",
+      "page_title": "Nyckelknippan, en F-9 skola med eleven i fokus | Knippan",
+      "accessed_at": "2026-10-21T17:28:41.749758+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16068461_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.knippan.se/",
+          "robots_url": "https://www.knippan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:28:40.920128+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.knippan.se/sv/om-skolan.aspx",
+      "source_url": "https://www.knippan.se/sv/om-skolan.aspx",
+      "page_title": "Om Förskolan/ Skolan | Knippan",
+      "accessed_at": "2026-10-21T17:28:42.593013+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16068461_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.knippan.se/sv/om-skolan.aspx",
+          "robots_url": "https://www.knippan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:28:40.920128+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.knippan.se/sv/om-skolan/lediga-tjanster.aspx",
+      "source_url": "https://www.knippan.se/sv/om-skolan/lediga-tjanster.aspx",
+      "page_title": "Lediga tjänster | Knippan",
+      "accessed_at": "2026-10-21T17:28:43.447539+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "16068461_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.knippan.se/sv/om-skolan/lediga-tjanster.aspx",
+          "robots_url": "https://www.knippan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:28:40.920128+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

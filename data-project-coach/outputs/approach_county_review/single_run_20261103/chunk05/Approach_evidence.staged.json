@@ -1,0 +1,192 @@
+[
+  {
+    "evidence_id": "ae_sr_56867397_01",
+    "school_id": "56867397",
+    "source_url": "https://dibber.se/skola/silverbacken-dibber/",
+    "page_title": "Silverbäcken Dibber - Dibber",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi har en inriktning kring utepedagogik vilket innebär att vi är ute mycket med våra elever både under skoldagen samt på fritids på eftermiddagarna.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit outdoor-pedagogy orientation; profile page says much time outdoors mainly for younger pupils."
+  },
+  {
+    "evidence_id": "ae_sr_57034070_01",
+    "school_id": "57034070",
+    "source_url": "https://magelungen.com/",
+    "page_title": "Magelungen - Hopp och förändring",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Skola för elever i omfattande behov av särskilt stöd med eller utan behandling.",
+    "evidence_type": "Provider webpage",
+    "interpretation_note": "All Magelungen grundskolor are resource schools; applies to registered unit."
+  },
+  {
+    "evidence_id": "ae_sr_57106833_01",
+    "school_id": "57106833",
+    "source_url": "https://vendestigen.se/",
+    "page_title": "Vendestigen",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi nyttjar vår omgivning dagligen med promenader, utflykter och utomhusundervisning.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Daily use of surroundings including outdoor teaching; page mixes preschool and school."
+  },
+  {
+    "evidence_id": "ae_sr_57206066_01",
+    "school_id": "57206066",
+    "source_url": "https://www.taby.se/vallatorpsskolan",
+    "page_title": "Vallatorpsskolan | Täby kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi är också Pep-certifierade och arbetar aktivt med rörelse och hälsosamma matvanor under dagen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Health/movement emphasis; certification is school claim."
+  },
+  {
+    "evidence_id": "ae_sr_57317316_01",
+    "school_id": "57317316",
+    "source_url": "https://www.jensengrundskola.se/langholmen",
+    "page_title": "JENSEN grundskola Långholmen | Jensen Grundskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vår skola präglas av studier i fokus, trygghet och studiero. Skolan har också en tydlig hälsoprofil.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Stated health profile."
+  },
+  {
+    "evidence_id": "ae_sr_57317316_02",
+    "school_id": "57317316",
+    "source_url": "https://www.jensengrundskola.se/langholmen",
+    "page_title": "JENSEN grundskola Långholmen | Jensen Grundskola",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi är en traditionell skola fri från trender.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Traditional teacher-led profile; handwriting/literature emphasis."
+  },
+  {
+    "evidence_id": "ae_sr_57329777_01",
+    "school_id": "57329777",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/konradsbergsskolan",
+    "page_title": "Konradsbergsskolan, 4–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Våra fokusområden just nu är matematik och läsutveckling.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Current development focus; dated ('just nu')."
+  },
+  {
+    "evidence_id": "ae_sr_57368693_01",
+    "school_id": "57368693",
+    "source_url": "https://www.nacka.se/valfard-skola/sickla-skola/",
+    "page_title": "Sickla skola | Nacka kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Sickla skola är en Trivselskola, vi är med i Trivselprogrammet för mer aktivitet och ökad trivsel på rasterna.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Named Trivselprogrammet."
+  },
+  {
+    "evidence_id": "ae_sr_57467562_01",
+    "school_id": "57467562",
+    "source_url": "https://www.mimer.org/Freinetpedagogik",
+    "page_title": "Freinetpedagogik :: Freinetskolan Mimer",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "I Sverige finns också flera friskolor som arbetar med Freinetpedagogik. Freinetskolan Mimer och Freinetskolan Hugin i Norrtälje är två av dessa.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Shared Mimer site; Tingshuset is a Mimer unit, so Freinet framing applies."
+  },
+  {
+    "evidence_id": "ae_sr_57510246_01",
+    "school_id": "57510246",
+    "source_url": "https://snitz.se/grundskola/",
+    "page_title": "Snitz Grundskola - Resursskola med NPF-inriktning",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Vi är en liten högstadieskola i Stockholm som främst vänder sig till elever med neuropsykiatriska funktionsvariationer, som till exempel AST och ADHD.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit resource school for pupils with NPF."
+  },
+  {
+    "evidence_id": "ae_sr_57755652_01",
+    "school_id": "57755652",
+    "source_url": "https://www.jarfalla.se/forskolaskolaochutbildning/grundskola/grundskola/barkarbyskalby/neptuniskolan.4.36ac70f31639ecd947f2e74.html",
+    "page_title": "Neptuniskolan - Järfälla kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Alla klassrum har bildstöd, alla elever vet vad som händer under skoldagen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Concrete accessibility practice school-wide."
+  },
+  {
+    "evidence_id": "ae_sr_57850353_01",
+    "school_id": "57850353",
+    "source_url": "https://sverigefinskaskolan.com/",
+    "page_title": "Sverigefinska skolan i Botkyrka",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Sverigefinska skolan i Botkyrka är en tvåspråkig friskola med bra resultat.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit bilingual Finnish–Swedish school with study trips."
+  },
+  {
+    "evidence_id": "ae_sr_58102266_01",
+    "school_id": "58102266",
+    "source_url": "https://vittra.se/sollentuna/",
+    "page_title": "Vittra | Skola i Sollentuna",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Genom verklighetsnära arbetssätt blir undervisningen både rolig och meningsfull.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Isolated provider-style statement."
+  },
+  {
+    "evidence_id": "ae_sr_58294404_01",
+    "school_id": "58294404",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tellusborgsskolan",
+    "page_title": "Tellusborgsskolan, 6–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På Tellusborgsskolan arbetar vi tematiskt och kulturellt för att ge eleverna en helhetssyn över ämnesgränserna.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Explicit thematic cross-subject approach with fixed themes and public presentations."
+  },
+  {
+    "evidence_id": "ae_sr_58294404_02",
+    "school_id": "58294404",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tellusborgsskolan",
+    "page_title": "Tellusborgsskolan, 6–9 - Stockholms stad",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Dessa elever läser då ytterligare en timme i veckan bild, musik eller teater.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Optional cultural deepening years 7–9, plus cultural expression in themes."
+  },
+  {
+    "evidence_id": "ae_sr_58294981_01",
+    "school_id": "58294981",
+    "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/",
+    "page_title": "Rösjöskolan",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Certifierad Generation PEP-skola",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Health/movement certification stated on school home page."
+  },
+  {
+    "evidence_id": "ae_sr_58294981_02",
+    "school_id": "58294981",
+    "source_url": "https://www.sollentuna.se/uweb/rosjoskolan/om-oss/",
+    "page_title": "Välkommen till Rösjöskolan!",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Redan i förskoleklass läggs grunden genom vårt språkutvecklande arbetssätt.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Language-developing approach tied to reading habits."
+  },
+  {
+    "evidence_id": "ae_sr_58385274_01",
+    "school_id": "58385274",
+    "source_url": "https://salem.se/forskolaochskola/grundskola/skogsangsskolan.4.335d63281936795eddcd74f.html",
+    "page_title": "Skogsängsskolan - Salems kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "På Skogsängsskolan tror vi att vistelse ute i naturen skapar trygga elevgrupper och stärker lärandet eftersom eleverna har möjlighet att uppleva det vi läser om i böckerna på riktigt.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Stated outdoor/friluftsliv approach with skiing, canoeing and multi-day hikes."
+  },
+  {
+    "evidence_id": "ae_sr_58653522_01",
+    "school_id": "58653522",
+    "source_url": "https://www.osteraker.se/subsitegrundskolor/roslagskullaskola.4.367d658917909e8fc2b9232.html",
+    "page_title": "Roslags-Kulla skola - Österåkers kommun",
+    "accessed_date": "2026-11-03",
+    "quoted_text": "Som kontrast till tekniken använder vi oss även av skogen och naturen i många olika ämnen.",
+    "evidence_type": "School webpage",
+    "interpretation_note": "Nature used across subjects."
+  }
+]

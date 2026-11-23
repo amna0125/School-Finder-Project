@@ -1,0 +1,72 @@
+{
+  "school_id": "87382179",
+  "school_name": "Väringaskolans föräldraförening",
+  "registered_url": "http://www.varingaskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://varingaskolan.se/",
+      "source_url": "https://varingaskolan.se/",
+      "page_title": "Start - Väringaskolan",
+      "accessed_at": "2026-10-21T17:42:43.850791+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "87382179_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://varingaskolan.se/",
+          "robots_url": "https://varingaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:42:43.063355+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://varingaskolan.se/om-oss/",
+      "source_url": "https://varingaskolan.se/om-oss/",
+      "page_title": "Om oss - Väringaskolan",
+      "accessed_at": "2026-10-21T17:42:44.665922+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "87382179_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://varingaskolan.se/om-oss/",
+          "robots_url": "https://varingaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:42:43.063355+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://varingaskolan.se/om-oss/var-vision/",
+      "source_url": "https://varingaskolan.se/om-oss/var-vision/",
+      "page_title": "Vår vision - Väringaskolan",
+      "accessed_at": "2026-10-21T17:42:46.488960+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "87382179_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://varingaskolan.se/om-oss/var-vision/",
+          "robots_url": "https://varingaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:42:43.063355+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

@@ -1,0 +1,61 @@
+{
+  "school_unit_code": "13582062",
+  "school_name": "Järvaskolan",
+  "registered_url": "http://www.jarvaskolan.se",
+  "attempted_at": "2026-10-21T09:20:02.349830+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://jarvaskolan.se/",
+      "retrieved_at": "2026-10-21T09:20:10.913607+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.jarvaskolan.se",
+          "robots_url": "https://jarvaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:04.880801+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.jarvaskolan.se/",
+          "robots_url": "https://jarvaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:07.325645+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://jarvaskolan.se/",
+          "robots_url": "https://jarvaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:08.972799+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "13582062_0.txt"
+    },
+    {
+      "source_url": "https://jarvaskolan.se/om-skolan/",
+      "retrieved_at": "2026-10-21T09:20:10.945345+00:00",
+      "robots_checks": [
+        {
+          "url": "https://jarvaskolan.se/om-skolan/",
+          "robots_url": "https://jarvaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:08.972799+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "13582062_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

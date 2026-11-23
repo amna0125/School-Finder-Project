@@ -1,0 +1,89 @@
+{
+  "school_unit_code": "68403656",
+  "school_name": "Sverigefinska Språkskolan",
+  "registered_url": "http://www.sprakskolanvasby.se",
+  "attempted_at": "2026-10-21T09:22:45.271971+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://sprakskolanvasby.se/",
+      "retrieved_at": "2026-10-21T09:22:51.898811+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.sprakskolanvasby.se",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:46.674174+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://sprakskolanvasby.se/",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:48.167096+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "68403656_0.txt"
+    },
+    {
+      "source_url": "https://sprakskolanvasby.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:51.917765+00:00",
+      "robots_checks": [
+        {
+          "url": "https://sprakskolanvasby.se/om-oss/",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:48.167096+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "68403656_1.txt"
+    },
+    {
+      "source_url": "https://sprakskolanvasby.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:51.937466+00:00",
+      "robots_checks": [
+        {
+          "url": "https://sprakskolanvasby.se/om-oss",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:48.167096+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://sprakskolanvasby.se/om-oss/",
+          "robots_url": "https://sprakskolanvasby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:48.167096+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "68403656_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "language_international",
+      "supporting_excerpt": "Språkskolan i Upplands Väsby - Grundskolor och förskola med språkprofil",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "298bcaf505894542372faf34ef589d57bf676646837d37ed0a12d5d308b8eeac",
+      "school_unit_code": "68403656",
+      "school_name": "Sverigefinska Språkskolan",
+      "source_url": "https://sprakskolanvasby.se/",
+      "retrieved_at": "2026-10-21T09:22:51.898811+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

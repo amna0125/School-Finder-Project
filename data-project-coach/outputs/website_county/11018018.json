@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "11018018",
+  "school_name": "Pops Academy Stockholm",
+  "registered_url": "https://www.popsacademy.se",
+  "attempted_at": "2026-10-21T09:19:53.741700+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://popsacademy.se/",
+      "retrieved_at": "2026-10-21T09:19:58.817015+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.popsacademy.se",
+          "robots_url": "https://popsacademy.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:55.375358+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://popsacademy.se/",
+          "robots_url": "https://popsacademy.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:57.259776+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11018018_0.txt"
+    },
+    {
+      "source_url": "https://popsacademy.se/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:19:58.833243+00:00",
+      "robots_checks": [
+        {
+          "url": "https://popsacademy.se/pedagogiskt-koncept/",
+          "robots_url": "https://popsacademy.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:19:57.259776+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "11018018_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,69 @@
+{
+  "school_id": "34540901",
+  "school_name": "Estniska Skolan i Stockholm",
+  "registered_url": "http://www.estniskaskolan.se",
+  "pages": [
+    {
+      "requested_url": "https://www.estniskaskolan.se/",
+      "source_url": "https://www.estniskaskolan.se/",
+      "page_title": "estniskaskolan.se",
+      "accessed_at": "2026-10-21T17:32:17.488787+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "34540901_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.estniskaskolan.se/",
+          "robots_url": "https://www.estniskaskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:32:16.637887+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.estniskaskolan.se/sv/om-skolan/",
+      "source_url": "https://www.estniskaskolan.se/sv/om-skolan/",
+      "page_title": "OM SKOLAN | estniskaskolan.se",
+      "accessed_at": "2026-10-21T17:32:18.309362+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "34540901_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.estniskaskolan.se/sv/om-skolan/",
+          "robots_url": "https://www.estniskaskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:32:16.637887+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.estniskaskolan.se/sv/om-skolan/historia",
+      "source_url": "https://www.estniskaskolan.se/sv/om-skolan/historia",
+      "page_title": "Historia | estniskaskolan.se",
+      "accessed_at": "2026-10-21T17:32:19.300230+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "34540901_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.estniskaskolan.se/sv/om-skolan/historia",
+          "robots_url": "https://www.estniskaskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T17:32:16.637887+00:00",
+          "state": "not_found"
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

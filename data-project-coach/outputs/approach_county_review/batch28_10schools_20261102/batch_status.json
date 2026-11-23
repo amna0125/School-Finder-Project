@@ -1,0 +1,16 @@
+{
+  "status": "LOADED_CHECKPOINTED",
+  "schools": 10,
+  "selection_basis": "after_batch26 ledger excluding ten selected/staged Batch27 IDs; not a county checkpoint",
+  "database_loaded": true,
+  "county_checkpointed": true,
+  "evidence_records": 6,
+  "code_records": 2,
+  "outcomes": {
+    "Reviewed approach claim": 1,
+    "Uncertain evidence / requires review": 3,
+    "No clear evidence within scoped review": 5,
+    "Permission blocker": 1
+  },
+  "checkpoint_ledger": "county_progress_20261103_after_batch29_normalised.csv"
+}

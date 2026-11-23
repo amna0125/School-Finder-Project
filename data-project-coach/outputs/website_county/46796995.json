@@ -1,0 +1,97 @@
+{
+  "school_unit_code": "46796995",
+  "school_name": "Kunskapsskolan Spånga",
+  "registered_url": "https://www.kunskapsskolan.se/skolor/spanga",
+  "attempted_at": "2026-10-21T09:16:19.031005+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/spanga",
+      "retrieved_at": "2026-10-21T09:16:24.338595+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/spanga",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46796995_0.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/spanga/om-skolan/kontakta-oss",
+      "retrieved_at": "2026-10-21T09:16:24.358854+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/spanga/om-skolan/kontakta-oss",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46796995_1.txt"
+    },
+    {
+      "source_url": "https://www.kunskapsskolan.se/skolor/spanga/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:16:24.495667+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.kunskapsskolan.se/skolor/spanga/om-skolan/aktuellt",
+          "robots_url": "https://www.kunskapsskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:18.695158+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "46796995_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "3ebf89d2f3f941b8af5218a1490cc6ffbe10396ed963988e3ac2e0be0cb12319",
+      "school_unit_code": "46796995",
+      "school_name": "Kunskapsskolan Spånga",
+      "source_url": "https://www.kunskapsskolan.se/skolor/spanga",
+      "retrieved_at": "2026-10-21T09:16:24.338595+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Bildläraren Esbjörn Marteliusson om konst och formgivning i det digitala landskapet",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "ee40dba666af4cf4b30bfa661f32534e43cc22ea8514ae86f812e562bc1cb4fd",
+      "school_unit_code": "46796995",
+      "school_name": "Kunskapsskolan Spånga",
+      "source_url": "https://www.kunskapsskolan.se/skolor/spanga/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:16:24.495667+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "Musik skapad av elever i åttan spelades upp av Västerås symfoniorkester",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "8c5d3d7ddb150af75de6e51850f964dda174f208941064020d8a254be187caef",
+      "school_unit_code": "46796995",
+      "school_name": "Kunskapsskolan Spånga",
+      "source_url": "https://www.kunskapsskolan.se/skolor/spanga/om-skolan/aktuellt",
+      "retrieved_at": "2026-10-21T09:16:24.495667+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

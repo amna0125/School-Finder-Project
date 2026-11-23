@@ -1,0 +1,134 @@
+[
+  {
+    "code_id": "ac_sr_74396596_01",
+    "school_id": "74396596",
+    "category": "Outdoor, nature, or place-based learning",
+    "subcategory": "Local nature and city culture in teaching",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_74396596_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. No frequency stated.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_74489639_01",
+    "school_id": "74489639",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Thematic subject packages",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_74489639_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Applies F–9 per page.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_74631147_01",
+    "school_id": "74631147",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Studios (small settings)",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_74631147_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Part of the school, not whole-school profile.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_74723082_01",
+    "school_id": "74723082",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Daily scheduled movement (30 min)",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_74723082_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_75109796_01",
+    "school_id": "75109796",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Resource school; autism",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_75109796_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Municipal page.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_75255864_01",
+    "school_id": "75255864",
+    "category": "Alternative pedagogy",
+    "subcategory": "Bifrost-inspired",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_75255864_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Short page; 'inspired'.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_75255864_02",
+    "school_id": "75255864",
+    "category": "Project- or inquiry-based learning",
+    "subcategory": "Thematic work",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_75255864_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Short page; 'inspired'.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_75401552_01",
+    "school_id": "75401552",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Trivselledarprogrammet",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_75401552_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Per precedent.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_75401552_02",
+    "school_id": "75401552",
+    "category": "Other stated profile",
+    "subcategory": "Extra language-development time F–5",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_75401552_02",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. One or two afternoons a week.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_75614609_01",
+    "school_id": "75614609",
+    "category": "Support, inclusion, or wellbeing emphasis",
+    "subcategory": "Inclusive, norm-critical approach",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_75614609_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Stance, no named programme.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_75656508_01",
+    "school_id": "75656508",
+    "category": "Alternative pedagogy",
+    "subcategory": "Montessori",
+    "coding_level": "Explicit",
+    "confidence": "High",
+    "evidence_id": "ae_sr_75656508_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. School claim.",
+    "review_status": "Reviewed"
+  },
+  {
+    "code_id": "ac_sr_76033436_01",
+    "school_id": "76033436",
+    "category": "Other stated profile",
+    "subcategory": "Age-mixed lower years",
+    "coding_level": "Supported",
+    "confidence": "Medium",
+    "evidence_id": "ae_sr_76033436_01",
+    "coder_note": "Assistant contextual review (single run 2026-11-03, codebook v1), not human review or independently verified practice. Organisational feature.",
+    "review_status": "Reviewed"
+  }
+]

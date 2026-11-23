@@ -1,0 +1,1 @@
+{"robots_url": "https://raoulwallenbergskolan.se/robots.txt", "http_status": 200, "checked_at": "2026-10-21T17:36:50.101855+00:00", "state": "parsed", "crawl_delay": 0, "body": "# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://raoulwallenbergskolan.se/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"}

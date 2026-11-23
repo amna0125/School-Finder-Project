@@ -1,0 +1,38 @@
+{
+  "school_unit_code": "89751941",
+  "school_name": "Drakskeppsskolan",
+  "registered_url": "http://www.taby.se/drakskeppsskolan",
+  "attempted_at": "2026-10-21T09:23:43.622763+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.taby.se/drakskeppsskolan",
+      "retrieved_at": "2026-10-21T09:23:45.342234+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.taby.se/drakskeppsskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:06.192175+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.taby.se/drakskeppsskolan",
+          "robots_url": "https://www.taby.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:07.626534+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "89751941_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

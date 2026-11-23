@@ -1,0 +1,96 @@
+{
+  "status": "Queued; contextual reviews not performed yet",
+  "selection_rule": "First 10 official IDs lacking prior batch/pilot contextual review, including collection blockers",
+  "schools": [
+    {
+      "school_id": "10184517",
+      "official_directory_name": "Eleonoraskolan",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "missing_registered_website",
+      "registered_url": "",
+      "note": ""
+    },
+    {
+      "school_id": "10495223",
+      "official_directory_name": "Tullingebergsskolan",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "inaccessible_requires_review",
+      "registered_url": "http://www.botkyrka.se/tullingebergsskolan",
+      "note": ""
+    },
+    {
+      "school_id": "10657244",
+      "official_directory_name": "Skogsbacksskolan",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "terms_review_required",
+      "registered_url": "https://www.botkyrka.se/barn--utbildning/skolbarn/grundskolor-i-kommunal-regi/skogsbacksskolan.html",
+      "note": ""
+    },
+    {
+      "school_id": "11025388",
+      "official_directory_name": "Stenhamraskolan",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "inaccessible_requires_review",
+      "registered_url": "http://www.ekero.se/stenhamraskola",
+      "note": ""
+    },
+    {
+      "school_id": "11442396",
+      "official_directory_name": "Stockholm International Academy Hägersten",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "inaccessible_requires_review",
+      "registered_url": "https://siaskolan.se",
+      "note": ""
+    },
+    {
+      "school_id": "11777750",
+      "official_directory_name": "Saltsjöbadens samskola",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "inaccessible_requires_review",
+      "registered_url": "http://www.samskolan.org",
+      "note": ""
+    },
+    {
+      "school_id": "12187987",
+      "official_directory_name": "Katarina Södra skola",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "inaccessible_requires_review",
+      "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/katarina-sodra-skola",
+      "note": ""
+    },
+    {
+      "school_id": "12801932",
+      "official_directory_name": "Ulvsättraskolan",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "fetched_requires_context_review",
+      "registered_url": "http://www.jarfalla.se",
+      "note": ""
+    },
+    {
+      "school_id": "13124830",
+      "official_directory_name": "Sjöängsskolan",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "inaccessible_requires_review",
+      "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjoangsskolan",
+      "note": ""
+    },
+    {
+      "school_id": "13301127",
+      "official_directory_name": "Ekens skola",
+      "review_state": "Queued next batch; not reviewed",
+      "batch_reference": "batch02_10schools_20261027",
+      "collection_status": "inaccessible_requires_review",
+      "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/ekens-skola",
+      "note": ""
+    }
+  ]
+}

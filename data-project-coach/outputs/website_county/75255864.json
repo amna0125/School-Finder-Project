@@ -1,0 +1,36 @@
+{
+  "school_unit_code": "75255864",
+  "school_name": "Pilgrimsskolan",
+  "registered_url": "http://www.pilgrimsskolan.se",
+  "attempted_at": "2026-10-21T09:23:04.956669+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.pilgrimsskolan.se/",
+      "retrieved_at": "2026-10-21T09:23:11.749597+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.pilgrimsskolan.se",
+          "robots_url": "https://www.pilgrimsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:23:08.661484+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.pilgrimsskolan.se/",
+          "robots_url": "https://www.pilgrimsskolan.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:23:10.464273+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "75255864_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "evidence_id": "ae_b18_31851256_01",
+    "school_id": "31851256",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/roslagsskolan/",
+    "page_title": "Roslagsskolan - Barn & skola | Norrtälje kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Skolan har även en etablerad musikprofil med en musikklass i varje årskurs.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Music classes in years 7–9, not all pupils; distinct from Roslagens kulturskola."
+  },
+  {
+    "evidence_id": "ae_b18_31903219_01",
+    "school_id": "31903219",
+    "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan",
+    "page_title": "Magelungsskolan, F–6 - Stockholms stad",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Singapore Math i samtliga årskurser",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Named subject-specific mathematics method in municipal Farsta F–6 school; not Magelungens Södermalm. Not whole-school alternative pedagogy."
+  },
+  {
+    "evidence_id": "ae_b18_32231541_01",
+    "school_id": "32231541",
+    "source_url": "https://tabyfriskola.se/taby-friskola-enhagen/",
+    "page_title": "Enhagen - Årskurs 6 till 9 - Täby Friskola",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "På Täby Friskola Enhagen erbjuder vi en Matematikprofil som riktar sig till dig som har ett extra stort intresse för matematik och som tycker det är kul med utmanande matematikuppgifter.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Optional interest-based profile at current Enhagen6–9. Official DB name Täby Friskola; directory ledger Enhagen; unit page matches grades. Future autumn2027 F–9 expansion excluded."
+  },
+  {
+    "evidence_id": "ae_b18_32479095_01",
+    "school_id": "32479095",
+    "source_url": "https://www.sollentuna.se/uweb/vaxmoraskolan/sa-har-arbetar-vi/halsa-och-miljo/",
+    "page_title": "Hälsa och miljö",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi arbetar för att öka rörelse och fysisk aktivitet för en hållbar livsstil. Idrott och hälsa är viktigt för oss på Vaxmoraskolan.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Health/movement emphasis; page says profile permeates subjects. Do not endorse claimed health/results effects. Year5 ice safety/year6 kayaking are scoped activities, not separate outdoor pedagogy."
+  },
+  {
+    "evidence_id": "ae_b18_32479095_02",
+    "school_id": "32479095",
+    "source_url": "https://www.sollentuna.se/uweb/vaxmoraskolan/sa-har-arbetar-vi/trygghet-och-studiero/vart-arbete--mot-mobbning/",
+    "page_title": "Vårt arbete mot mobbning genom Olweusprogrammet",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Alla kommunala skolor i Sollentuna arbetar utifrån Olweusprogrammet.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Municipality-wide policy on local page. Do not create another distinctive code from compulsory anti-bullying work; not independent implementation evidence."
+  },
+  {
+    "evidence_id": "ae_b18_32585503_01",
+    "school_id": "32585503",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/grisslehamns-skola/var-skola/",
+    "page_title": "Vår skola - Barn & skola | Norrtälje kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Skolan har en egen orkester där många av eleverna medverkar. Orkestern tränar en gång i veckan under skoltid.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Recurring school-time orchestra plus instrument learning; participation is many, not all pupils. Supported music emphasis, not explicit whole-school music profile."
+  },
+  {
+    "evidence_id": "ae_b18_32585503_02",
+    "school_id": "32585503",
+    "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/grisslehamns-skola/var-skola/",
+    "page_title": "Vår skola - Barn & skola | Norrtälje kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi arbetar ofta kring ett temaområde, där vi försöker integrera så många ämnen som möjligt.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Theme-based integration alone does not establish inquiry/project method. Nearby environment used for learning but insufficient specific outdoor teaching detail; no extra code."
+  },
+  {
+    "evidence_id": "ae_b18_32886383_01",
+    "school_id": "32886383",
+    "source_url": "https://www.huddinge.se/mortviksskolan/om-skolan",
+    "page_title": "Om Mörtviksskolan\n\n\t\t | Huddinge kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Naturen och skolans utemiljöer är en naturlig del av vardagen och bidrar till lek, rörelse och gemensamma upplevelser.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Unclear/Low note only: repeated outdoor descriptions mix school/fritids, play and movement; no clearly specified outdoor instructional method. Requires review if stronger source emerges."
+  },
+  {
+    "evidence_id": "ae_b18_32965692_01",
+    "school_id": "32965692",
+    "source_url": "https://noblaskolan.se/saltsjo-boo/",
+    "page_title": "En skola i Nacka med höga ambitioner | Noblaskolan Saltsjö-Boo",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vi har även en språkprofil som genomsyrar hela vår verksamhet, från förskolan upp till årskurs 9.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Explicit local language profile; school1–9 joined to official ID, preschool out of analytical scope. Detail page describes rhetoric, Nordic collaboration and upper-grade exchanges; opportunities/plans not guaranteed participation or verified delivery."
+  },
+  {
+    "evidence_id": "ae_b18_32965692_02",
+    "school_id": "32965692",
+    "source_url": "https://noblaskolan.se/saltsjo-boo/sprakprofil/",
+    "page_title": "Noblaskolan Saltsjö-Boo i Nacka | Språkprofil i förskolan och grundskolan",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Från årskurs 7 erbjuder vi en spännande språkkurs i ett nytt europeiskt språk, till exempel italienska.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Upper-grade-specific description supports language profile; not all grades or bilingual instruction. Erasmus funding/participation claims not verified."
+  },
+  {
+    "evidence_id": "ae_b18_32993837_01",
+    "school_id": "32993837",
+    "source_url": "https://www.sundbyberg.se/forskola-skola-och-utbildning/grundskola/grundskolor/ursvikskolan",
+    "page_title": "Ursvikskolan | Sundbybergs stad",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "Vår verksamhet bygger på en stark värdegrund där respekt, ansvar och samarbete är centralt.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Scoped no clear approach evidence in school page: vision, organisation, fritids, safety/support read. Generic values and ordinary support not distinctive; nature proximity not outdoor method. Not absence of an approach."
+  },
+  {
+    "evidence_id": "ae_b18_33159363_01",
+    "school_id": "33159363",
+    "source_url": "https://www.ekero.se/forskola-skola/grundskola/skolor-i-ekero-kommun/munso-skola-f-3",
+    "page_title": "Munsö skola F-3 - Ekerö kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "För att vi ska utveckla vårt förhållningsätt utgår vi från Dr. Ross W. Greenes verktyg CPS. Det är verktyg för samarbetsbaserad problemlösning.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Explicit CPS relationship/problem-solving approach on Munsö F–3 page. Page also introduces SAM preschool organisation; scope not independently verified; do not extend to all SAM units."
+  },
+  {
+    "evidence_id": "ae_b18_33455004_01",
+    "school_id": "33455004",
+    "source_url": "https://www.tyreso.se/forskola--skola/skolbarn/alla-grundskolor/njupkarrs-skola.html",
+    "page_title": "Njupkärrs skola - Tyresö kommun",
+    "accessed_date": "2026-10-30",
+    "quoted_text": "På Njupkärrs skola visar vi våra elever världen genom upplevelsebaserat lärande, utflykter och museibesök samt genom olika teman.",
+    "evidence_type": "School/provider self-description",
+    "interpretation_note": "Explicit experience-based learning with excursions/museums/themes; no evidence of inquiry/project process, so Other stated profile. Current pavilion, not planned new building."
+  }
+]

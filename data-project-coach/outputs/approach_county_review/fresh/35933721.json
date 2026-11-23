@@ -1,0 +1,72 @@
+{
+  "school_id": "35933721",
+  "school_name": "Rudboda skola",
+  "registered_url": "https://www.lidingo.se/rudbodaskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+      "page_title": "Rudboda skola F-6 - Lidingö",
+      "accessed_at": "2026-10-21T17:32:24.895471+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "35933721_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/fritidshem-och-fritidsklubb-rudboda-skola-2/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/fritidshem-och-fritidsklubb-rudboda-skola-2/",
+      "page_title": "Fritidshem och fritidsklubb, Rudboda skola - Lidingö",
+      "accessed_at": "2026-10-21T17:32:25.787853+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "35933721_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/fritidshem-och-fritidsklubb-rudboda-skola-2/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/var-pedagogik-rudboda-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/var-pedagogik-rudboda-skola/",
+      "page_title": "Vår pedagogik, Rudboda skola - Lidingö",
+      "accessed_at": "2026-10-21T17:32:26.616468+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "35933721_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/rudboda-skola/var-pedagogik-rudboda-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

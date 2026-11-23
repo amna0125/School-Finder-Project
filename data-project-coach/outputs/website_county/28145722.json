@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "28145722",
+  "school_name": "Aktiviaskolan Hus 6",
+  "registered_url": "http://www.aktiviaskolan.se",
+  "attempted_at": "2026-10-21T09:15:47.455702+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.aktiviaskolan.se/",
+      "retrieved_at": "2026-10-21T09:15:53.237536+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.aktiviaskolan.se",
+          "robots_url": "http://www.aktiviaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:48.418570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.aktiviaskolan.se/",
+          "robots_url": "https://www.aktiviaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:50.113692+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "28145722_0.txt"
+    },
+    {
+      "source_url": "https://www.aktiviaskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:15:53.287812+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.aktiviaskolan.se/om-oss/",
+          "robots_url": "https://www.aktiviaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:50.113692+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "28145722_1.txt"
+    },
+    {
+      "source_url": "https://www.aktiviaskolan.se/om-oss/terminstider/",
+      "retrieved_at": "2026-10-21T09:15:53.323932+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.aktiviaskolan.se/om-oss/terminstider/",
+          "robots_url": "https://www.aktiviaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:50.113692+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "28145722_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

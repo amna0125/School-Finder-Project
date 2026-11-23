@@ -1,0 +1,72 @@
+{
+  "school_id": "49669037",
+  "school_name": "Vätö skola",
+  "registered_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/",
+  "pages": [
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/",
+      "page_title": "Vätö skola - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:36:47.227771+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "49669037_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/var-skola/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/var-skola/",
+      "page_title": "Om Vätö skola - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:36:48.257013+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "49669037_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/var-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/vato-fritidshem/",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/vato-fritidshem/",
+      "page_title": "Vätö fritidshem - Barn & skola | Norrtälje kommun",
+      "accessed_at": "2026-10-21T17:36:49.296262+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "49669037_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/vato-skola/vato-fritidshem/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:36:46.189535+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

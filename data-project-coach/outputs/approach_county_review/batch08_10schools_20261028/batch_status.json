@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETED_REVIEW_OUTCOMES_AND_LOADED",
+  "schools": 10,
+  "reviewed_claim_schools": 8,
+  "scoped_no_clear_schools": 1,
+  "requires_review_schools": 1,
+  "all_followups_resolved": false,
+  "new_evidence_rows": 15,
+  "new_code_rows": 12,
+  "database_evidence_total": 96,
+  "database_codes_total": 76,
+  "first_load_flow": "burrowing-swan",
+  "replay_flow": "impetuous-husky",
+  "replay_inserted_rows": 0,
+  "tests": "22 existing tests passed"
+}

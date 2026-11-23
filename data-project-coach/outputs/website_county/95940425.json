@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "95940425",
+  "school_name": "Elevverket",
+  "registered_url": "http://www.elevverket.se",
+  "attempted_at": "2026-10-21T09:17:34.373357+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.elevverket.se/",
+      "retrieved_at": "2026-10-21T09:17:38.893000+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.elevverket.se",
+          "robots_url": "http://www.elevverket.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:35.158117+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.elevverket.se/",
+          "robots_url": "https://www.elevverket.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:36.901730+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "95940425_0.txt"
+    },
+    {
+      "source_url": "https://www.elevverket.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:17:38.914193+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.elevverket.se/om-oss/",
+          "robots_url": "https://www.elevverket.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:17:36.901730+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "95940425_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

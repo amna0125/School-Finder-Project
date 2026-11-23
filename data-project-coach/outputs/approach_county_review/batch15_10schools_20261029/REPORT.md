@@ -1,0 +1,5 @@
+# Batch15 contextual review
+
+10officialunits:8reviewedclaimschools,1scopednoclear(Tomtberga),1uncertain(Majtorp). 15evidence notes/14codes. All10outcomes,provenance,scopeandpermissionlimitationssavedinreview/collection/decisionlogs; exactquotes/sourceURLsinstagedtables. Persistenceverifiedseparatelyinload_validation.json.
+
+Baseline153documentedoutcomes;163onlyafterload; includesunresolvedcasesnot163resolvedschools.200targetnotreached.

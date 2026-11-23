@@ -1,0 +1,85 @@
+{
+  "school_unit_code": "98531789",
+  "school_name": "Rånäs skola",
+  "registered_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/",
+  "attempted_at": "2026-10-21T09:17:38.918271+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/",
+      "retrieved_at": "2026-10-21T09:17:42.167516+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98531789_0.txt"
+    },
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/var-skola/",
+      "retrieved_at": "2026-10-21T09:17:42.198964+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/var-skola/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98531789_1.txt"
+    },
+    {
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/ranas-fritidshem/",
+      "retrieved_at": "2026-10-21T09:17:42.226278+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/ranas-fritidshem/",
+          "robots_url": "https://www.norrtalje.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:16:24.136568+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "98531789_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "r arbetar vi med upplevelsebaserad, temainriktad pedagogik. Vi anser att lärandet ska ske i en verklig helhet som upplevs med alla sinnen, ofta ute i verkligheten. Bild, musik och drama integreras i undervisningen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "008fefd0d98c3c9c80fee6c52c25f4c64bed842cfa1cb25d94f730b3ab694c42",
+      "school_unit_code": "98531789",
+      "school_name": "Rånäs skola",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/var-skola/",
+      "retrieved_at": "2026-10-21T09:17:42.198964+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    },
+    {
+      "category": "music",
+      "supporting_excerpt": "ka årstider arbetar vi med upplevelsebaserad, temainriktad pedagogik. Vi anser att lärandet ska ske i en verklig helhet som upplevs med alla sinnen, ofta ute i verkligheten. Bild, musik och drama integreras i undervisningen.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "6960bb396b62a0b0831c967db83a1365e289a21e1d7e11fcb7f6caee1c46859c",
+      "school_unit_code": "98531789",
+      "school_name": "Rånäs skola",
+      "source_url": "https://www.norrtalje.se/info/barn-och-skola/grundskola/grundskolor/ranas-skola/var-skola/",
+      "retrieved_at": "2026-10-21T09:17:42.198964+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

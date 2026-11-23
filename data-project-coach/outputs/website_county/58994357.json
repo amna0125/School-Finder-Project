@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "58994357",
+  "school_name": "Innovitaskolan Segeltorp",
+  "registered_url": "https://innovitaskolan.se/segeltorp/",
+  "attempted_at": "2026-10-21T09:16:38.397972+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://innovitaskolan.se/segeltorp/",
+      "retrieved_at": "2026-10-21T09:16:42.192171+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/segeltorp/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58994357_0.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/segeltorp/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:16:42.224728+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/segeltorp/pedagogiskt-koncept/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58994357_1.txt"
+    },
+    {
+      "source_url": "https://innovitaskolan.se/segeltorp/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:42.269835+00:00",
+      "robots_checks": [
+        {
+          "url": "https://innovitaskolan.se/segeltorp/om/grundskola/",
+          "robots_url": "https://innovitaskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:16.454374+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "58994357_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Genom lek, bild och musik kan barnens fantasi och uttrycksförmåga komma fram på olika sätt. De uppmuntras till att testa själva med pedagogernas stöttning, för genom att testa utvecklas vi.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "0d96c58a61a7e941ab871dec12335519c2e9445743627585aa5ab35298d04868",
+      "school_unit_code": "58994357",
+      "school_name": "Innovitaskolan Segeltorp",
+      "source_url": "https://innovitaskolan.se/segeltorp/pedagogiskt-koncept/",
+      "retrieved_at": "2026-10-21T09:16:42.224728+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

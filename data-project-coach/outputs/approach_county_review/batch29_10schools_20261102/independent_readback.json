@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "schools": 10,
+  "evidence": 10,
+  "codes": 4,
+  "quote_checks": 10,
+  "source_hash_checks": 30,
+  "jsonl_records": 21,
+  "overlap_batches27_28": 0,
+  "database_loaded": false,
+  "county_checkpointed": false
+}

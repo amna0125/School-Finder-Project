@@ -1,0 +1,73 @@
+{
+  "school_unit_code": "37328635",
+  "school_name": "Montessori Mondial Lidingö",
+  "registered_url": "https://montessorimondial.se/lidingo/",
+  "attempted_at": "2026-10-21T09:15:59.759807+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://montessorimondial.se/lidingo/",
+      "retrieved_at": "2026-10-21T09:16:03.341374+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/lidingo/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "37328635_0.txt"
+    },
+    {
+      "source_url": "https://montessorimondial.se/lidingo/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:03.366635+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/lidingo/om/grundskola/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "37328635_1.txt"
+    },
+    {
+      "source_url": "https://montessorimondial.se/lidingo/montessoripedagogik/",
+      "retrieved_at": "2026-10-21T09:16:03.390920+00:00",
+      "robots_checks": [
+        {
+          "url": "https://montessorimondial.se/lidingo/montessoripedagogik/",
+          "robots_url": "https://montessorimondial.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:55.438198+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "37328635_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "montessori",
+      "supporting_excerpt": "Skola på Lidingö | Förskoleklass-åk 9 | Montessori Mondial Lidingö",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "a83a83a2fb4261500d562ecfe476267845f27f304d86388bbb9521cbf3bc6805",
+      "school_unit_code": "37328635",
+      "school_name": "Montessori Mondial Lidingö",
+      "source_url": "https://montessorimondial.se/lidingo/om/grundskola/",
+      "retrieved_at": "2026-10-21T09:16:03.366635+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

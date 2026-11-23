@@ -1,0 +1,84 @@
+{
+  "school_unit_code": "54806839",
+  "school_name": "Ogenholts friskola AB",
+  "registered_url": "http://www.vibyfriskola.se",
+  "attempted_at": "2026-10-21T09:22:08.790271+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://vibyfriskola.se/",
+      "retrieved_at": "2026-10-21T09:22:18.365687+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.vibyfriskola.se",
+          "robots_url": "https://vibyfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:11.779405+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://www.vibyfriskola.se/",
+          "robots_url": "https://vibyfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:14.111395+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "https://vibyfriskola.se/",
+          "robots_url": "https://vibyfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:15.829824+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "54806839_0.txt"
+    },
+    {
+      "source_url": "https://vibyfriskola.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:18.390076+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vibyfriskola.se/om-oss/",
+          "robots_url": "https://vibyfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:15.829824+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "54806839_1.txt"
+    },
+    {
+      "source_url": "https://vibyfriskola.se/grundskolan/",
+      "retrieved_at": "2026-10-21T09:22:18.409471+00:00",
+      "robots_checks": [
+        {
+          "url": "https://vibyfriskola.se/grundskolan/",
+          "robots_url": "https://vibyfriskola.se/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:22:15.829824+00:00",
+          "state": "not_found"
+        }
+      ],
+      "text_file": "54806839_2.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "creative_arts",
+      "supporting_excerpt": "Utöver de fasta skolämnena ser vi det kultur som en viktig del av elevernas utbildning. Under elevens 10 år hos oss kommer alla få möta teater, opera, film, dans, konst. Vi samarbetar med Unga Klara, Operan, R.U.T. Museer och utställningar, vi har en typ av ”Bucket list ” som vi strävar efter att alla elever ska få erfara.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "24b9ce816fe155be0f5bac15b98c5ca6528859c1fdc0281499a3b07e15ebb0e8",
+      "school_unit_code": "54806839",
+      "school_name": "Ogenholts friskola AB",
+      "source_url": "https://vibyfriskola.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:18.390076+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

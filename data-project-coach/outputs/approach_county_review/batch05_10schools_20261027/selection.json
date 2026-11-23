@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "15218794",
+    "official_directory_name": "Glömstaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.huddinge.se/glomstaskolan",
+    "note": ""
+  },
+  {
+    "school_id": "15331669",
+    "official_directory_name": "Sjöstadsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/sjostadsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "15339442",
+    "official_directory_name": "Runbackaskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sollentuna.se/sv/uweb/runbacka-skolor/",
+    "note": ""
+  },
+  {
+    "school_id": "15483394",
+    "official_directory_name": "Segeltorpsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.huddinge.se/segeltorpsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "15547680",
+    "official_directory_name": "Vibyskolan ekonomisk förening",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.vibyskolan.se",
+    "note": ""
+  },
+  {
+    "school_id": "15594566",
+    "official_directory_name": "Äppelviksskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/appelviksskolan",
+    "note": ""
+  },
+  {
+    "school_id": "15620768",
+    "official_directory_name": "Eklidsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.botkyrka.se/eklidsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "15697742",
+    "official_directory_name": "Galaxskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.sigtuna.se/galaxskolan",
+    "note": ""
+  },
+  {
+    "school_id": "15968847",
+    "official_directory_name": "Olaus Petriskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/olaus-petri-skola",
+    "note": ""
+  },
+  {
+    "school_id": "16061350",
+    "official_directory_name": "Apolloniosskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://www.apolloniosskolan.se/",
+    "note": ""
+  }
+]

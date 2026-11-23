@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "44175786",
+  "school_name": "Boo Gårds skola",
+  "registered_url": "http://www.boogard.nacka.se",
+  "attempted_at": "2026-10-21T09:21:39.342528+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/boo-gard/",
+      "retrieved_at": "2026-10-21T09:21:46.408660+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.boogard.nacka.se",
+          "robots_url": "https://www.nacka.se/valfard-skola/boo-gards-skola/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:21:41.631912+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "http://www.nacka.se/valfard-skola/boo-gards-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.175460+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/boo-gards-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/boo-gard/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "44175786_0.txt"
+    },
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/boo-gard/mal-och-kvalitet/pedagoghunden-bosse/",
+      "retrieved_at": "2026-10-21T09:21:46.435890+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.nacka.se/valfard-skola/boo-gard/mal-och-kvalitet/pedagoghunden-bosse/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "44175786_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

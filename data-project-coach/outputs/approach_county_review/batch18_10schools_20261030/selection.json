@@ -1,0 +1,92 @@
+[
+  {
+    "school_id": "31851256",
+    "official_directory_name": "Roslagsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.norrtalje.se",
+    "note": ""
+  },
+  {
+    "school_id": "31903219",
+    "official_directory_name": "Magelungsskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/magelungsskolan",
+    "note": ""
+  },
+  {
+    "school_id": "32231541",
+    "official_directory_name": "Täby Friskola-Enhagen",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.tabyfriskola.se",
+    "note": ""
+  },
+  {
+    "school_id": "32479095",
+    "official_directory_name": "Vaxmoraskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.edu.sollentuna.se/vax/",
+    "note": ""
+  },
+  {
+    "school_id": "32585503",
+    "official_directory_name": "Grisslehamns skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.norrtalje.se",
+    "note": ""
+  },
+  {
+    "school_id": "32886383",
+    "official_directory_name": "Mörtviksskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.huddinge.se/mortviksskolan",
+    "note": ""
+  },
+  {
+    "school_id": "32965692",
+    "official_directory_name": "Noblaskolan Saltsjö-Boo",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "https://noblaskolan.se/saltsjo-boo/",
+    "note": ""
+  },
+  {
+    "school_id": "32993837",
+    "official_directory_name": "Ursvikskolan",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "inaccessible_requires_review",
+    "registered_url": "http://www.sundbyberg.se/ursvikskolan",
+    "note": ""
+  },
+  {
+    "school_id": "33159363",
+    "official_directory_name": "Munsö skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.ekero.se/munsoskola",
+    "note": ""
+  },
+  {
+    "school_id": "33455004",
+    "official_directory_name": "Njupkärrs skola",
+    "review_state": "Not yet contextually reviewed",
+    "batch_reference": "",
+    "collection_status": "fetched_requires_context_review",
+    "registered_url": "http://www.tyreso.se",
+    "note": ""
+  }
+]

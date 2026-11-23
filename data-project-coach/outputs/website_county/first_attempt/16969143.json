@@ -1,0 +1,17 @@
+{
+  "school_unit_code": "16969143",
+  "school_name": "Hagnässkolan",
+  "registered_url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/hagnasskolan.html",
+  "attempted_at": "2026-10-21T09:15:27.527232+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "collection_status": "collection_failed_needs_review",
+  "pages": [],
+  "evidence": [],
+  "errors": [
+    {
+      "url": "http://www.upplands-bro.se/barn-och-utbildning/barn-och-unga-6-16-ar/kommunala-skolor/hagnasskolan.html",
+      "error": "Robots unresolved; manual review required"
+    }
+  ]
+}

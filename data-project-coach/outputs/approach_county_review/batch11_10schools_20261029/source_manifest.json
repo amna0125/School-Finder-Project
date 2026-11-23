@@ -1,0 +1,172 @@
+[
+  {
+    "file": "bergtorp.html",
+    "bytes": 180900,
+    "sha256": "687069ee3892d52075099fd613ad7cd5843bdd3e7cd668d7a329016c84db7db7"
+  },
+  {
+    "file": "bergtorp_official.json",
+    "bytes": 1487,
+    "sha256": "af1235101a16580cb7ee8d043515b2b0e5e8fe20d15f027507659474806085fa"
+  },
+  {
+    "file": "farsta.html",
+    "bytes": 68467,
+    "sha256": "47331e50b19ca9ebb08450d223d1dfd3a928df29a5f63fe6ffac1e46ddc588be"
+  },
+  {
+    "file": "farsta_concept.html",
+    "bytes": 68251,
+    "sha256": "d1eec51eda6b58028ee3c3e84a0824c9ba54688e5e0e6d35c4fc02943093a77c"
+  },
+  {
+    "file": "farsta_school.html",
+    "bytes": 69754,
+    "sha256": "e203d28b9b532d441722ef5103cfe39742432e730c5a8037c52af6c5211f958e"
+  },
+  {
+    "file": "futura_directory.html",
+    "bytes": 60661,
+    "sha256": "c8741dbae32c228f387923ceb1571a69e16b6cae9baff0f6febcb1e12bba62be"
+  },
+  {
+    "file": "hallsta.html",
+    "bytes": 626589,
+    "sha256": "2d3c897c5dfa695aaf7702d45ed82c0a6718d84c9c0ee13dea2d694307245a36"
+  },
+  {
+    "file": "hallsta_about.html",
+    "bytes": 631527,
+    "sha256": "0f920160255633bcb0b9793eab44e4a2418b978286c67f2f94aeebcae4365990"
+  },
+  {
+    "file": "hallsta_rector.html",
+    "bytes": 629433,
+    "sha256": "6b23c6f1585b593373f11d87b74d2cdc311a8cb68cc1853234526254704cc949"
+  },
+  {
+    "file": "iurochskur_home.html",
+    "bytes": 41945,
+    "sha256": "57f08bfd4656201427b63c99ba163197cba51d80d7c450cc91838c2f96edbc25"
+  },
+  {
+    "file": "katarina.html",
+    "bytes": 144152,
+    "sha256": "7c043056c68f399dd9a4f45adf9f5570e58f94995ebe1c7520ae5442d8d806c9"
+  },
+  {
+    "file": "kulturama.html",
+    "bytes": 158583,
+    "sha256": "707ce31bcc12e5bceb02aa80a1c9824c097537660feaf5a713664f257e135ed3"
+  },
+  {
+    "file": "martensberg.html",
+    "bytes": 42672,
+    "sha256": "dcd690bd24683564cf22722a2308724b897655d434ecc3881ad4a412e672dac0"
+  },
+  {
+    "file": "martensberg_official.json",
+    "bytes": 1577,
+    "sha256": "6131a3ee35ed5759e7ce963ce96472ff7cf323e8749b8a00bc5659b20150954e"
+  },
+  {
+    "file": "nasbypark.html",
+    "bytes": 83186,
+    "sha256": "7a9ca9cf13f5661ce0ebeab7cf383accf35455042d763ef57c2c9cf2549272d0"
+  },
+  {
+    "file": "nasbypark_official.json",
+    "bytes": 1494,
+    "sha256": "4ecd0e369775f0041453b21109f6a85c3007471708e3c2939fa01d3fc7cd7d3b"
+  },
+  {
+    "file": "nobla.html",
+    "bytes": 63222,
+    "sha256": "5fb60a8514fa1913416f6d8f4862d63d1ecf19869483816cc2108c901ff45f01"
+  },
+  {
+    "file": "nobla_school.html",
+    "bytes": 72596,
+    "sha256": "716eb59a9758e42341b4f8085c8d56021ae98df8f64f8d9ee248a6527c60e5d8"
+  },
+  {
+    "file": "robots_futura.txt",
+    "bytes": 116,
+    "sha256": "545405b727b7f1b6740fd1f811685d4c963b19d330885f1d29894527af3062f4"
+  },
+  {
+    "file": "robots_innovita.txt",
+    "bytes": 3455,
+    "sha256": "3c30864c6159e3036e63012770dfdcc00cf69705efffaf388cf5568f221c1895"
+  },
+  {
+    "file": "robots_iurochskur.txt",
+    "bytes": 197,
+    "sha256": "068b7647baf20fe383e33eb93afae62dc1f788956c653a668245164939030092"
+  },
+  {
+    "file": "robots_kulturama.txt",
+    "bytes": 298,
+    "sha256": "5e15714db5cbeb6e4dd77094782f1a18617c6bc5557d434abc247ba718920123"
+  },
+  {
+    "file": "robots_nobla.txt",
+    "bytes": 2367,
+    "sha256": "d4a9cacda0f3dad192b90bef0dbe62420dbeb9e76c5af718d12acdebe49df6f1"
+  },
+  {
+    "file": "robots_norrtalje.txt",
+    "bytes": 72,
+    "sha256": "59801bc47e1a4d2bfdc91f22dfe1fbab4f327da07983a7c9fa5133bd6deb3258"
+  },
+  {
+    "file": "robots_osteraker.txt",
+    "bytes": 447,
+    "sha256": "40fc1a699cbcab406df0521d9728934fb93d35ef8fd7589ca9d94553b55364e3"
+  },
+  {
+    "file": "robots_skolgrunden.txt",
+    "bytes": 14,
+    "sha256": "fd89345af6aca5dab85f2aa6a830e270a362b1fa6b5f19607ddd773a081ed651"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 63,
+    "sha256": "944c34fa915945519607a73d2b3e5ee74d7ffcd061747c40f5cbdad4d0ef051e"
+  },
+  {
+    "file": "robots_taby.txt",
+    "bytes": 494,
+    "sha256": "2eb5c8782f1b259c3f513391f0b866049643bc6c37bdd44301d403299da0c003"
+  },
+  {
+    "file": "sjokarby.html",
+    "bytes": 90555,
+    "sha256": "d28a5635224aee796bad37fbed6ed3607a73ddf7da71cac1bb496f68ccbab808"
+  },
+  {
+    "file": "sjokarby_goals.html",
+    "bytes": 78063,
+    "sha256": "8fe7c5dd38e638b0a55b141dc9c9992ce2b807a7b55d737cbc4f17f336098d61"
+  },
+  {
+    "file": "skolgrunden.html",
+    "bytes": 86978,
+    "sha256": "7e8f33f4f28034e7c279814824848aaee4df6cc04e516481b4813c4504a367da"
+  },
+  {
+    "file": "skolgrunden_about.html",
+    "bytes": 71258,
+    "sha256": "f7e9254003f676133ee8c48841ce0077eb85e7f14b321f3e975ae8cd471f6ab6"
+  },
+  {
+    "file": "skolgrunden_contact.html",
+    "bytes": 79162,
+    "sha256": "513bf52b81a31b93dcea311c18c6819a88d949d12e9bbdc49d4fd588765a91cd"
+  },
+  {
+    "file": "skolgrunden_official.json",
+    "bytes": 1492,
+    "sha256": "a37674c95d0f8bd644940b7f1c51d631e4bfb92a48fd8e206fdc8c13d7de316d"
+  }
+]

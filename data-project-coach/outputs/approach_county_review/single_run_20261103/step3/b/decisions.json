@@ -1,0 +1,79 @@
+[
+ {
+  "sid": "43133926",
+  "o": "N",
+  "note": "Step 3 rule 5 (agreed with Amna): single sentence on cooperation with Solna kulturskola, nothing about lessons or pupils; No clear evidence (Amna confirmed)."
+ },
+ {
+  "sid": "22513261",
+  "o": "N",
+  "note": "Step 3 rule 5 (agreed with Amna): single drama mention (\"Vi satsar på drama\") alongside break activities; No clear evidence."
+ },
+ {
+  "sid": "28845963",
+  "o": "N",
+  "note": "Step 3 rule 5 (agreed with Amna): named music/sport profiles belong to Rosenborg 7–9 on the shared page, not Majtorp (rule B); No clear evidence."
+ },
+ {
+  "sid": "27323097",
+  "o": "N",
+  "note": "Step 3 rule 5 (agreed with Amna): Noblakoden is a general structure/order approach; ordinary arts not a profile; No clear evidence, as for other Nobla units."
+ },
+ {
+  "sid": "35547286",
+  "o": "R",
+  "note": "Step 3 rule 5 (agreed with Amna): arts stated as a school emphasis on the pedagogy page; Supported.",
+  "ev": [
+   {
+    "q": "Musik, estetisk och skapande verksamhet spelar en viktig roll för utvecklingen.",
+    "i": "Pedagogy page states music, aesthetic and creative activity as important in the school's work.",
+    "c": [
+     [
+      "Arts and creative learning",
+      "Music and creative activity emphasis",
+      "S"
+     ]
+    ],
+    "cn": "arts stated as a school emphasis on the pedagogy page; Supported."
+   }
+  ]
+ },
+ {
+  "sid": "23617768",
+  "o": "R",
+  "note": "Step 3 rule 4 (Amna decision) (agreed with Amna): concrete flexible small-group model; Amna decided Support Supported.",
+  "ev": [
+   {
+    "q": "Flexibla undervisningsgrupper: Vi ser hela årskursen som en grupp. Eleverna delas in i mindre undervisningsgrupper som förändras över tid.",
+    "i": "Concrete flexible small-group organisation across the year group.",
+    "c": [
+     [
+      "Support, inclusion, or wellbeing emphasis",
+      "Flexible small teaching groups",
+      "S"
+     ]
+    ],
+    "cn": "concrete flexible small-group model; Amna decided Support Supported."
+   }
+  ]
+ },
+ {
+  "sid": "37556682",
+  "o": "R",
+  "note": "Step 3 rule 4 (Amna decision) (agreed with Amna): concrete two-adult staffing model; Amna decided Support Supported.",
+  "ev": [
+   {
+    "q": "Vi eftersträvar att vara två vuxna på alla helklasslektioner; i svenska är det alltid två lärare i ett så kallat tvålärarskap och i övriga ämnen en lärare och en fritidspedagog.",
+    "i": "Two adults in whole-class lessons; two-teacher model in Swedish (middle school page).",
+    "c": [
+     [
+      "Support, inclusion, or wellbeing emphasis",
+      "Two adults per lesson / two-teacher Swedish",
+      "S"
+     ]
+    ],
+    "cn": "concrete two-adult staffing model; Amna decided Support Supported."
+   }
+  ]
+ }
+]

@@ -1,0 +1,32 @@
+{
+  "school_id": "78491090",
+  "school_name": "Tingvallaskolan",
+  "registered_url": "http://www.sigtuna.se/tingvallaskolan",
+  "pages": [
+    {
+      "requested_url": "https://www.sigtuna.se/tingvallaskolan",
+      "source_url": "https://www.sigtuna.se/tingvallaskolan",
+      "page_title": "Tingvallaskolan - Sigtuna kommun",
+      "accessed_at": "2026-10-21T17:41:10.801573+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "78491090_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://www.sigtuna.se/tingvallaskolan",
+          "robots_url": "https://www.sigtuna.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:38:22.390077+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

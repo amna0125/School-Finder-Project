@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "68422076",
+  "school_name": "Björkestaskolan",
+  "registered_url": "http://www.nykvarn.se",
+  "attempted_at": "2026-10-21T09:22:45.369417+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://nykvarn.se/",
+      "retrieved_at": "2026-10-21T09:22:48.020282+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.nykvarn.se",
+          "robots_url": "https://nykvarn.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:08.874902+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://nykvarn.se/",
+          "robots_url": "https://nykvarn.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:10.390655+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "68422076_0.txt"
+    },
+    {
+      "source_url": "https://nykvarn.se/barn-och-utbildning/grundskola",
+      "retrieved_at": "2026-10-21T09:22:48.069504+00:00",
+      "robots_checks": [
+        {
+          "url": "https://nykvarn.se/barn-och-utbildning/grundskola",
+          "robots_url": "https://nykvarn.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:21:10.390655+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "68422076_1.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

@@ -1,0 +1,72 @@
+{
+  "school_id": "45104329",
+  "school_name": "Torsviks skola",
+  "registered_url": "https://lidingo.se/torsviksskola",
+  "pages": [
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/",
+      "page_title": "Torsviks skola F-9 - Lidingö",
+      "accessed_at": "2026-10-21T17:35:10.741486+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45104329_0.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/var-pedagogik-torsviks-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/var-pedagogik-torsviks-skola/",
+      "page_title": "Vår pedagogik, Torsviks skola - Lidingö",
+      "accessed_at": "2026-10-21T17:35:12.506133+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45104329_1.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/var-pedagogik-torsviks-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    },
+    {
+      "requested_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/fritidshem-och-fritidsklubb-torsviks-skola/",
+      "source_url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/fritidshem-och-fritidsklubb-torsviks-skola/",
+      "page_title": "Fritidshem och fritidsklubb, Torsviks skola - Lidingö",
+      "accessed_at": "2026-10-21T17:35:13.334167+00:00",
+      "accessed_date": "2026-10-21",
+      "text_file": "45104329_2.txt",
+      "robots_checks": [
+        {
+          "url": "https://lidingo.se/barn-utbildning/grundskola/grundskolor/torsviks-skola/fritidshem-och-fritidsklubb-torsviks-skola/",
+          "robots_url": "https://lidingo.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T17:29:46.614052+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "terms_urls": [],
+      "permission_status": "no_terms_link_detected_not_legal_clearance"
+    }
+  ],
+  "errors": [],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "fetched_requires_context_review"
+}

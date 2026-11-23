@@ -1,0 +1,53 @@
+{
+  "school_unit_code": "82047013",
+  "school_name": "Älta skola",
+  "registered_url": "http://www.alta.nacka.se",
+  "attempted_at": "2026-10-21T09:23:21.712042+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.nacka.se/valfard-skola/alta-skola/",
+      "retrieved_at": "2026-10-21T09:23:27.386282+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.alta.nacka.se",
+          "robots_url": "https://www.nacka.se/valfard-skola/alta-skola/alta-skola/robots.txt",
+          "http_status": 404,
+          "checked_at": "2026-10-21T09:23:24.033177+00:00",
+          "state": "not_found"
+        },
+        {
+          "url": "http://www.nacka.se/valfard-skola/alta-skola/alta-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:11.175460+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/alta-skola/alta-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.nacka.se/valfard-skola/alta-skola/",
+          "robots_url": "https://www.nacka.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:20:12.739570+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "82047013_0.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}

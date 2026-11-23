@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "48363218",
+  "school_name": "Solhemsängens skola",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+  "attempted_at": "2026-10-21T09:16:22.446752+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+      "retrieved_at": "2026-10-21T09:16:26.125446+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "48363218_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Kreativitet är en naturlig del av undervisningen. Genom samarbetet med Kulturskolans orkesterskola får yngre elever uttrycka sig genom musik. Skolan deltar också i Skapande skola, där eleverna möter olika konstformer tillsammans med professionella kulturaktörer.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "86f1ec6e6ced11bb5129d50c0782f119a2b1d63a90cefc6b8b49f4ac4c95f13a",
+      "school_unit_code": "48363218",
+      "school_name": "Solhemsängens skola",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/solhemsangens-skola",
+      "retrieved_at": "2026-10-21T09:16:26.125446+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

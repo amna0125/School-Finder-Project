@@ -1,0 +1,43 @@
+{
+  "school_unit_code": "94677983",
+  "school_name": "Tullgårdsskolan",
+  "registered_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tullgardsskolan",
+  "attempted_at": "2026-10-21T09:17:30.958457+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_candidates_need_review",
+  "pages": [
+    {
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tullgardsskolan",
+      "retrieved_at": "2026-10-21T09:17:34.365419+00:00",
+      "robots_checks": [
+        {
+          "url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tullgardsskolan",
+          "robots_url": "https://grundskola.stockholm/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:15:19.720800+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "94677983_0.txt"
+    }
+  ],
+  "evidence": [
+    {
+      "category": "music",
+      "supporting_excerpt": "Vi har många traditioner på skolan för att skapa gemenskap och samhörighet. En tradition är vår musikfestival Tullipop som är ett samarbete mellan elever, vårdnadshavare och personal. Tullipop är en av årets höjdpunkter och då uppträder skolans rockgrupper.",
+      "review_status": "candidate_needs_review",
+      "claim_type": "school_website_self_description_not_verified_practice",
+      "evidence_id": "f616f2f11c392b0edf0d0c7f0de7bd465ef8ed151014c1c4dece82912e4fbc96",
+      "school_unit_code": "94677983",
+      "school_name": "Tullgårdsskolan",
+      "source_url": "https://grundskola.stockholm/hitta-grundskola/grundskola/tullgardsskolan",
+      "retrieved_at": "2026-10-21T09:17:34.365419+00:00",
+      "scope_status": "school_unit_scope_needs_review"
+    }
+  ],
+  "errors": []
+}

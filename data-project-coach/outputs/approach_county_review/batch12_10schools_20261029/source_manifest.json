@@ -1,0 +1,162 @@
+[
+  {
+    "file": "davinci.html",
+    "bytes": 16420,
+    "sha256": "bbd07b47af912b27c1e44156864b27e86a08f02dc1f26766bd76cd53934e8b6f"
+  },
+  {
+    "file": "davinci_about.html",
+    "bytes": 15012,
+    "sha256": "9d2f8fa8a903e296b1d52e896d6edd2a793c9441294be9322c9dbc4721c9d674"
+  },
+  {
+    "file": "davinci_contact.html",
+    "bytes": 13973,
+    "sha256": "578aebab8c6c888f2329e34f82dc007bb5ed787e98d8512e702fab526c111b85"
+  },
+  {
+    "file": "davinci_official.json",
+    "bytes": 1511,
+    "sha256": "c3a0b3a7a3ef1d2989627310da1ac5b5bb1afb29c2a505916954c6118c888c22"
+  },
+  {
+    "file": "davinci_school.html",
+    "bytes": 16701,
+    "sha256": "e473be29616c6e681c3250b6a189f52f9beb46406db7bf46cdf54d7ea0cf483e"
+  },
+  {
+    "file": "fagelvik.html",
+    "bytes": 55664,
+    "sha256": "6ea168177cfeec79c34e62958b12d5329b2ffbfec3cdbcee6dbb5bf756fad881"
+  },
+  {
+    "file": "fagelvik_official.json",
+    "bytes": 1462,
+    "sha256": "88e55588891c3c864a71818ca5c2c74e67169814b20e2f2b47a131a140568797"
+  },
+  {
+    "file": "harnevi.html",
+    "bytes": 858714,
+    "sha256": "ddecc919e419076277bf17bee26c1ac2188397427510cb860f7be486c0d92e20"
+  },
+  {
+    "file": "harnevi_official.json",
+    "bytes": 1578,
+    "sha256": "f55da1eab98683a02c59e881fea57b727071be6209cf10ba22c97c31762a6840"
+  },
+  {
+    "file": "harnevi_old.html",
+    "bytes": 791736,
+    "sha256": "780289d074f739c8dae141e3b3ea6057ac6490b13204d5071ea63cc55a365c6e"
+  },
+  {
+    "file": "hem_mesta.html",
+    "bytes": 55852,
+    "sha256": "bc250a219f415f4101584678f9b42f142ec0b01014b3b48144a29fe1e2adf187"
+  },
+  {
+    "file": "hogaliden.html",
+    "bytes": 147910,
+    "sha256": "dad6e4aa783cf7d8df5a368b9e2a9f1d376507f0b8e757b454bfde3fb4e16045"
+  },
+  {
+    "file": "ies.html",
+    "bytes": 273109,
+    "sha256": "94556cd83d0c9b9b7769ba26081434ccb2bacc01db97019df3cc1786a01edc3e"
+  },
+  {
+    "file": "knutby.html",
+    "bytes": 140372,
+    "sha256": "0fd33a28db3ff8824583684d0e788b232f350c2b4636a1395028df8eec9d0f1d"
+  },
+  {
+    "file": "raketen.html",
+    "bytes": 1169474,
+    "sha256": "a7f66ab01088d7199dbc7077f9cfd5498bf038d7f610a6b887daaf2718a83f2f"
+  },
+  {
+    "file": "raketen_contact.html",
+    "bytes": 910788,
+    "sha256": "dd7ffeec50d16f854dee55c7d2b54c934f1a754296b05ac25bb4268bf94663b1"
+  },
+  {
+    "file": "raketen_methods.html",
+    "bytes": 826042,
+    "sha256": "d01493acfdba6ff88316a5c6a2d453be8569c4fec6c15401d5a7eca7ad0b76d3"
+  },
+  {
+    "file": "raketen_profile.html",
+    "bytes": 791996,
+    "sha256": "f0585a17a8da82613a2a34585ec86da3ec8c143f49270150d412f1bb39226d37"
+  },
+  {
+    "file": "resource.html",
+    "bytes": 126551,
+    "sha256": "a141bb81d380c031942ebf12122b57911ccec0c8f24de1c248845dd37c59c4cf"
+  },
+  {
+    "file": "resource_methods.html",
+    "bytes": 84865,
+    "sha256": "c5fe19dda69f8f8b0064e033f1e35a1c2a22ca7400d9805b36b4e905338fe9bf"
+  },
+  {
+    "file": "resource_official.json",
+    "bytes": 1524,
+    "sha256": "d5f977e1c9d126f337c12588d0c2ef8a7a49b08bd93634a1e680a7d4f990fb33"
+  },
+  {
+    "file": "robots_bro.txt",
+    "bytes": 502,
+    "sha256": "fcdb9a91577ebfc3b0e734b8720416c82b64e1ec929f03b138a1a481daf9e12e"
+  },
+  {
+    "file": "robots_davinci_nonwww.txt",
+    "bytes": 252,
+    "sha256": "12512a3d6c87ee144625f2cce1ee415b88f131b8b35f98c1ec19891f64232656"
+  },
+  {
+    "file": "robots_ies.txt",
+    "bytes": 201,
+    "sha256": "0cdf671e9a727a54209a5b350ee119c17003b314ccef21b4ce8eb022f2644f0b"
+  },
+  {
+    "file": "robots_kunskap.txt",
+    "bytes": 541,
+    "sha256": "a02ee8c8f6f6779fa77841a8ac6fed80e69014c43ba222594434d58da1c84b7f"
+  },
+  {
+    "file": "robots_raketen.txt",
+    "bytes": 120,
+    "sha256": "86cb39cce8d849c495d1ff711c2638b2b7c68f9db82905bbdd2ae01a54338530"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 67,
+    "sha256": "bba51e84f7a5a0904a456f6e4b3e79b919e43800d60b2e6a7508062cec4d2106"
+  },
+  {
+    "file": "robots_varmdo.txt",
+    "bytes": 496,
+    "sha256": "ca354b966c817b7d3c2c07ae362cb7db41249a66fa968aca6d67734807321808"
+  },
+  {
+    "file": "robots_vittra.txt",
+    "bytes": 2971,
+    "sha256": "4a388d6fa38b8f8aade48f9fd2add9fbd68a8bd599fea742124e54897e9253dc"
+  },
+  {
+    "file": "vittra.html",
+    "bytes": 264647,
+    "sha256": "03a567db88acae017cead15a0238be2d34d842cf8399883f67f10edb45d265d4"
+  },
+  {
+    "file": "vittra_about.html",
+    "bytes": 75481,
+    "sha256": "be4e7c16d7cbb6d342170c717cdba1102eaf21d14f3aac127cce2e7af22f5b21"
+  },
+  {
+    "file": "vittra_school.html",
+    "bytes": 69556,
+    "sha256": "f43685236a588bad2ac1729b6b9880e2bcf127d848c8b75acf2160dcf6e789fd"
+  }
+]

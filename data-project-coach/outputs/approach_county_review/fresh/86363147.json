@@ -1,0 +1,17 @@
+{
+  "school_id": "86363147",
+  "school_name": "Sjöängsskolan",
+  "registered_url": "www.varmdo.se",
+  "pages": [],
+  "errors": [
+    {
+      "url": "www.varmdo.se",
+      "error": "Unsafe URL",
+      "attempted_at": "2026-10-21T17:42:30.198431+00:00"
+    }
+  ],
+  "review_status": "Requires review",
+  "approach_codes_assigned": false,
+  "selection_rationale": "Remaining official county directory unit, not dashboard sample",
+  "collection_status": "inaccessible_requires_review"
+}

@@ -1,0 +1,31 @@
+{
+  "status": "PASSED",
+  "database": "/home/user/proj/.state/schools.duckdb",
+  "duckdb_version": "1.3.2",
+  "backup": "/home/user/proj/outputs/approach_county_review/single_run_20261103/chunk15/loads/20261103T125434086123Z/before.duckdb",
+  "official_fingerprints": {
+    "schools": {
+      "rows": 762,
+      "sha256": "838bfd7b9666069c0c3da2ffe6371c2aac48d49d8cda3b1a48aa756b2102c364"
+    },
+    "statistics": {
+      "rows": 45868,
+      "sha256": "aecc82e599dcfb31d30e89bbe8eeeffaa07a3134aa5564532422ee8423dcb494"
+    },
+    "survey_observations": {
+      "rows": 84610,
+      "sha256": "c915d4c0c4ba01910d569accf74b702089dd1a314621527bbbc8a618e7729a2c"
+    },
+    "source_coverage": {
+      "rows": 3048,
+      "sha256": "79090f26d3044a90ae6dc0ff475f45f387fd5323344f2989d83059b4c1878c1f"
+    }
+  },
+  "evidence_total": 606,
+  "codes_total": 492,
+  "inserted_evidence": 14,
+  "inserted_codes": 11,
+  "exact_staging_comparison": true,
+  "exact_target_comparison": true,
+  "existing_records_preserved": true
+}

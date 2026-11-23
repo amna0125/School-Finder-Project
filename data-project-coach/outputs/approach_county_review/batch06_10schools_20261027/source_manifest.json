@@ -1,0 +1,152 @@
+[
+  {
+    "file": "bro.html",
+    "bytes": 846906,
+    "sha256": "ab22c4b63e4f22ccf8a3fe5adbe01d24475d0ad3501fbd606803b1cc3edfd575"
+  },
+  {
+    "file": "bro_official.json",
+    "bytes": 1505,
+    "sha256": "499bde3dfd9bda64b16d9c76c01cd683c4fb2c2cbf9b946d68444ee546bb541d"
+  },
+  {
+    "file": "bro_old.html",
+    "bytes": 791736,
+    "sha256": "c33c5fe4c57af36f24bf78644b59fccab0520d37d59b44b77bc4370eb4c2a976"
+  },
+  {
+    "file": "brotorp.html",
+    "bytes": 141516,
+    "sha256": "da0d8bb3de06802e268419f1faef9a9ab28bd978726feea1aa3e217fca193f7d"
+  },
+  {
+    "file": "edessa.html",
+    "bytes": 498,
+    "sha256": "ff5f35965e7b63be2e5b475f3cc342e7c1dcc828c1073f65d37ccbf5261f4e05"
+  },
+  {
+    "file": "edessa_browser_excerpt.txt",
+    "bytes": 1590,
+    "sha256": "b2595f561d71b9ebb31a241f9d5686fa21e1afb737a46f1d940d4d92d1a35076"
+  },
+  {
+    "file": "edessa_official.json",
+    "bytes": 1528,
+    "sha256": "452051b01893e69beeebc2b6712db79b60c60c44892312f80492de6ed76fda36"
+  },
+  {
+    "file": "ellen.html",
+    "bytes": 326949,
+    "sha256": "070286da82f63aacf91308c9ddbd8ef53ae7f0d0a218018987e1bc267c19e984"
+  },
+  {
+    "file": "ellen_about.html",
+    "bytes": 178752,
+    "sha256": "48579bd599103e0ba442aef5c492ebcc053a561c293f9513fab87bef2ae4aa6e"
+  },
+  {
+    "file": "ellen_waldorf.html",
+    "bytes": 178834,
+    "sha256": "3757156431f0d447ec79f8e3fefe914977fdcd683a6473a0cc5b8476bbd522cd"
+  },
+  {
+    "file": "hagnas.html",
+    "bytes": 843911,
+    "sha256": "31e5fcde0040bee2d6220431c65f0df914f757df977c2bf341daec54d3178819"
+  },
+  {
+    "file": "hagnas_official.json",
+    "bytes": 1578,
+    "sha256": "f2a4954d4accd361b802f0db3c0e8acb26b2062f384d585c5eeabb1b0689ca1d"
+  },
+  {
+    "file": "hagnas_old.html",
+    "bytes": 791736,
+    "sha256": "92aef9c6076f20f6ba520ba29fc077ee0856c9c0f8fa8054f573d9d1eb63c730"
+  },
+  {
+    "file": "jarfalla_directory.html",
+    "bytes": 244551,
+    "sha256": "9c8ed3e58b63c48f7fa575cb8b212de0bfddc5c8b3c7111f5b8b6f86ab0fac1d"
+  },
+  {
+    "file": "kalltorp.html",
+    "bytes": 214751,
+    "sha256": "7c7e2cdab3d81427443432d68f9c2c2c7d6ed711b4196c08582a49bdb6f43564"
+  },
+  {
+    "file": "kunskap.html",
+    "bytes": 129785,
+    "sha256": "299a8b0579d3b701231acc07b18fda093bb450717e6dbd1fd52657d6c0deecc9"
+  },
+  {
+    "file": "kunskap_method.html",
+    "bytes": 89867,
+    "sha256": "c23eb91c1217b1e1d8dab4e912158b084cf025b6e40e5c2c44ee4987bf5014bf"
+  },
+  {
+    "file": "matteus.html",
+    "bytes": 147935,
+    "sha256": "9d744331e6f1247969b160f2046bc298652ea668c8a27df84f064518a970eb40"
+  },
+  {
+    "file": "nyckel.html",
+    "bytes": 26398,
+    "sha256": "ba1fdff62f9b0cffd31c00d3c4e2abb1b0ef2feea23103a2c250647ceed08ed5"
+  },
+  {
+    "file": "nyckel_about.html",
+    "bytes": 21777,
+    "sha256": "6b0eafe0c22baeec6b1ae42da93b0b701c64afb0b7f11abb4fb2b40ba704da45"
+  },
+  {
+    "file": "nyckel_school.html",
+    "bytes": 23832,
+    "sha256": "7a6f228f0ab92ba4315452380d2a2ce6867044bf9f62bf8ecfc6ecc4d18e062d"
+  },
+  {
+    "file": "robots_bro.txt",
+    "bytes": 502,
+    "sha256": "fcdb9a91577ebfc3b0e734b8720416c82b64e1ec929f03b138a1a481daf9e12e"
+  },
+  {
+    "file": "robots_edessa.txt",
+    "bytes": 428,
+    "sha256": "6aab95c44711f3dcfff0e14dcfc23083a5435aed340268826657a759b5f7d0be"
+  },
+  {
+    "file": "robots_eks.txt",
+    "bytes": 334,
+    "sha256": "df67635561fc0ce875b92bdf7f9a3619e7c2f15b2622110a89d72546255eabb6"
+  },
+  {
+    "file": "robots_jarfalla.txt",
+    "bytes": 498,
+    "sha256": "b4d90ed52acd48d20eb94fee3152b49f4419f7d213af8aec29e707f91f42988e"
+  },
+  {
+    "file": "robots_knippan.txt",
+    "bytes": 27,
+    "sha256": "4b30d1f4cc26ba7aff4f22061da99faa50f354f2ad3722191bd395f0d831c281"
+  },
+  {
+    "file": "robots_kunskap.txt",
+    "bytes": 541,
+    "sha256": "a02ee8c8f6f6779fa77841a8ac6fed80e69014c43ba222594434d58da1c84b7f"
+  },
+  {
+    "file": "robots_sodertalje.txt",
+    "bytes": 100,
+    "sha256": "2ae70aeef40d856f7e60c10c2195f903ff788173bd8a62a12c11c85b5fb9c492"
+  },
+  {
+    "file": "robots_stockholm.txt",
+    "bytes": 68,
+    "sha256": "884a702f28cae7691d050d58f687e2d29412b1e5a799000e5769742bc5818d17"
+  },
+  {
+    "file": "tavesta.html",
+    "bytes": 52400,
+    "sha256": "b40fad4d24b40dff8a25be717ee1dd6e28a64d72e1c8bbcd8aea8d85c2414d3c"
+  }
+]

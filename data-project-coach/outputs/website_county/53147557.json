@@ -1,0 +1,68 @@
+{
+  "school_unit_code": "53147557",
+  "school_name": "Stefanskolan",
+  "registered_url": "http://www.stefanskolan.se",
+  "attempted_at": "2026-10-21T09:22:04.799137+00:00",
+  "review_status": "needs_review",
+  "method_version": "county_web_v1",
+  "terms_review_status": "no_terms_link_detected_not_legal_clearance",
+  "terms_urls": [],
+  "collection_status": "fetched_no_candidate_needs_review",
+  "pages": [
+    {
+      "source_url": "https://www.stefanskolan.se/",
+      "retrieved_at": "2026-10-21T09:22:10.040912+00:00",
+      "robots_checks": [
+        {
+          "url": "http://www.stefanskolan.se",
+          "robots_url": "https://www.stefanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:06.244657+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        },
+        {
+          "url": "https://www.stefanskolan.se/",
+          "robots_url": "https://www.stefanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:07.710700+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "53147557_0.txt"
+    },
+    {
+      "source_url": "https://www.stefanskolan.se/om-oss/",
+      "retrieved_at": "2026-10-21T09:22:10.059123+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.stefanskolan.se/om-oss/",
+          "robots_url": "https://www.stefanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:07.710700+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "53147557_1.txt"
+    },
+    {
+      "source_url": "https://www.stefanskolan.se/om-oss/ansokan/",
+      "retrieved_at": "2026-10-21T09:22:10.077345+00:00",
+      "robots_checks": [
+        {
+          "url": "https://www.stefanskolan.se/om-oss/ansokan/",
+          "robots_url": "https://www.stefanskolan.se/robots.txt",
+          "http_status": 200,
+          "checked_at": "2026-10-21T09:22:07.710700+00:00",
+          "state": "parsed",
+          "crawl_delay": 0
+        }
+      ],
+      "text_file": "53147557_2.txt"
+    }
+  ],
+  "evidence": [],
+  "errors": []
+}
